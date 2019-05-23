@@ -5,6 +5,7 @@
   "private": false,
   "repository": "https://github.com/ochukai/ak",
   "license": "MIT",
+  "homepage": "http://ochukai.me/ak/",
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
