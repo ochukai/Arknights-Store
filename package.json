@@ -7,6 +7,7 @@
   "license": "MIT",
   "homepage": "http://ochukai.me/ak/build",
   "scripts": {
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test --env=jsdom",
@@ -30,16 +31,14 @@
     ]
   },
   "dependencies": {
-    "@types/jest": "^24.0.13",
-    "@types/node": "^12.0.2",
-    "@types/react": "^16.8.18",
-    "@types/react-dom": "^16.8.4",
+    "classnames": "^2.2.6",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1",
-    "react-styleguidist": "^9.1.2",
-    "typescript": "^3.4.5"
+    "source-map-explorer": "^1.8.0",
+    "underscore": "^1.9.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",

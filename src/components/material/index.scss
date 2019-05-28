@@ -1,0 +1,20 @@
+.oli-material {
+  position: relative;
+  display: inline-block;
+  width: 80px;
+  padding: 10px;
+  text-align: center;
+
+  img {
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 0 1px 5px #333;
+    user-select: none;
+  }
+
+  p {
+    color: #000;
+    font-size: 12px;
+    text-shadow: 0 0 1px #888;
+  }
+}

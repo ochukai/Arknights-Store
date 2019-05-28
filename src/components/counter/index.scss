@@ -1,0 +1,55 @@
+@import '../../styles/var.scss';
+@import '../../styles/mixin/shadow.scss';
+
+$counter-width: 54px;
+$counter-num-height: 32px;
+
+.oli-counter {
+  display: inline-block;
+  padding: 0 15px;
+
+  .value-control {
+    position: relative;
+    background-color: #ddd;
+    width: $counter-width;
+    height: $counter-num-height;
+    text-align: center;
+
+    > span {
+      color: #333;
+      line-height: $counter-num-height;
+      font-size: 20px;
+      font-weight: bold;
+      user-select: none;
+      text-shadow: 1px 1px 2px $color-dark-gray;
+    }
+
+    .left,
+    .right {
+      position: absolute;
+      margin: 0;
+      top: calc(50% - 8px);
+    }
+
+    .left {
+      left: -9px;
+    }
+
+    .right {
+      right: -9px;
+    }
+  }
+
+  .label {
+    width: $counter-width;
+    background-color: $color-primary;
+    color: $color-white;
+    text-align: center;
+    font-size: 12px;
+    padding: 3px 0;
+    margin-top: 1px;
+    border-radius: 2px;
+    user-select: none;
+  }
+
+}

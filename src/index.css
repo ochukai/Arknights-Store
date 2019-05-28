@@ -1,4 +1,20 @@
+@import './styles/normalize.css';
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  background-image: url(./assets/images/bk.jpg);
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
+
 body {
+  color: rgba(0, 0, 0, 0.87);
+  margin: 0;
+  font-size: 0.875rem;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
