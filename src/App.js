@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.scss';
 
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter, Route, Link } from "react-router-dom";
 
 import Menu, { MenuItem } from './components/menu';
 
@@ -12,7 +12,7 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <Router>
+      <HashRouter>
         <div className="app-container">
           <Menu>
             <MenuItem>
@@ -26,7 +26,7 @@ export default class App extends React.Component {
           <Route exact path="/demo" component={Demo} />
           <Route path="/akma" component={AkMaterial} />
         </div>
-      </Router>
+      </HashRouter>
     );
   }
 }
