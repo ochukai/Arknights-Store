@@ -5,7 +5,7 @@
   "private": false,
   "repository": "https://github.com/ochukai/ak",
   "license": "MIT",
-  "homepage": "http://ochukai.me/ak/build",
+  "homepage": "http://ochukai.me/ak",
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "react-app-rewired start",
