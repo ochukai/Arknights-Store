@@ -27,3 +27,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+a {
+  color: #333;
+  text-decoration: none;
+  transition: all .2s;
+
+  &:hover {
+    color: #325e89;
+  }
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

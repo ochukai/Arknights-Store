@@ -2,7 +2,7 @@
 @import '../../styles/mixin/shadow.scss';
 
 $counter-width: 54px;
-$counter-num-height: 32px;
+$counter-num-height: 30px;
 
 .oli-counter {
   display: inline-block;
@@ -10,7 +10,7 @@ $counter-num-height: 32px;
 
   .value-control {
     position: relative;
-    background-color: #ddd;
+    background-color: $color-gray-light;
     width: $counter-width;
     height: $counter-num-height;
     text-align: center;

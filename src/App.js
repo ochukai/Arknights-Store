@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.scss';
 
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 
 import Menu, { MenuItem } from './components/menu';
 
 import Demo from './pages/demo';
 import AkMaterial from './pages/material';
 
-export default class App extends React.Component {
+class App extends React.Component {
 
   render() {
     return (
@@ -16,17 +16,39 @@ export default class App extends React.Component {
         <div className="app-container">
           <Menu>
             <MenuItem>
-              <Link to="/demo">Component Demo</Link>
+              <Link to="/">
+                <i className="ak-icon ak-home-fill"></i>
+              </Link>
             </MenuItem>
             <MenuItem>
-              <Link to="/akma">材料计算</Link>
+              <Link to="/akma">AK 材料计算器</Link>
+            </MenuItem>
+            <MenuItem>
+              <Link to="/demo">组件展示</Link>
             </MenuItem>
           </Menu>
 
-          <Route exact path="/demo" component={Demo} />
-          <Route path="/akma" component={AkMaterial} />
+          <div>
+            <Route exact path="/" component={Index} />
+            <Route exact path="/demo" component={Demo} />
+            <Route path="/akma" component={AkMaterial} />
+          </div>
         </div>
       </Router>
+    );
+  }
+}
+
+export default App;
+
+class Index extends React.Component {
+  render() {
+    return (
+      <div>
+        <ul style={{margin: '20px 0'}}>
+          <li><Link to="/akma">AK 材料计算器</Link></li>
+        </ul>
+      </div>
     );
   }
 }

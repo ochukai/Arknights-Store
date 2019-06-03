@@ -17,12 +17,11 @@ export default class Card extends Component {
   render() {
     const {
       width,
+      className,
       children
     } = this.props;
 
-    const cardClazz = classNames('oli-card', {
-
-    });
+    const cardClazz = classNames('oli-card', className);
 
     const cardStyle = {
       width,

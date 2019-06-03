@@ -2,6 +2,7 @@
   position: relative;
   display: inline-block;
   width: 80px;
+  height: 80px;
   padding: 10px;
   text-align: center;
 
@@ -10,11 +11,14 @@
     border-radius: 50%;
     box-shadow: 0 1px 5px #333;
     user-select: none;
+    margin: 0;
+    padding: 0;
   }
 
   p {
     color: #000;
     font-size: 12px;
     text-shadow: 0 0 1px #888;
+    margin: 0;
   }
 }

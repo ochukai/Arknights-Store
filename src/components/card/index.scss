@@ -12,13 +12,11 @@
   list-style: none;
   font-feature-settings: 'tnum';
   position: relative;
-  background: #fff;
+  background: rgba(255, 255, 255, .5);
   border-radius: 0;
   transition: all .3s;
   min-height: 60px;
   padding: 10px;
-  margin: 10px;
-  border-radius: 2px;
 
   box-shadow: 1px 1px 8px 0px rgba(0, 0, 0, 0.15),
     0px 2px 4px 0px rgba(0, 0, 0, 0.1);

@@ -1,0 +1,32 @@
+.material-group {
+  padding: 20px 0;
+  display: inline-flex;
+  align-content: center;
+  justify-content: flex-start;
+  min-width: 430px;
+
+  h3 {
+    margin: 0;
+    width: 1em;
+    text-align: center;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+  }
+
+  .oli-card {
+    line-height: 1;
+    margin-right: 5px;
+  }
+}
+
+.material-card {
+  width: 90px !important;
+  padding: 5px 0 15px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
