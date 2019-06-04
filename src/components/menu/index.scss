@@ -41,6 +41,11 @@
     &:active {
       background-color: $color-primary-darken;
     }
+
+    i {
+      line-height: 1;
+      font-size: 14px;
+    }
   }
 
   &.horizontal {

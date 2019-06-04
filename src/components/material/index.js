@@ -26,14 +26,14 @@ export default class Material extends React.Component {
   }
 
   render() {
-    const { id } = this.props;
+    const { noName } = this.props;
     const { ma, image } = this.state;
 
     const maClazz = classNames('oli-material');
     return (
       <div className={maClazz}>
         <img src={image} alt={ma.name} title={ma.name} />
-        <p>{ma.name}</p>
+        { !noName && <p>{ma.name}</p> }
       </div>
     );
   }
