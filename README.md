@@ -1,5 +1,5 @@
 ## AK
-[Demo](./build/index.html)
+[Demo](http://ochukai.me/ak/build/index.html)
 
 我的本意其实是要写一个好看一点的材料计算器的，后来觉得要不就从头撸一遍组件，或许会挺有意思，反正计算器写出来用的人也不会很多，如果借此机会写一点点组件，或许还有提高的地方。
 
