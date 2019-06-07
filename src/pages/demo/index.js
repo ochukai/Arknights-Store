@@ -45,12 +45,6 @@ function Demo() {
       <h2>Material</h2>
       {materialSequence.map(num => <Material key={num} id={num} />)}
 
-      <h2>Material</h2>
-      {materialSequence.map(num => <Material key={num} id={num} />)}
-
-      <h2>Material</h2>
-      {materialSequence.map(num => <Material key={num} id={num} />)}
-
     </div>
   );
 }
