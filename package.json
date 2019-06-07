@@ -31,9 +31,12 @@
     ]
   },
   "dependencies": {
+    "animate.css": "^3.7.2",
     "classnames": "^2.2.6",
     "json-stringify-pretty-compact": "^2.0.0",
     "node-sass": "^4.12.0",
+    "prop-types": "^15.7.2",
+    "rc-util": "^4.6.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
