@@ -37,7 +37,7 @@ class MaterialCard extends React.Component {
     return (
       <Card className="material-card">
         <Material id={id} noName={true} />
-        <Counter value={req} name="需要"/>
+        <Counter value={req} name="需覝"/>
         {/* <Counter value={exi} name="已有"/> */}
       </Card>
     );

@@ -18,10 +18,9 @@ export default class Menu extends React.Component {
       </ul>
     );
   }
-
 }
 
-export class MenuItem extends React.Component {
+class MenuItem extends React.Component {
 
   render() {
     const { children } = this.props;
@@ -33,3 +32,6 @@ export class MenuItem extends React.Component {
     )
   }
 }
+
+Menu.Item = MenuItem;
+
