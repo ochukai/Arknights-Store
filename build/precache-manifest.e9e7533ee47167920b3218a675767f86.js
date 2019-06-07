@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01dda55bafafa30bee0a1791089986d0",
+    "revision": "7d20f22c6a43970dfdf820423be44a8c",
     "url": "/ak/build/index.html"
   },
   {
-    "revision": "5acd2c64b430ab3fbf4e",
-    "url": "/ak/build/static/css/main.9d144965.chunk.css"
+    "revision": "f9fd12c627add51825ad",
+    "url": "/ak/build/static/css/main.59aacd98.chunk.css"
   },
   {
-    "revision": "cb7078ef327918219fc8",
-    "url": "/ak/build/static/js/2.159f6b32.chunk.js"
+    "revision": "383cc8810e40484bddef",
+    "url": "/ak/build/static/js/2.c5f3be3e.chunk.js"
   },
   {
-    "revision": "5acd2c64b430ab3fbf4e",
-    "url": "/ak/build/static/js/main.67ad7085.chunk.js"
+    "revision": "f9fd12c627add51825ad",
+    "url": "/ak/build/static/js/main.4fb0f5e3.chunk.js"
   },
   {
     "revision": "813202cc6ef961b240a9",
@@ -164,19 +164,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ak/build/static/media/bk.b7b367b2.jpg"
   },
   {
-    "revision": "02d1f38146c2d8f54eda0a94b484bc26",
-    "url": "/ak/build/static/media/iconfont.02d1f381.ttf"
+    "revision": "20c6a5e86b81a261d585e2e662e49c80",
+    "url": "/ak/build/static/media/iconfont.20c6a5e8.eot"
   },
   {
-    "revision": "4f5c2bbba5418cc53ba7ddafebd66ca3",
-    "url": "/ak/build/static/media/iconfont.4f5c2bbb.eot"
+    "revision": "551480b90a2a5c1fdb7eeee72c59f243",
+    "url": "/ak/build/static/media/iconfont.551480b9.woff"
   },
   {
-    "revision": "6107e8eeead3d933faaf44200146549e",
-    "url": "/ak/build/static/media/iconfont.6107e8ee.woff"
+    "revision": "c4167602342786d1b87c41cee330a07a",
+    "url": "/ak/build/static/media/iconfont.c4167602.ttf"
   },
   {
-    "revision": "c55c4fafe4d97004c0c57245aeadb9a5",
-    "url": "/ak/build/static/media/iconfont.c55c4faf.svg"
+    "revision": "f4429b74b17a022514f0c80cf21044a2",
+    "url": "/ak/build/static/media/iconfont.f4429b74.svg"
   }
 ]);

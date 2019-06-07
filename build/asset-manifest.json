@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ak/build/static/css/main.9d144965.chunk.css",
-    "main.js": "/ak/build/static/js/main.67ad7085.chunk.js",
-    "main.js.map": "/ak/build/static/js/main.67ad7085.chunk.js.map",
+    "main.css": "/ak/build/static/css/main.59aacd98.chunk.css",
+    "main.js": "/ak/build/static/js/main.4fb0f5e3.chunk.js",
+    "main.js.map": "/ak/build/static/js/main.4fb0f5e3.chunk.js.map",
     "runtime~main.js": "/ak/build/static/js/runtime~main.9eccc754.js",
     "runtime~main.js.map": "/ak/build/static/js/runtime~main.9eccc754.js.map",
-    "static/js/2.159f6b32.chunk.js": "/ak/build/static/js/2.159f6b32.chunk.js",
-    "static/js/2.159f6b32.chunk.js.map": "/ak/build/static/js/2.159f6b32.chunk.js.map",
+    "static/js/2.c5f3be3e.chunk.js": "/ak/build/static/js/2.c5f3be3e.chunk.js",
+    "static/js/2.c5f3be3e.chunk.js.map": "/ak/build/static/js/2.c5f3be3e.chunk.js.map",
     "index.html": "/ak/build/index.html",
-    "precache-manifest.5a1e5e62e1ee34b266486d410f90238c.js": "/ak/build/precache-manifest.5a1e5e62e1ee34b266486d410f90238c.js",
+    "precache-manifest.e9e7533ee47167920b3218a675767f86.js": "/ak/build/precache-manifest.e9e7533ee47167920b3218a675767f86.js",
     "service-worker.js": "/ak/build/service-worker.js",
-    "static/css/main.9d144965.chunk.css.map": "/ak/build/static/css/main.9d144965.chunk.css.map",
+    "static/css/main.59aacd98.chunk.css.map": "/ak/build/static/css/main.59aacd98.chunk.css.map",
     "static/media/0.png": "/ak/build/static/media/0.e472c088.png",
     "static/media/1.png": "/ak/build/static/media/1.64e91cf6.png",
     "static/media/10.png": "/ak/build/static/media/10.868f754d.png",
@@ -46,6 +46,6 @@
     "static/media/7.png": "/ak/build/static/media/7.07b5b763.png",
     "static/media/8.png": "/ak/build/static/media/8.974e9d9b.png",
     "static/media/9.png": "/ak/build/static/media/9.f804ff6d.png",
-    "static/media/index.scss": "/ak/build/static/media/iconfont.c55c4faf.svg"
+    "static/media/index.scss": "/ak/build/static/media/iconfont.f4429b74.svg"
   }
 }
