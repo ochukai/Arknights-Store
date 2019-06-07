@@ -44,7 +44,7 @@ export default class Drawer extends React.Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    if (nextProps.open != this.state.open) {
+    if (nextProps.open !== this.state.open) {
       nextProps.open
         ? this.handleOpenDrawer()
         : this.handleCloseDrawer();
@@ -167,6 +167,8 @@ export default class Drawer extends React.Component {
         break;
       case 'right':
         start = 'Right';
+        break;
+      default:
         break;
     }
 
