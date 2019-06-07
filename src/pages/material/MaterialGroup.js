@@ -33,12 +33,11 @@ class MaterialGroup extends React.Component {
 
 class MaterialCard extends React.Component {
   render() {
-    const { id, exi, req } = this.props;
+    const { id, req } = this.props;
     return (
       <Card className="material-card">
         <Material id={id} noName={true} />
-        <Counter value={req} name="需覝"/>
-        {/* <Counter value={exi} name="已有"/> */}
+        <Counter value={req} name="需要"/>
       </Card>
     );
   }
