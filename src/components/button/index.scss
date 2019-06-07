@@ -69,6 +69,19 @@
     }
   }
 
+  &.blue {
+    background-color: $color-blue;
+    color: $color-white;
+
+    &:hover {
+      background-color: $color-blue-lighten;
+    }
+
+    &:active {
+      background-color: $color-blue-darken;
+    }
+  }
+
   &.default {
     padding: 4px 16px;
     font-size: 0.875rem;

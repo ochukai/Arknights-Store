@@ -15,4 +15,9 @@ $color-gray-light: #c4c4c4;
 $color-gray: #898989;
 $color-dark-gray: #595959;
 
-$color-blue: #00acf0;
+
+$color-blue: #0098dc;
+$color-blue-darken: darken($color-blue, 8%);
+$color-blue-lighten: lighten($color-blue, 8%);
+
+// $color-blue: #00acf0;

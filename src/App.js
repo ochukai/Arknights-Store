@@ -8,10 +8,9 @@ import Layout from './components/layout';
 
 import Demo from './pages/demo';
 import AkMaterial from './pages/material';
+
 const MenuItem = Menu.Item;
 const Header = Layout.Header;
-const Footer = Layout.Footer;
-const Sider = Layout.Sider;
 const Content = Layout.Content;
 
 class App extends React.Component {
@@ -34,15 +33,11 @@ class App extends React.Component {
               </MenuItem>
             </Menu>
           </Header>
-          <Layout hasSider={true}>
-            <Content>
-              <Route exact path="/" component={Index} />
-              <Route exact path="/demo" component={Demo} />
-              <Route path="/akma" component={AkMaterial} />
-            </Content>
-            <Sider>Sider</Sider>
-          </Layout>
-          <Footer>footer</Footer>
+          <Content>
+            <Route exact path="/" component={Index} />
+            <Route exact path="/demo" component={Demo} />
+            <Route path="/akma" component={AkMaterial} />
+          </Content>
         </Layout>
       </HashRouter>
     );

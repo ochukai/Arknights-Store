@@ -20,6 +20,7 @@ export default class Icon extends Component {
     const {
       type,
       theme,
+      ...props
     } = this.props;
 
     const cls = theme === 'fill'
@@ -29,7 +30,7 @@ export default class Icon extends Component {
     const iconClazz = classNames('ak-icon', cls);
 
     return (
-      <i className={iconClazz}></i>
+      <i className={iconClazz} {...props}></i>
     );
   }
 }

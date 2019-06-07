@@ -1,5 +1,7 @@
 .material-group {
-  padding: 20px 0;
+  // padding: 20px 0;
+  margin-bottom: 20px;
+  // margin-left: 5px;
   display: inline-flex;
   align-content: center;
   justify-content: flex-start;
@@ -8,8 +10,8 @@
   h3 {
     margin: 0;
     width: 1em;
-    height: 100%;
     padding: 0;
+    height: 100%;
     text-align: center;
     display: inline-block;
     display: flex;
