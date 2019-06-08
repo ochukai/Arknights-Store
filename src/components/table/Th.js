@@ -42,7 +42,7 @@ export default class Th extends Component {
   }
 
   render() {
-    const { col, order } = this.props;
+    const { col } = this.props;
     const { title, width, style, key, sortable } = col;
 
     const hasSort = sortable;

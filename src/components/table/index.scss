@@ -18,14 +18,15 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  color: rgba(0, 0, 0, 0.65);
+  // color: rgba(0, 0, 0, 0.65);
   font-size: 14px;
   font-variant: tabular-nums;
   line-height: 1.5;
   list-style: none;
   font-feature-settings: 'tnum';
   position: relative;
-  clear: both
+  clear: both;
+  background-color: $color-white;
 }
 
 .oli-table-body {
@@ -49,7 +50,7 @@
 
 .oli-table-thead>tr>th {
   color: rgba(0, 0, 0, 0.85);
-  font-weight: 500;
+  font-weight: bold;
   text-align: left;
   background: transparent;
   border-bottom: 1px solid #e8e8e8;

@@ -141,7 +141,7 @@ export default class Table extends Component {
         <tr>
           {columns.map(col => {
             const { key, dataIndex } = col;
-            const order = sortColumn === col.dataIndex
+            const order = sortColumn === dataIndex
               ? sortOrder
               : '';
 
