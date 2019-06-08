@@ -24,7 +24,7 @@ export default class Button extends Component {
     type: TYPES.primary,
     size: SIZES.default,
     round: false, // true
-    icon: '',
+    // icon: '',
   };
 
   constructor(props) {
@@ -57,9 +57,8 @@ export default class Button extends Component {
     } = this.props;
 
     const isString = _.isString(children);
-    const isIconOnly = icon && _.isUndefined(children);
-    const buttonClazz = classNames({
-      'oli-button': true,
+    const isIconOnly = ('icon' in this.props) && _.isUndefined(children);
+    const buttonClazz = classNames('oli-button', {
       'round': round,
       'icon-only': isIconOnly,
     }, type, size, className);
@@ -70,7 +69,7 @@ export default class Button extends Component {
         type="button"
         onClick={this.handleBtnClick}
       >
-        {!!icon && <Icon type={icon} />}
+        {('icon' in this.props) && <Icon type={icon} />}
         {
           isString
             ? <span>{children}</span>

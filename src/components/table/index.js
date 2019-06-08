@@ -2,12 +2,21 @@ import React, { Component } from 'react';
 import './index.scss';
 
 import classNames from 'classnames';
-import Icon from '../icon';
+import _ from 'underscore';
+
+import Th from './Th';
+import Tr from './Tr';
+
+const sortSequences = [
+  '', // 第三次点击复原
+  'asc',
+  'desc',
+];
 
 /**
  * dataSource -> { key/id, ...attrs }
  *
- * columns -> { key, dataIndex, title, width, className, sortable, render => {} }
+ * columns -> { key, dataIndex, title, width, className, sortable, sortFn, render => {} }
  *
  * header, footer
  *
@@ -33,10 +42,67 @@ export default class Table extends Component {
     size: 'middle',
   };
 
-  constructor(props) {
-    super(props);
-    this.state = {};
+  state = {
+    sortOrder: '',
+    sortColumn: '',
+    filters: [
+      // column,
+      // values
+    ],
+  };
+
+  // constructor(props) {
+  //   super(props);
+  //   this.state = {};
+  // }
+
+  isSortSameColumn(name) {
+    const { sortColumn } = this.state;
+    if (!sortColumn) {
+      return false; // 上次并没有排序
+    }
+
+    return sortColumn === name;
   }
+
+  /**
+   *
+   * @param {*} name
+   * @param {*} order // 第一次点击 顺序 排列
+   */
+  resetSort(name, order = sortSequences[1]) {
+    // console.log('reset sort', name, order);
+
+    this.setState({
+      sortColumn: name,
+      sortOrder: order,
+    });
+  }
+
+  handleThClick = (th = {}) => {
+    // console.log('handleThClick', th);
+
+    const { name } = th;
+    if (!this.isSortSameColumn(name)) {
+      this.resetSort(name);
+      return;
+    }
+
+    // 需要排序的列 没有变，要改变顺序
+    const { sortOrder } = this.state;
+    const lastIndex = _.indexOf(sortSequences, sortOrder);
+    const nextIndex = lastIndex > -1
+      ? lastIndex === sortSequences.length - 1 // 如果是最后一个 下次从第一个开始哦
+        ? 0
+        : lastIndex + 1
+      : 1; // 上次不知道是什么值，这次 顺序
+
+    this.resetSort(name, sortSequences[nextIndex]);
+  };
+
+  handleRowClick = () => {
+
+  };
 
   renderTitle() {
     const { header } = this.props;
@@ -65,60 +131,83 @@ export default class Table extends Component {
   }
 
   renderTHead(columns) {
+    const {
+      sortColumn,
+      sortOrder
+    } = this.state;
+
     return (
       <thead className="oli-table-thead">
         <tr>
           {columns.map(col => {
-            const { title, width, style, key, sortable } = col;
-            const hasSort = !!sortable;
-            const clazz = classNames({
-              'oli-table-column-has-actions': hasSort,
-              'oli-table-column-has-sorters': hasSort,
-              'oli-table-column-sort': hasSort,
-            });
+            const { key, dataIndex } = col;
+            const order = sortColumn === col.dataIndex
+              ? sortOrder
+              : '';
 
             return (
-              <th width={width} style={style} key={key} className={clazz}>
-                <span className="oli-table-header-column">
-                  <div className={hasSort ? 'oli-table-column-sorters' : ''}>
-                    <span className="oli-table-column-title">{title}</span>
-                    <span className="oli-table-column-sorter">
-                      {
-                        hasSort ? (
-                          <div className="oli-table-column-sorter-inner oli-table-column-sorter-inner-full">
-                            <Icon type="up" className="oli-table-column-sorter-up up"/>
-                            <Icon type="down" className="oli-table-column-sorter-down down" />
-                          </div>
-                        ) : null
-                      }
-                    </span>
-                  </div>
-                </span>
-              </th>
-            )
+              <Th
+                col={col}
+                key={key}
+                order={order}
+                onClick={this.handleThClick}
+              />
+            );
           })}
         </tr>
       </thead>
     );
   }
 
+  getColumn(name) {
+    const { columns } = this.props;
+    return columns.filter(col => col.dataIndex === name)[0];
+  }
+
+  computeTableData(data) {
+    const {
+      sortColumn,
+      sortOrder
+    } = this.state;
+
+    let ret = data;
+    if (sortColumn) {
+      const column = this.getColumn(sortColumn);
+      const { sortFn } = column;
+      const sorter = sortFn || sortColumn;
+      switch(sortOrder) {
+        case 'asc':
+          ret = _.sortBy(ret, sorter);
+          break;
+
+        case 'desc':
+          ret = _.sortBy(ret, sorter).reverse();
+          break;
+
+        default:
+          // 啥都不做
+          break;
+      }
+    }
+
+    return ret;
+  }
+
   renderTBody(data, columns) {
+    const computed = this.computeTableData(data);
     return (
       <tbody className="oli-table-tbody">
-        {data.map((row, index) => {
+        {computed.map((row, index) => {
+          const { id, key } = row;
           return (
-            <tr className="oli-table-row" key={index}>
-              {columns.map((col, colIndex) => {
-                const { dataIndex, render } = col;
-                const text = row[dataIndex];
-                const value = render
-                  ? render(text, row, index)
-                  : text;
-
-                return <td key={colIndex}>{value}</td>;
-              })}
-            </tr>
-          )
+            <Tr
+              key={id || key || index}
+              index={index}
+              columns={columns}
+              row={row}
+              onClick={this.handleRowClick}
+            />
+          );
         })}
       </tbody>
     );
