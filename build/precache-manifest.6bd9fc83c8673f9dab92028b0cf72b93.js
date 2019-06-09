@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3400015bb9161e0f5755fe463a61d64a",
+    "revision": "c4910968e23b90a0949e289c6b8cba78",
     "url": "/ak/build/index.html"
   },
   {
-    "revision": "6323674e2090dbe69343",
-    "url": "/ak/build/static/css/main.6b483076.chunk.css"
+    "revision": "e593396c8ce5d7bf2802",
+    "url": "/ak/build/static/css/main.f9a31df1.chunk.css"
   },
   {
-    "revision": "b9c0591da9bea840e0fb",
-    "url": "/ak/build/static/js/2.9d8bb57d.chunk.js"
+    "revision": "38f96b73cb3546642a1b",
+    "url": "/ak/build/static/js/2.9f19c19d.chunk.js"
   },
   {
-    "revision": "6323674e2090dbe69343",
-    "url": "/ak/build/static/js/main.9ea214a8.chunk.js"
+    "revision": "e593396c8ce5d7bf2802",
+    "url": "/ak/build/static/js/main.e96f1469.chunk.js"
   },
   {
     "revision": "813202cc6ef961b240a9",
@@ -164,19 +164,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ak/build/static/media/bk.b7b367b2.jpg"
   },
   {
-    "revision": "20c6a5e86b81a261d585e2e662e49c80",
-    "url": "/ak/build/static/media/iconfont.20c6a5e8.eot"
+    "revision": "19254560cbdc7d5431ed3d9cc318b305",
+    "url": "/ak/build/static/media/iconfont.19254560.ttf"
   },
   {
-    "revision": "551480b90a2a5c1fdb7eeee72c59f243",
-    "url": "/ak/build/static/media/iconfont.551480b9.woff"
+    "revision": "a0a02b63971500b4676d1fb8802a112a",
+    "url": "/ak/build/static/media/iconfont.a0a02b63.eot"
   },
   {
-    "revision": "c4167602342786d1b87c41cee330a07a",
-    "url": "/ak/build/static/media/iconfont.c4167602.ttf"
+    "revision": "e1c681cd2340aeee3ff00c757349dc81",
+    "url": "/ak/build/static/media/iconfont.e1c681cd.svg"
   },
   {
-    "revision": "f4429b74b17a022514f0c80cf21044a2",
-    "url": "/ak/build/static/media/iconfont.f4429b74.svg"
+    "revision": "ede2a65d179dd438a4a48689eb536b64",
+    "url": "/ak/build/static/media/iconfont.ede2a65d.woff"
   }
 ]);
