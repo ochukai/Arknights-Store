@@ -3,14 +3,17 @@ import _ from 'underscore';
 
 import './index.scss';
 
-import Button from '../../components/button';
-import Icon from '../../components/icon';
-import Card from '../../components/card';
-import Counter from '../../components/counter';
-import Material from '../../components/material';
-import Drawer from '../../components/drawer';
-import Tag from '../../components/tag';
-import Table from '../../components/table';
+import {
+  Button,
+  Icon,
+  Card,
+  Counter,
+  Material,
+  Drawer,
+  Rate,
+  Tag,
+  Table
+} from '../../components';
 
 class Demo extends React.Component {
   state = {
@@ -43,9 +46,9 @@ class Demo extends React.Component {
       },
       {
         key: '2',
-        name: '胡彦祖',
+        name: '吴彦祖',
         age: 42,
-        address: '西湖区湖底公园1号',
+        address: '西湖区湖底公园4号',
       },
     ];
 
@@ -92,6 +95,11 @@ class Demo extends React.Component {
         <h2>Icon</h2>
         <Icon type="heart" theme="fill" />
 
+        <h2>Rate</h2>
+        <Rate value={5} />
+        <br />
+        <Rate value={6} icon="heart-fill"/>
+
         <h2>Tag</h2>
         <Tag>近卫</Tag>
         <Tag>辅助</Tag>
@@ -117,7 +125,7 @@ class Demo extends React.Component {
         </Drawer>
 
         <h2>Table</h2>
-        <Table dataSource={dataSource} columns={columns}/>
+        <Table dataSource={dataSource} columns={columns} />
 
         <h2>Card</h2>
         <Card>

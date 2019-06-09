@@ -52,7 +52,6 @@ export default class Button extends Component {
       type,
       size,
       round,
-      icon,
       className,
     } = this.props;
 
@@ -69,7 +68,7 @@ export default class Button extends Component {
         type="button"
         onClick={this.handleBtnClick}
       >
-        {('icon' in this.props) && <Icon type={icon} />}
+        {('icon' in this.props) && <Icon type={this.props.icon} />}
         {
           isString
             ? <span>{children}</span>
