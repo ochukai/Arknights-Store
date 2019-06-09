@@ -1,0 +1,47 @@
+.oli-tree {
+  box-sizing: border-box;
+  font-size: 14px;
+  font-variant: tabular-nums;
+  line-height: 1.5;
+  list-style: none;
+  font-feature-settings: 'tnum';
+  margin: 0;
+  padding: 0;
+
+  .oli-tree-node {
+    margin: 0;
+    padding: 4px 0;
+    white-space: nowrap;
+    list-style: none;
+    outline: 0;
+    transition: all .3s;
+
+    .oli-tree-node-content {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 0 5px;
+      margin: 0;
+      cursor: pointer;
+    }
+
+    .oli-tree-node-switch-icon-wrapper {
+      min-width: 18px;
+    }
+
+    .oli-tree-node-switch-icon {
+      font-size: 18px;
+    }
+
+    .oli-tree-node-icon-wrapper,
+    .oli-tree-node-title-wrapper {
+      margin-left: 3px;
+    }
+
+    .oli-child-tree {
+      margin: 0;
+      padding: 0 0 0 18px;
+    }
+  }
+
+}
