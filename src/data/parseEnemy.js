@@ -1,4 +1,4 @@
-const { enemies } = require('./enemy_database.json');
+const { enemies } = require('./original/enemy_database.json');
 
 const path = require('path');
 const fs = require('fs-extra');
@@ -28,6 +28,7 @@ enemies.forEach(enemy => {
       ene.magicResistance = magicResistance.m_value;
       ene.moveSpeed = moveSpeed.m_value;
       ene.attackSpeed = baseAttackTime.m_value;
+      ene.level = level;
 
       ene.series = Key;
       result.push(ene);

@@ -1,0 +1,2033 @@
+[
+  {
+    "id": "main_00-01",
+    "name": "坍塌",
+    "code": "0-1",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "TKT_RECRUIT", "id": "7001", "dropType": 1},
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "main_00-01#f#",
+    "name": "坍塌",
+    "code": "0-1",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "tr_01",
+    "name": "战地医疗 ",
+    "code": "TR-1",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "CHAR", "id": "char_120_hibisc", "dropType": 1}]
+  },
+  {
+    "id": "main_00-02",
+    "name": "守卫",
+    "code": "0-2",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2001", "dropType": 1, "name": "基础作战记录"},
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "main_00-02#f#",
+    "name": "守卫",
+    "code": "0-2",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "tr_02",
+    "name": "定向瞄准",
+    "code": "TR-2",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "CHAR", "id": "char_211_adnach", "dropType": 1}]
+  },
+  {
+    "id": "main_00-03",
+    "name": "追击",
+    "code": "0-3",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "main_00-03#f#",
+    "name": "追击",
+    "code": "0-3",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "tr_03",
+    "name": "精确打击",
+    "code": "TR-3",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "CHAR", "id": "char_235_jesica", "dropType": 1}]
+  },
+  {
+    "id": "main_00-04",
+    "name": "混战",
+    "code": "0-4",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "main_00-04#f#",
+    "name": "混战",
+    "code": "0-4",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "tr_04",
+    "name": "小队先锋",
+    "code": "TR-4",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "CHAR", "id": "char_123_fang", "dropType": 1}]
+  },
+  {
+    "id": "main_00-05",
+    "name": "腐化",
+    "code": "0-5",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "MATERIAL", "id": "3301", "dropType": 1, "name": "技巧概要·卷1"},
+      {"type": "CHAR", "id": "char_192_falco", "dropType": 1},
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "main_00-05#f#",
+    "name": "腐化",
+    "code": "0-5",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "main_00-06",
+    "name": "强击",
+    "code": "0-6",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "main_00-06#f#",
+    "name": "强击",
+    "code": "0-6",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "tr_05",
+    "name": "源石技艺",
+    "code": "TR-5",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "CHAR", "id": "char_501_durin", "dropType": 1}]
+  },
+  {
+    "id": "main_00-07",
+    "name": "感染",
+    "code": "0-7",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [{"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}]
+  },
+  {
+    "id": "main_00-07#f#",
+    "name": "感染",
+    "code": "0-7",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "tr_06",
+    "name": "范围杀伤",
+    "code": "TR-6",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "CHAR", "id": "char_009_12fce", "dropType": 1}]
+  },
+  {
+    "id": "main_00-08",
+    "name": "狩猎",
+    "code": "0-8",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "CHAR", "id": "char_121_lava", "dropType": 1},
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "main_00-08#f#",
+    "name": "狩猎",
+    "code": "0-8",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "main_00-09",
+    "name": "临光",
+    "code": "0-9",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "MATERIAL", "id": "3003", "dropType": 1},
+      {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
+    ]
+  },
+  {
+    "id": "main_00-09#f#",
+    "name": "临光",
+    "code": "0-9",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "tr_07",
+    "name": "战斗技巧",
+    "code": "TR-7",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "CHAR", "id": "char_122_beagle", "dropType": 1}]
+  },
+  {
+    "id": "main_00-10",
+    "name": "困境",
+    "code": "0-10",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "CHAR", "id": "char_212_ansel", "dropType": 1},
+      {"type": "MATERIAL", "id": "3112", "dropType": 1},
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "main_00-10#f#",
+    "name": "困境",
+    "code": "0-10",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "main_00-11",
+    "name": "突围",
+    "code": "0-11",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "CHAR", "id": "char_208_melan", "dropType": 1},
+      {"type": "MATERIAL", "id": "3131", "dropType": 1},
+      {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}
+    ]
+  },
+  {
+    "id": "main_00-11#f#",
+    "name": "突围",
+    "code": "0-11",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {
+        "type": "FURN",
+        "id": "furni_dropS001_theLittleMermaid_01",
+        "dropType": 1
+      }
+    ]
+  },
+  {
+    "id": "main_01-01",
+    "name": "孤岛",
+    "code": "1-1",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 0,
+    "drops": [
+      {"type": "MATERIAL", "id": "3105", "dropType": 1},
+      {"type": "MATERIAL", "id": "3131", "dropType": 1},
+      {"type": "GOLD", "id": "4001", "dropType": 2}
+    ]
+  },
+  {
+    "id": "main_01-01#f#",
+    "name": "孤岛",
+    "code": "1-1",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "main_01-02",
+    "name": "蔓延",
+    "code": "1-2",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "MATERIAL", "id": "3003", "dropType": 1}]
+  },
+  {
+    "id": "main_01-03",
+    "name": "狂奔",
+    "code": "1-3",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}
+    ]
+  },
+  {
+    "id": "main_01-03#f#",
+    "name": "狂奔",
+    "code": "1-3",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "main_01-04",
+    "name": "先兆",
+    "code": "1-4",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropN001_vineColumn_01", "dropType": 2}
+    ]
+  },
+  {
+    "id": "main_01-04#f#",
+    "name": "先兆",
+    "code": "1-4",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "main_01-05",
+    "name": "麻痹",
+    "code": "1-5",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
+    ]
+  },
+  {
+    "id": "main_01-05#f#",
+    "name": "麻痹",
+    "code": "1-5",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_cinderella_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "tr_08",
+    "name": "障碍设置",
+    "code": "TR-8",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "CHAR", "id": "char_124_kroos", "dropType": 1}]
+  },
+  {
+    "id": "main_01-06",
+    "name": "灾难",
+    "code": "1-6",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [{"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}]
+  },
+  {
+    "id": "main_01-06#f#",
+    "name": "灾难",
+    "code": "1-6",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "tr_09",
+    "name": "间接防护",
+    "code": "TR-9",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "main_01-07",
+    "name": "暴君",
+    "code": "1-7",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "CHAR", "id": "char_278_orchid", "dropType": 1},
+      {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"}
+    ]
+  },
+  {
+    "id": "main_01-07#f#",
+    "name": "暴君",
+    "code": "1-7",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": []
+  },
+  {
+    "id": "main_01-08",
+    "name": "意志",
+    "code": "1-8",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "MATERIAL", "id": "3105", "dropType": 1},
+      {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
+    ]
+  },
+  {
+    "id": "main_01-08#f#",
+    "name": "意志",
+    "code": "1-8",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {
+        "type": "FURN",
+        "id": "furni_dropS001_theHonestWoodcutter_01",
+        "dropType": 1
+      }
+    ]
+  },
+  {
+    "id": "tr_10",
+    "name": "小队防御",
+    "code": "TR-10",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "CHAR", "id": "char_285_medic2", "dropType": 1}]
+  },
+  {
+    "id": "main_01-09",
+    "name": "溃散",
+    "code": "1-9",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [{"type": "MATERIAL", "id": "3112", "dropType": 2}]
+  },
+  {
+    "id": "main_01-09#f#",
+    "name": "溃散",
+    "code": "1-9",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": []
+  },
+  {
+    "id": "main_01-10",
+    "name": "残留",
+    "code": "1-10",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+    ]
+  },
+  {
+    "id": "main_01-10#f#",
+    "name": "残留",
+    "code": "1-10",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": []
+  },
+  {
+    "id": "main_01-11",
+    "name": "遗忘",
+    "code": "1-11",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "main_01-12",
+    "name": "代价",
+    "code": "1-12",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "CHAR", "id": "char_277_sqrrel", "dropType": 1},
+      {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"}
+    ]
+  },
+  {
+    "id": "main_01-12#f#",
+    "name": "代价",
+    "code": "1-12",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_snowWhite_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "tr_11",
+    "name": "战术阻滞",
+    "code": "TR-11",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "main_02-01",
+    "name": "龙门之行",
+    "code": "2-1",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [{"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}]
+  },
+  {
+    "id": "main_02-01#f#",
+    "name": "龙门之行",
+    "code": "2-1",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": []
+  },
+  {
+    "id": "sub_02-01",
+    "name": "迟缓-1",
+    "code": "S2-1",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [{"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}]
+  },
+  {
+    "id": "main_02-02",
+    "name": "兵不接刃",
+    "code": "2-2",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [{"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}]
+  },
+  {
+    "id": "main_02-02#f#",
+    "name": "兵不接刃",
+    "code": "2-2",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": []
+  },
+  {
+    "id": "sub_02-02",
+    "name": "迟缓-2",
+    "code": "S2-2",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 0,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "sub_02-03",
+    "name": "封锁-1",
+    "code": "S2-3",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "sub_02-04",
+    "name": "封锁-2",
+    "code": "S2-4",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropN001_sculptureColumn_01", "dropType": 2}
+    ]
+  },
+  {
+    "id": "main_02-03",
+    "name": "无罪推定",
+    "code": "2-3",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
+    ]
+  },
+  {
+    "id": "main_02-03#f#",
+    "name": "无罪推定",
+    "code": "2-3",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_matchGirl_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "tr_12",
+    "name": "施术单元",
+    "code": "TR-12",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "main_02-04",
+    "name": "企鹅物流",
+    "code": "2-4",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"}
+    ]
+  },
+  {
+    "id": "main_02-04#f#",
+    "name": "企鹅物流",
+    "code": "2-4",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": []
+  },
+  {
+    "id": "sub_02-05",
+    "name": "术师-1",
+    "code": "S2-5",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [{"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}]
+  },
+  {
+    "id": "sub_02-06",
+    "name": "术师-2",
+    "code": "S2-6",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [{"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}]
+  },
+  {
+    "id": "sub_02-07",
+    "name": "术师-3",
+    "code": "S2-7",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [{"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}]
+  },
+  {
+    "id": "tr_13",
+    "name": "先发制人",
+    "code": "TR-13",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "main_02-05",
+    "name": "高空坠物",
+    "code": "2-5",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [{"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"}]
+  },
+  {
+    "id": "main_02-05#f#",
+    "name": "高空坠物",
+    "code": "2-5",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_hanselAndGretel_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "main_02-06",
+    "name": "握紧扶手",
+    "code": "2-6",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"}
+    ]
+  },
+  {
+    "id": "main_02-06#f#",
+    "name": "握紧扶手",
+    "code": "2-6",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": []
+  },
+  {
+    "id": "tr_14",
+    "name": "地形攻势",
+    "code": "TR-14",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "main_02-07",
+    "name": "注意卫生",
+    "code": "2-7",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 0,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "main_02-07#f#",
+    "name": "注意卫生",
+    "code": "2-7",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": []
+  },
+  {
+    "id": "sub_02-08",
+    "name": "陷阱-1",
+    "code": "S2-8",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}
+    ]
+  },
+  {
+    "id": "sub_02-09",
+    "name": "陷阱-2",
+    "code": "S2-9",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [{"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}]
+  },
+  {
+    "id": "main_02-08",
+    "name": "不做约定",
+    "code": "2-8",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [{"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"}]
+  },
+  {
+    "id": "main_02-08#f#",
+    "name": "不做约定",
+    "code": "2-8",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_sleepingBeauty_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "main_02-09",
+    "name": "操作暗箱",
+    "code": "2-9",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [{"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}]
+  },
+  {
+    "id": "main_02-09#f#",
+    "name": "操作暗箱",
+    "code": "2-9",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": []
+  },
+  {
+    "id": "sub_02-10",
+    "name": "窒息-1",
+    "code": "S2-10",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}
+    ]
+  },
+  {
+    "id": "sub_02-11",
+    "name": "窒息-2",
+    "code": "S2-11",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropN001_generator_03", "dropType": 2}
+    ]
+  },
+  {
+    "id": "sub_02-12",
+    "name": "窒息-3",
+    "code": "S2-12",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"}]
+  },
+  {
+    "id": "main_02-10",
+    "name": "病入膏肓",
+    "code": "2-10",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
+      {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"}
+    ]
+  },
+  {
+    "id": "main_02-10#f#",
+    "name": "病入膏肓",
+    "code": "2-10",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_peterPan_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "main_03-01",
+    "name": "会合",
+    "code": "3-1",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"}
+    ]
+  },
+  {
+    "id": "main_03-01#f#",
+    "name": "会合",
+    "code": "3-1",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": []
+  },
+  {
+    "id": "main_03-02",
+    "name": "记忆",
+    "code": "3-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"}]
+  },
+  {
+    "id": "main_03-02#f#",
+    "name": "记忆",
+    "code": "3-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": []
+  },
+  {
+    "id": "main_03-03",
+    "name": "回旋",
+    "code": "3-3",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}]
+  },
+  {
+    "id": "main_03-03#f#",
+    "name": "回旋",
+    "code": "3-3",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": []
+  },
+  {
+    "id": "tr_15",
+    "name": "战略转移",
+    "code": "TR-15",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "main_03-04",
+    "name": "龟裂",
+    "code": "3-4",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "MATERIAL", "id": "3105", "dropType": 1},
+      {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"}
+    ]
+  },
+  {
+    "id": "main_03-04#f#",
+    "name": "龟裂",
+    "code": "3-4",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_theTallowCandle_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "main_03-05",
+    "name": "呼叫",
+    "code": "3-5",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}
+    ]
+  },
+  {
+    "id": "main_03-05#f#",
+    "name": "呼叫",
+    "code": "3-5",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": []
+  },
+  {
+    "id": "main_03-06",
+    "name": "决定",
+    "code": "3-6",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 0,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "main_03-06#f#",
+    "name": "决定",
+    "code": "3-6",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": []
+  },
+  {
+    "id": "main_03-07",
+    "name": "轰鸣",
+    "code": "3-7",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}]
+  },
+  {
+    "id": "main_03-07#f#",
+    "name": "轰鸣",
+    "code": "3-7",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": []
+  },
+  {
+    "id": "main_03-08",
+    "name": "黄昏",
+    "code": "3-8",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
+      {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+      {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"}
+    ]
+  },
+  {
+    "id": "main_03-08#f#",
+    "name": "黄昏",
+    "code": "3-8",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_theUglyDuckling_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "main_04-01",
+    "name": "免费拥抱",
+    "code": "4-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 0,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "main_04-01#f#",
+    "name": "免费拥抱",
+    "code": "4-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": []
+  },
+  {
+    "id": "main_04-02",
+    "name": "雨中漫步",
+    "code": "4-2",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
+      {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
+    ]
+  },
+  {
+    "id": "main_04-02#f#",
+    "name": "雨中漫步",
+    "code": "4-2",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": []
+  },
+  {
+    "id": "main_04-03",
+    "name": "人工制冷",
+    "code": "4-3",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
+    ]
+  },
+  {
+    "id": "main_04-03#f#",
+    "name": "人工制冷",
+    "code": "4-3",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": []
+  },
+  {
+    "id": "main_04-04",
+    "name": "不要恐慌",
+    "code": "4-4",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
+      {"type": "MATERIAL", "id": "30074", "dropType": 3, "name": "白马醇"}
+    ]
+  },
+  {
+    "id": "main_04-04#f#",
+    "name": "不要恐慌",
+    "code": "4-4",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_theFrogPrince_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "main_04-05",
+    "name": "官僚主义",
+    "code": "4-5",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+      {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
+    ]
+  },
+  {
+    "id": "main_04-05#f#",
+    "name": "官僚主义",
+    "code": "4-5",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": []
+  },
+  {
+    "id": "main_04-06",
+    "name": "少见多怪",
+    "code": "4-6",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
+      {"type": "MATERIAL", "id": "30014", "dropType": 3, "name": "提纯源岩"}
+    ]
+  },
+  {
+    "id": "main_04-06#f#",
+    "name": "少见多怪",
+    "code": "4-6",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": []
+  },
+  {
+    "id": "main_04-07",
+    "name": "各取所需",
+    "code": "4-7",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "3105", "dropType": 1},
+      {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
+      {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"}
+    ]
+  },
+  {
+    "id": "main_04-07#f#",
+    "name": "各取所需",
+    "code": "4-7",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_piedPiper_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "main_04-08",
+    "name": "应激反应",
+    "code": "4-8",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": [
+      {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+      {"type": "MATERIAL", "id": "30094", "dropType": 3, "name": "五水研磨石"}
+    ]
+  },
+  {
+    "id": "main_04-08#f#",
+    "name": "应激反应",
+    "code": "4-8",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": []
+  },
+  {
+    "id": "main_04-09",
+    "name": "彻入骨髓",
+    "code": "4-9",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": [
+      {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
+      {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
+      {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"}
+    ]
+  },
+  {
+    "id": "main_04-09#f#",
+    "name": "彻入骨髓",
+    "code": "4-9",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": []
+  },
+  {
+    "id": "main_04-10",
+    "name": "灯火将熄",
+    "code": "4-10",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": [
+      {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
+      {"type": "MATERIAL", "id": "30064", "dropType": 3, "name": "改量装置"}
+    ]
+  },
+  {
+    "id": "main_04-10#f#",
+    "name": "灯火将熄",
+    "code": "4-10",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS001_trinity_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "sub_03-1-1",
+    "name": "潜伏-1",
+    "code": "S3-1",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}]
+  },
+  {
+    "id": "sub_03-1-2",
+    "name": "潜伏-2",
+    "code": "S3-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}]
+  },
+  {
+    "id": "sub_03-2-1",
+    "name": "侦察-1",
+    "code": "S3-3",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}]
+  },
+  {
+    "id": "sub_03-2-2",
+    "name": "侦察-2",
+    "code": "S3-4",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"}]
+  },
+  {
+    "id": "sub_03-2-3",
+    "name": "侦察-3",
+    "code": "S3-5",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropN001_generator_02", "dropType": 2}
+    ]
+  },
+  {
+    "id": "sub_04-1-1",
+    "name": "晶簇-1",
+    "code": "S4-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
+      {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"}
+    ]
+  },
+  {
+    "id": "sub_04-1-2",
+    "name": "晶簇-2",
+    "code": "S4-2",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropN001_generator_01", "dropType": 2}
+    ]
+  },
+  {
+    "id": "sub_04-1-3",
+    "name": "晶簇-3",
+    "code": "S4-3",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "FURN", "id": "furni_single001_letterLight_1_01", "dropType": 2}
+    ]
+  },
+  {
+    "id": "sub_04-2-1",
+    "name": "多足-1",
+    "code": "S4-4",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "FURN", "id": "furni_single001_letterLight_0_01", "dropType": 2}
+    ]
+  },
+  {
+    "id": "sub_04-2-2",
+    "name": "多足-2",
+    "code": "S4-5",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "FURN", "id": "furni_dropN001_box_03", "dropType": 2}]
+  },
+  {
+    "id": "sub_04-2-3",
+    "name": "多足-3",
+    "code": "S4-6",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 0,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "sub_04-3-1",
+    "name": "狂怒-1",
+    "code": "S4-7",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "FURN", "id": "furni_dropN001_box_02", "dropType": 2}]
+  },
+  {
+    "id": "sub_04-3-2",
+    "name": "狂怒-2",
+    "code": "S4-8",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "FURN", "id": "furni_dropN001_box_01", "dropType": 2}]
+  },
+  {
+    "id": "sub_04-3-3",
+    "name": "狂怒-3",
+    "code": "S4-9",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
+    ]
+  },
+  {
+    "id": "wk_melee_1",
+    "name": "私人家具押运",
+    "code": "CE-1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 1410,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "wk_melee_2",
+    "name": "工业设备押运",
+    "code": "CE-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 2325,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "wk_melee_3",
+    "name": "珍贵原料押运",
+    "code": "CE-3",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 3410,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "wk_melee_4",
+    "name": "国际重犯押运",
+    "code": "CE-4",
+    "apCost": 25,
+    "expGain": 250,
+    "goldGain": 4740,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "wk_melee_5",
+    "name": "机密情报押运",
+    "code": "CE-5",
+    "apCost": 30,
+    "expGain": 300,
+    "goldGain": 6240,
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+  },
+  {
+    "id": "wk_armor_1",
+    "name": "废墟清剿",
+    "code": "SK-1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "MATERIAL", "id": "3112", "dropType": 2},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+    ]
+  },
+  {
+    "id": "wk_armor_2",
+    "name": "窝点清剿",
+    "code": "SK-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "MATERIAL", "id": "3112", "dropType": 2},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+    ]
+  },
+  {
+    "id": "wk_armor_3",
+    "name": "哨所清剿",
+    "code": "SK-3",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [
+      {"type": "MATERIAL", "id": "3113", "dropType": 2},
+      {"type": "MATERIAL", "id": "3112", "dropType": 2},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+    ]
+  },
+  {
+    "id": "wk_armor_4",
+    "name": "据地清剿",
+    "code": "SK-4",
+    "apCost": 25,
+    "expGain": 250,
+    "goldGain": 250,
+    "drops": [
+      {"type": "MATERIAL", "id": "3114", "dropType": 2},
+      {"type": "MATERIAL", "id": "3113", "dropType": 2},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+    ]
+  },
+  {
+    "id": "wk_armor_5",
+    "name": "要塞清剿",
+    "code": "SK-5",
+    "apCost": 30,
+    "expGain": 300,
+    "goldGain": 300,
+    "drops": [
+      {"type": "MATERIAL", "id": "3114", "dropType": 2},
+      {"type": "MATERIAL", "id": "3113", "dropType": 2},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+    ]
+  },
+  {
+    "id": "wk_kc_1",
+    "name": "遭遇战演习",
+    "code": "LS-1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "wk_kc_2",
+    "name": "游击战演习",
+    "code": "LS-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "wk_kc_3",
+    "name": "阵地战演习",
+    "code": "LS-3",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+      {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+    ]
+  },
+  {
+    "id": "wk_kc_4",
+    "name": "特种战演习",
+    "code": "LS-4",
+    "apCost": 25,
+    "expGain": 250,
+    "goldGain": 250,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2004", "dropType": 2, "name": "高级作战记录"},
+      {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}
+    ]
+  },
+  {
+    "id": "wk_kc_5",
+    "name": "歼灭战演习",
+    "code": "LS-5",
+    "apCost": 30,
+    "expGain": 300,
+    "goldGain": 300,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2004", "dropType": 2, "name": "高级作战记录"},
+      {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}
+    ]
+  },
+  {
+    "id": "wk_toxic_1",
+    "name": "源石开采保全",
+    "code": "AP-1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+  },
+  {
+    "id": "wk_toxic_2",
+    "name": "源石运输保全",
+    "code": "AP-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+  },
+  {
+    "id": "wk_toxic_3",
+    "name": "精炼器材保全",
+    "code": "AP-3",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+  },
+  {
+    "id": "wk_toxic_4",
+    "name": "矿材仓库保全",
+    "code": "AP-4",
+    "apCost": 25,
+    "expGain": 250,
+    "goldGain": 250,
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+  },
+  {
+    "id": "wk_toxic_5",
+    "name": "精炼工厂保全",
+    "code": "AP-5",
+    "apCost": 30,
+    "expGain": 300,
+    "goldGain": 300,
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+  },
+  {
+    "id": "wk_fly_1",
+    "name": "疗养用地净空",
+    "code": "CA-1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+    ]
+  },
+  {
+    "id": "wk_fly_2",
+    "name": "勘探基点净空",
+    "code": "CA-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+    ]
+  },
+  {
+    "id": "wk_fly_3",
+    "name": "巡逻路线净空",
+    "code": "CA-3",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [
+      {"type": "MATERIAL", "id": "3302", "dropType": 2, "name": "技巧概要·卷2"},
+      {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+    ]
+  },
+  {
+    "id": "wk_fly_4",
+    "name": "任务区域净空",
+    "code": "CA-4",
+    "apCost": 25,
+    "expGain": 250,
+    "goldGain": 250,
+    "drops": [
+      {"type": "MATERIAL", "id": "3303", "dropType": 2, "name": "技巧概要·卷3"},
+      {"type": "MATERIAL", "id": "3302", "dropType": 2, "name": "技巧概要·卷2"},
+      {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+    ]
+  },
+  {
+    "id": "wk_fly_5",
+    "name": "战略要道净空",
+    "code": "CA-5",
+    "apCost": 30,
+    "expGain": 300,
+    "goldGain": 300,
+    "drops": [
+      {"type": "MATERIAL", "id": "3303", "dropType": 2, "name": "技巧概要·卷3"},
+      {"type": "MATERIAL", "id": "3302", "dropType": 2, "name": "技巧概要·卷2"},
+      {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+    ]
+  },
+  {
+    "id": "pro_a_1",
+    "name": "防守",
+    "code": "PR-A-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "3231", "dropType": 2, "name": "重装芯片"},
+      {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"}
+    ]
+  },
+  {
+    "id": "pro_a_2",
+    "name": "据守",
+    "code": "PR-A-2",
+    "apCost": 36,
+    "expGain": 360,
+    "goldGain": 360,
+    "drops": [
+      {"type": "MATERIAL", "id": "3232", "dropType": 2, "name": "重装芯片组"},
+      {"type": "MATERIAL", "id": "3262", "dropType": 2, "name": "医疗芯片组"}
+    ]
+  },
+  {
+    "id": "pro_b_1",
+    "name": "干涉",
+    "code": "PR-B-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "3241", "dropType": 2, "name": "狙击芯片"},
+      {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"}
+    ]
+  },
+  {
+    "id": "pro_b_2",
+    "name": "打击",
+    "code": "PR-B-2",
+    "apCost": 36,
+    "expGain": 360,
+    "goldGain": 360,
+    "drops": [
+      {"type": "MATERIAL", "id": "3242", "dropType": 2, "name": "狙击芯片组"},
+      {"type": "MATERIAL", "id": "3252", "dropType": 2, "name": "术师芯片组"}
+    ]
+  },
+  {
+    "id": "pro_c_1",
+    "name": "急行",
+    "code": "PR-C-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "3211", "dropType": 2, "name": "先锋芯片"},
+      {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"}
+    ]
+  },
+  {
+    "id": "pro_c_2",
+    "name": "冲锋",
+    "code": "PR-C-2",
+    "apCost": 36,
+    "expGain": 360,
+    "goldGain": 360,
+    "drops": [
+      {"type": "MATERIAL", "id": "3212", "dropType": 2, "name": "先锋芯片组"},
+      {"type": "MATERIAL", "id": "3272", "dropType": 2, "name": "辅助芯片组"}
+    ]
+  },
+  {
+    "id": "pro_d_1",
+    "name": "突破",
+    "code": "PR-D-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "3221", "dropType": 2, "name": "近卫芯片"},
+      {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"}
+    ]
+  },
+  {
+    "id": "pro_d_2",
+    "name": "猛攻",
+    "code": "PR-D-2",
+    "apCost": 36,
+    "expGain": 360,
+    "goldGain": 360,
+    "drops": [
+      {"type": "MATERIAL", "id": "3222", "dropType": 2, "name": "近卫芯片组"},
+      {"type": "MATERIAL", "id": "3282", "dropType": 2, "name": "特种芯片组"}
+    ]
+  },
+  {
+    "id": "guide_01",
+    "name": null,
+    "code": "???",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "guide_02",
+    "name": null,
+    "code": "???",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "a001_01",
+    "name": "日正当中",
+    "code": "GT-1",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "FURN", "id": "furni_pizza_exitIndicator_01", "dropType": 1},
+      {
+        "type": "ACTIVITY_COIN",
+        "id": "1stact",
+        "dropType": 2,
+        "name": "赏金猎人金币"
+      },
+      {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
+      {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
+    ]
+  },
+  {
+    "id": "a001_02",
+    "name": "察言观色",
+    "code": "GT-2",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "FURN", "id": "furni_pizza_brickWallSticker_01", "dropType": 1},
+      {
+        "type": "ACTIVITY_COIN",
+        "id": "1stact",
+        "dropType": 2,
+        "name": "赏金猎人金币"
+      },
+      {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
+      {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
+    ]
+  },
+  {
+    "id": "a001_03",
+    "name": "意外之旅",
+    "code": "GT-3",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "CHAR", "id": "char_220_grani", "dropType": 1},
+      {
+        "type": "ACTIVITY_COIN",
+        "id": "1stact",
+        "dropType": 2,
+        "name": "赏金猎人金币"
+      },
+      {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
+      {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
+    ]
+  },
+  {
+    "id": "a001_04",
+    "name": "污点证人",
+    "code": "GT-4",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "FURN", "id": "furni_pizza_barStool_01", "dropType": 1},
+      {
+        "type": "ACTIVITY_COIN",
+        "id": "1stact",
+        "dropType": 2,
+        "name": "赏金猎人金币"
+      },
+      {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
+      {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
+    ]
+  },
+  {
+    "id": "a001_05",
+    "name": "各抒己见",
+    "code": "GT-5",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "FURN", "id": "furni_pizza_chair_L_01", "dropType": 1},
+      {
+        "type": "ACTIVITY_COIN",
+        "id": "1stact",
+        "dropType": 2,
+        "name": "赏金猎人金币"
+      },
+      {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}
+    ]
+  },
+  {
+    "id": "a001_06",
+    "name": "黄金三角",
+    "code": "GT-6",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "FURN", "id": "furni_pizza_chair_R_01", "dropType": 1},
+      {
+        "type": "ACTIVITY_COIN",
+        "id": "1stact",
+        "dropType": 2,
+        "name": "赏金猎人金币"
+      },
+      {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}
+    ]
+  },
+  {
+    "id": "a001_ex01",
+    "name": "大地惊雷",
+    "code": "GT-EX-1",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "FURN", "id": "furni_pizza_abstractArt_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "a001_ex02",
+    "name": "老无所依",
+    "code": "GT-EX-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "FURN", "id": "furni_pizza_chair_F_01", "dropType": 1}]
+  },
+  {
+    "id": "a001_ex03",
+    "name": "与狼共舞",
+    "code": "GT-EX-3",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "FURN", "id": "furni_pizza_priceList_01", "dropType": 1}]
+  },
+  {
+    "id": "a001_ex04",
+    "name": "碧血金沙",
+    "code": "GT-HX-1",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "FURN", "id": "furni_pizza_cupboard_01", "dropType": 1}]
+  },
+  {
+    "id": "a001_ex04#f#",
+    "name": "碧血金沙",
+    "code": "GT-HX-1",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": []
+  },
+  {
+    "id": "a001_ex05",
+    "name": "关山飞渡",
+    "code": "GT-HX-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "FURN", "id": "furni_pizza_shelf_01", "dropType": 1}]
+  },
+  {
+    "id": "a001_ex05#f#",
+    "name": "关山飞渡",
+    "code": "GT-HX-2",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": []
+  },
+  {
+    "id": "a001_ex06",
+    "name": "西部往事",
+    "code": "GT-HX-3",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "FURN", "id": "furni_pizza_ceilingLights_01", "dropType": 1},
+      {"type": "FURN", "id": "furni_pizza_barStool_01", "dropType": 1}
+    ]
+  },
+  {
+    "id": "a001_ex06#f#",
+    "name": "西部往事",
+    "code": "GT-HX-3",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": []
+  },
+  {
+    "id": "camp_01",
+    "name": "切尔诺伯格",
+    "code": "剿灭作战",
+    "apCost": 20,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  },
+  {
+    "id": "camp_02",
+    "name": "龙门外环",
+    "code": "剿灭作战",
+    "apCost": 25,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": []
+  }
+]

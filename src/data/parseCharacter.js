@@ -1,4 +1,4 @@
-const characters = require('./character_table.json');
+const characters = require('./original/character_table.json');
 
 const keys = Object.keys(characters);
 
@@ -12,8 +12,8 @@ fs.ensureDir(curDir);
 keys.forEach((key) => {
   const value = characters[key];
   if (key.indexOf('char_') > -1) {
-    const name = key.split('_')[2];
-    const fileName = name + '.json';
+    // const name = key.split('_')[2];
+    const fileName = key + '.json';
 
     fs.writeFileSync(
       path.join(curDir, fileName),
