@@ -13,8 +13,8 @@ const DropLevels = {
   'ALWAYS': 1, // 固定
   'ALMOST': 2, // 大概率
   'USUAL': 3, // 概率
-  'OFTEN': 4, // 小概率
-  'SOMETIMES': 5, // 罕见
+  'OFTEN': 4, // 小概率 2
+  'SOMETIMES': 5, // 罕见 3
   'NONE': 6
 };
 
@@ -75,13 +75,15 @@ function parseStages() {
         displayRewards = [];
       }
 
-      displayRewards
-        .filter(re => isValidItemId(re.id))
-        .forEach(reward => {
+      const drops = displayRewards
+        // .filter(re => isValidItemId(re.id))
+        .map(reward => {
           const item = itemArr.filter(item => item.itemId === reward.id)[0];
           if (item) {
             reward.name = item.name;
           }
+
+          return reward;
         });
 
       return {
@@ -91,7 +93,7 @@ function parseStages() {
         apCost, // 理智消耗
         expGain,
         goldGain,
-        drops: displayRewards
+        drops
       };
     });
 }
@@ -130,6 +132,10 @@ function isValidItemId(itemId) {
 
 function isMaterial(sortId) {
   return sortId >= 23 && sortId <= 57;
+}
+
+function isChip(sortId) {
+  return sortId >= 74 && sortId <= 97;
 }
 
 
@@ -186,7 +192,9 @@ function parseItems() {
       description,
       usage,
       drops: stageDropList,
-      buildings
+      buildings,
+      isChip: isChip(sortId),
+      isMaterial: isMaterial(sortId),
     });
   });
 
@@ -208,6 +216,37 @@ function parseStoreItems() {
   return _.sortBy(result, 'sortId');
 }
 
+// function fillItem(item) {
+//   const { buildings } = item;
+//   buildings.forEach(build => {
+//     const { costs } = build;
+//     if (costs.length > 0) {
+//       costs.forEach(cost => {
+//         const { id } = cost;
+//         if (cost.item) {
+//           return;
+//         }
+
+//         const costItem = allItems.filter(ai => ai.id === id)[0];
+//         // 不是芯片才继续下一层
+//         if (costItem) {
+//           if (!costItem.isChip) {
+//             fillItem(costItem);
+//           }
+
+//           cost.item = costItem;
+//         }
+//       });
+//     }
+//   });
+// }
+
+// function fillItems(items) {
+//   items.forEach(item => {
+//     fillItem(item);
+//   });
+// }
+
 
 // 所有的 item
 const itemKeys = Object.keys(items);
@@ -217,6 +256,8 @@ const formulas = parseFormulas();
 const stageMaps = parseStages();
 
 const allItems = parseItems();
+// fillItems(allItems);
+
 const storeItems = parseStoreItems();
 
 // start write

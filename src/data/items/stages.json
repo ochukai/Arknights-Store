@@ -7,7 +7,7 @@
     "expGain": 60,
     "goldGain": 60,
     "drops": [
-      {"type": "TKT_RECRUIT", "id": "7001", "dropType": 1},
+      {"type": "TKT_RECRUIT", "id": "7001", "dropType": 1, "name": "招聘许可"},
       {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
     ]
   },
@@ -224,7 +224,7 @@
     "expGain": 60,
     "goldGain": 60,
     "drops": [
-      {"type": "MATERIAL", "id": "3003", "dropType": 1},
+      {"type": "MATERIAL", "id": "3003", "dropType": 1, "name": "赤金"},
       {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
     ]
   },
@@ -255,7 +255,7 @@
     "goldGain": 60,
     "drops": [
       {"type": "CHAR", "id": "char_212_ansel", "dropType": 1},
-      {"type": "MATERIAL", "id": "3112", "dropType": 1},
+      {"type": "MATERIAL", "id": "3112", "dropType": 1, "name": "碳"},
       {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
     ]
   },
@@ -277,7 +277,7 @@
     "goldGain": 60,
     "drops": [
       {"type": "CHAR", "id": "char_208_melan", "dropType": 1},
-      {"type": "MATERIAL", "id": "3131", "dropType": 1},
+      {"type": "MATERIAL", "id": "3131", "dropType": 1, "name": "基础加固建材"},
       {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}
     ]
   },
@@ -304,9 +304,9 @@
     "expGain": 60,
     "goldGain": 0,
     "drops": [
-      {"type": "MATERIAL", "id": "3105", "dropType": 1},
-      {"type": "MATERIAL", "id": "3131", "dropType": 1},
-      {"type": "GOLD", "id": "4001", "dropType": 2}
+      {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
+      {"type": "MATERIAL", "id": "3131", "dropType": 1, "name": "基础加固建材"},
+      {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
     ]
   },
   {
@@ -325,7 +325,7 @@
     "apCost": 0,
     "expGain": 0,
     "goldGain": 0,
-    "drops": [{"type": "MATERIAL", "id": "3003", "dropType": 1}]
+    "drops": [{"type": "MATERIAL", "id": "3003", "dropType": 1, "name": "赤金"}]
   },
   {
     "id": "main_01-03",
@@ -454,7 +454,7 @@
     "expGain": 90,
     "goldGain": 90,
     "drops": [
-      {"type": "MATERIAL", "id": "3105", "dropType": 1},
+      {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
       {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
     ]
   },
@@ -489,7 +489,7 @@
     "apCost": 9,
     "expGain": 90,
     "goldGain": 90,
-    "drops": [{"type": "MATERIAL", "id": "3112", "dropType": 2}]
+    "drops": [{"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"}]
   },
   {
     "id": "main_01-09#f#",
@@ -613,7 +613,7 @@
     "apCost": 9,
     "expGain": 90,
     "goldGain": 0,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "sub_02-03",
@@ -780,7 +780,7 @@
     "apCost": 12,
     "expGain": 120,
     "goldGain": 0,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "main_02-07#f#",
@@ -976,7 +976,7 @@
     "expGain": 150,
     "goldGain": 150,
     "drops": [
-      {"type": "MATERIAL", "id": "3105", "dropType": 1},
+      {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
       {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"}
     ]
   },
@@ -1018,7 +1018,7 @@
     "apCost": 15,
     "expGain": 150,
     "goldGain": 0,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "main_03-06#f#",
@@ -1078,7 +1078,7 @@
     "apCost": 18,
     "expGain": 180,
     "goldGain": 0,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "main_04-01#f#",
@@ -1203,7 +1203,7 @@
     "expGain": 180,
     "goldGain": 180,
     "drops": [
-      {"type": "MATERIAL", "id": "3105", "dropType": 1},
+      {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
       {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
       {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"}
     ]
@@ -1393,7 +1393,7 @@
     "apCost": 21,
     "expGain": 210,
     "goldGain": 0,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "sub_04-3-1",
@@ -1431,7 +1431,7 @@
     "apCost": 10,
     "expGain": 100,
     "goldGain": 1410,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "wk_melee_2",
@@ -1440,7 +1440,7 @@
     "apCost": 15,
     "expGain": 150,
     "goldGain": 2325,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "wk_melee_3",
@@ -1449,7 +1449,7 @@
     "apCost": 20,
     "expGain": 200,
     "goldGain": 3410,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "wk_melee_4",
@@ -1458,7 +1458,7 @@
     "apCost": 25,
     "expGain": 250,
     "goldGain": 4740,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "wk_melee_5",
@@ -1467,7 +1467,7 @@
     "apCost": 30,
     "expGain": 300,
     "goldGain": 6240,
-    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2}]
+    "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
   },
   {
     "id": "wk_armor_1",
@@ -1477,8 +1477,8 @@
     "expGain": 100,
     "goldGain": 100,
     "drops": [
-      {"type": "MATERIAL", "id": "3112", "dropType": 2},
-      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+      {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
     ]
   },
   {
@@ -1489,8 +1489,8 @@
     "expGain": 150,
     "goldGain": 150,
     "drops": [
-      {"type": "MATERIAL", "id": "3112", "dropType": 2},
-      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+      {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
     ]
   },
   {
@@ -1501,9 +1501,9 @@
     "expGain": 200,
     "goldGain": 200,
     "drops": [
-      {"type": "MATERIAL", "id": "3113", "dropType": 2},
-      {"type": "MATERIAL", "id": "3112", "dropType": 2},
-      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+      {"type": "MATERIAL", "id": "3113", "dropType": 2, "name": "碳素"},
+      {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
     ]
   },
   {
@@ -1514,9 +1514,9 @@
     "expGain": 250,
     "goldGain": 250,
     "drops": [
-      {"type": "MATERIAL", "id": "3114", "dropType": 2},
-      {"type": "MATERIAL", "id": "3113", "dropType": 2},
-      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+      {"type": "MATERIAL", "id": "3114", "dropType": 2, "name": "碳素组"},
+      {"type": "MATERIAL", "id": "3113", "dropType": 2, "name": "碳素"},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
     ]
   },
   {
@@ -1527,9 +1527,9 @@
     "expGain": 300,
     "goldGain": 300,
     "drops": [
-      {"type": "MATERIAL", "id": "3114", "dropType": 2},
-      {"type": "MATERIAL", "id": "3113", "dropType": 2},
-      {"type": "MATERIAL", "id": "3401", "dropType": 2}
+      {"type": "MATERIAL", "id": "3114", "dropType": 2, "name": "碳素组"},
+      {"type": "MATERIAL", "id": "3113", "dropType": 2, "name": "碳素"},
+      {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
     ]
   },
   {
@@ -1602,7 +1602,7 @@
     "apCost": 10,
     "expGain": 100,
     "goldGain": 100,
-    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2, "name": "采购凭证"}]
   },
   {
     "id": "wk_toxic_2",
@@ -1611,7 +1611,7 @@
     "apCost": 15,
     "expGain": 150,
     "goldGain": 150,
-    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2, "name": "采购凭证"}]
   },
   {
     "id": "wk_toxic_3",
@@ -1620,7 +1620,7 @@
     "apCost": 20,
     "expGain": 200,
     "goldGain": 200,
-    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2, "name": "采购凭证"}]
   },
   {
     "id": "wk_toxic_4",
@@ -1629,7 +1629,7 @@
     "apCost": 25,
     "expGain": 250,
     "goldGain": 250,
-    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2, "name": "采购凭证"}]
   },
   {
     "id": "wk_toxic_5",
@@ -1638,7 +1638,7 @@
     "apCost": 30,
     "expGain": 300,
     "goldGain": 300,
-    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2}]
+    "drops": [{"type": "MATERIAL", "id": "4006", "dropType": 2, "name": "采购凭证"}]
   },
   {
     "id": "wk_fly_1",

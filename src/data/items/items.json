@@ -51,7 +51,7 @@
           "goldGain": 60,
           "drops": [
             {"type": "CHAR", "id": "char_212_ansel", "dropType": 1},
-            {"type": "MATERIAL", "id": "3112", "dropType": 1},
+            {"type": "MATERIAL", "id": "3112", "dropType": 1, "name": "碳"},
             {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
           ]
         }
@@ -68,7 +68,9 @@
         "roomType": "MANUFACTURE",
         "item": "基础作战记录"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": false
   },
   {
     "id": "2002",
@@ -137,7 +139,9 @@
         "roomType": "MANUFACTURE",
         "item": "初级作战记录"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": false
   },
   {
     "id": "2003",
@@ -206,7 +210,9 @@
         "roomType": "MANUFACTURE",
         "item": "中级作战记录"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": false
   },
   {
     "id": "2004",
@@ -234,7 +240,9 @@
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": false
   },
   {
     "id": "3211",
@@ -274,7 +282,9 @@
         "roomType": "WORKSHOP",
         "item": "先锋芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3212",
@@ -314,7 +324,9 @@
         "roomType": "WORKSHOP",
         "item": "先锋芯片组"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3213",
@@ -339,7 +351,9 @@
         "roomType": "MANUFACTURE",
         "item": "先锋双芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3221",
@@ -379,7 +393,9 @@
         "roomType": "WORKSHOP",
         "item": "近卫芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3222",
@@ -419,7 +435,9 @@
         "roomType": "WORKSHOP",
         "item": "近卫芯片组"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3223",
@@ -444,7 +462,9 @@
         "roomType": "MANUFACTURE",
         "item": "近卫双芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3231",
@@ -484,7 +504,9 @@
         "roomType": "WORKSHOP",
         "item": "重装芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3232",
@@ -524,7 +546,9 @@
         "roomType": "WORKSHOP",
         "item": "重装芯片组"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3233",
@@ -549,7 +573,9 @@
         "roomType": "MANUFACTURE",
         "item": "重装双芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3241",
@@ -589,7 +615,9 @@
         "roomType": "WORKSHOP",
         "item": "狙击芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3242",
@@ -629,7 +657,9 @@
         "roomType": "WORKSHOP",
         "item": "狙击芯片组"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3243",
@@ -654,7 +684,9 @@
         "roomType": "MANUFACTURE",
         "item": "狙击双芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3251",
@@ -694,7 +726,9 @@
         "roomType": "WORKSHOP",
         "item": "术师芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3252",
@@ -734,7 +768,9 @@
         "roomType": "WORKSHOP",
         "item": "术师芯片组"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3253",
@@ -759,7 +795,9 @@
         "roomType": "MANUFACTURE",
         "item": "术师双芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3261",
@@ -799,7 +837,9 @@
         "roomType": "WORKSHOP",
         "item": "医疗芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3262",
@@ -839,7 +879,9 @@
         "roomType": "WORKSHOP",
         "item": "医疗芯片组"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3263",
@@ -864,7 +906,9 @@
         "roomType": "MANUFACTURE",
         "item": "医疗双芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3271",
@@ -904,7 +948,9 @@
         "roomType": "WORKSHOP",
         "item": "辅助芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3272",
@@ -944,7 +990,9 @@
         "roomType": "WORKSHOP",
         "item": "辅助芯片组"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3273",
@@ -969,7 +1017,9 @@
         "roomType": "MANUFACTURE",
         "item": "辅助双芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3281",
@@ -1009,7 +1059,9 @@
         "roomType": "WORKSHOP",
         "item": "特种芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3282",
@@ -1049,7 +1101,9 @@
         "roomType": "WORKSHOP",
         "item": "特种芯片组"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3283",
@@ -1074,7 +1128,9 @@
         "roomType": "MANUFACTURE",
         "item": "特种双芯片"
       }
-    ]
+    ],
+    "isChip": true,
+    "isMaterial": false
   },
   {
     "id": "3301",
@@ -1116,7 +1172,9 @@
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": false
   },
   {
     "id": "3302",
@@ -1155,7 +1213,9 @@
         "roomType": "WORKSHOP",
         "item": "技巧概要·卷2"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": false
   },
   {
     "id": "3303",
@@ -1194,7 +1254,9 @@
         "roomType": "WORKSHOP",
         "item": "技巧概要·卷3"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": false
   },
   {
     "id": "30011",
@@ -1258,13 +1320,15 @@
           "expGain": 60,
           "goldGain": 60,
           "drops": [
-            {"type": "MATERIAL", "id": "3003", "dropType": 1},
+            {"type": "MATERIAL", "id": "3003", "dropType": 1, "name": "赤金"},
             {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
           ]
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30012",
@@ -1319,7 +1383,9 @@
         "roomType": "WORKSHOP",
         "item": "固源岩"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30013",
@@ -1374,7 +1440,9 @@
         "roomType": "WORKSHOP",
         "item": "固源岩组"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30014",
@@ -1414,7 +1482,9 @@
         "roomType": "WORKSHOP",
         "item": "提纯源岩"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30021",
@@ -1483,7 +1553,9 @@
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30022",
@@ -1560,7 +1632,9 @@
         "roomType": "WORKSHOP",
         "item": "糖"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30023",
@@ -1615,7 +1689,9 @@
         "roomType": "WORKSHOP",
         "item": "糖组"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30024",
@@ -1659,7 +1735,9 @@
         "roomType": "WORKSHOP",
         "item": "糖聚块"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30031",
@@ -1724,13 +1802,15 @@
           "goldGain": 60,
           "drops": [
             {"type": "CHAR", "id": "char_208_melan", "dropType": 1},
-            {"type": "MATERIAL", "id": "3131", "dropType": 1},
+            {"type": "MATERIAL", "id": "3131", "dropType": 1, "name": "基础加固建材"},
             {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}
           ]
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30032",
@@ -1775,7 +1855,7 @@
           "expGain": 90,
           "goldGain": 90,
           "drops": [
-            {"type": "MATERIAL", "id": "3105", "dropType": 1},
+            {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
             {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
           ]
         }
@@ -1808,7 +1888,9 @@
         "roomType": "WORKSHOP",
         "item": "聚酸酯"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30033",
@@ -1864,7 +1946,9 @@
         "roomType": "WORKSHOP",
         "item": "聚酸酯组"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30034",
@@ -1909,7 +1993,9 @@
         "roomType": "WORKSHOP",
         "item": "聚酸酯块"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30041",
@@ -1951,7 +2037,9 @@
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30042",
@@ -2028,7 +2116,9 @@
         "roomType": "WORKSHOP",
         "item": "异铁"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30043",
@@ -2083,7 +2173,9 @@
         "roomType": "WORKSHOP",
         "item": "异铁组"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30044",
@@ -2127,7 +2219,9 @@
         "roomType": "WORKSHOP",
         "item": "异铁块"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30051",
@@ -2169,7 +2263,9 @@
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30052",
@@ -2246,7 +2342,9 @@
         "roomType": "WORKSHOP",
         "item": "酮凝集"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30053",
@@ -2301,7 +2399,9 @@
         "roomType": "WORKSHOP",
         "item": "酮凝集组"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30054",
@@ -2345,7 +2445,9 @@
         "roomType": "WORKSHOP",
         "item": "酮阵列"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30061",
@@ -2414,7 +2516,9 @@
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30062",
@@ -2469,7 +2573,9 @@
         "roomType": "WORKSHOP",
         "item": "装置"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30063",
@@ -2491,7 +2597,7 @@
           "expGain": 150,
           "goldGain": 150,
           "drops": [
-            {"type": "MATERIAL", "id": "3105", "dropType": 1},
+            {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
             {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"}
           ]
         }
@@ -2525,7 +2631,9 @@
         "roomType": "WORKSHOP",
         "item": "全新装置"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30064",
@@ -2569,7 +2677,9 @@
         "roomType": "WORKSHOP",
         "item": "改量装置"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30073",
@@ -2634,7 +2744,9 @@
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30074",
@@ -2678,7 +2790,9 @@
         "roomType": "WORKSHOP",
         "item": "白马醇"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30083",
@@ -2715,14 +2829,16 @@
           "expGain": 180,
           "goldGain": 180,
           "drops": [
-            {"type": "MATERIAL", "id": "3105", "dropType": 1},
+            {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
             {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
             {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"}
           ]
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30084",
@@ -2744,7 +2860,7 @@
           "expGain": 180,
           "goldGain": 180,
           "drops": [
-            {"type": "MATERIAL", "id": "3105", "dropType": 1},
+            {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
             {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
             {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"}
           ]
@@ -2767,7 +2883,9 @@
         "roomType": "WORKSHOP",
         "item": "三水锰矿"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30093",
@@ -2832,7 +2950,9 @@
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30094",
@@ -2876,7 +2996,9 @@
         "roomType": "WORKSHOP",
         "item": "五水研磨石"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30103",
@@ -2936,7 +3058,9 @@
         }
       }
     ],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30104",
@@ -2991,7 +3115,9 @@
         "roomType": "WORKSHOP",
         "item": "RMA70-24"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30115",
@@ -3018,7 +3144,9 @@
         "roomType": "WORKSHOP",
         "item": "聚合剂"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30125",
@@ -3044,7 +3172,9 @@
         "roomType": "WORKSHOP",
         "item": "双极纳米片"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "30135",
@@ -3071,7 +3201,9 @@
         "roomType": "WORKSHOP",
         "item": "D32钢"
       }
-    ]
+    ],
+    "isChip": false,
+    "isMaterial": true
   },
   {
     "id": "32001",
@@ -3082,6 +3214,8 @@
     "description": "价值高，产量小，让工程干员头疼。",
     "usage": "工业生产中，制造芯片时使用的催化剂。合成双芯片的必备材料。",
     "drops": [],
-    "buildings": []
+    "buildings": [],
+    "isChip": false,
+    "isMaterial": false
   }
 ]
