@@ -1,0 +1,3645 @@
+[
+  {
+    "id": "2001",
+    "name": "基础作战记录",
+    "sortId": 15,
+    "rarity": 1,
+    "itemType": "CARD_EXP",
+    "description": "在恶劣环境下的每次行动都可能有人会丢掉性命。如果做好了充足的准备，或许也能多拯救一些生命。\\n存储了数场战斗的录像。",
+    "usage": "记录了作战录像的存储装置，可以些微增加干员的经验值。",
+    "drops": [
+      {
+        "stageId": "wk_kc_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_kc_1",
+          "name": "遭遇战演习",
+          "code": "LS-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-03",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-03",
+          "name": "封锁-1",
+          "code": "S2-3",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_00-10",
+        "occPer": 1,
+        "stage": {
+          "id": "main_00-10",
+          "name": "困境",
+          "code": "0-10",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
+          "drops": [
+            {"type": "CHAR", "id": "char_212_ansel", "dropType": 1},
+            {"type": "MATERIAL", "id": "3112", "dropType": 1, "name": "碳"},
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "1",
+        "itemId": "2001",
+        "count": 1,
+        "weight": 2,
+        "costPoint": 2700,
+        "costs": [],
+        "roomType": "MANUFACTURE",
+        "item": "基础作战记录"
+      }
+    ],
+    "iconId": "sprite_exp_card_t1",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "2002",
+    "name": "初级作战记录",
+    "sortId": 14,
+    "rarity": 2,
+    "itemType": "CARD_EXP",
+    "description": "在恶劣环境下的每次行动都可能有人会丢掉性命。如果做好了充足的准备，或许也能多拯救一些生命。\\n存储了多场战斗的录像与详细数据分析资料。附送了三小时的花絮与访谈。",
+    "usage": "记录了作战录像的存储装置，可以少许增加干员的经验值。",
+    "drops": [
+      {
+        "stageId": "wk_kc_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_kc_1",
+          "name": "遭遇战演习",
+          "code": "LS-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_03-05",
+        "occPer": 1,
+        "stage": {
+          "id": "main_03-05",
+          "name": "呼叫",
+          "code": "3-5",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-10",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-10",
+          "name": "窒息-1",
+          "code": "S2-10",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "2",
+        "itemId": "2002",
+        "count": 1,
+        "weight": 3,
+        "costPoint": 4800,
+        "costs": [],
+        "roomType": "MANUFACTURE",
+        "item": "初级作战记录"
+      }
+    ],
+    "iconId": "sprite_exp_card_t2",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "2003",
+    "name": "中级作战记录",
+    "sortId": 13,
+    "rarity": 3,
+    "itemType": "CARD_EXP",
+    "description": "在恶劣环境下的每次行动都可能有人会丢掉性命。如果做好了充足的准备，或许也能多拯救一些生命。\\n存储了多个录像集锦，夹带了一张录像人的签名版。",
+    "usage": "记录了作战录像的存储装置，可以大幅增加干员的经验值。",
+    "drops": [
+      {
+        "stageId": "wk_kc_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_kc_1",
+          "name": "遭遇战演习",
+          "code": "LS-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-03",
+        "occPer": 1,
+        "stage": {
+          "id": "main_04-03",
+          "name": "人工制冷",
+          "code": "4-3",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_04-3-3",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_04-3-3",
+          "name": "狂怒-3",
+          "code": "S4-9",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "3",
+        "itemId": "2003",
+        "count": 1,
+        "weight": 5,
+        "costPoint": 10800,
+        "costs": [],
+        "roomType": "MANUFACTURE",
+        "item": "中级作战记录"
+      }
+    ],
+    "iconId": "sprite_exp_card_t3",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "2004",
+    "name": "高级作战记录",
+    "sortId": 12,
+    "rarity": 4,
+    "itemType": "CARD_EXP",
+    "description": "在恶劣环境下的每次行动都可能有人会丢掉性命。如果做好了充足的准备，或许也能多拯救一些生命。\\n追加了总集篇。附带高清版、高清重制版、威力加强版、导演剪辑版、年度黄金版……",
+    "usage": "记录了作战录像的存储装置，可以极大增加干员的经验值。",
+    "drops": [
+      {
+        "stageId": "wk_kc_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_kc_1",
+          "name": "遭遇战演习",
+          "code": "LS-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "sprite_exp_card_t4",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3003",
+    "name": "赤金",
+    "sortId": 20,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "需要多少矿石才能提炼出如此贵重的金条呢——之类的想法已经不重要了。现在它正整整齐齐堆在你眼前，这才是关键啊。",
+    "usage": "提纯精炼后的金条，可以换取大量龙门币。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "4",
+        "itemId": "3003",
+        "count": 1,
+        "weight": 2,
+        "costPoint": 4320,
+        "costs": [],
+        "roomType": "MANUFACTURE",
+        "item": "赤金"
+      }
+    ],
+    "iconId": "MTL_GOLD3",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3112",
+    "name": "碳",
+    "sortId": 66,
+    "rarity": 1,
+    "itemType": "MATERIAL",
+    "description": "可生产出种类繁多的聚合物，是工业制造不可缺少的原材料之一。",
+    "usage": "碳原料，用于开发罗德岛的基础设施。",
+    "drops": [
+      {
+        "stageId": "wk_armor_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_armor_1",
+          "name": "废墟清剿",
+          "code": "SK-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
+            {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_01-09",
+        "occPer": 1,
+        "stage": {
+          "id": "main_01-09",
+          "name": "溃散",
+          "code": "1-9",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_BASE_SL1",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3113",
+    "name": "碳素",
+    "sortId": 65,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "轻量，高纯度，具备优质的可加工性，我们如今的辉煌时代正是建立在它们的脊梁上。",
+    "usage": "碳素砖，用于开发罗德岛的基础设施。",
+    "drops": [
+      {
+        "stageId": "wk_armor_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_armor_1",
+          "name": "废墟清剿",
+          "code": "SK-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
+            {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "4",
+        "rarity": 0,
+        "itemId": "3113",
+        "count": 1,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3112", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "碳素"
+      }
+    ],
+    "iconId": "MTL_BASE_SL2",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3114",
+    "name": "碳素组",
+    "sortId": 64,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "大量的碳素资源。每一块砖都饱含着燃烧的工业之魂。",
+    "usage": "一组碳素砖，用于开发罗德岛的基础设施。",
+    "drops": [
+      {
+        "stageId": "wk_armor_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_armor_1",
+          "name": "废墟清剿",
+          "code": "SK-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
+            {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "5",
+        "rarity": 0,
+        "itemId": "3114",
+        "count": 1,
+        "goldCost": 0,
+        "apCost": 1440000,
+        "costs": [{"id": "3113", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "碳素组"
+      }
+    ],
+    "iconId": "MTL_BASE_SL3",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3131",
+    "name": "基础加固建材",
+    "sortId": 63,
+    "rarity": 1,
+    "itemType": "MATERIAL",
+    "description": "对房间进行改造时，如果不施加妥善的处理，施工将会对承重部位造成不可逆转的破坏。请在启动工程前使用加固建材保证房间完整性。",
+    "usage": "基本的建筑工程材料，用于罗德岛的基础设施。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "1",
+        "rarity": 0,
+        "itemId": "3131",
+        "count": 1,
+        "goldCost": 800,
+        "apCost": 360000,
+        "costs": [{"id": "3112", "count": 2, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "基础加固建材"
+      }
+    ],
+    "iconId": "MTL_BASE_SYNTH1",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3132",
+    "name": "进阶加固建材",
+    "sortId": 62,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "如果打算对土木结构较为脆弱的区域内的房间进行改造，请在施工前使用此种建材进行维护。这样一来，建设初期的安全隐患将会迎刃而解。之后，请开始您的表演。",
+    "usage": "强化的建筑工程材料，用于罗德岛的基础设施。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "2",
+        "rarity": 0,
+        "itemId": "3132",
+        "count": 1,
+        "goldCost": 2400,
+        "apCost": 720000,
+        "costs": [{"id": "3113", "count": 2, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "进阶加固建材"
+      }
+    ],
+    "iconId": "MTL_BASE_SYNTH2",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3133",
+    "name": "高级加固建材",
+    "sortId": 61,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "请勿对使用该标准建材维护过的房间进行无限制的稳定性测试！理论认为，目前已知的测试手段并不能破坏此房间的结构完整，但有可能导致实验者灰飞烟灭。",
+    "usage": "高等级的建筑工程材料，用于罗德岛的基础设施。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "3",
+        "rarity": 0,
+        "itemId": "3133",
+        "count": 1,
+        "goldCost": 7200,
+        "apCost": 1440000,
+        "costs": [{"id": "3114", "count": 2, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "高级加固建材"
+      }
+    ],
+    "iconId": "MTL_BASE_SYNTH3",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3211",
+    "name": "先锋芯片",
+    "sortId": 76,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的先锋有特别的帮助。",
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足先锋干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_c_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_c_1",
+          "name": "急行",
+          "code": "PR-C-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3211", "dropType": 2, "name": "先锋芯片"},
+            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "43",
+        "rarity": 0,
+        "itemId": "3211",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 360000,
+        "costs": [{"id": "3271", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "先锋芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_PIO1",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3212",
+    "name": "先锋芯片组",
+    "sortId": 75,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的先锋干员有特别的指导。",
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足先锋干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_c_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_c_1",
+          "name": "急行",
+          "code": "PR-C-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3211", "dropType": 2, "name": "先锋芯片"},
+            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "51",
+        "rarity": 0,
+        "itemId": "3212",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3272", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "先锋芯片组"
+      }
+    ],
+    "iconId": "MTL_ASC_PIO2",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3213",
+    "name": "先锋双芯片",
+    "sortId": 74,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的先锋干员有特别的提升。",
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足先锋干员在晋升时的强化需要。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "5",
+        "itemId": "3213",
+        "count": 1,
+        "weight": 5,
+        "costPoint": 3600,
+        "costs": [
+          {"id": "3212", "count": 2, "type": "MATERIAL"},
+          {"id": "32001", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "MANUFACTURE",
+        "item": "先锋双芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_PIO3",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3221",
+    "name": "近卫芯片",
+    "sortId": 79,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的近卫干员有特别的帮助。",
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足近卫干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_d_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_d_1",
+          "name": "突破",
+          "code": "PR-D-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3221", "dropType": 2, "name": "近卫芯片"},
+            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "45",
+        "rarity": 0,
+        "itemId": "3221",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 360000,
+        "costs": [{"id": "3281", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "近卫芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_GRD1",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3222",
+    "name": "近卫芯片组",
+    "sortId": 78,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的近卫干员有特别的指导。",
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足近卫干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_d_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_d_1",
+          "name": "突破",
+          "code": "PR-D-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3221", "dropType": 2, "name": "近卫芯片"},
+            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "53",
+        "rarity": 0,
+        "itemId": "3222",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3282", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "近卫芯片组"
+      }
+    ],
+    "iconId": "MTL_ASC_GRD2",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3223",
+    "name": "近卫双芯片",
+    "sortId": 77,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的近卫干员有特别的提升。",
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足近卫干员在晋升时的强化需要。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "6",
+        "itemId": "3223",
+        "count": 1,
+        "weight": 5,
+        "costPoint": 3600,
+        "costs": [
+          {"id": "3222", "count": 2, "type": "MATERIAL"},
+          {"id": "32001", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "MANUFACTURE",
+        "item": "近卫双芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_GRD3",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3231",
+    "name": "重装芯片",
+    "sortId": 82,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的重装干员有特别的帮助。",
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足重装干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_a_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_a_1",
+          "name": "防守",
+          "code": "PR-A-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3231", "dropType": 2, "name": "重装芯片"},
+            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "39",
+        "rarity": 0,
+        "itemId": "3231",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 360000,
+        "costs": [{"id": "3261", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "重装芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_TNK1",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3232",
+    "name": "重装芯片组",
+    "sortId": 81,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的重装干员有特别的指导。",
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足重装干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_a_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_a_1",
+          "name": "防守",
+          "code": "PR-A-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3231", "dropType": 2, "name": "重装芯片"},
+            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "47",
+        "rarity": 0,
+        "itemId": "3232",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3262", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "重装芯片组"
+      }
+    ],
+    "iconId": "MTL_ASC_TNK2",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3233",
+    "name": "重装双芯片",
+    "sortId": 80,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的重装干员有特别的提升。",
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足重装干员在晋升时的强化需要。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "7",
+        "itemId": "3233",
+        "count": 1,
+        "weight": 5,
+        "costPoint": 3600,
+        "costs": [
+          {"id": "3232", "count": 2, "type": "MATERIAL"},
+          {"id": "32001", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "MANUFACTURE",
+        "item": "重装双芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_TNK3",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3241",
+    "name": "狙击芯片",
+    "sortId": 85,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的狙击干员有特别的帮助。",
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足狙击干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_b_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_b_1",
+          "name": "干涉",
+          "code": "PR-B-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3241", "dropType": 2, "name": "狙击芯片"},
+            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "41",
+        "rarity": 0,
+        "itemId": "3241",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 360000,
+        "costs": [{"id": "3251", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "狙击芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_SNP1",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3242",
+    "name": "狙击芯片组",
+    "sortId": 84,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的狙击干员有特别的指导。",
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足狙击干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_b_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_b_1",
+          "name": "干涉",
+          "code": "PR-B-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3241", "dropType": 2, "name": "狙击芯片"},
+            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "49",
+        "rarity": 0,
+        "itemId": "3242",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3252", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "狙击芯片组"
+      }
+    ],
+    "iconId": "MTL_ASC_SNP2",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3243",
+    "name": "狙击双芯片",
+    "sortId": 83,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的狙击干员有特别的提升。",
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足狙击干员在晋升时的强化需要。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "8",
+        "itemId": "3243",
+        "count": 1,
+        "weight": 5,
+        "costPoint": 3600,
+        "costs": [
+          {"id": "3242", "count": 2, "type": "MATERIAL"},
+          {"id": "32001", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "MANUFACTURE",
+        "item": "狙击双芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_SNP3",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3251",
+    "name": "术师芯片",
+    "sortId": 88,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的术师干员有特别的帮助。",
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足术师干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_b_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_b_1",
+          "name": "干涉",
+          "code": "PR-B-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3241", "dropType": 2, "name": "狙击芯片"},
+            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "42",
+        "rarity": 0,
+        "itemId": "3251",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 360000,
+        "costs": [{"id": "3241", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "术师芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_CST1",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3252",
+    "name": "术师芯片组",
+    "sortId": 87,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的术师干员有特别的指导。",
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足术师干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_b_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_b_1",
+          "name": "干涉",
+          "code": "PR-B-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3241", "dropType": 2, "name": "狙击芯片"},
+            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "50",
+        "rarity": 0,
+        "itemId": "3252",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3242", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "术师芯片组"
+      }
+    ],
+    "iconId": "MTL_ASC_CST2",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3253",
+    "name": "术师双芯片",
+    "sortId": 86,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的术师干员有特别的提升。",
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足术师干员在晋升时的强化需要。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "9",
+        "itemId": "3253",
+        "count": 1,
+        "weight": 5,
+        "costPoint": 3600,
+        "costs": [
+          {"id": "3252", "count": 2, "type": "MATERIAL"},
+          {"id": "32001", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "MANUFACTURE",
+        "item": "术师双芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_CST3",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3261",
+    "name": "医疗芯片",
+    "sortId": 91,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的医疗干员有特别的帮助。",
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足医疗干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_a_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_a_1",
+          "name": "防守",
+          "code": "PR-A-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3231", "dropType": 2, "name": "重装芯片"},
+            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "40",
+        "rarity": 0,
+        "itemId": "3261",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 360000,
+        "costs": [{"id": "3231", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "医疗芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_MED1",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3262",
+    "name": "医疗芯片组",
+    "sortId": 90,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的医疗干员有特别的指导。",
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足医疗干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_a_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_a_1",
+          "name": "防守",
+          "code": "PR-A-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3231", "dropType": 2, "name": "重装芯片"},
+            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "48",
+        "rarity": 0,
+        "itemId": "3262",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3232", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "医疗芯片组"
+      }
+    ],
+    "iconId": "MTL_ASC_MED2",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3263",
+    "name": "医疗双芯片",
+    "sortId": 89,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的医疗干员有特别的提升。",
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足医疗干员在晋升时的强化需要。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "10",
+        "itemId": "3263",
+        "count": 1,
+        "weight": 5,
+        "costPoint": 3600,
+        "costs": [
+          {"id": "3262", "count": 2, "type": "MATERIAL"},
+          {"id": "32001", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "MANUFACTURE",
+        "item": "医疗双芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_MED3",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3271",
+    "name": "辅助芯片",
+    "sortId": 94,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的辅助干员有特别的帮助。",
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足辅助干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_c_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_c_1",
+          "name": "急行",
+          "code": "PR-C-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3211", "dropType": 2, "name": "先锋芯片"},
+            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "44",
+        "rarity": 0,
+        "itemId": "3271",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 360000,
+        "costs": [{"id": "3211", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "辅助芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_SUP1",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3272",
+    "name": "辅助芯片组",
+    "sortId": 93,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的辅助干员有特别的指导。",
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足辅助干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_c_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_c_1",
+          "name": "急行",
+          "code": "PR-C-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3211", "dropType": 2, "name": "先锋芯片"},
+            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "52",
+        "rarity": 0,
+        "itemId": "3272",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3212", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "辅助芯片组"
+      }
+    ],
+    "iconId": "MTL_ASC_SUP2",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3273",
+    "name": "辅助双芯片",
+    "sortId": 92,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的辅助干员有特别的提升。",
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足辅助干员在晋升时的强化需要。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "11",
+        "itemId": "3273",
+        "count": 1,
+        "weight": 5,
+        "costPoint": 3600,
+        "costs": [
+          {"id": "3272", "count": 2, "type": "MATERIAL"},
+          {"id": "32001", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "MANUFACTURE",
+        "item": "辅助双芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_SUP3",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3281",
+    "name": "特种芯片",
+    "sortId": 97,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的特种干员有特别的帮助。",
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足特种干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_d_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_d_1",
+          "name": "突破",
+          "code": "PR-D-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3221", "dropType": 2, "name": "近卫芯片"},
+            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "46",
+        "rarity": 0,
+        "itemId": "3281",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 360000,
+        "costs": [{"id": "3221", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "特种芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_SPC1",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3282",
+    "name": "特种芯片组",
+    "sortId": 96,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的特种干员有特别的指导。",
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足特种干员在晋升时的强化需要。",
+    "drops": [
+      {
+        "stageId": "pro_d_1",
+        "occPer": 1,
+        "stage": {
+          "id": "pro_d_1",
+          "name": "突破",
+          "code": "PR-D-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3221", "dropType": 2, "name": "近卫芯片"},
+            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "54",
+        "rarity": 0,
+        "itemId": "3282",
+        "count": 2,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3222", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "特种芯片组"
+      }
+    ],
+    "iconId": "MTL_ASC_SPC2",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3283",
+    "name": "特种双芯片",
+    "sortId": 95,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的特种干员有特别的提升。",
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足特种干员在晋升时的强化需要。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "12",
+        "itemId": "3283",
+        "count": 1,
+        "weight": 5,
+        "costPoint": 3600,
+        "costs": [
+          {"id": "3282", "count": 2, "type": "MATERIAL"},
+          {"id": "32001", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "MANUFACTURE",
+        "item": "特种双芯片"
+      }
+    ],
+    "iconId": "MTL_ASC_SPC3",
+    "isChip": true,
+    "isMaterial": false
+  },
+  {
+    "id": "3301",
+    "name": "技巧概要·卷1",
+    "sortId": 72,
+    "rarity": 1,
+    "itemType": "MATERIAL",
+    "description": "记录着干员们所需的入门技艺，普通人只要经过简略学习就能完全掌握。",
+    "usage": "记载了入门技巧的书籍，用于升级干员技能。",
+    "drops": [
+      {
+        "stageId": "wk_fly_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_fly_1",
+          "name": "疗养用地净空",
+          "code": "CA-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_01-10",
+        "occPer": 1,
+        "stage": {
+          "id": "main_01-10",
+          "name": "残留",
+          "code": "1-10",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SKILL1",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3302",
+    "name": "技巧概要·卷2",
+    "sortId": 71,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "记录着干员们所需的进阶技艺，需要耗费一定时间研读并付诸实践才能扎实掌握。",
+    "usage": "记载了进阶技巧的书籍，用于升级干员技能。",
+    "drops": [
+      {
+        "stageId": "wk_fly_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_fly_1",
+          "name": "疗养用地净空",
+          "code": "CA-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "37",
+        "rarity": 0,
+        "itemId": "3302",
+        "count": 1,
+        "goldCost": 0,
+        "apCost": 360000,
+        "costs": [{"id": "3301", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "技巧概要·卷2"
+      }
+    ],
+    "iconId": "MTL_SKILL2",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "3303",
+    "name": "技巧概要·卷3",
+    "sortId": 70,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "记录着干员们所需的专家级技艺，需要特定领域长久的经验积累才能一窥其中的奥妙。",
+    "usage": "记载了专家技巧的书籍，用于升级干员技能。",
+    "drops": [
+      {
+        "stageId": "wk_fly_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_fly_1",
+          "name": "疗养用地净空",
+          "code": "CA-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 100,
+          "drops": [
+            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "38",
+        "rarity": 0,
+        "itemId": "3303",
+        "count": 1,
+        "goldCost": 0,
+        "apCost": 720000,
+        "costs": [{"id": "3302", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "技巧概要·卷3"
+      }
+    ],
+    "iconId": "MTL_SKILL3",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "4001",
+    "name": "龙门币",
+    "sortId": 4,
+    "rarity": 3,
+    "itemType": "GOLD",
+    "description": "经济危机发生后，经济的衰退与政权之间的对立让贸易参与者们举步维艰。龙门币的流通使商业复兴成为可能。",
+    "usage": "由龙门发行的货币，用途广泛。",
+    "drops": [
+      {
+        "stageId": "wk_melee_1",
+        "occPer": 1,
+        "stage": {
+          "id": "wk_melee_1",
+          "name": "私人家具押运",
+          "code": "CE-1",
+          "apCost": 10,
+          "expGain": 100,
+          "goldGain": 1410,
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_01-01",
+        "occPer": 1,
+        "stage": {
+          "id": "main_01-01",
+          "name": "孤岛",
+          "code": "1-1",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 0,
+          "drops": [
+            {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
+            {"type": "MATERIAL", "id": "3131", "dropType": 1, "name": "基础加固建材"},
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-02",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-02",
+          "name": "迟缓-2",
+          "code": "S2-2",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 0,
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_02-07",
+        "occPer": 1,
+        "stage": {
+          "id": "main_02-07",
+          "name": "注意卫生",
+          "code": "2-7",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 0,
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_03-06",
+        "occPer": 1,
+        "stage": {
+          "id": "main_03-06",
+          "name": "决定",
+          "code": "3-6",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 0,
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-01",
+        "occPer": 1,
+        "stage": {
+          "id": "main_04-01",
+          "name": "免费拥抱",
+          "code": "4-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 0,
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_04-2-3",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_04-2-3",
+          "name": "多足-3",
+          "code": "S4-6",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 0,
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "GOLD",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "30011",
+    "name": "源岩",
+    "sortId": 37,
+    "rarity": 0,
+    "itemType": "MATERIAL",
+    "description": "富含有机物，常见于源石挥发殆尽后的地区。相对源石来说是较为容易采集的材料。",
+    "usage": "从地表开采出的岩石，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_01",
+        "occPer": 1,
+        "stage": {
+          "id": "a001_01",
+          "name": "日正当中",
+          "code": "GT-1",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {
+              "type": "FURN",
+              "id": "furni_pizza_exitIndicator_01",
+              "dropType": 1
+            },
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
+            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-05",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-05",
+          "name": "术师-1",
+          "code": "S2-5",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_00-09",
+        "occPer": 1,
+        "stage": {
+          "id": "main_00-09",
+          "name": "临光",
+          "code": "0-9",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
+          "drops": [
+            {"type": "MATERIAL", "id": "3003", "dropType": 1, "name": "赤金"},
+            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_G1",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30012",
+    "name": "固源岩",
+    "sortId": 36,
+    "rarity": 1,
+    "itemType": "MATERIAL",
+    "description": "内含有密集的微孔，常作为源石气体分解物的吸附剂。多用于防护夹层。",
+    "usage": "从地表开采出的岩石固块，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_01-07",
+        "occPer": 1,
+        "stage": {
+          "id": "main_01-07",
+          "name": "暴君",
+          "code": "1-7",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
+          "drops": [
+            {"type": "CHAR", "id": "char_278_orchid", "dropType": 1},
+            {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-12",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-12",
+          "name": "窒息-3",
+          "code": "S2-12",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "34",
+        "rarity": 0,
+        "itemId": "30012",
+        "count": 1,
+        "goldCost": 100,
+        "apCost": 360000,
+        "costs": [{"id": "30011", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "固源岩"
+      }
+    ],
+    "iconId": "MTL_SL_G2",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30013",
+    "name": "固源岩组",
+    "sortId": 35,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "固源岩的压缩定型产物，可自然形成。易碎，随着工业实力的提升，采集到更加完整的固源岩组已不成问题。只是在分类存放时容易和其它用途的石料搞混。",
+    "usage": "从地表开采出的岩石固块组，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_02-04",
+        "occPer": 4,
+        "stage": {
+          "id": "main_02-04",
+          "name": "企鹅物流",
+          "code": "2-4",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-06",
+        "occPer": 4,
+        "stage": {
+          "id": "main_04-06",
+          "name": "少见多怪",
+          "code": "4-6",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
+            {"type": "MATERIAL", "id": "30014", "dropType": 3, "name": "提纯源岩"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "35",
+        "rarity": 0,
+        "itemId": "30013",
+        "count": 1,
+        "goldCost": 200,
+        "apCost": 720000,
+        "costs": [{"id": "30012", "count": 5, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "固源岩组"
+      }
+    ],
+    "iconId": "MTL_SL_G3",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30014",
+    "name": "提纯源岩",
+    "sortId": 34,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "高度提纯后的源岩展现出了不同于原料的型态，其工艺消耗与提纯成本也急剧上升。无论是谁，看着规则的切割面都会不禁发出感慨吧。这就是工业与自然结合的魅力。",
+    "usage": "从地表开采出的岩石固块组提纯出的物质，可用于多种强化场合，也常作为制作聚合剂的原料之一。",
+    "drops": [
+      {
+        "stageId": "main_04-06",
+        "occPer": 5,
+        "stage": {
+          "id": "main_04-06",
+          "name": "少见多怪",
+          "code": "4-6",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
+            {"type": "MATERIAL", "id": "30014", "dropType": 3, "name": "提纯源岩"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "36",
+        "rarity": 0,
+        "itemId": "30014",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [{"id": "30013", "count": 4, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "提纯源岩"
+      }
+    ],
+    "iconId": "MTL_SL_G4",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30021",
+    "name": "代糖",
+    "sortId": 49,
+    "rarity": 0,
+    "itemType": "MATERIAL",
+    "description": "有着微弱的甜味，也许可以吃。同时其溶液也常用于化工用途。",
+    "usage": "机械化制作的廉价天然糖替代产物，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_02",
+        "occPer": 1,
+        "stage": {
+          "id": "a001_02",
+          "name": "察言观色",
+          "code": "GT-2",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {
+              "type": "FURN",
+              "id": "furni_pizza_brickWallSticker_01",
+              "dropType": 1
+            },
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
+            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-06",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-06",
+          "name": "术师-2",
+          "code": "S2-6",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_00-07",
+        "occPer": 1,
+        "stage": {
+          "id": "main_00-07",
+          "name": "感染",
+          "code": "0-7",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
+          "drops": [
+            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_STRG1",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30022",
+    "name": "糖",
+    "sortId": 48,
+    "rarity": 1,
+    "itemType": "MATERIAL",
+    "description": "使用自然原材制作的稍显贵重的糖料。啊啊，这个味道……会带来不错的好心情。不是用来当零食吃的。",
+    "usage": "机械化制作的少量糖块，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_03",
+        "occPer": 3,
+        "stage": {
+          "id": "a001_03",
+          "name": "意外之旅",
+          "code": "GT-3",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "CHAR", "id": "char_220_grani", "dropType": 1},
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
+            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_02-02",
+        "occPer": 2,
+        "stage": {
+          "id": "main_02-02",
+          "name": "兵不接刃",
+          "code": "2-2",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_03-1-1",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_03-1-1",
+          "name": "潜伏-1",
+          "code": "S3-1",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "31",
+        "rarity": 0,
+        "itemId": "30022",
+        "count": 1,
+        "goldCost": 100,
+        "apCost": 360000,
+        "costs": [{"id": "30021", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "糖"
+      }
+    ],
+    "iconId": "MTL_SL_STRG2",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30023",
+    "name": "糖组",
+    "sortId": 47,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "饱含能量、广受欢迎的糖块组合包。在被加工成化工材料之前，份量就总是有所减少。流水线上的员工们似乎脱不了干系。",
+    "usage": "机械化制作的中等量糖块，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_02-05",
+        "occPer": 4,
+        "stage": {
+          "id": "main_02-05",
+          "name": "高空坠物",
+          "code": "2-5",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-02",
+        "occPer": 4,
+        "stage": {
+          "id": "main_04-02",
+          "name": "雨中漫步",
+          "code": "4-2",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
+            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "32",
+        "rarity": 0,
+        "itemId": "30023",
+        "count": 1,
+        "goldCost": 200,
+        "apCost": 720000,
+        "costs": [{"id": "30022", "count": 4, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "糖组"
+      }
+    ],
+    "iconId": "MTL_SL_STRG3",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30024",
+    "name": "糖聚块",
+    "sortId": 46,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "充满诱惑力的精加工糖块堆，通常用于制备药剂。严禁在加工前偷吃！这不是一般的食品，也不会作为食品售卖！不会！",
+    "usage": "机械化制作的大量糖块，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_04-02",
+        "occPer": 5,
+        "stage": {
+          "id": "main_04-02",
+          "name": "雨中漫步",
+          "code": "4-2",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
+            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "33",
+        "rarity": 0,
+        "itemId": "30024",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30023", "count": 2, "type": "MATERIAL"},
+          {"id": "30043", "count": 1, "type": "MATERIAL"},
+          {"id": "30083", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "糖聚块"
+      }
+    ],
+    "iconId": "MTL_SL_STRG4",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30031",
+    "name": "酯原料",
+    "sortId": 45,
+    "rarity": 0,
+    "itemType": "MATERIAL",
+    "description": "近代工业中至关重要的材料之一，许多现代产品的诞生都归功于它的出现。当然了，这只是原料，几乎派不上什么大用场。",
+    "usage": "工业制造所需的酯原料，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_01",
+        "occPer": 1,
+        "stage": {
+          "id": "a001_01",
+          "name": "日正当中",
+          "code": "GT-1",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {
+              "type": "FURN",
+              "id": "furni_pizza_exitIndicator_01",
+              "dropType": 1
+            },
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
+            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-07",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-07",
+          "name": "术师-3",
+          "code": "S2-7",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_00-11",
+        "occPer": 1,
+        "stage": {
+          "id": "main_00-11",
+          "name": "突围",
+          "code": "0-11",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
+          "drops": [
+            {"type": "CHAR", "id": "char_208_melan", "dropType": 1},
+            {"type": "MATERIAL", "id": "3131", "dropType": 1, "name": "基础加固建材"},
+            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_RUSH1",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30032",
+    "name": "聚酸酯",
+    "sortId": 44,
+    "rarity": 1,
+    "itemType": "MATERIAL",
+    "description": "虽然强度上还略有不足，但已经可以用来制作我们所需要的部分基础物件。同时是一些缓释药物中的常用成分。",
+    "usage": "工业制造所需的零散聚酸酯，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_04",
+        "occPer": 3,
+        "stage": {
+          "id": "a001_04",
+          "name": "污点证人",
+          "code": "GT-4",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "FURN", "id": "furni_pizza_barStool_01", "dropType": 1},
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
+            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_01-08",
+        "occPer": 2,
+        "stage": {
+          "id": "main_01-08",
+          "name": "意志",
+          "code": "1-8",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
+            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_03-1-2",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_03-1-2",
+          "name": "潜伏-2",
+          "code": "S3-2",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "28",
+        "rarity": 0,
+        "itemId": "30032",
+        "count": 1,
+        "goldCost": 100,
+        "apCost": 360000,
+        "costs": [{"id": "30031", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "聚酸酯"
+      }
+    ],
+    "iconId": "MTL_SL_RUSH2",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30033",
+    "name": "聚酸酯组",
+    "sortId": 43,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "进一步加工后的材料，符合通用标准，能够满足市面上绝大多数的需求。可以用于加工一些特殊材料。",
+    "usage": "工业制造所需的一组聚酸酯，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_02-06",
+        "occPer": 4,
+        "stage": {
+          "id": "main_02-06",
+          "name": "握紧扶手",
+          "code": "2-6",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_03-08",
+        "occPer": 4,
+        "stage": {
+          "id": "main_03-08",
+          "name": "黄昏",
+          "code": "3-8",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
+            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+            {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "29",
+        "rarity": 0,
+        "itemId": "30033",
+        "count": 1,
+        "goldCost": 200,
+        "apCost": 720000,
+        "costs": [{"id": "30032", "count": 4, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "聚酸酯组"
+      }
+    ],
+    "iconId": "MTL_SL_RUSH3",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30034",
+    "name": "聚酸酯块",
+    "sortId": 42,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "精炼提纯后的材料。作为商品，主要面向的客户是对原材料有极高要求的组织和科研机构。也许会成为新一代材料的试金石也说不定哦。",
+    "usage": "工业制造所需的成块聚酸酯，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_03-08",
+        "occPer": 5,
+        "stage": {
+          "id": "main_03-08",
+          "name": "黄昏",
+          "code": "3-8",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
+            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+            {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "30",
+        "rarity": 0,
+        "itemId": "30034",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30033", "count": 2, "type": "MATERIAL"},
+          {"id": "30053", "count": 1, "type": "MATERIAL"},
+          {"id": "30073", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "聚酸酯块"
+      }
+    ],
+    "iconId": "MTL_SL_RUSH4",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30041",
+    "name": "异铁碎片",
+    "sortId": 53,
+    "rarity": 0,
+    "itemType": "MATERIAL",
+    "description": "大规模金属原料加工的副产物，因其可塑性强、难以被氧化的特性，常被用于材料金属熔炼与阶段性再处理。",
+    "usage": "普普通通的工业材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_01-03",
+        "occPer": 2,
+        "stage": {
+          "id": "main_01-03",
+          "name": "狂奔",
+          "code": "1-3",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
+          "drops": [
+            {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-08",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-08",
+          "name": "陷阱-1",
+          "code": "S2-8",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_IRON1",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30042",
+    "name": "异铁",
+    "sortId": 52,
+    "rarity": 1,
+    "itemType": "MATERIAL",
+    "description": "在少数惰化流程中，异铁碎片偶尔会产生相变，聚合为异铁。一般认为达到此量级的异铁产物才是异铁较为稳定的形态。",
+    "usage": "罕见的工业材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_03",
+        "occPer": 2,
+        "stage": {
+          "id": "a001_03",
+          "name": "意外之旅",
+          "code": "GT-3",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "CHAR", "id": "char_220_grani", "dropType": 1},
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
+            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_02-01",
+        "occPer": 3,
+        "stage": {
+          "id": "main_02-01",
+          "name": "龙门之行",
+          "code": "2-1",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_03-2-1",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_03-2-1",
+          "name": "侦察-1",
+          "code": "S3-3",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "25",
+        "rarity": 0,
+        "itemId": "30042",
+        "count": 1,
+        "goldCost": 100,
+        "apCost": 360000,
+        "costs": [{"id": "30041", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "异铁"
+      }
+    ],
+    "iconId": "MTL_SL_IRON2",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30043",
+    "name": "异铁组",
+    "sortId": 51,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "加工过程中，多块异铁在极少数非人为因素影响下，偶然产生的异铁组合，硬度下降，纯度进一步上升。",
+    "usage": "珍贵的工业材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_02-08",
+        "occPer": 4,
+        "stage": {
+          "id": "main_02-08",
+          "name": "不做约定",
+          "code": "2-8",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_04-1-1",
+        "occPer": 4,
+        "stage": {
+          "id": "sub_04-1-1",
+          "name": "晶簇-1",
+          "code": "S4-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
+            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "26",
+        "rarity": 0,
+        "itemId": "30043",
+        "count": 1,
+        "goldCost": 200,
+        "apCost": 720000,
+        "costs": [{"id": "30042", "count": 4, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "异铁组"
+      }
+    ],
+    "iconId": "MTL_SL_IRON3",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30044",
+    "name": "异铁块",
+    "sortId": 50,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "在极为苛刻的条件下，由多套异铁组熔铸成型的异铁块。已知异铁材料中最为稳定也最为稀少的形式，作为原材料，足以打破现有制品运用领域的疆界。",
+    "usage": "价值高昂的工业材料。可用于多种强化场合，也常作为制作聚合剂的原料之一。",
+    "drops": [
+      {
+        "stageId": "sub_04-1-1",
+        "occPer": 5,
+        "stage": {
+          "id": "sub_04-1-1",
+          "name": "晶簇-1",
+          "code": "S4-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
+            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "27",
+        "rarity": 0,
+        "itemId": "30044",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30043", "count": 2, "type": "MATERIAL"},
+          {"id": "30063", "count": 1, "type": "MATERIAL"},
+          {"id": "30033", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "异铁块"
+      }
+    ],
+    "iconId": "MTL_SL_IRON4",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30051",
+    "name": "双酮",
+    "sortId": 57,
+    "rarity": 0,
+    "itemType": "MATERIAL",
+    "description": "极少量的非单酮制剂，通过再处理后，工程干员将藉由其发生的化合反应转变过程中的固化现象，来粘结其它稳定结构。",
+    "usage": "极少量的工业用有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_01-06",
+        "occPer": 2,
+        "stage": {
+          "id": "main_01-06",
+          "name": "灾难",
+          "code": "1-6",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
+          "drops": [
+            {"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-09",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-09",
+          "name": "陷阱-2",
+          "code": "S2-9",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_KETONE1",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30052",
+    "name": "酮凝集",
+    "sortId": 56,
+    "rarity": 1,
+    "itemType": "MATERIAL",
+    "description": "经过特殊处理后产出的少量多态酮制剂，易于闭合的分子构造能将原本繁杂的处理工艺简化为单纯的化学反应，当然，也需要一定的技术支持。",
+    "usage": "少量的工业用有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_04",
+        "occPer": 2,
+        "stage": {
+          "id": "a001_04",
+          "name": "污点证人",
+          "code": "GT-4",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "FURN", "id": "furni_pizza_barStool_01", "dropType": 1},
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
+            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_03-07",
+        "occPer": 1,
+        "stage": {
+          "id": "main_03-07",
+          "name": "轰鸣",
+          "code": "3-7",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-01",
+        "occPer": 3,
+        "stage": {
+          "id": "sub_02-01",
+          "name": "迟缓-1",
+          "code": "S2-1",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "22",
+        "rarity": 0,
+        "itemId": "30052",
+        "count": 1,
+        "goldCost": 100,
+        "apCost": 360000,
+        "costs": [{"id": "30051", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "酮凝集"
+      }
+    ],
+    "iconId": "MTL_SL_KETONE2",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30053",
+    "name": "酮凝集组",
+    "sortId": 55,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "进一步脱烃处理后得到的中等量酮制剂。制剂接触空气后易与空气中的一些非氧分子发生反应。所以在处理过程中，工程干员理当精准操作，以免浪费材料。",
+    "usage": "中等量的工业用有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_03-01",
+        "occPer": 4,
+        "stage": {
+          "id": "main_03-01",
+          "name": "会合",
+          "code": "3-1",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-05",
+        "occPer": 4,
+        "stage": {
+          "id": "main_04-05",
+          "name": "官僚主义",
+          "code": "4-5",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "23",
+        "rarity": 0,
+        "itemId": "30053",
+        "count": 1,
+        "goldCost": 200,
+        "apCost": 720000,
+        "costs": [{"id": "30052", "count": 4, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "酮凝集组"
+      }
+    ],
+    "iconId": "MTL_SL_KETONE3",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30054",
+    "name": "酮阵列",
+    "sortId": 54,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "由工程干员严格监控的大量不稳定实验性酮制剂。是高级的工业材料之一，运用时也请多加小心。",
+    "usage": "大量的工业用有机化合物。可用于多种强化场合，也常作为制作聚合剂的原料之一。",
+    "drops": [
+      {
+        "stageId": "main_04-05",
+        "occPer": 5,
+        "stage": {
+          "id": "main_04-05",
+          "name": "官僚主义",
+          "code": "4-5",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "24",
+        "rarity": 0,
+        "itemId": "30054",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30053", "count": 2, "type": "MATERIAL"},
+          {"id": "30023", "count": 1, "type": "MATERIAL"},
+          {"id": "30083", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "酮阵列"
+      }
+    ],
+    "iconId": "MTL_SL_KETONE4",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30061",
+    "name": "破损装置",
+    "sortId": 41,
+    "rarity": 0,
+    "itemType": "MATERIAL",
+    "description": "一些残破的装置。这些装置曾被拼装在敌人的武器和防具上，经历了激烈的战斗后已经损坏，不过其内部元件依旧具备一定的使用价值。",
+    "usage": "收缴来的破损机械装置，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_02",
+        "occPer": 3,
+        "stage": {
+          "id": "a001_02",
+          "name": "察言观色",
+          "code": "GT-2",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {
+              "type": "FURN",
+              "id": "furni_pizza_brickWallSticker_01",
+              "dropType": 1
+            },
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
+            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_02-03",
+        "occPer": 1,
+        "stage": {
+          "id": "main_02-03",
+          "name": "无罪推定",
+          "code": "2-3",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_01-05",
+        "occPer": 3,
+        "stage": {
+          "id": "main_01-05",
+          "name": "麻痹",
+          "code": "1-5",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
+          "drops": [
+            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_BOSS1",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30062",
+    "name": "装置",
+    "sortId": 40,
+    "rarity": 1,
+    "itemType": "MATERIAL",
+    "description": "一套相对完整的装置，含有大量密集的可用电子元件。为了迎合轻便实用的设计，主板寸土寸金的空间被塞的满满当当。",
+    "usage": "收缴来的常规机械装置，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_01-12",
+        "occPer": 3,
+        "stage": {
+          "id": "main_01-12",
+          "name": "代价",
+          "code": "1-12",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
+          "drops": [
+            {"type": "CHAR", "id": "char_277_sqrrel", "dropType": 1},
+            {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_03-2-2",
+        "occPer": 2,
+        "stage": {
+          "id": "sub_03-2-2",
+          "name": "侦察-2",
+          "code": "S3-4",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "19",
+        "rarity": 0,
+        "itemId": "30062",
+        "count": 1,
+        "goldCost": 100,
+        "apCost": 360000,
+        "costs": [{"id": "30061", "count": 3, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "装置"
+      }
+    ],
+    "iconId": "MTL_SL_BOSS2",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30063",
+    "name": "全新装置",
+    "sortId": 39,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "一套全新装配而成的装置，通过重构同类型装置的结构，主板原本一直存在的空间紧张的问题得到了解决，当然启动时的能耗要求也变高了。",
+    "usage": "收缴来的全新机械装置，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_03-04",
+        "occPer": 4,
+        "stage": {
+          "id": "main_03-04",
+          "name": "龟裂",
+          "code": "3-4",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
+            {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-10",
+        "occPer": 4,
+        "stage": {
+          "id": "main_04-10",
+          "name": "灯火将熄",
+          "code": "4-10",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
+            {"type": "MATERIAL", "id": "30064", "dropType": 3, "name": "改量装置"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "20",
+        "rarity": 0,
+        "itemId": "30063",
+        "count": 1,
+        "goldCost": 200,
+        "apCost": 720000,
+        "costs": [{"id": "30062", "count": 4, "type": "MATERIAL"}],
+        "roomType": "WORKSHOP",
+        "item": "全新装置"
+      }
+    ],
+    "iconId": "MTL_SL_BOSS3",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30064",
+    "name": "改量装置",
+    "sortId": 38,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "经过大量私自改造的装置，是极大扩充了容量后的版本，大幅提升性能的同时牺牲了稳定性，从中能感受到制作者所投入的狂热与执着……",
+    "usage": "收缴来的高等机械装置，可用于多种强化场合，也常作为制作双极纳米片的原料之一。",
+    "drops": [
+      {
+        "stageId": "main_04-10",
+        "occPer": 5,
+        "stage": {
+          "id": "main_04-10",
+          "name": "灯火将熄",
+          "code": "4-10",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
+            {"type": "MATERIAL", "id": "30064", "dropType": 3, "name": "改量装置"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "21",
+        "rarity": 0,
+        "itemId": "30064",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30063", "count": 1, "type": "MATERIAL"},
+          {"id": "30013", "count": 2, "type": "MATERIAL"},
+          {"id": "30093", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "改量装置"
+      }
+    ],
+    "iconId": "MTL_SL_BOSS4",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30073",
+    "name": "扭转醇",
+    "sortId": 27,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "优秀的化工中介体，常在两种形状间转换以储存和放出传导物质。液化后与酒精在某些性质上十分相似，时常导致整个工作间醉醺醺的。",
+    "usage": "片状有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_05",
+        "occPer": 3,
+        "stage": {
+          "id": "a001_05",
+          "name": "各抒己见",
+          "code": "GT-5",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "FURN", "id": "furni_pizza_chair_L_01", "dropType": 1},
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-04",
+        "occPer": 4,
+        "stage": {
+          "id": "main_04-04",
+          "name": "不要恐慌",
+          "code": "4-4",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
+            {"type": "MATERIAL", "id": "30074", "dropType": 3, "name": "白马醇"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_02-09",
+        "occPer": 4,
+        "stage": {
+          "id": "main_02-09",
+          "name": "操作暗箱",
+          "code": "2-9",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_ALCOHOL1",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30074",
+    "name": "白马醇",
+    "sortId": 26,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "扭转醇精加工后的产物，名字来自发现其产出方式的厂家。实验结果表明，拥有在非常态环境中向更高级结构转化的趋势。",
+    "usage": "片状有机化合物。可用于多种强化场合，也常作为制作双极纳米片的原料之一。",
+    "drops": [
+      {
+        "stageId": "main_04-04",
+        "occPer": 5,
+        "stage": {
+          "id": "main_04-04",
+          "name": "不要恐慌",
+          "code": "4-4",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
+            {"type": "MATERIAL", "id": "30074", "dropType": 3, "name": "白马醇"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "18",
+        "rarity": 0,
+        "itemId": "30074",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30073", "count": 1, "type": "MATERIAL"},
+          {"id": "30023", "count": 1, "type": "MATERIAL"},
+          {"id": "30103", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "白马醇"
+      }
+    ],
+    "iconId": "MTL_SL_ALCOHOL2",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30083",
+    "name": "轻锰矿",
+    "sortId": 29,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "用以产出极为泛用的工业催化剂的金属矿物。再加工过程十分复杂，因不规范操作而导致事故的例子比比皆是。",
+    "usage": "用于提炼冶炼用的金属矿物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_03-02",
+        "occPer": 4,
+        "stage": {
+          "id": "main_03-02",
+          "name": "记忆",
+          "code": "3-2",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-07",
+        "occPer": 4,
+        "stage": {
+          "id": "main_04-07",
+          "name": "各取所需",
+          "code": "4-7",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
+            {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
+            {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_MANGANESE1",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30084",
+    "name": "三水锰矿",
+    "sortId": 28,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "少有厂家愿意用于生产工业催化剂的珍贵金属矿物。所制催化剂寿命极长，能够多次反复利用并汽提再生，然而复杂的加工工序令多数厂商望而却步。",
+    "usage": "用于提炼冶炼用的金属矿物。可用于多种强化场合，也常作为制作D32钢的原料之一。",
+    "drops": [
+      {
+        "stageId": "main_04-07",
+        "occPer": 5,
+        "stage": {
+          "id": "main_04-07",
+          "name": "各取所需",
+          "code": "4-7",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
+            {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
+            {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "17",
+        "rarity": 0,
+        "itemId": "30084",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30083", "count": 2, "type": "MATERIAL"},
+          {"id": "30033", "count": 1, "type": "MATERIAL"},
+          {"id": "30073", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "三水锰矿"
+      }
+    ],
+    "iconId": "MTL_SL_MANGANESE2",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30093",
+    "name": "研磨石",
+    "sortId": 31,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "不起爆、不粉化、不开裂，于零件加工工序中占有重要地位的工具材料。自然属性相当稳定。",
+    "usage": "用于加工武器零件的研磨石。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "a001_06",
+        "occPer": 4,
+        "stage": {
+          "id": "a001_06",
+          "name": "黄金三角",
+          "code": "GT-6",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "FURN", "id": "furni_pizza_chair_R_01", "dropType": 1},
+            {
+              "type": "ACTIVITY_COIN",
+              "id": "1stact",
+              "dropType": 2,
+              "name": "赏金猎人金币"
+            },
+            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-08",
+        "occPer": 4,
+        "stage": {
+          "id": "main_04-08",
+          "name": "应激反应",
+          "code": "4-8",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+            {"type": "MATERIAL", "id": "30094", "dropType": 3, "name": "五水研磨石"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_03-03",
+        "occPer": 4,
+        "stage": {
+          "id": "main_03-03",
+          "name": "回旋",
+          "code": "3-3",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_PG1",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30094",
+    "name": "五水研磨石",
+    "sortId": 30,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "相较普通研磨石，物质结构更加稳定的工具材料。极难与其它物质发生化学反应。",
+    "usage": "用于精加工武器零件的高级研磨石。可用于多种强化场合，也常作为制作D32钢的原料之一。",
+    "drops": [
+      {
+        "stageId": "main_04-08",
+        "occPer": 5,
+        "stage": {
+          "id": "main_04-08",
+          "name": "应激反应",
+          "code": "4-8",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+            {"type": "MATERIAL", "id": "30094", "dropType": 3, "name": "五水研磨石"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "16",
+        "rarity": 0,
+        "itemId": "30094",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30093", "count": 1, "type": "MATERIAL"},
+          {"id": "30043", "count": 1, "type": "MATERIAL"},
+          {"id": "30063", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "五水研磨石"
+      }
+    ],
+    "iconId": "MTL_SL_PG2",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30103",
+    "name": "RMA70-12",
+    "sortId": 33,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "自然态呈复杂多面体的矿物。在被发现其现代工业价值之前，就已经被发现了其在源石技艺施展中的价值。",
+    "usage": "一种敏感且有良好传导效果的矿物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_02-10",
+        "occPer": 4,
+        "stage": {
+          "id": "main_02-10",
+          "name": "病入膏肓",
+          "code": "2-10",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
+            {
+              "type": "MATERIAL",
+              "id": "30103",
+              "dropType": 2,
+              "name": "RMA70-12"
+            }
+          ]
+        }
+      },
+      {
+        "stageId": "main_04-09",
+        "occPer": 4,
+        "stage": {
+          "id": "main_04-09",
+          "name": "彻入骨髓",
+          "code": "4-9",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
+            {
+              "type": "MATERIAL",
+              "id": "30103",
+              "dropType": 2,
+              "name": "RMA70-12"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30104",
+              "dropType": 3,
+              "name": "RMA70-24"
+            }
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_RMA7012",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30104",
+    "name": "RMA70-24",
+    "sortId": 32,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "自然态呈复杂多面体的矿物。于1024年被发现，在庞大的工业体系中，展现出了在源石技艺体系内其他矿物不曾具备的巨大价值。",
+    "usage": "一种十分敏感且有优秀传导效果的矿物。可用于多种强化场合，也常作为制作D32钢的原料之一。",
+    "drops": [
+      {
+        "stageId": "main_04-09",
+        "occPer": 5,
+        "stage": {
+          "id": "main_04-09",
+          "name": "彻入骨髓",
+          "code": "4-9",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
+            {
+              "type": "MATERIAL",
+              "id": "30103",
+              "dropType": 2,
+              "name": "RMA70-12"
+            },
+            {
+              "type": "MATERIAL",
+              "id": "30104",
+              "dropType": 3,
+              "name": "RMA70-24"
+            }
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "formulaId": "15",
+        "rarity": 0,
+        "itemId": "30104",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30103", "count": 1, "type": "MATERIAL"},
+          {"id": "30013", "count": 2, "type": "MATERIAL"},
+          {"id": "30053", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "RMA70-24"
+      }
+    ],
+    "iconId": "MTL_SL_RMA7024",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30115",
+    "name": "聚合剂",
+    "sortId": 25,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "精密穿戴着装中常用的材料。多作为隔绝涂层使用。强大的聚合粘接效果足以阻断源石的挥发。",
+    "usage": "复杂的液态工业产物。用于高级强化场合。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "14",
+        "rarity": 0,
+        "itemId": "30115",
+        "count": 1,
+        "goldCost": 400,
+        "apCost": 2880000,
+        "costs": [
+          {"id": "30014", "count": 1, "type": "MATERIAL"},
+          {"id": "30044", "count": 1, "type": "MATERIAL"},
+          {"id": "30054", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "聚合剂"
+      }
+    ],
+    "iconId": "MTL_SL_PP",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30125",
+    "name": "双极纳米片",
+    "sortId": 24,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "对范围内源石敏感的装置。能有效提升源石附近范围内作战武器和设备对源石的敏感性，使源石技艺的存储几近可能。",
+    "usage": "现代工业的创造力结晶。用于高级强化场合。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "13",
+        "rarity": 0,
+        "itemId": "30125",
+        "count": 1,
+        "goldCost": 400,
+        "apCost": 2880000,
+        "costs": [
+          {"id": "30064", "count": 1, "type": "MATERIAL"},
+          {"id": "30074", "count": 2, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "双极纳米片"
+      }
+    ],
+    "iconId": "MTL_SL_BN",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "30135",
+    "name": "D32钢",
+    "sortId": 23,
+    "rarity": 4,
+    "itemType": "MATERIAL",
+    "description": "强度超群，无法击穿，顺畅传导源石技艺，将重新订立武器材料的标准。",
+    "usage": "自然界中不应存在的人造金属材料，呈固态。用于高级强化场合。",
+    "drops": [],
+    "buildings": [
+      {
+        "formulaId": "12",
+        "rarity": 0,
+        "itemId": "30135",
+        "count": 1,
+        "goldCost": 400,
+        "apCost": 2880000,
+        "costs": [
+          {"id": "30084", "count": 1, "type": "MATERIAL"},
+          {"id": "30094", "count": 1, "type": "MATERIAL"},
+          {"id": "30104", "count": 1, "type": "MATERIAL"}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "D32钢"
+      }
+    ],
+    "iconId": "MTL_SL_DS",
+    "isChip": false,
+    "isMaterial": true
+  },
+  {
+    "id": "32001",
+    "name": "芯片助剂",
+    "sortId": 73,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "价值高，产量小，让工程干员头疼。",
+    "usage": "工业生产中，制造芯片时使用的催化剂。合成双芯片的必备材料。",
+    "drops": [],
+    "buildings": [],
+    "iconId": "MTL_ASC_DI",
+    "isChip": false,
+    "isMaterial": false
+  }
+]

@@ -5,6 +5,8 @@ import Counter from '../../components/counter';
 
 import './MaterialGroup.scss';
 
+const storeIds = Material.storeIds;
+
 class MaterialGroup extends React.Component {
 
   static defaultProps = {
@@ -25,7 +27,7 @@ class MaterialGroup extends React.Component {
     return (
       <div className="material-group">
         <h3>{data.name}</h3>
-        {data.mas.map((ma, index) => <MaterialCard key={index} id={ma} exi={0} req={2} />)}
+        {storeIds.map((id, index) => <MaterialCard key={index} id={id} exi={0} req={2} />)}
       </div>
     );
   }
@@ -36,8 +38,8 @@ class MaterialCard extends React.Component {
     const { id, req } = this.props;
     return (
       <Card className="material-card">
-        <Material id={id} noName={true} />
-        <Counter value={req} name="需要"/>
+        <Material id={id} />
+        <Counter value={req} name="Require"/>
       </Card>
     );
   }

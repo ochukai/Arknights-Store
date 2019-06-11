@@ -105,7 +105,7 @@ function isValidSortId(sortId = -1) {
 
 function isValidItemId(itemId) {
   const invalidIds = [
-    '4001', // 龙门币
+    // '4001', // 龙门币
     '4002', // 源石
     '4003',
     '3141',
@@ -117,14 +117,14 @@ function isValidItemId(itemId) {
     '7001',
     '7002',
     '3401',
-    '3003',
     '3105', // 龙骨
-    '3133',
-    '3132',
-    '3131',
-    '3114',
-    '3113',
-    '3112',
+    // '3003',
+    // '3133',
+    // '3132',
+    // '3131',
+    // '3114',
+    // '3113',
+    // '3112',
   ];
 
   return !invalidIds.includes(itemId);
@@ -151,6 +151,7 @@ function parseItems() {
       itemType,
       description,
       usage,
+      iconId,
       stageDropList = [],
       buildingProductList = []
     } = item;
@@ -182,6 +183,8 @@ function parseItems() {
     }
 
     buildings = buildings.filter(b => b);
+    const path = `require('../icons/${iconId}.png')`;
+    iconList[iconId] = path;
 
     result.push({
       id: itemId,
@@ -193,6 +196,7 @@ function parseItems() {
       usage,
       drops: stageDropList,
       buildings,
+      iconId,
       isChip: isChip(sortId),
       isMaterial: isMaterial(sortId),
     });
@@ -255,6 +259,7 @@ const itemArr = itemKeys.map(key => items[key]);
 const formulas = parseFormulas();
 const stageMaps = parseStages();
 
+const iconList = {};
 const allItems = parseItems();
 // fillItems(allItems);
 
@@ -265,6 +270,12 @@ const storeItems = parseStoreItems();
 const itemDir = path.join(__dirname, 'items');
 fs.ensureDirSync(itemDir);
 fs.emptyDirSync(itemDir);
+
+writeFile(itemDir, 'icons.js', iconList, (value) => {
+  value = value.replace(/\"require/ig, 'require');
+  value = value.replace(/\)\"/ig, ')');
+  return `export const iconMaps = ${value}`;
+});
 
 writeFile(itemDir, 'formulas.json', formulas);
 writeFile(itemDir, 'stages.json', stageMaps);

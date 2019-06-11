@@ -12,6 +12,13 @@ export default class AKEnemys extends React.Component {
         title: '名称',
         key: 'name',
         dataIndex: 'name',
+        sortable: true,
+      },
+      {
+        title: 'Level',
+        key: 'level',
+        dataIndex: 'level',
+        sortable: true,
       },
       {
         title: '血量',

@@ -1,24 +1,70 @@
 .oli-material {
   position: relative;
-  display: inline-block;
   width: 80px;
   height: 80px;
-  padding: 10px;
-  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  background-size: 95%;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  &.rarity-0 {
+    // background-color: #fff;
+    // border-radius: 50%;
+    // width: 60px;
+    // height: 60px;
+
+    img {
+      max-width: 80%;
+      max-height: 80%;
+    }
+  }
+
+  &.rarity-1 {
+    background-image: url(./icons/T5back.png);
+  }
+
+  &.rarity-2 {
+    background-image: url(./icons/T4back.png);
+  }
+
+  &.rarity-3 {
+    background-image: url(./icons/T3back.png);
+  }
+
+  &.rarity-4 {
+    background-image: url(./icons/T2back.png);
+  }
+
+  &.rarity-5 {
+    background-image: url(./icons/T1back.png);
+  }
+
+  &.no-bg {
+    background-image: none;
+  }
 
   img {
-    width: 100%;
-    border-radius: 50%;
-    box-shadow: 0 1px 5px #333;
+    max-width: 90%;
+    max-height: 90%;
     user-select: none;
     margin: 0;
     padding: 0;
+    // display: none;
   }
 
-  p {
-    color: #000;
+  span.count {
+    position: absolute;
+    background-color: rgba(0,0,0,.5);
+    color: #eee;
     font-size: 12px;
-    text-shadow: 0 0 1px #888;
-    margin: 0;
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    padding: 0 6px;
+    bottom: 10px;
+    right: 10px;
   }
 }

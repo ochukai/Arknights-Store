@@ -1,10 +1,8 @@
 import React from 'react';
 import classNames from 'classnames';
 
-import { byId, imageList } from './data/akmaterial';
+import { storeIds, byId, iconMaps } from './data';
 import './index.scss';
-
-import '../../assets/images/material/0.png';
 
 export default class Material extends React.Component {
 
@@ -12,29 +10,41 @@ export default class Material extends React.Component {
     id: 0
   };
 
+  static getDerivedStateFromProps(nextProps) {
+    const newState = {};
+    if (nextProps.id) {
+      const item = byId(nextProps.id);
+      if (item) {
+        const { iconId } = item;
+        newState.image = iconMaps[iconId];
+        newState.item = item;
+      }
+    }
+
+    return newState;
+  }
+
   constructor(props) {
     super(props);
 
-    const { id } = props;
-    const cur = byId(id);
-    const image = imageList[id];
-
-    this.state = {
-      image,
-      ma: cur
-    };
+    this.state = {};
   }
 
   render() {
-    const { noName } = this.props;
-    const { ma, image } = this.state;
+    const { item, image } = this.state;
+    if (!item) {
+      return <span>error</span>;
+    }
 
-    const maClazz = classNames('oli-material');
+    const { name, rarity } = item;
+    const maClazz = classNames('oli-material', `rarity-${rarity}`);
     return (
       <div className={maClazz}>
-        <img src={image} alt={ma.name} title={ma.name} />
-        { !noName && <p>{ma.name}</p> }
+        <img src={image} alt={name} title={name} />
+        <span className="count">12</span>
       </div>
     );
   }
 }
+
+Material.storeIds = storeIds();

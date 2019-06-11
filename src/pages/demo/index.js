@@ -1,5 +1,4 @@
 import React from 'react';
-import _ from 'underscore';
 
 import './index.scss';
 
@@ -37,7 +36,7 @@ class Demo extends React.Component {
   render() {
     const { drawerOpen } = this.state;
 
-    const materialSequence = _.range(35);
+    const materialSequence = Material.storeIds;
 
     const dataSource = [
       {
@@ -174,7 +173,9 @@ class Demo extends React.Component {
             {/* <Counter name="已有" /> */}
 
             <h2>Material</h2>
-            {materialSequence.map(num => <Material key={num} id={num} />)}
+            <div className="matrial-wrapper">
+              {materialSequence.map(num => <Material key={num} id={num} />)}
+            </div>
           </Layout.Content>
         </Layout>
 
