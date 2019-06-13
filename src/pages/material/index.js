@@ -1,16 +1,29 @@
-import React from 'react';
-import MaterialGroup from './MaterialGroup';
-import { category } from '../../components/material/types';
-
+import React, { Component } from 'react';
 import './index.scss';
 
-export default class AkMaterial extends React.Component {
+import classNames from 'classnames';
+
+export default class AKMaterial extends Component {
+
+  static defaultProps = {
+
+  };
+
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
   render() {
-    const cgs = category;
+    const {
+      className
+    } = this.props;
+
+    const clazz= classNames('oli-material', className);
 
     return (
-      <div className="material-wrapper">
-        {cgs.map((cg, index) => <MaterialGroup key={index} data={cg} />)}
+      <div className={clazz}>
+        Material
       </div>
     );
   }

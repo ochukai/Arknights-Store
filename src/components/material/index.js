@@ -7,7 +7,7 @@ import './index.scss';
 export default class Material extends React.Component {
 
   static defaultProps = {
-    id: 0
+    id: 0,
   };
 
   static getDerivedStateFromProps(nextProps) {
@@ -36,12 +36,17 @@ export default class Material extends React.Component {
       return <span>error</span>;
     }
 
+    const { count } = this.props;
     const { name, rarity } = item;
     const maClazz = classNames('oli-material', `rarity-${rarity}`);
     return (
       <div className={maClazz}>
         <img src={image} alt={name} title={name} />
-        <span className="count">12</span>
+        {
+          !('noCount' in this.props) && (
+            <span className="count">{count}</span>
+          )
+        }
       </div>
     );
   }

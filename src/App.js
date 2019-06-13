@@ -7,6 +7,7 @@ import { Layout, Menu } from './components';
 
 import Demo from './pages/demo';
 import AkMaterial from './pages/material';
+import AKStore from './pages/store';
 import AKEnemys from './pages/enemys';
 
 const MenuItem = Menu.Item;
@@ -43,6 +44,7 @@ class App extends React.Component {
             <Route exact path="/" component={Index} />
             <Route exact path="/demo" component={Demo} />
             <Route path="/material" component={AkMaterial} />
+            <Route path="/store" component={AKStore} />
             <Route path="/enemys" component={AKEnemys} />
           </Content>
         </Layout>

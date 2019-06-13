@@ -11,7 +11,7 @@ export default class Counter extends Component {
   static defaultProps = {
     value: 0, // default value
     min: 0,
-    max: 99,
+    max: 999,
     gap: 1, // 每次加减多少，默认 1
   };
 
@@ -25,6 +25,7 @@ export default class Counter extends Component {
 
     this.state = {
       value: defaultValue,
+      hover: false,
     };
   }
 
@@ -37,12 +38,12 @@ export default class Counter extends Component {
     return value >= min && value <= max;
   }
 
-  handleValueChange = (type) => {
+  handleValueChange = (type, rate = 1) => {
     const { value } = this.state;
     const { gap } = this.props;
     const newValue = type === 1
-      ? value + gap
-      : value - gap;
+      ? value + gap * rate
+      : value - gap * rate;
 
     if (this.isValid(newValue)) {
       this.setState({
@@ -59,37 +60,72 @@ export default class Counter extends Component {
     this.handleValueChange(2);
   };
 
+  handlePlusTenClick = () => {
+    this.handleValueChange(1, 10);
+  };
+
+  handleMinusTenClick = () => {
+    this.handleValueChange(2, 10);
+  };
+
+  handleMouseEnter = () => {
+    this.setState({hover: true});
+  };
+
+  handleMouseLeave = () => {
+    this.setState({hover: false});
+  };
+
   render() {
-    const { name } = this.props;
-    const { value } = this.state;
+    const { value, hover } = this.state;
     const counterClazz = classNames({
       'oli-counter': true,
     });
 
     return (
-      <div className={counterClazz}>
+      <div
+        className={counterClazz}
+        onMouseEnter={this.handleMouseEnter}
+        onMouseLeave={this.handleMouseLeave}
+      >
+        {
+          hover && (
+            <div className="top fadeInDown animated">
+              <Button
+                icon="plus"
+                size="xs"
+                onClick={this.handlePlusClick}
+              />
+              <Button
+                icon="plus"
+                size="xs"
+                onClick={this.handlePlusTenClick}
+              >10</Button>
+            </div>
+          )
+        }
+
         <div className="value-control">
           <span>{value}</span>
-          <Button
-            className="left"
-            icon="plus"
-            size="xs"
-            round="true"
-            onClick={this.handlePlusClick}
-          />
-          <Button
-            className="right"
-            icon="minus"
-            size="xs"
-            round="true"
-            onClick={this.handleMinusClick}
-          />
         </div>
-        <div className="label">
-          <span>{name}</span>
-        </div>
+
+        {
+          hover && (
+            <div className="bottom fadeInUp animated">
+              <Button
+                icon="minus"
+                size="xs"
+                onClick={this.handleMinusClick}
+              />
+              <Button
+                icon="minus"
+                size="xs"
+                onClick={this.handleMinusTenClick}
+              >10</Button>
+            </div>
+          )
+        }
       </div>
     );
-
   }
 }

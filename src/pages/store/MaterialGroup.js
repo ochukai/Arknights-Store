@@ -1,11 +1,10 @@
 import React from 'react';
+
 import Card from '../../components/card';
 import Material from '../../components/material';
 import Counter from '../../components/counter';
 
 import './MaterialGroup.scss';
-
-const storeIds = Material.storeIds;
 
 class MaterialGroup extends React.Component {
 
@@ -27,7 +26,7 @@ class MaterialGroup extends React.Component {
     return (
       <div className="material-group">
         <h3>{data.name}</h3>
-        {storeIds.map((id, index) => <MaterialCard key={index} id={id} exi={0} req={2} />)}
+        {data.mas.map((id, index) => <MaterialCard key={index} id={`${id}`} req={0} />)}
       </div>
     );
   }
@@ -38,7 +37,7 @@ class MaterialCard extends React.Component {
     const { id, req } = this.props;
     return (
       <Card className="material-card">
-        <Material id={id} />
+        <Material id={id} noCount />
         <Counter value={req} name="Require"/>
       </Card>
     );
