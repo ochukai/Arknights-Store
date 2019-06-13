@@ -6,7 +6,7 @@ import classNames from 'classnames';
 export default class Card extends Component {
 
   static defaultProps = {
-    width: 300, // default width
+    // width: 300, // default width
   };
 
   constructor(props) {
@@ -16,16 +16,16 @@ export default class Card extends Component {
 
   render() {
     const {
-      width,
       className,
       children
     } = this.props;
 
     const cardClazz = classNames('oli-card', className);
 
-    const cardStyle = {
-      width,
-    };
+    const cardStyle = {};
+    if ('width' in this.props) {
+      cardStyle.width = this.props.width;
+    }
 
     return (
       <div className={cardClazz} style={cardStyle}>

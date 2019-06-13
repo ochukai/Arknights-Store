@@ -4,13 +4,12 @@
   display: inline-flex;
   align-content: center;
   justify-content: flex-start;
-  min-width: 650px;
+  min-width: 400px;
 
   h3 {
     margin: 0;
     width: 1em;
     padding: 0;
-    font-size: 14px;
     height: 100%;
     text-align: center;
     display: inline-block;
@@ -26,10 +25,11 @@
 }
 
 .material-card {
-  width: 150px !important;
-  padding: 2px 0;
+  width: auto;
+  padding: 4px 5px;
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
   align-content: center;
   align-items: center;
   justify-content: center;

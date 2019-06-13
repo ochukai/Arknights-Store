@@ -174,7 +174,7 @@ class Demo extends React.Component {
 
             <h2>Material</h2>
             <div className="matrial-wrapper">
-              {materialSequence.map(num => <Material key={num} id={num} />)}
+              {materialSequence.map(num => <Material key={num} id={num} count={8} />)}
             </div>
           </Layout.Content>
         </Layout>
