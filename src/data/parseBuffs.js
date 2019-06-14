@@ -81,5 +81,4 @@ const curDir = path.join(__dirname, 'char');
 fs.ensureDir(curDir);
 
 const data = parseCharBuffs();
-
 writeFile(curDir, 'buffs.json', data);
