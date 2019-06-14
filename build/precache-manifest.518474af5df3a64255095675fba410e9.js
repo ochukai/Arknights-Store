@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ba96fd37c2dc5e9783e8fe12ce57180",
+    "revision": "17cb78c35bd0eaa097ac415321742579",
     "url": "/ak/build/index.html"
   },
   {
-    "revision": "b1a82f7050971c3ccd8b",
-    "url": "/ak/build/static/css/main.467715dc.chunk.css"
+    "revision": "0d56f152ca1a98b966cb",
+    "url": "/ak/build/static/css/main.35620974.chunk.css"
   },
   {
-    "revision": "6525f7ea3c96c5bf409c",
-    "url": "/ak/build/static/js/2.eb73b94d.chunk.js"
+    "revision": "a3de888aeb7cbc757aad",
+    "url": "/ak/build/static/js/2.2331d84c.chunk.js"
   },
   {
-    "revision": "b1a82f7050971c3ccd8b",
-    "url": "/ak/build/static/js/main.a98fa6d3.chunk.js"
+    "revision": "0d56f152ca1a98b966cb",
+    "url": "/ak/build/static/js/main.07ff4ec6.chunk.js"
   },
   {
     "revision": "813202cc6ef961b240a9",
@@ -316,12 +316,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ak/build/static/media/iconfont.19254560.ttf"
   },
   {
-    "revision": "a0a02b63971500b4676d1fb8802a112a",
-    "url": "/ak/build/static/media/iconfont.a0a02b63.eot"
+    "revision": "5991a4a4687420ff1f75f31fd2366973",
+    "url": "/ak/build/static/media/iconfont.5991a4a4.svg"
   },
   {
-    "revision": "e1c681cd2340aeee3ff00c757349dc81",
-    "url": "/ak/build/static/media/iconfont.e1c681cd.svg"
+    "revision": "a0a02b63971500b4676d1fb8802a112a",
+    "url": "/ak/build/static/media/iconfont.a0a02b63.eot"
   },
   {
     "revision": "ede2a65d179dd438a4a48689eb536b64",
