@@ -74,8 +74,7 @@ export default class AKBuffs extends React.Component {
               const groupData = groups[room];
               return (
                 <React.Fragment key={room}>
-                  <h2>{room}</h2>
-                  <Table dataSource={groupData} columns={columns} />
+                  <Table dataSource={groupData} columns={columns} header={<h2>{room}</h2>} />
                 </React.Fragment>
               );
             })

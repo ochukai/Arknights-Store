@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to ak-store 👋</h1>
 <p>
-  <img src="https://img.shields.io/badge/version-0.5.0-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/version-0.6.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > 震惊！明日方舟仓库上线了

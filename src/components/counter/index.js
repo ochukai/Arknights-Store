@@ -19,23 +19,28 @@ export default class Counter extends Component {
     super(props);
 
     const { value } = this.props;
-    const defaultValue = !_.isUndefined(value) && this.isValid(value)
-      ? value
-      : 0;
-
+    const defaultValue = !_.isUndefined(value) && this.check(value);
     this.state = {
       value: defaultValue,
       hover: false,
     };
   }
 
-  isValid(value) {
+  check(value) {
     const { min, max } = this.props;
     if (!_.isNumber(value)) {
-      return false;
+      return 0;
     }
 
-    return value >= min && value <= max;
+    if (value > max) {
+      return max;
+    }
+
+    if (value < min) {
+      return min;
+    }
+
+    return value;
   }
 
   handleValueChange = (type, rate = 1) => {
@@ -45,10 +50,15 @@ export default class Counter extends Component {
       ? value + gap * rate
       : value - gap * rate;
 
-    if (this.isValid(newValue)) {
+    const checkedValue = this.check(newValue);
+    if (checkedValue !== value) {
       this.setState({
-        value: newValue
-      })
+        value: checkedValue
+      }, () => {
+        if (this.props.onChange) {
+          this.props.onChange(checkedValue);
+        }
+      });
     }
   };
 

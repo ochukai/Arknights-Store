@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17cb78c35bd0eaa097ac415321742579",
+    "revision": "8a2a75c8eee77984e17e7ff3f1c5bf8e",
     "url": "/ak/build/index.html"
   },
   {
-    "revision": "0d56f152ca1a98b966cb",
-    "url": "/ak/build/static/css/main.35620974.chunk.css"
+    "revision": "98b38920ab1f446e9af5",
+    "url": "/ak/build/static/css/main.4dd19f3d.chunk.css"
   },
   {
-    "revision": "a3de888aeb7cbc757aad",
-    "url": "/ak/build/static/js/2.2331d84c.chunk.js"
+    "revision": "6d10ba02c3ceb596c97d",
+    "url": "/ak/build/static/js/2.4a8ba2b5.chunk.js"
   },
   {
-    "revision": "0d56f152ca1a98b966cb",
-    "url": "/ak/build/static/js/main.07ff4ec6.chunk.js"
+    "revision": "98b38920ab1f446e9af5",
+    "url": "/ak/build/static/js/main.9c1eb9a7.chunk.js"
   },
   {
     "revision": "813202cc6ef961b240a9",
@@ -308,20 +308,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ak/build/static/media/T5back.4d459231.png"
   },
   {
-    "revision": "b7b367b22905c1a068ef497d993179f3",
-    "url": "/ak/build/static/media/bk.b7b367b2.jpg"
-  },
-  {
     "revision": "19254560cbdc7d5431ed3d9cc318b305",
     "url": "/ak/build/static/media/iconfont.19254560.ttf"
   },
   {
-    "revision": "5991a4a4687420ff1f75f31fd2366973",
-    "url": "/ak/build/static/media/iconfont.5991a4a4.svg"
-  },
-  {
     "revision": "a0a02b63971500b4676d1fb8802a112a",
     "url": "/ak/build/static/media/iconfont.a0a02b63.eot"
+  },
+  {
+    "revision": "e1c681cd2340aeee3ff00c757349dc81",
+    "url": "/ak/build/static/media/iconfont.e1c681cd.svg"
   },
   {
     "revision": "ede2a65d179dd438a4a48689eb536b64",

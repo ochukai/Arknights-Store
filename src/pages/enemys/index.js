@@ -67,7 +67,7 @@ export default class AKEnemys extends React.Component {
     return (
       <Layout className="enemy-wrapper" hasSider={true}>
         <Layout.Content>
-          <Table dataSource={enemys} columns={columns} size="small" />
+          <Table dataSource={enemys} columns={columns} />
         </Layout.Content>
         <Layout.Sider width={400}>
           <div style={{padding: '0 20px'}}>

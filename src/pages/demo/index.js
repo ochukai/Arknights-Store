@@ -106,7 +106,7 @@ class Demo extends React.Component {
         <h1>Component Demo</h1>
 
         <Layout hasSider={true}>
-          <Layout.Sider width={500}>
+          <Layout.Sider width={300}>
             <h2>Tree</h2>
             <Tree data={treeData} />
           </Layout.Sider>

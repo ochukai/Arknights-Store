@@ -183,7 +183,7 @@ function parseItems() {
     }
 
     buildings = buildings.filter(b => b);
-    const path = `require('../icons/${iconId}.png')`;
+    const path = `require('../../assets/icons/${iconId}.png')`;
     iconList[iconId] = path;
 
     result.push({
@@ -277,7 +277,11 @@ writeFile(itemDir, 'icons.js', iconList, (value) => {
   return `export const iconMaps = ${value}`;
 });
 
+
+const materialItems = allItems.filter(ai => isMaterial(ai.sortId));
+
 writeFile(itemDir, 'formulas.json', formulas);
 writeFile(itemDir, 'stages.json', stageMaps);
 writeFile(itemDir, 'items.json', allItems);
 writeFile(itemDir, 'store_items.json', storeItems);
+writeFile(itemDir, 'material_items.json', _.sortBy(materialItems, 'sortId'));
