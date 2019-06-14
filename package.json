@@ -42,6 +42,7 @@
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1",
     "source-map-explorer": "^1.8.0",
+    "store": "^2.0.12",
     "underscore": "^1.9.1",
     "uuid": "^3.3.2"
   },
