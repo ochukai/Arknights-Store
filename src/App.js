@@ -9,6 +9,7 @@ import Demo from './pages/demo';
 import AkMaterial from './pages/material';
 import AKStore from './pages/store';
 import AKEnemys from './pages/enemys';
+import AKBuffs from './pages/buffs';
 
 const MenuItem = Menu.Item;
 const Header = Layout.Header;
@@ -36,6 +37,9 @@ class App extends React.Component {
                 <Link to="/enemys">敌人信息</Link>
               </MenuItem>
               <MenuItem>
+                <Link to="/buffs">基建技能</Link>
+              </MenuItem>
+              <MenuItem>
                 <Link to="/demo">组件展示</Link>
               </MenuItem>
             </Menu>
@@ -45,6 +49,7 @@ class App extends React.Component {
             <Route exact path="/demo" component={Demo} />
             <Route path="/material" component={AkMaterial} />
             <Route path="/store" component={AKStore} />
+            <Route path="/buffs" component={AKBuffs} />
             <Route path="/enemys" component={AKEnemys} />
           </Content>
         </Layout>

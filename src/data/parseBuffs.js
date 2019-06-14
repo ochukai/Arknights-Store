@@ -1,5 +1,7 @@
 const buildings = require('./original/building_data.json');
 const { charMaps } = require('./parseCharacter');
+const { filterHtmlTag } = require('./util/filterHtmlTag');
+const uuid = require('uuid');
 
 const { rooms, chars, buffs } = buildings;
 
@@ -35,7 +37,7 @@ function parseBuffs() {
       bgColor: buffColor,
       color: textColor,
       room: room.name,
-      description,
+      description: filterHtmlTag(description),
     }
   });
 
@@ -67,7 +69,8 @@ function parseCharBuffs() {
           ...buffEntity,
           phase: phaseMaps[cond.phase],
           level: cond.level,
-          char: character.name
+          char: character.name,
+          id: uuid.v4()
         });
       });
     });
