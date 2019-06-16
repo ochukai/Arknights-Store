@@ -8,6 +8,7 @@ export default class Material extends React.Component {
 
   static defaultProps = {
     id: 0,
+    size: 70
   };
 
   static getDerivedStateFromProps(nextProps) {
@@ -36,11 +37,16 @@ export default class Material extends React.Component {
       return <span>error</span>;
     }
 
-    const { count } = this.props;
+    const { count, size } = this.props;
     const { name, rarity } = item;
     const maClazz = classNames('oli-material', `rarity-${rarity}`);
+    const style = {
+      width: size,
+      height: size,
+    };
+
     return (
-      <div className={maClazz}>
+      <div className={maClazz} style={style}>
         <img src={image} alt={name} title={name} />
         {
           !('noCount' in this.props) && (

@@ -62,19 +62,23 @@ export default class Counter extends Component {
     }
   };
 
-  handlePlusClick = () => {
+  handlePlusClick = (e) => {
+    e.stopPropagation();
     this.handleValueChange(1);
   };
 
-  handleMinusClick = () => {
+  handleMinusClick = (e) => {
+    e.stopPropagation();
     this.handleValueChange(2);
   };
 
-  handlePlusTenClick = () => {
+  handlePlusTenClick = (e) => {
+    e.stopPropagation();
     this.handleValueChange(1, 10);
   };
 
-  handleMinusTenClick = () => {
+  handleMinusTenClick = (e) => {
+    e.stopPropagation();
     this.handleValueChange(2, 10);
   };
 

@@ -21,9 +21,20 @@ export default class TreeNode extends Component {
     this.state = { };
   }
 
-  handleSwitchIconClick = () => {
-    const { oliTreeNodeId } = this.props;
-    this.changeExpandKeys(oliTreeNodeId);
+  handleSwitchIconClick = (e) => {
+    e.stopPropagation();
+
+    const { item } = this.props;
+    this.changeExpandKeys(item[this.idProp], item);
+  };
+
+  handleClick = (e) => {
+    e.stopPropagation();
+
+    const { item } = this.props;
+    this.clickToExpand
+      ? this.handleSwitchIconClick(e)
+      : this.handleTreeNodeClick(item);
   };
 
   renderChildren(children) {
@@ -31,18 +42,25 @@ export default class TreeNode extends Component {
       return;
     }
 
+    const { level, treeNodeRender } = this.props;
+    const newLevel = level + 1;
     return (
       <ul className="oli-child-tree">
         {children.map((child, index) => (
-          <TreeNode oliTreeNodeId={child.key} {...child} key={index} />
+          <TreeNode
+            key={index}
+            level={newLevel}
+            treeNodeRender={treeNodeRender}
+            item={child}
+          />
         ))}
       </ul>
     );
   }
 
   renderSwitchIcon(expandKeys) {
-    const { oliTreeNodeId } = this.props;
-    const expand = expandKeys.includes(oliTreeNodeId);
+    const { item } = this.props;
+    const expand = expandKeys.includes(item[this.idProp]);
     const icon = expand
       ? 'nodeexpand'
       : 'nodecollapse';
@@ -56,15 +74,9 @@ export default class TreeNode extends Component {
     );
   }
 
-  renderIcon(icon) {
-    if (_.isString(icon)) {
-      return <Icon type={icon} />;
-    }
+  renderTitle(item) {
+    const title = item[this.titleProp];
 
-    return icon;
-  }
-
-  renderTitle(title) {
     if (_.isString(title)) {
       return <span>{title}</span>
     }
@@ -74,33 +86,48 @@ export default class TreeNode extends Component {
 
   render() {
     const {
+      level,
+      treeNodeRender,
       className,
-      icon,
-      title,
-      children,
-      oliTreeNodeId
+      item,
     } = this.props;
 
     const clazz = classNames('oli-tree-node', className);
-    const hasChildren = children && children.length > 0;
 
     return (
       <ExpandContext.Consumer>
-        {({expandKeys, toggleExpandKeys}) => {
+        {({
+          idProp,
+          titleProp,
+          childrenProp,
+          expandKeys,
+          toggleExpandKeys,
+          clickToExpand,
+          handleTreeNodeClick
+        }) => {
+          this.handleTreeNodeClick = handleTreeNodeClick;
           this.changeExpandKeys = toggleExpandKeys;
-          const expand = expandKeys.includes(oliTreeNodeId);
+          this.idProp = idProp;
+          this.titleProp = titleProp;
+          this.childrenProp = childrenProp;
+          this.clickToExpand = clickToExpand;
+
+          const expand = expandKeys.includes(item[idProp]);
+
+          const children = item[childrenProp];
+          const hasChildren = children && _.isArray(children) && children.length > 0;
 
           return (
-            <li className={clazz}>
+            <li className={clazz} onClick={this.handleClick}>
               <div className="oli-tree-node-content">
                 <div className="oli-tree-node-switch-icon-wrapper">
                   {hasChildren && this.renderSwitchIcon(expandKeys, toggleExpandKeys)}
                 </div>
-                <div className="oli-tree-node-icon-wrapper">
-                  {icon ? this.renderIcon() : null}
-                </div>
                 <div className="oli-tree-node-title-wrapper">
-                  {this.renderTitle(title)}
+                  {
+                    treeNodeRender
+                      ? treeNodeRender(item, level)
+                      : this.renderTitle(item)}
                 </div>
               </div>
 

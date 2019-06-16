@@ -1,11 +1,12 @@
-<h1 align="center">Welcome to ak-store 👋</h1>
+<h1 align="center">Welcome to AK 仓库 👋</h1>
 <p>
-  <img src="https://img.shields.io/badge/version-0.6.0-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/version-0.8.0-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/version-0.8.0-red.svg?cacheSeconds=2592000" />
 </p>
 
 > 震惊！明日方舟仓库上线了
 
-现在正式命名【[AK仓库](http://ochukai.me/ak/build/index.html)】。大体思路是把方舟的仓库搬到线上（ls 保存吧），然后略微实现方舟中的各种升级，精英材料计算，方便一些。
+现在正式命名【[AK仓库](http://ochukai.me/ak/build)】。大体思路是把方舟的仓库搬到线上（ls 保存吧），然后略微实现方舟中的各种升级，精英材料计算，方便一些。
 
 使用 React 写的方舟小助手，现在还在小的阶段，助手还不敢当。
 

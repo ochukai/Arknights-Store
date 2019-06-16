@@ -353,7 +353,7 @@
         "count": 1,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3112", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3112", "count": 3, "name": "碳", "rarity": 1}],
         "roomType": "WORKSHOP",
         "item": "碳素"
       }
@@ -396,7 +396,7 @@
         "count": 1,
         "goldCost": 0,
         "apCost": 1440000,
-        "costs": [{"id": "3113", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3113", "count": 3, "name": "碳素", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "碳素组"
       }
@@ -422,7 +422,7 @@
         "count": 1,
         "goldCost": 800,
         "apCost": 360000,
-        "costs": [{"id": "3112", "count": 2, "type": "MATERIAL"}],
+        "costs": [{"id": "3112", "count": 2, "name": "碳", "rarity": 1}],
         "roomType": "WORKSHOP",
         "item": "基础加固建材"
       }
@@ -448,7 +448,7 @@
         "count": 1,
         "goldCost": 2400,
         "apCost": 720000,
-        "costs": [{"id": "3113", "count": 2, "type": "MATERIAL"}],
+        "costs": [{"id": "3113", "count": 2, "name": "碳素", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "进阶加固建材"
       }
@@ -474,7 +474,7 @@
         "count": 1,
         "goldCost": 7200,
         "apCost": 1440000,
-        "costs": [{"id": "3114", "count": 2, "type": "MATERIAL"}],
+        "costs": [{"id": "3114", "count": 2, "name": "碳素组", "rarity": 3}],
         "roomType": "WORKSHOP",
         "item": "高级加固建材"
       }
@@ -517,7 +517,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 360000,
-        "costs": [{"id": "3271", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3271", "count": 3, "name": "辅助芯片", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "先锋芯片"
       }
@@ -560,7 +560,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3272", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3272", "count": 3, "name": "辅助芯片组", "rarity": 3}],
         "roomType": "WORKSHOP",
         "item": "先锋芯片组"
       }
@@ -586,8 +586,8 @@
         "weight": 5,
         "costPoint": 3600,
         "costs": [
-          {"id": "3212", "count": 2, "type": "MATERIAL"},
-          {"id": "32001", "count": 1, "type": "MATERIAL"}
+          {"id": "3212", "count": 2, "name": "先锋芯片组", "rarity": 3},
+          {"id": "32001", "count": 1, "name": "芯片助剂", "rarity": 3}
         ],
         "roomType": "MANUFACTURE",
         "item": "先锋双芯片"
@@ -631,7 +631,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 360000,
-        "costs": [{"id": "3281", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3281", "count": 3, "name": "特种芯片", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "近卫芯片"
       }
@@ -674,7 +674,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3282", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3282", "count": 3, "name": "特种芯片组", "rarity": 3}],
         "roomType": "WORKSHOP",
         "item": "近卫芯片组"
       }
@@ -700,8 +700,8 @@
         "weight": 5,
         "costPoint": 3600,
         "costs": [
-          {"id": "3222", "count": 2, "type": "MATERIAL"},
-          {"id": "32001", "count": 1, "type": "MATERIAL"}
+          {"id": "3222", "count": 2, "name": "近卫芯片组", "rarity": 3},
+          {"id": "32001", "count": 1, "name": "芯片助剂", "rarity": 3}
         ],
         "roomType": "MANUFACTURE",
         "item": "近卫双芯片"
@@ -745,7 +745,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 360000,
-        "costs": [{"id": "3261", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3261", "count": 3, "name": "医疗芯片", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "重装芯片"
       }
@@ -788,7 +788,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3262", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3262", "count": 3, "name": "医疗芯片组", "rarity": 3}],
         "roomType": "WORKSHOP",
         "item": "重装芯片组"
       }
@@ -814,8 +814,8 @@
         "weight": 5,
         "costPoint": 3600,
         "costs": [
-          {"id": "3232", "count": 2, "type": "MATERIAL"},
-          {"id": "32001", "count": 1, "type": "MATERIAL"}
+          {"id": "3232", "count": 2, "name": "重装芯片组", "rarity": 3},
+          {"id": "32001", "count": 1, "name": "芯片助剂", "rarity": 3}
         ],
         "roomType": "MANUFACTURE",
         "item": "重装双芯片"
@@ -859,7 +859,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 360000,
-        "costs": [{"id": "3251", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3251", "count": 3, "name": "术师芯片", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "狙击芯片"
       }
@@ -902,7 +902,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3252", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3252", "count": 3, "name": "术师芯片组", "rarity": 3}],
         "roomType": "WORKSHOP",
         "item": "狙击芯片组"
       }
@@ -928,8 +928,8 @@
         "weight": 5,
         "costPoint": 3600,
         "costs": [
-          {"id": "3242", "count": 2, "type": "MATERIAL"},
-          {"id": "32001", "count": 1, "type": "MATERIAL"}
+          {"id": "3242", "count": 2, "name": "狙击芯片组", "rarity": 3},
+          {"id": "32001", "count": 1, "name": "芯片助剂", "rarity": 3}
         ],
         "roomType": "MANUFACTURE",
         "item": "狙击双芯片"
@@ -973,7 +973,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 360000,
-        "costs": [{"id": "3241", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3241", "count": 3, "name": "狙击芯片", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "术师芯片"
       }
@@ -1016,7 +1016,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3242", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3242", "count": 3, "name": "狙击芯片组", "rarity": 3}],
         "roomType": "WORKSHOP",
         "item": "术师芯片组"
       }
@@ -1042,8 +1042,8 @@
         "weight": 5,
         "costPoint": 3600,
         "costs": [
-          {"id": "3252", "count": 2, "type": "MATERIAL"},
-          {"id": "32001", "count": 1, "type": "MATERIAL"}
+          {"id": "3252", "count": 2, "name": "术师芯片组", "rarity": 3},
+          {"id": "32001", "count": 1, "name": "芯片助剂", "rarity": 3}
         ],
         "roomType": "MANUFACTURE",
         "item": "术师双芯片"
@@ -1087,7 +1087,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 360000,
-        "costs": [{"id": "3231", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3231", "count": 3, "name": "重装芯片", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "医疗芯片"
       }
@@ -1130,7 +1130,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3232", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3232", "count": 3, "name": "重装芯片组", "rarity": 3}],
         "roomType": "WORKSHOP",
         "item": "医疗芯片组"
       }
@@ -1156,8 +1156,8 @@
         "weight": 5,
         "costPoint": 3600,
         "costs": [
-          {"id": "3262", "count": 2, "type": "MATERIAL"},
-          {"id": "32001", "count": 1, "type": "MATERIAL"}
+          {"id": "3262", "count": 2, "name": "医疗芯片组", "rarity": 3},
+          {"id": "32001", "count": 1, "name": "芯片助剂", "rarity": 3}
         ],
         "roomType": "MANUFACTURE",
         "item": "医疗双芯片"
@@ -1201,7 +1201,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 360000,
-        "costs": [{"id": "3211", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3211", "count": 3, "name": "先锋芯片", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "辅助芯片"
       }
@@ -1244,7 +1244,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3212", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3212", "count": 3, "name": "先锋芯片组", "rarity": 3}],
         "roomType": "WORKSHOP",
         "item": "辅助芯片组"
       }
@@ -1270,8 +1270,8 @@
         "weight": 5,
         "costPoint": 3600,
         "costs": [
-          {"id": "3272", "count": 2, "type": "MATERIAL"},
-          {"id": "32001", "count": 1, "type": "MATERIAL"}
+          {"id": "3272", "count": 2, "name": "辅助芯片组", "rarity": 3},
+          {"id": "32001", "count": 1, "name": "芯片助剂", "rarity": 3}
         ],
         "roomType": "MANUFACTURE",
         "item": "辅助双芯片"
@@ -1315,7 +1315,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 360000,
-        "costs": [{"id": "3221", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3221", "count": 3, "name": "近卫芯片", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "特种芯片"
       }
@@ -1358,7 +1358,7 @@
         "count": 2,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3222", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3222", "count": 3, "name": "近卫芯片组", "rarity": 3}],
         "roomType": "WORKSHOP",
         "item": "特种芯片组"
       }
@@ -1384,8 +1384,8 @@
         "weight": 5,
         "costPoint": 3600,
         "costs": [
-          {"id": "3282", "count": 2, "type": "MATERIAL"},
-          {"id": "32001", "count": 1, "type": "MATERIAL"}
+          {"id": "3282", "count": 2, "name": "特种芯片组", "rarity": 3},
+          {"id": "32001", "count": 1, "name": "芯片助剂", "rarity": 3}
         ],
         "roomType": "MANUFACTURE",
         "item": "特种双芯片"
@@ -1473,7 +1473,7 @@
         "count": 1,
         "goldCost": 0,
         "apCost": 360000,
-        "costs": [{"id": "3301", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3301", "count": 3, "name": "技巧概要·卷1", "rarity": 1}],
         "roomType": "WORKSHOP",
         "item": "技巧概要·卷2"
       }
@@ -1515,7 +1515,7 @@
         "count": 1,
         "goldCost": 0,
         "apCost": 720000,
-        "costs": [{"id": "3302", "count": 3, "type": "MATERIAL"}],
+        "costs": [{"id": "3302", "count": 3, "name": "技巧概要·卷2", "rarity": 2}],
         "roomType": "WORKSHOP",
         "item": "技巧概要·卷3"
       }
@@ -1768,7 +1768,9 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [{"id": "30011", "count": 3, "type": "MATERIAL"}],
+        "costs": [
+          {"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}
+        ],
         "roomType": "WORKSHOP",
         "item": "固源岩"
       }
@@ -1826,7 +1828,23 @@
         "count": 1,
         "goldCost": 200,
         "apCost": 720000,
-        "costs": [{"id": "30012", "count": 5, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30012",
+            "count": 5,
+            "name": "固源岩",
+            "rarity": 1,
+            "children": [
+              {
+                "id": "30011",
+                "count": 3,
+                "name": "源岩",
+                "rarity": 0,
+                "children": []
+              }
+            ]
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "固源岩组"
       }
@@ -1869,7 +1887,31 @@
         "count": 1,
         "goldCost": 300,
         "apCost": 1440000,
-        "costs": [{"id": "30013", "count": 4, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30013",
+            "count": 4,
+            "name": "固源岩组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30012",
+                "count": 5,
+                "name": "固源岩",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30011",
+                    "count": 3,
+                    "name": "源岩",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "提纯源岩"
       }
@@ -2021,7 +2063,9 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [{"id": "30021", "count": 3, "type": "MATERIAL"}],
+        "costs": [
+          {"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}
+        ],
         "roomType": "WORKSHOP",
         "item": "糖"
       }
@@ -2079,7 +2123,23 @@
         "count": 1,
         "goldCost": 200,
         "apCost": 720000,
-        "costs": [{"id": "30022", "count": 4, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30022",
+            "count": 4,
+            "name": "糖",
+            "rarity": 1,
+            "children": [
+              {
+                "id": "30021",
+                "count": 3,
+                "name": "代糖",
+                "rarity": 0,
+                "children": []
+              }
+            ]
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "糖组"
       }
@@ -2123,9 +2183,59 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {"id": "30023", "count": 2, "type": "MATERIAL"},
-          {"id": "30043", "count": 1, "type": "MATERIAL"},
-          {"id": "30083", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30023",
+            "count": 2,
+            "name": "糖组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30022",
+                "count": 4,
+                "name": "糖",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30021",
+                    "count": 3,
+                    "name": "代糖",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30043",
+            "count": 1,
+            "name": "异铁组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30042",
+                "count": 4,
+                "name": "异铁",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30041",
+                    "count": 3,
+                    "name": "异铁碎片",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30083",
+            "count": 1,
+            "name": "轻锰矿",
+            "rarity": 2,
+            "children": []
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "糖聚块"
@@ -2281,7 +2391,15 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [{"id": "30031", "count": 3, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30031",
+            "count": 3,
+            "name": "酯原料",
+            "rarity": 0,
+            "children": []
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "聚酸酯"
       }
@@ -2340,7 +2458,23 @@
         "count": 1,
         "goldCost": 200,
         "apCost": 720000,
-        "costs": [{"id": "30032", "count": 4, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30032",
+            "count": 4,
+            "name": "聚酸酯",
+            "rarity": 1,
+            "children": [
+              {
+                "id": "30031",
+                "count": 3,
+                "name": "酯原料",
+                "rarity": 0,
+                "children": []
+              }
+            ]
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "聚酸酯组"
       }
@@ -2385,9 +2519,59 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {"id": "30033", "count": 2, "type": "MATERIAL"},
-          {"id": "30053", "count": 1, "type": "MATERIAL"},
-          {"id": "30073", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30033",
+            "count": 2,
+            "name": "聚酸酯组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30032",
+                "count": 4,
+                "name": "聚酸酯",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30031",
+                    "count": 3,
+                    "name": "酯原料",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30053",
+            "count": 1,
+            "name": "酮凝集组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30052",
+                "count": 4,
+                "name": "酮凝集",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30051",
+                    "count": 3,
+                    "name": "双酮",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30073",
+            "count": 1,
+            "name": "扭转醇",
+            "rarity": 2,
+            "children": []
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "聚酸酯块"
@@ -2513,7 +2697,15 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [{"id": "30041", "count": 3, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30041",
+            "count": 3,
+            "name": "异铁碎片",
+            "rarity": 0,
+            "children": []
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "异铁"
       }
@@ -2571,7 +2763,23 @@
         "count": 1,
         "goldCost": 200,
         "apCost": 720000,
-        "costs": [{"id": "30042", "count": 4, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30042",
+            "count": 4,
+            "name": "异铁",
+            "rarity": 1,
+            "children": [
+              {
+                "id": "30041",
+                "count": 3,
+                "name": "异铁碎片",
+                "rarity": 0,
+                "children": []
+              }
+            ]
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "异铁组"
       }
@@ -2615,9 +2823,75 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {"id": "30043", "count": 2, "type": "MATERIAL"},
-          {"id": "30063", "count": 1, "type": "MATERIAL"},
-          {"id": "30033", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30043",
+            "count": 2,
+            "name": "异铁组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30042",
+                "count": 4,
+                "name": "异铁",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30041",
+                    "count": 3,
+                    "name": "异铁碎片",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30063",
+            "count": 1,
+            "name": "全新装置",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30062",
+                "count": 4,
+                "name": "装置",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30061",
+                    "count": 3,
+                    "name": "破损装置",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30033",
+            "count": 1,
+            "name": "聚酸酯组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30032",
+                "count": 4,
+                "name": "聚酸酯",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30031",
+                    "count": 3,
+                    "name": "酯原料",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "异铁块"
@@ -2743,7 +3017,9 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [{"id": "30051", "count": 3, "type": "MATERIAL"}],
+        "costs": [
+          {"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}
+        ],
         "roomType": "WORKSHOP",
         "item": "酮凝集"
       }
@@ -2801,7 +3077,23 @@
         "count": 1,
         "goldCost": 200,
         "apCost": 720000,
-        "costs": [{"id": "30052", "count": 4, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30052",
+            "count": 4,
+            "name": "酮凝集",
+            "rarity": 1,
+            "children": [
+              {
+                "id": "30051",
+                "count": 3,
+                "name": "双酮",
+                "rarity": 0,
+                "children": []
+              }
+            ]
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "酮凝集组"
       }
@@ -2845,9 +3137,59 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {"id": "30053", "count": 2, "type": "MATERIAL"},
-          {"id": "30023", "count": 1, "type": "MATERIAL"},
-          {"id": "30083", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30053",
+            "count": 2,
+            "name": "酮凝集组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30052",
+                "count": 4,
+                "name": "酮凝集",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30051",
+                    "count": 3,
+                    "name": "双酮",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30023",
+            "count": 1,
+            "name": "糖组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30022",
+                "count": 4,
+                "name": "糖",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30021",
+                    "count": 3,
+                    "name": "代糖",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30083",
+            "count": 1,
+            "name": "轻锰矿",
+            "rarity": 2,
+            "children": []
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "酮阵列"
@@ -2978,7 +3320,15 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [{"id": "30061", "count": 3, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30061",
+            "count": 3,
+            "name": "破损装置",
+            "rarity": 0,
+            "children": []
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "装置"
       }
@@ -3037,7 +3387,23 @@
         "count": 1,
         "goldCost": 200,
         "apCost": 720000,
-        "costs": [{"id": "30062", "count": 4, "type": "MATERIAL"}],
+        "costs": [
+          {
+            "id": "30062",
+            "count": 4,
+            "name": "装置",
+            "rarity": 1,
+            "children": [
+              {
+                "id": "30061",
+                "count": 3,
+                "name": "破损装置",
+                "rarity": 0,
+                "children": []
+              }
+            ]
+          }
+        ],
         "roomType": "WORKSHOP",
         "item": "全新装置"
       }
@@ -3081,9 +3447,59 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {"id": "30063", "count": 1, "type": "MATERIAL"},
-          {"id": "30013", "count": 2, "type": "MATERIAL"},
-          {"id": "30093", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30063",
+            "count": 1,
+            "name": "全新装置",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30062",
+                "count": 4,
+                "name": "装置",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30061",
+                    "count": 3,
+                    "name": "破损装置",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30013",
+            "count": 2,
+            "name": "固源岩组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30012",
+                "count": 5,
+                "name": "固源岩",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30011",
+                    "count": 3,
+                    "name": "源岩",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30093",
+            "count": 1,
+            "name": "研磨石",
+            "rarity": 2,
+            "children": []
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "改量装置"
@@ -3196,9 +3612,43 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {"id": "30073", "count": 1, "type": "MATERIAL"},
-          {"id": "30023", "count": 1, "type": "MATERIAL"},
-          {"id": "30103", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30073",
+            "count": 1,
+            "name": "扭转醇",
+            "rarity": 2,
+            "children": []
+          },
+          {
+            "id": "30023",
+            "count": 1,
+            "name": "糖组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30022",
+                "count": 4,
+                "name": "糖",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30021",
+                    "count": 3,
+                    "name": "代糖",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30103",
+            "count": 1,
+            "name": "RMA70-12",
+            "rarity": 2,
+            "children": []
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "白马醇"
@@ -3291,9 +3741,43 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {"id": "30083", "count": 2, "type": "MATERIAL"},
-          {"id": "30033", "count": 1, "type": "MATERIAL"},
-          {"id": "30073", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30083",
+            "count": 2,
+            "name": "轻锰矿",
+            "rarity": 2,
+            "children": []
+          },
+          {
+            "id": "30033",
+            "count": 1,
+            "name": "聚酸酯组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30032",
+                "count": 4,
+                "name": "聚酸酯",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30031",
+                    "count": 3,
+                    "name": "酯原料",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30073",
+            "count": 1,
+            "name": "扭转醇",
+            "rarity": 2,
+            "children": []
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "三水锰矿"
@@ -3406,9 +3890,59 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {"id": "30093", "count": 1, "type": "MATERIAL"},
-          {"id": "30043", "count": 1, "type": "MATERIAL"},
-          {"id": "30063", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30093",
+            "count": 1,
+            "name": "研磨石",
+            "rarity": 2,
+            "children": []
+          },
+          {
+            "id": "30043",
+            "count": 1,
+            "name": "异铁组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30042",
+                "count": 4,
+                "name": "异铁",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30041",
+                    "count": 3,
+                    "name": "异铁碎片",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30063",
+            "count": 1,
+            "name": "全新装置",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30062",
+                "count": 4,
+                "name": "装置",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30061",
+                    "count": 3,
+                    "name": "破损装置",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "五水研磨石"
@@ -3527,9 +4061,59 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {"id": "30103", "count": 1, "type": "MATERIAL"},
-          {"id": "30013", "count": 2, "type": "MATERIAL"},
-          {"id": "30053", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30103",
+            "count": 1,
+            "name": "RMA70-12",
+            "rarity": 2,
+            "children": []
+          },
+          {
+            "id": "30013",
+            "count": 2,
+            "name": "固源岩组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30012",
+                "count": 5,
+                "name": "固源岩",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30011",
+                    "count": 3,
+                    "name": "源岩",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30053",
+            "count": 1,
+            "name": "酮凝集组",
+            "rarity": 2,
+            "children": [
+              {
+                "id": "30052",
+                "count": 4,
+                "name": "酮凝集",
+                "rarity": 1,
+                "children": [
+                  {
+                    "id": "30051",
+                    "count": 3,
+                    "name": "双酮",
+                    "rarity": 0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "RMA70-24"
@@ -3557,9 +4141,175 @@
         "goldCost": 400,
         "apCost": 2880000,
         "costs": [
-          {"id": "30014", "count": 1, "type": "MATERIAL"},
-          {"id": "30044", "count": 1, "type": "MATERIAL"},
-          {"id": "30054", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30014",
+            "count": 1,
+            "name": "提纯源岩",
+            "rarity": 3,
+            "children": [
+              {
+                "id": "30013",
+                "count": 4,
+                "name": "固源岩组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30012",
+                    "count": 5,
+                    "name": "固源岩",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30011",
+                        "count": 3,
+                        "name": "源岩",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30044",
+            "count": 1,
+            "name": "异铁块",
+            "rarity": 3,
+            "children": [
+              {
+                "id": "30043",
+                "count": 2,
+                "name": "异铁组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30042",
+                    "count": 4,
+                    "name": "异铁",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30041",
+                        "count": 3,
+                        "name": "异铁碎片",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30063",
+                "count": 1,
+                "name": "全新装置",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30062",
+                    "count": 4,
+                    "name": "装置",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30061",
+                        "count": 3,
+                        "name": "破损装置",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30033",
+                "count": 1,
+                "name": "聚酸酯组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30032",
+                    "count": 4,
+                    "name": "聚酸酯",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30031",
+                        "count": 3,
+                        "name": "酯原料",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30054",
+            "count": 1,
+            "name": "酮阵列",
+            "rarity": 3,
+            "children": [
+              {
+                "id": "30053",
+                "count": 2,
+                "name": "酮凝集组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30052",
+                    "count": 4,
+                    "name": "酮凝集",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30051",
+                        "count": 3,
+                        "name": "双酮",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30023",
+                "count": 1,
+                "name": "糖组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30022",
+                    "count": 4,
+                    "name": "糖",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30021",
+                        "count": 3,
+                        "name": "代糖",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30083",
+                "count": 1,
+                "name": "轻锰矿",
+                "rarity": 2,
+                "children": []
+              }
+            ]
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "聚合剂"
@@ -3587,8 +4337,112 @@
         "goldCost": 400,
         "apCost": 2880000,
         "costs": [
-          {"id": "30064", "count": 1, "type": "MATERIAL"},
-          {"id": "30074", "count": 2, "type": "MATERIAL"}
+          {
+            "id": "30064",
+            "count": 1,
+            "name": "改量装置",
+            "rarity": 3,
+            "children": [
+              {
+                "id": "30063",
+                "count": 1,
+                "name": "全新装置",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30062",
+                    "count": 4,
+                    "name": "装置",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30061",
+                        "count": 3,
+                        "name": "破损装置",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30013",
+                "count": 2,
+                "name": "固源岩组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30012",
+                    "count": 5,
+                    "name": "固源岩",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30011",
+                        "count": 3,
+                        "name": "源岩",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30093",
+                "count": 1,
+                "name": "研磨石",
+                "rarity": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "30074",
+            "count": 2,
+            "name": "白马醇",
+            "rarity": 3,
+            "children": [
+              {
+                "id": "30073",
+                "count": 1,
+                "name": "扭转醇",
+                "rarity": 2,
+                "children": []
+              },
+              {
+                "id": "30023",
+                "count": 1,
+                "name": "糖组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30022",
+                    "count": 4,
+                    "name": "糖",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30021",
+                        "count": 3,
+                        "name": "代糖",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30103",
+                "count": 1,
+                "name": "RMA70-12",
+                "rarity": 2,
+                "children": []
+              }
+            ]
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "双极纳米片"
@@ -3616,9 +4470,173 @@
         "goldCost": 400,
         "apCost": 2880000,
         "costs": [
-          {"id": "30084", "count": 1, "type": "MATERIAL"},
-          {"id": "30094", "count": 1, "type": "MATERIAL"},
-          {"id": "30104", "count": 1, "type": "MATERIAL"}
+          {
+            "id": "30084",
+            "count": 1,
+            "name": "三水锰矿",
+            "rarity": 3,
+            "children": [
+              {
+                "id": "30083",
+                "count": 2,
+                "name": "轻锰矿",
+                "rarity": 2,
+                "children": []
+              },
+              {
+                "id": "30033",
+                "count": 1,
+                "name": "聚酸酯组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30032",
+                    "count": 4,
+                    "name": "聚酸酯",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30031",
+                        "count": 3,
+                        "name": "酯原料",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30073",
+                "count": 1,
+                "name": "扭转醇",
+                "rarity": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "30094",
+            "count": 1,
+            "name": "五水研磨石",
+            "rarity": 3,
+            "children": [
+              {
+                "id": "30093",
+                "count": 1,
+                "name": "研磨石",
+                "rarity": 2,
+                "children": []
+              },
+              {
+                "id": "30043",
+                "count": 1,
+                "name": "异铁组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30042",
+                    "count": 4,
+                    "name": "异铁",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30041",
+                        "count": 3,
+                        "name": "异铁碎片",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30063",
+                "count": 1,
+                "name": "全新装置",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30062",
+                    "count": 4,
+                    "name": "装置",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30061",
+                        "count": 3,
+                        "name": "破损装置",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30104",
+            "count": 1,
+            "name": "RMA70-24",
+            "rarity": 3,
+            "children": [
+              {
+                "id": "30103",
+                "count": 1,
+                "name": "RMA70-12",
+                "rarity": 2,
+                "children": []
+              },
+              {
+                "id": "30013",
+                "count": 2,
+                "name": "固源岩组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30012",
+                    "count": 5,
+                    "name": "固源岩",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30011",
+                        "count": 3,
+                        "name": "源岩",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30053",
+                "count": 1,
+                "name": "酮凝集组",
+                "rarity": 2,
+                "children": [
+                  {
+                    "id": "30052",
+                    "count": 4,
+                    "name": "酮凝集",
+                    "rarity": 1,
+                    "children": [
+                      {
+                        "id": "30051",
+                        "count": 3,
+                        "name": "双酮",
+                        "rarity": 0,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
         ],
         "roomType": "WORKSHOP",
         "item": "D32钢"

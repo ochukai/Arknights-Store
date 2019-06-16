@@ -176,7 +176,17 @@ function parseItems() {
       buildings = buildingProductList.map(build => {
         const { formulaId, roomType } = build;
         const formula = formulas.filter(f => f.formulaId === formulaId && f.roomType === roomType)[0];
+
         if (formula) {
+          formula.costs.forEach(cost => {
+            const item = itemArr.filter(item => item.itemId === cost.id)[0];
+            if (item) {
+              cost.name = item.name;
+              cost.rarity = item.rarity;
+              delete cost.type;
+            }
+          });
+
           return formula;
         }
       });
@@ -220,36 +230,28 @@ function parseStoreItems() {
   return _.sortBy(result, 'sortId');
 }
 
-// function fillItem(item) {
-//   const { buildings } = item;
-//   buildings.forEach(build => {
-//     const { costs } = build;
-//     if (costs.length > 0) {
-//       costs.forEach(cost => {
-//         const { id } = cost;
-//         if (cost.item) {
-//           return;
-//         }
+function fillItem(item) {
+  const { children } = item;
+  children.forEach(child => {
+    const { id } = child;
+    if (child.item) {
+      return;
+    }
 
-//         const costItem = allItems.filter(ai => ai.id === id)[0];
-//         // 不是芯片才继续下一层
-//         if (costItem) {
-//           if (!costItem.isChip) {
-//             fillItem(costItem);
-//           }
+    const costItem = materialItems.filter(ai => ai.id === id)[0];
+    // 不是芯片才继续下一层
+    if (costItem) {
+      fillItem(costItem);
+      child.children = _.clone(costItem.children);
+    }
+  });
+}
 
-//           cost.item = costItem;
-//         }
-//       });
-//     }
-//   });
-// }
-
-// function fillItems(items) {
-//   items.forEach(item => {
-//     fillItem(item);
-//   });
-// }
+function fillItems(items) {
+  items.forEach(item => {
+    fillItem(item);
+  });
+}
 
 
 // 所有的 item
@@ -278,7 +280,26 @@ writeFile(itemDir, 'icons.js', iconList, (value) => {
 });
 
 
-const materialItems = allItems.filter(ai => isMaterial(ai.sortId));
+let materialItems = allItems
+  .filter(ai => isMaterial(ai.sortId))
+  .map(itm => {
+    const { buildings = [] } = itm;
+    let children = [];
+    if (buildings.length > 0) {
+      children = _.clone(buildings[0].costs);
+    }
+
+    return {
+      id: itm.id,
+      name: itm.name,
+      sortId: itm.sortId,
+      rarity: itm.rarity,
+      children,
+    };
+  });
+
+materialItems = _.clone(materialItems);
+fillItems(materialItems);
 
 writeFile(itemDir, 'formulas.json', formulas);
 writeFile(itemDir, 'stages.json', stageMaps);

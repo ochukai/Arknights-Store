@@ -11,8 +11,6 @@ import {
   Drawer,
   Rate,
   Tag,
-  Table,
-  Tree,
   Layout
 } from '../../components';
 
@@ -38,78 +36,11 @@ class Demo extends React.Component {
 
     const materialSequence = Material.storeIds;
 
-    const dataSource = [
-      {
-        key: '1',
-        name: '胡彦斌',
-        age: 32,
-        address: '西湖区湖底公园1号',
-      },
-      {
-        key: '2',
-        name: '吴彦祖',
-        age: 42,
-        address: '西湖区湖底公园4号',
-      },
-    ];
-
-    const columns = [
-      {
-        title: '姓名',
-        dataIndex: 'name',
-        key: 'name',
-      },
-      {
-        title: '年龄',
-        dataIndex: 'age',
-        sortable: true,
-        key: 'age',
-      },
-      {
-        title: '住址',
-        dataIndex: 'address',
-        key: 'address',
-      },
-    ];
-
-    const treeData = {
-      title: '0-0',
-      key: '0-0',
-      children: [
-        {
-          title: '0-0-0',
-          key: '0-0-0',
-          children: [
-            { title: '0-0-0-0', key: '0-0-0-0' },
-            { title: '0-0-0-1', key: '0-0-0-1' },
-            { title: '0-0-0-2', key: '0-0-0-2' },
-          ],
-        },
-        {
-          title: '0-0-1',
-          key: '0-0-1',
-          children: [
-            { title: '0-0-1-0', key: '0-0-1-0' },
-            { title: '0-0-1-1', key: '0-0-1-1' },
-            { title: '0-0-1-2', key: '0-0-1-2' },
-          ],
-        },
-        {
-          title: '0-0-2',
-          key: '0-0-2',
-        },
-      ],
-    };
-
     return (
       <div className="demo-container">
         <h1>Component Demo</h1>
 
-        <Layout hasSider={true}>
-          <Layout.Sider width={300}>
-            <h2>Tree</h2>
-            <Tree data={treeData} />
-          </Layout.Sider>
+        <Layout>
           <Layout.Content>
             <h2>Button</h2>
             <div className="btn-wrapper">
@@ -159,9 +90,6 @@ class Demo extends React.Component {
             >
               <h1>这是内容~</h1>
             </Drawer>
-
-            <h2>Table</h2>
-            <Table dataSource={dataSource} columns={columns} />
 
             <h2>Card</h2>
             <Card>
