@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import './index.scss';
 
 import memoizeOne from 'memoize-one';
-// import _ from 'lodash';
-import store from 'store';
 
 import { Material, Counter } from '../../components';
 
@@ -100,6 +98,8 @@ export default class MaterialTreeNode extends Component {
             case 1:
               style.color = 'green';
               break;
+            default:
+              break;
           }
 
           return (
@@ -107,7 +107,7 @@ export default class MaterialTreeNode extends Component {
               key={index}
               style={style}
             >
-              {drop.code}（{dropRateMaps[drop.occPer]}）
+              {code}（{dropRateMaps[occPer]}）
             </p>
           );
         })}
