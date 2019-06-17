@@ -7,14 +7,13 @@
 
   .oli-tree {
     margin-bottom: 10px;
-
     width: 100%;
 
     .oli-tree-node-title-wrapper {
       padding: 2px 15px;
       background-color: #fff;
       box-shadow: 1px 1px 8px 0px rgba(0, 0, 0, 0.15), 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
-      min-width: 240px;
+      // min-width: 240px;
       border-radius: 4px;
     }
 
@@ -31,15 +30,18 @@
 
     .root-node-wrapper {
       h1 {
+        padding: 0;
+        margin: 0;
         font-size: 18px;
-        padding-left: 10px;
         font-weight: 500;
         text-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+        min-width: 100px;
       }
     }
 
     .mate-wrapper {
       margin-left: 10px;
+      min-width: 80px;
     }
 
     .child-node-wrapper {
@@ -51,12 +53,44 @@
         text-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
       }
     }
+
+    .material-drops {
+      margin-left: 15px;
+
+      p {
+        margin: 0;
+      }
+    }
   }
 }
 
-.flat-item-group-wrapper {
-  display: flex;
-  align-items: center;
-  align-content: center;
-  flex-wrap: wrap;
+.summary-wrapper {
+  position: fixed;
+  background-color: $color-white;
+  padding: 0;
+  right: 10px;
+  bottom: 10px;
+  top: 80px;
+  left: 70%;
+  min-width: 300px;
+
+  box-shadow: 1px 1px 8px 0px rgba(0, 0, 0, 0.15), 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+
+  h2 {
+    padding: 20px;
+    margin: 0 0 15px 0;
+    background: $color-primary;
+    color: $color-white;
+  }
+
+  .summary-group-wrapper {
+    padding: 0 20px 20px;
+  }
+
+  .flat-item-group-wrapper {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+  }
 }

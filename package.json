@@ -1,6 +1,6 @@
 {
   "name": "ak-store",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "author": "ochukai",
   "private": false,
   "repository": "https://github.com/ochukai/ak",
@@ -34,6 +34,7 @@
     "animate.css": "^3.7.2",
     "classnames": "^2.2.6",
     "json-stringify-pretty-compact": "^2.0.0",
+    "memoize-one": "^5.0.4",
     "node-sass": "^4.12.0",
     "prop-types": "^15.7.2",
     "rc-util": "^4.6.0",
