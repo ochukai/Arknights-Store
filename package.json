@@ -1,11 +1,11 @@
 {
-  "name": "ak-store",
+  "name": "arknights-store",
   "version": "0.8.0",
   "author": "ochukai",
   "private": false,
-  "repository": "https://github.com/ochukai/ak",
+  "repository": "https://github.com/ochukai/Arknights-Store.git",
   "license": "MIT",
-  "homepage": "https://ochukai.github.io/ak/build",
+  "homepage": "https://ochukai.github.io/Arknights-Store/",
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "react-app-rewired start",
