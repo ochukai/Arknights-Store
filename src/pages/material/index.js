@@ -11,6 +11,11 @@ import { Material, Tree, Layout } from '../../components';
 
 import MaterialTreeNode from './MaterialTreeNode';
 
+function isMobile() {
+  return /Android|iPhone|iPod|ipad|BlackBerry|Windows Phone|BB10|PlayBook|midp|ucweb/i
+      .test(navigator.userAgent)
+}
+
 export default class AKMaterial extends Component {
 
   static defaultProps = {
@@ -23,6 +28,7 @@ export default class AKMaterial extends Component {
     this.state = {
       items: _.clone(materialItems),
       flatItems: [],
+      isMobile: isMobile(),
     };
   }
 
@@ -150,7 +156,7 @@ export default class AKMaterial extends Component {
               const items = grouped[key];
               return (
                 <div key={key}>
-                  <h3>{key}</h3>
+                  <h3>Level {key}</h3>
                   <div className="flat-item-group-wrapper">
                     {items.map(fi => (
                       <Material key={fi.id} id={fi.id} count={fi.count}/>
@@ -170,9 +176,11 @@ export default class AKMaterial extends Component {
     const { items, flatItems } = this.state;
 
     const clazz= classNames('oli-material-calculator', className);
+    const { isMobile } = this.state;
+    const hasSider = !isMobile;
 
     return (
-      <Layout hasSider={true}>
+      <Layout hasSider={hasSider}>
         <Layout.Content>
           <div className={clazz}>
             {items.map((item, index) => (
@@ -186,9 +194,11 @@ export default class AKMaterial extends Component {
           </div>
         </Layout.Content>
 
-        <Layout.Sider>
-          {flatItems.length > 0 && this.renderSider(flatItems)}
-        </Layout.Sider>
+        {!isMobile && (
+          <Layout.Sider hideOn={768}>
+            {flatItems.length > 0 && this.renderSider(flatItems)}
+          </Layout.Sider>
+        )}
       </Layout>
     );
   }

@@ -16,7 +16,7 @@ export default class AKStore extends React.Component {
           {cgs.map((cg, index) => <MaterialGroup key={index} data={cg} />)}
         </Layout.Content>
         <Layout.Sider width={150}>
-          <Button>清空</Button>
+          {/* <Button>清空</Button> */}
         </Layout.Sider>
       </Layout>
     );

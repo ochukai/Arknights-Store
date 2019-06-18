@@ -28,20 +28,20 @@ class App extends React.Component {
                 </Link>
               </MenuItem>
               <MenuItem>
-                <Link to="/material">材料计算器（未完成）</Link>
+                <Link to="/store">我的仓库</Link>
               </MenuItem>
               <MenuItem>
-                <Link to="/store">我的仓库（未完成）</Link>
-              </MenuItem>
-              <MenuItem>
-                <Link to="/enemys">敌人信息</Link>
+                <Link to="/material">材料计算器</Link>
               </MenuItem>
               <MenuItem>
                 <Link to="/buffs">基建技能</Link>
               </MenuItem>
               <MenuItem>
-                <Link to="/demo">组件展示</Link>
+                <Link to="/enemys">敌人信息</Link>
               </MenuItem>
+              {/* <MenuItem>
+                <Link to="/demo">组件展示</Link>
+              </MenuItem> */}
             </Menu>
           </Header>
           <Content>
@@ -64,10 +64,17 @@ class Index extends React.Component {
   render() {
     return (
       <div>
-        <ul style={{ margin: '20px 50px', lineHeight: 2 }}>
+        <ol style={{ lineHeight: 2 }}>
+          <li><Link to="/store">我的仓库</Link></li>
           <li><Link to="/material">材料计算器</Link></li>
+          <li><Link to="/buffs">基建技能</Link></li>
           <li><Link to="/enemys">敌人信息</Link></li>
-        </ul>
+        </ol>
+
+
+        <hr/>
+
+        说明：待续~
       </div>
     );
   }

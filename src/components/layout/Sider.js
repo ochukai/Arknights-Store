@@ -12,10 +12,33 @@ export default class Sider extends Component {
 
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = {
+      show: true,
+    };
   }
 
+  componentDidMount() {
+    if ('hideOn' in this.props) {
+      const match = window.matchMedia(`(max-width: ${this.props.hideOn}px)`);
+      this.handleWidthChange(match);
+      match.addListener(this.handleWidthChange);
+    }
+  }
+
+  handleWidthChange = (e) => {
+    console.log('handle width change', e);
+    this.setState({
+      show: !e.matches
+    });
+  };
+
   render() {
+    // media query 的结果显示这个东西不适合显示
+    const { show } = this.state;
+    if (!show) {
+      return null;
+    }
+
     const {
       className,
       children,
@@ -37,11 +60,11 @@ export default class Sider extends Component {
     const innerClazz = classNames('oli-layout-sider-children');
 
     return (
-      <header className={clazz} style={siderStyle}>
+      <aside className={clazz} style={siderStyle}>
         <div className={innerClazz}>
           {children}
         </div>
-      </header>
+      </aside>
     );
   }
 }

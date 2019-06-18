@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to AK 仓库 👋</h1>
 <p>
-  <img src="https://img.shields.io/badge/version-0.8.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/version-0.8.0-red.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/version-0.8.5-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/version-0.8.5-red.svg?cacheSeconds=2592000" />
 </p>
 
 > 震惊！明日方舟仓库上线了
