@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16d718dba6d230e6e9ced846941d3266",
+    "revision": "47d012e88cde9ce60f4492005f5b3bb5",
     "url": "/Arknights-Store/index.html"
   },
   {
-    "revision": "d6c61ba69174bd750520",
-    "url": "/Arknights-Store/static/css/main.a77d1b36.chunk.css"
+    "revision": "b743b541b476ed7ed919",
+    "url": "/Arknights-Store/static/css/main.d4d0af84.chunk.css"
   },
   {
     "revision": "45d65905890a23e6eb75",
     "url": "/Arknights-Store/static/js/2.9e1399aa.chunk.js"
   },
   {
-    "revision": "d6c61ba69174bd750520",
-    "url": "/Arknights-Store/static/js/main.5746c71e.chunk.js"
+    "revision": "b743b541b476ed7ed919",
+    "url": "/Arknights-Store/static/js/main.b8a772a3.chunk.js"
   },
   {
     "revision": "cf9fdd994906b2f03c34",
@@ -312,12 +312,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/iconfont.19254560.ttf"
   },
   {
-    "revision": "a0a02b63971500b4676d1fb8802a112a",
-    "url": "/Arknights-Store/static/media/iconfont.a0a02b63.eot"
+    "revision": "5991a4a4687420ff1f75f31fd2366973",
+    "url": "/Arknights-Store/static/media/iconfont.5991a4a4.svg"
   },
   {
-    "revision": "e1c681cd2340aeee3ff00c757349dc81",
-    "url": "/Arknights-Store/static/media/iconfont.e1c681cd.svg"
+    "revision": "a0a02b63971500b4676d1fb8802a112a",
+    "url": "/Arknights-Store/static/media/iconfont.a0a02b63.eot"
   },
   {
     "revision": "ede2a65d179dd438a4a48689eb536b64",
