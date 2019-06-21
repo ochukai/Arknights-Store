@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.scss';
 
-import { Layout, Table, Tag } from '../../components';
+import { Layout, Table, Tabs, Tag } from '../../components';
 
 import buffs from '../../data/char/buffs.json';
 
@@ -13,7 +13,9 @@ export default class AKBuffs extends React.Component {
     groups: {}
   };
 
-  componentDidMount() {
+  constructor(props) {
+    super(props);
+
     const columns = [
       {
         title: '干员',
@@ -37,6 +39,7 @@ export default class AKBuffs extends React.Component {
         title: '技能',
         key: 'name',
         dataIndex: 'name',
+        sortable: true,
         render: (text, row) => {
           const { bgColor, color } = row;
           return (
@@ -57,10 +60,10 @@ export default class AKBuffs extends React.Component {
     ];
 
     const groups = _.groupBy(buffs, 'room');
-    this.setState({
+    this.state = {
       groups,
       columns
-    });
+    };
   }
 
   render() {
@@ -69,16 +72,18 @@ export default class AKBuffs extends React.Component {
     return (
       <Layout className="buffs-wrapper">
         <Layout.Content>
-          {
-            Object.keys(groups).map(room => {
-              const groupData = groups[room];
-              return (
-                <React.Fragment key={room}>
-                  <Table dataSource={groupData} columns={columns} header={<h2>{room}</h2>} />
-                </React.Fragment>
-              );
-            })
-          }
+          <Tabs>
+            {
+              Object.keys(groups).map(room => {
+                const groupData = groups[room];
+                return (
+                  <Tabs.Pane key={room} bar={room}>
+                    <Table dataSource={groupData} columns={columns}/>
+                  </Tabs.Pane>
+                );
+              })
+            }
+          </Tabs>
         </Layout.Content>
       </Layout>
     );

@@ -10,5 +10,6 @@ export { default as Material } from './material';
 export { default as Menu } from './menu';
 export { default as Rate } from './rate';
 export { default as Table } from './table';
+export { default as Tabs } from './tabs';
 export { default as Tag } from './tag';
 export { default as Tree } from './tree';

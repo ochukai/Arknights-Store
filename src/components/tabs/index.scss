@@ -1,0 +1,41 @@
+.oli-tabs {
+  .oli-tabbar {
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    border-bottom: 2px solid rgba(34, 36, 38, .15);
+    padding: 0 10px;
+    margin: 0;
+    margin-bottom: 14px;
+
+    >li {
+      position: relative;
+      vertical-align: middle;
+      text-decoration: none;
+      flex: 0 0 auto;
+      line-height: 1.5;
+      padding: 6px 10px;
+      cursor: pointer;
+      transition: all .2s ease;
+      margin-right: 10px;
+
+      &.active {
+        color: rgba(0, 0, 0, .95);
+        margin-bottom: -2px;
+        border-bottom: 2px solid #1b1c1d;
+      }
+    }
+  }
+
+  .oli-tab-pane {
+    margin: 0;
+    padding: 0 10px;
+    // border: 1px solid pink;
+    display: none;
+
+    &.active {
+      display: block;
+    }
+  }
+}
