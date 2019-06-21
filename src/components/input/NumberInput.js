@@ -72,8 +72,11 @@ export default class NumberInput extends Component {
   };
 
   handleInputChange = (value) => {
+    const checkedValue = this.check(value);
     this.setState({
-      value
+      value: checkedValue
+    }, () => {
+      this.props.onChange(checkedValue);
     });
   };
 
