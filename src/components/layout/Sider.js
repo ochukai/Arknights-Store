@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import './index.scss';
 
 import classNames from 'classnames';
+import _ from 'underscore';
+import isMobile from '../../common/isMobile';
 
 export default class Sider extends Component {
 
@@ -19,9 +21,17 @@ export default class Sider extends Component {
 
   componentDidMount() {
     if ('hideOn' in this.props) {
-      const match = window.matchMedia(`(max-width: ${this.props.hideOn}px)`);
-      this.handleWidthChange(match);
-      match.addListener(this.handleWidthChange);
+      const { hideOn } = this.props;
+
+      if (_.isString(hideOn) && hideOn === 'mobile') {
+        this.setState({
+          show: !isMobile()
+        });
+      } else {
+        const match = window.matchMedia(`(max-width: ${this.props.hideOn}px)`);
+        this.handleWidthChange(match);
+        match.addListener(this.handleWidthChange);
+      }
     }
   }
 

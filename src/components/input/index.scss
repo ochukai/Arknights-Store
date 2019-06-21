@@ -1,0 +1,125 @@
+.oli-input {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-variant: tabular-nums;
+  line-height: 1.5;
+  list-style: none;
+  font-feature-settings: 'tnum';
+  position: relative;
+  display: inline-block;
+  width: 180px;
+  flex: 1 0 auto;
+  height: 32px;
+  line-height: 32px;
+  padding: 4px 10px;
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 14px;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid rgba(34, 36, 38, .15);
+  transition: all .3s;
+
+  // &.has-prefix {
+  //   border-left: none;
+  // }
+
+  // &.has-suffix {
+  //   border-right: none;
+  // }
+}
+
+.oli-input::-moz-placeholder {
+  color: #bfbfbf;
+  opacity: 1
+}
+
+.oli-input:-ms-input-placeholder {
+  color: #bfbfbf
+}
+
+.oli-input::-webkit-input-placeholder {
+  color: #bfbfbf
+}
+
+.oli-input:focus {
+  border-color: rgba(0,0,0,.3);
+  outline: 0;
+}
+
+.oli-input[disabled] {
+  color: rgba(0, 0, 0, 0.25);
+  background-color: #f5f5f5;
+  cursor: not-allowed;
+  opacity: 1
+}
+
+textarea.oli-input {
+  max-width: 100%;
+  height: auto;
+  min-height: 32px;
+  vertical-align: bottom;
+  transition: all .3s, height 0s
+}
+
+.oli-input-lg {
+  height: 40px;
+  padding: 6px 11px;
+  font-size: 16px;
+  line-height: 40px
+}
+
+.oli-input-sm {
+  height: 24px;
+  font-size: 12px;
+  padding: 1px 6px;
+  line-height: 24px
+}
+
+.oli-input-wrapper {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+
+  .oli-input-prefix,
+  .oli-input-suffix {
+    font-size: 14px;
+    box-sizing: border-box;
+    height: 32px;
+    line-height: 32px;
+    min-width: 32px;
+    text-align: center;
+    border: 1px solid rgba(34, 36, 38, .15);
+  }
+
+  .oli-input-prefix {
+    border-right: none;
+  }
+
+  .oli-input-suffix {
+    border-left: none;
+  }
+
+  &.lg {
+    .oli-input-prefix,
+    .oli-input-suffix {
+      font-size: 16px;
+      height: 40px;
+      line-height: 40px;
+      min-width: 32px;
+    }
+  }
+
+  &.sm {
+    .oli-input-prefix,
+    .oli-input-suffix {
+      font-size: 12px;
+      height: 24px;
+      line-height: 24px;
+      min-width: 24px;
+    }
+  }
+}

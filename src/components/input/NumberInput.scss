@@ -1,0 +1,41 @@
+@import '../../styles/var.scss';
+
+$control-button-size: 20px;
+
+.oli-number-input-wrapper {
+  position: relative;
+  display: inline-flex;
+  padding: 0 10px;
+
+  .oli-number-input {
+    width: 50px;
+    padding: 4px 12px;
+    font-size: 14px;
+    text-align: center;
+    color: #000;
+  }
+
+  .oli-button.round.small {
+    position: absolute;
+    line-height: $control-button-size;
+    min-width: $control-button-size;
+    width: $control-button-size;
+    height: $control-button-size;
+    opacity: .9;
+
+    &.left,
+    &.right {
+      top: 6px;
+    }
+
+    &.left {
+      left: 0;
+      z-index: 1;
+    }
+
+    &.right {
+      right: 0;
+    }
+  }
+
+}

@@ -3,7 +3,7 @@ import './index.scss';
 
 import memoizeOne from 'memoize-one';
 
-import { Material, Counter } from '../../components';
+import { Material, NumberInput } from '../../components';
 
 import allItems from '../../data/items/items.json';
 
@@ -53,7 +53,7 @@ export default class MaterialTreeNode extends Component {
 
     return (
       <div className="child-node-wrapper">
-        <Material id={id} noCount size={50} />
+        <Material id={id} noCount size={40} />
         <div className="mate-wrapper">
           <h2>{name}</h2>
           {descSpan}
@@ -149,12 +149,12 @@ export default class MaterialTreeNode extends Component {
 
     return (
       <div className="root-node-wrapper">
-        <Material id={item.id} noCount size={60} />
+        <Material id={item.id} noCount size={50} />
         <div className="mate-wrapper">
           <h1>{item.name}</h1>
           {this.renderRootCount(item)}
         </div>
-        <Counter onChange={this.handleCounterChange} />
+        <NumberInput onChange={this.handleCounterChange} />
         {this.renderDrops(drops)}
       </div>
     );

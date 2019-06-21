@@ -15,4 +15,6 @@ storiesOf('Button', module)
         😀 😎 👍 💯
       </span>
     </Button>
-  ));
+  ))
+  .add('danger', () => <Button type="danger">Danger</Button>)
+  ;

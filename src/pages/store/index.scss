@@ -6,4 +6,26 @@
     justify-content: flex-start;
     flex-wrap: wrap;
   }
+
+  .material-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+  }
+
+  .material-card {
+    width: auto;
+    padding: 4px 12px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 10px 10px 0;
+
+    .oli-number-input-wrapper {
+      margin-left: 10px;
+    }
+  }
 }

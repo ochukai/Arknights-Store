@@ -69,7 +69,7 @@ export default class AKEnemys extends React.Component {
         <Layout.Content>
           <Table dataSource={enemys} columns={columns} />
         </Layout.Content>
-        <Layout.Sider width={400}>
+        <Layout.Sider width={400} hideOn="mobile">
           <div style={{padding: '0 20px'}}>
             <p>
               <strong>防御</strong>：影响干员受到物理攻击时承受的伤害量。<br/> 1点防御=1点物理减伤。

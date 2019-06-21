@@ -8,13 +8,9 @@ import store from 'store';
 import materialItems from '../../data/items/material_items.json';
 
 import { Material, Tree, Layout } from '../../components';
+import isMobile from '../../common/isMobile';
 
 import MaterialTreeNode from './MaterialTreeNode';
-
-function isMobile() {
-  return /Android|iPhone|iPod|ipad|BlackBerry|Windows Phone|BB10|PlayBook|midp|ucweb/i
-      .test(navigator.userAgent)
-}
 
 export default class AKMaterial extends Component {
 

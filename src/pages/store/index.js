@@ -1,24 +1,56 @@
 import React from 'react';
-import MaterialGroup from './MaterialGroup';
+import store from 'store/dist/store.modern';
 
-import { category } from '../../components/material/types';
-import { Layout, Button } from '../../components';
+import storeItems from '../../data/items/store_items.json';
+import { Card, Material, Layout, NumberInput } from '../../components';
 
 import './index.scss';
 
+const materialItems = storeItems.filter(si => si.sortId >= 23 && si.sortId <= 57);
+
+
 export default class AKStore extends React.Component {
   render() {
-    const cgs = category;
-
     return (
-      <Layout className="store-wrapper" hasSider={true}>
+      <Layout className="store-wrapper" hasSider={false}>
         <Layout.Content>
-          {cgs.map((cg, index) => <MaterialGroup key={index} data={cg} />)}
+          <div className="material-group">
+            {materialItems.map((si, index) => <MaterialCard key={index} id={si.id} />)}
+          </div>
         </Layout.Content>
-        <Layout.Sider width={150}>
-          {/* <Button>清空</Button> */}
-        </Layout.Sider>
       </Layout>
+    );
+  }
+}
+
+
+class MaterialCard extends React.Component {
+
+  constructor(props) {
+    super(props);
+    const { id } = this.props;
+    const count = store.get(id) || 0;
+
+    this.state = {
+      count,
+    };
+  }
+
+  handleValueChange = (newValue) => {
+    const { id } = this.props;
+    this.setState({count: newValue}, () => {
+      store.set(id, newValue);
+    });
+  };
+
+  render() {
+    const { id } = this.props;
+    const { count } = this.state;
+    return (
+      <Card className="material-card">
+        <Material id={id} noCount size={60} />
+        <NumberInput value={count} onChange={this.handleValueChange} />
+      </Card>
     );
   }
 }
