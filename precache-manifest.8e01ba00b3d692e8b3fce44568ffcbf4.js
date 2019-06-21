@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4118f6cae3739dd61764557aae510b2a",
+    "revision": "caf9c2192f51f9beaf6295e9f919a7e7",
     "url": "/Arknights-Store/index.html"
   },
   {
-    "revision": "e252e14df7a55c73c56e",
+    "revision": "75433e57f3c7f7ab1bcd",
     "url": "/Arknights-Store/static/css/main.eb465f4b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/js/2.ae1b1957.chunk.js"
   },
   {
-    "revision": "e252e14df7a55c73c56e",
-    "url": "/Arknights-Store/static/js/main.804babe1.chunk.js"
+    "revision": "75433e57f3c7f7ab1bcd",
+    "url": "/Arknights-Store/static/js/main.05aae196.chunk.js"
   },
   {
     "revision": "cf9fdd994906b2f03c34",
