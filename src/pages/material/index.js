@@ -173,10 +173,9 @@ export default class AKMaterial extends Component {
 
     const clazz= classNames('oli-material-calculator', className);
     const { isMobile } = this.state;
-    const hasSider = !isMobile;
 
     return (
-      <Layout hasSider={hasSider}>
+      <Layout>
         <Layout.Content>
           <div className={clazz}>
             {items.map((item, index) => (

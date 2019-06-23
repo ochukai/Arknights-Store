@@ -8,7 +8,6 @@ import isMobile from '../../common/isMobile';
 export default class Sider extends Component {
 
   static defaultProps = {
-    dark: false,
     width: 200,
   };
 
@@ -52,7 +51,6 @@ export default class Sider extends Component {
     const {
       className,
       children,
-      dark,
       width,
     } = this.props;
 
@@ -63,8 +61,13 @@ export default class Sider extends Component {
       width,
     };
 
+    if ('fixed' in this.props) {
+      siderStyle.position = 'fixed';
+      siderStyle.height = '100%';
+    }
+
     const clazz = classNames('oli-layout-sider', className, {
-      'oli-layout-sider-dark': dark
+      'oli-layout-sider-dark': 'dark' in this.props,
     });
 
     const innerClazz = classNames('oli-layout-sider-children');

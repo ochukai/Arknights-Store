@@ -7,11 +7,17 @@ export default class Menu extends React.Component {
 
   static defaultProps = {
     type: 'horizontal', // vertical
+    theme: 'dark',
   };
 
   render() {
-    const { type, children } = this.props;
-    const menuClazz = classNames('oli-menu', type);
+    const {
+      type,
+      theme,
+      children
+    } = this.props;
+
+    const menuClazz = classNames('oli-menu', type, theme);
     return (
       <ul className={menuClazz}>
         {children}

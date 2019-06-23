@@ -13,8 +13,39 @@
   list-style: none;
   background: transparent;
   outline: none;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   zoom: 1;
+
+  &.dark {
+    .oli-menu-item {
+      background-color: $color-primary;
+      color: $color-white;
+      @include boxShadow();
+
+      &:hover {
+        background-color: $color-primary-lighten;
+      }
+
+      &:active {
+        background-color: $color-primary-darken;
+      }
+
+      a {
+        color: $color-white;
+        text-decoration: none;
+      }
+    }
+  }
+
+  &.light {
+    // border-right: 2px solid rgba(34, 36, 38, .15);
+    // text-align: right;
+
+    .oli-menu-item.active {
+      color: rgba(0, 0, 0, .95);
+      margin-right: -2px;
+      border-right: 2px solid #1b1c1d;
+    }
+  }
 
   .oli-menu-item {
     position: relative;
@@ -22,25 +53,10 @@
     display: inline-block;
     vertical-align: bottom;
     cursor: pointer;
-    background-color: $color-primary;
-    color: $color-white;
+    color: #333;
     padding: 6px 22px;
     transition: all .3s;
     user-select: none;
-    @include boxShadow();
-
-    a {
-      color: $color-white;
-      text-decoration: none;
-    }
-
-    &:hover {
-      background-color: $color-primary-lighten;
-    }
-
-    &:active {
-      background-color: $color-primary-darken;
-    }
 
     i {
       line-height: 1;
@@ -52,7 +68,6 @@
     white-space: nowrap;
     border: 0;
     border-bottom: 1px solid #e8e8e8;
-    -webkit-box-shadow: none;
     box-shadow: none;
 
     .oli-menu-item {
@@ -61,6 +76,16 @@
       &:last-child {
         border-right: none;
       }
+    }
+  }
+
+  &.vertical {
+    display: flex;
+    flex-direction: column;
+
+
+    .oli-menu-item {
+      display: inline-block;
     }
   }
 }

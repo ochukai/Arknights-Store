@@ -1,4 +1,9 @@
+@import '../../styles/var.scss';
+
 .oli-tabs {
+  background-color: $color-white;
+  padding: 10px 0;
+
   .oli-tabbar {
     list-style: none;
     display: flex;

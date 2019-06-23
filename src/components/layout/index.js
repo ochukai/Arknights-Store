@@ -7,12 +7,9 @@ import Header from './Header';
 import Content from './Content';
 import Sider from './Sider';
 import Footer from './Footer';
+import isTypeOf from '../../common/isTypeOf';
 
 export default class Layout extends Component {
-
-  static defaultProps = {
-    hasSider: false,
-  };
 
   constructor(props) {
     super(props);
@@ -23,15 +20,18 @@ export default class Layout extends Component {
     const {
       className,
       children,
-      hasSider
+      style,
     } = this.props;
+
+    const childArr = React.Children.toArray(children);
+    const hasSider = childArr.some(ele => isTypeOf(ele, 'Sider'));
 
     const layoutClazz = classNames('oli-layout', className, {
       'oli-layout-has-sider': hasSider
     });
 
     return (
-      <section className={layoutClazz}>
+      <section className={layoutClazz} style={style}>
         {children}
       </section>
     );

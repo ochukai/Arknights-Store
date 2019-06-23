@@ -12,7 +12,7 @@ const materialItems = storeItems.filter(si => si.sortId >= 23 && si.sortId <= 57
 export default class AKStore extends React.Component {
   render() {
     return (
-      <Layout className="store-wrapper" hasSider={false}>
+      <Layout className="store-wrapper">
         <Layout.Content>
           <div className="material-group">
             {materialItems.map((si, index) => <MaterialCard key={index} id={si.id} />)}

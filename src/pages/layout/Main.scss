@@ -1,0 +1,69 @@
+@import '../../styles/var.scss';
+
+.oli-layout-aside {
+  background-color: #fff;
+  text-align: center;
+  box-sizing: border-box;
+  border-right: 1px solid $color-border;
+
+  .sider-logo {
+    margin: 20px 0 0;
+    width: 80%;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: $color-primary;
+  }
+
+  h1 {
+    font-size: 22px;
+    margin: 20px 20px 15px;
+    border-top: 2px solid $color-border;
+    border-bottom: 2px solid $color-border;
+    padding: 20px 0;
+  }
+
+  .oli-menu {
+    .oli-menu-item {
+      box-sizing: border-box;
+      padding: 0;
+
+      a {
+        display: inline-block;
+        width: 100%;
+        padding: 6px 0;
+        transition: color .2s;
+
+        &:hover {
+          color: $color-blue;
+        }
+      }
+    }
+  }
+
+  .oli-layout-footer {
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+    left: 0;
+    text-align: center;
+  }
+}
+
+.oli-layout-main {
+  .oli-layout-main-content {
+    padding: 20px;
+  }
+
+  .oli-layout-main-header {
+    background-color: $color-white;
+    // box-shadow: 0 0 15px #aaa;
+    border-bottom: 1px solid $color-border;
+    padding-left: 20px;
+
+    > h2 {
+      font-size: 18px;
+      font-weight: 500;
+      margin: 0;
+    }
+  }
+}

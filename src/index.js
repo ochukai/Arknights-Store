@@ -1,8 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
+import { HashRouter } from "react-router-dom";
 import './index.scss';
-import App from './App';
+
+// import App from './App';
+import Main from './pages/layout/Main';
+
 import * as serviceWorker from './serviceWorker';
+
+const App = () => {
+  return (
+    <HashRouter>
+      <Main />
+    </HashRouter>
+  );
+}
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
