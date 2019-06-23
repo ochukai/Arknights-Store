@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd836052bb41fe44b842b8f6c7f09976",
+    "revision": "8536c58be68f0129fdc16b3ac450173f",
     "url": "/Arknights-Store/index.html"
   },
   {
-    "revision": "b3318c7b718c1950d760",
-    "url": "/Arknights-Store/static/css/main.b2abbd69.chunk.css"
+    "revision": "4bcd76f49f840b7eb9ca",
+    "url": "/Arknights-Store/static/css/main.6ad836dd.chunk.css"
   },
   {
-    "revision": "e23f92f756c24efad649",
-    "url": "/Arknights-Store/static/js/2.298b1a2a.chunk.js"
+    "revision": "58faca046f514ee8f152",
+    "url": "/Arknights-Store/static/js/2.17c14d07.chunk.js"
   },
   {
-    "revision": "b3318c7b718c1950d760",
-    "url": "/Arknights-Store/static/js/main.ecb2fdbd.chunk.js"
+    "revision": "4bcd76f49f840b7eb9ca",
+    "url": "/Arknights-Store/static/js/main.12e04666.chunk.js"
   },
   {
     "revision": "cf9fdd994906b2f03c34",
@@ -306,6 +306,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4d459231f6c520980e75c57de5b0c60d",
     "url": "/Arknights-Store/static/media/T5back.4d459231.png"
+  },
+  {
+    "revision": "807a3ff1411571b0032f56546e2f2a56",
+    "url": "/Arknights-Store/static/media/bg-q.807a3ff1.png"
+  },
+  {
+    "revision": "11890f375b0efd9de05d39c044450918",
+    "url": "/Arknights-Store/static/media/bluep-512.11890f37.png"
   },
   {
     "revision": "19254560cbdc7d5431ed3d9cc318b305",
