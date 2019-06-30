@@ -16,15 +16,14 @@
   padding: 6px 12px;
   font-size: 12px;
   white-space: nowrap;
-  background-color: $color-blue;
-  border-radius: 4px;
+  background-color: $color-primary;
   border-color: transparent;
   cursor: default;
   opacity: 1;
   transition: all .3s cubic-bezier(.78, .14, .15, .86);
 
   &.oli-tag-checkable {
-    background-color: $color-primary;
+    // background-color: $color-primary;
     cursor: pointer;
     user-select: none;
 

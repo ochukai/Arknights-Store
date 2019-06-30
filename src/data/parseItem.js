@@ -18,7 +18,6 @@ const DropLevels = {
   'NONE': 6
 };
 
-
 function parseFormulas() {
   const allFormulas = [];
   const { manufactFormulas, workshopFormulas } = require('./original/building_data.json');

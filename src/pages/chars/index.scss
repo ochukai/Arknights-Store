@@ -1,0 +1,88 @@
+@import '../../styles/var.scss';
+
+.char-wrapper {
+
+  .char-list {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+
+    .simple-char-item {
+      width: 220px;
+      height: 100px;
+      margin: 0 15px 15px 0;
+      opacity: 1;
+      background-color: $color-white;
+      transition: all .3s;
+      cursor: pointer;
+
+      h3 {
+        position: relative;
+        font-size: 14px;
+        margin: 0;
+        padding: 0;
+        small {
+          font-weight: normal;
+        }
+        .oli-tag {
+          position: absolute;
+          margin: 0;
+          top: 0px;
+          right: 0px;
+        }
+      }
+
+      .oli-rate {
+        &.char-rarity-6 {
+          color: $color-orange;
+        }
+
+        &.char-rarity-5 {
+          color: $color-yellow;
+        }
+
+        &.char-rarity-4 {
+          color: $color-pink;
+        }
+
+        &.char-rarity-3 {
+          color: $color-blue;
+        }
+
+        &.char-rarity-2 {
+          // color: $color-white;
+        }
+
+        &.char-rarity-1 {
+          // color: $color-white;
+        }
+      }
+
+      p {
+        margin: 0;
+        font-size: 12px;
+        color: $color-gray;
+      }
+
+      .oli-tag:not(.char-tag) {
+        margin-left: 10px;
+        background: #fff;
+        color: #333;
+        padding: 4px 8px;
+        font-weight: normal;
+      }
+
+      .char-tags-wrapper {
+        margin: 5px 0 10px;
+      }
+
+      .oli-tag.char-tag {
+        padding: 3px 8px;
+        font-size: 12px;
+      }
+    }
+  }
+}

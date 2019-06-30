@@ -1,0 +1,42 @@
+@import '../../styles/var.scss';
+
+.char-detail {
+
+  .char-image {
+    img {
+      position: fixed;
+      z-index: -1;
+      top: 84px;
+      right: 10px;
+    }
+  }
+
+  .char-name {
+    margin: 0 0 20px 0;
+    padding: 0;
+  }
+
+  .char-story {
+    width: 600px;
+    background-color: rgba($color: #fff, $alpha: 0.6);
+
+    .char-story-content {
+      padding: 10px;
+    }
+
+    h2 {
+      margin: 0;
+      padding: 4px 10px;
+      font-size: 14px;
+      font-weight: normal;
+      color: $color-white;
+      background-color: $color-primary;
+    }
+
+    p {
+      margin: 0;
+      line-height: 1.5;
+      font-size: 14px;
+    }
+  }
+}

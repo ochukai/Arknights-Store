@@ -5,6 +5,7 @@
   text-align: center;
   box-sizing: border-box;
   border-right: 1px solid $color-border;
+  z-index: 1;
 
   .sider-logo {
     margin: 20px 0 0;
@@ -52,13 +53,18 @@
 .oli-layout-main {
   .oli-layout-main-content {
     padding: 20px;
+    padding-top: 84px;
   }
 
   .oli-layout-main-header {
     background-color: $color-white;
-    // box-shadow: 0 0 15px #aaa;
     border-bottom: 1px solid $color-border;
     padding-left: 20px;
+    position: fixed;
+    left: 250px;
+    top: 0;
+    right: 0;
+    z-index: 100;
 
     > h2 {
       font-size: 18px;

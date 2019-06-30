@@ -1,33 +1,90 @@
 const characters = require('./original/character_table.json');
-
+const handbook = require('./original/handbook_info_table.json');
+const { handbookDict } = handbook;
 const keys = Object.keys(characters);
 
 const path = require('path');
 const fs = require('fs-extra');
-const stringify = require("json-stringify-pretty-compact");
+const { writeFile } = require('./util/write');
+const { filterHtmlTag } = require('./util/filterHtmlTag');
+const { parseTeams } = require('./parseTeam');
 
-const curDir = path.join(__dirname, 'char');
-fs.ensureDir(curDir);
+const teams = parseTeams();
+const professionMaps = {
+  'PIONEER': '前锋',
+  'WARRIOR': '近卫',
+  'SNIPER': '阻击',
+  'TANK': '重装',
+  'MEDIC': '医疗',
+  'SUPPORT': '辅助',
+  'CASTER': '术士',
+  'SPECIAL': '特种'
+};
 
-const charMaps = [];
+const imageList = {};
 
-keys.forEach((key) => {
-  const value = characters[key];
-  value.id = key;
+function parseSimpleInfo() {
+  return keys.map((key) => {
+    const value = characters[key];
+    const {
+      name,
+      description,
+      team,
+      appellation,
+      position,
+      tagList = [],
+      itemObtainApproach,
+      rarity,
+      profession,
+    } = value;
 
-  if (key.indexOf('char_') > -1) {
-    // const name = key.split('_')[2];
-    const fileName = key + '.json';
-    charMaps.push({
+    let realTags = tagList;
+    if (tagList === null) {
+      realTags = [];
+    }
+
+    const professionName = professionMaps[profession];
+    // realTags.unshift(professionName);
+    // realTags.unshift(position);
+    const star = rarity + 1;
+    if (itemObtainApproach !== null) {
+      const path = star >= 4
+        ? `require('../../assets/images/${key}_2.png')`
+        : `require('../../assets/images/${key}_1.png')`;
+      imageList[key] = path;
+    }
+
+    const teamObj = teams.filter(t => t.id === team)[0];
+    return {
       id: key,
-      name: value.name
-    });
+      name,
+      appellation,
+      description: filterHtmlTag(description),
+      team: teamObj.name,
+      color: teamObj.color,
+      obtain: itemObtainApproach,
+      position,
+      // star: repeat('★', (rarity + 1)),
+      star,
+      profession: professionName, // 职业
+      tagList: realTags,
+    };
+  })
+  .filter(si => si.obtain !== null);
+}
 
-    // fs.writeFileSync(
-    //   path.join(curDir, fileName),
-    //   stringify(value)
-    // );
-  }
-});
+function write() {
+  const curDir = path.join(__dirname, 'char');
+  fs.ensureDirSync(curDir);
 
-exports.charMaps = charMaps;
+  const simpleInfo = parseSimpleInfo();
+  writeFile(curDir, 'simples.json', simpleInfo);
+
+  writeFile(curDir, 'images.js', imageList, (value) => {
+    value = value.replace(/\"require/ig, 'require');
+    value = value.replace(/\)\"/ig, ')');
+    return `export const imageMaps = ${value};`;
+  });
+}
+
+write();

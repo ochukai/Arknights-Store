@@ -3,8 +3,9 @@ import './Main.scss';
 import React, { Component } from 'react';
 import { Switch, Route, Link, withRouter } from "react-router-dom";
 import memoizeOne from 'memoize-one';
+import loadable from '@loadable/component';
 
-import { Layout, Menu, Icon } from '../../components';
+import { Layout, Menu, Icon, Button } from '../../components';
 
 import Demo from '../demo';
 import AkMaterial from '../material';
@@ -12,12 +13,16 @@ import AKStore from '../store';
 import AKEnemys from '../enemys';
 import AKBuffs from '../buffs';
 import AKIndex from './Index';
+import AKChars from '../chars';
+
+import history from '../../history';
 
 const { Sider, Footer, Header, Content } = Layout;
 const MenuItem = Menu.Item;
 
 const pathMaps = [
   { path: '/', name: '主页', component: AKIndex },
+  { path: '/chars', name: '干员', component: AKChars },
   { path: '/store', name: '仓库', component: AKStore },
   { path: '/material', name: '材料计算', component: AkMaterial },
   { path: '/buffs', name: '基建技能', component: AKBuffs },
@@ -32,6 +37,8 @@ class Main extends Component {
   };
 
   static getDerivedStateFromProps(nextProps) {
+    // console.log(nextProps);
+
     const { location } = nextProps;
     const { pathname } = location;
     return {
@@ -68,6 +75,8 @@ class Main extends Component {
         <Route path="/store" component={AKStore} />
         <Route path="/buffs" component={AKBuffs} />
         <Route path="/enemys" component={AKEnemys} />
+        <Route path="/chars" component={AKChars} />
+        <Route path="/char/:id" component={loadable(() => import('../chars/Char'))} />
         {/* <Route component={NotFound}/> */}
       </Switch>
     );
@@ -79,12 +88,20 @@ class Main extends Component {
       return router.name;
     }
 
-    return '404';
+    return '';
   });
+
+  handleBackClick = (e) => {
+    history.goBack();
+  };
 
   renderHeader() {
     const { pathname } = this.state;
     const header = this.getHeader(pathname);
+    if (!header && pathname.indexOf('/char/char_') === 0) {
+      return <Button onClick={this.handleBackClick}>返回</Button>
+    }
+
     return (
       <h2>
         <Icon type="heart-fill" /> {header}

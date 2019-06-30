@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to AK 仓库 👋</h1>
 <p>
-  <img src="https://img.shields.io/badge/version-0.9.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/version-0.9.0-red.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/version-0.9.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > 震惊！明日方舟仓库上线了
@@ -26,7 +25,6 @@ yarn install
 ```sh
 yarn start
 ```
-
 
 ## 作者
 

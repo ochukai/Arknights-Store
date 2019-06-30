@@ -5,7 +5,7 @@ const path = require('path');
 
 exports.writeFile = function (dir, fileName, value, callback) {
   let jsonValue = stringify(value, {
-    maxLength: 80
+    maxLength: 120
   });
 
   if (callback) {

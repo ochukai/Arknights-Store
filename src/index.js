@@ -1,19 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import { HashRouter } from "react-router-dom";
+import { Router } from "react-router-dom";
 import './index.scss';
 
 // import App from './App';
 import Main from './pages/layout/Main';
 
 import * as serviceWorker from './serviceWorker';
+import history from './history';
 
 const App = () => {
   return (
-    <HashRouter>
+    <Router history={history}>
       <Main />
-    </HashRouter>
+    </Router>
   );
 }
 
