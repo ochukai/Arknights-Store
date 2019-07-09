@@ -143,6 +143,19 @@
     "tagList": ["输出", "生存"]
   },
   {
+    "id": "char_281_popka",
+    "name": "泡普卡",
+    "appellation": "Popukar",
+    "description": "同时攻击阻挡的所有敌人",
+    "team": "行动预备组A6",
+    "color": "#58ccff",
+    "obtain": "招募寻访",
+    "position": "近战位",
+    "star": 3,
+    "profession": "近卫",
+    "tagList": ["群攻", "生存"]
+  },
+  {
     "id": "char_209_ardign",
     "name": "卡缇",
     "appellation": "Cardigan",
@@ -167,6 +180,19 @@
     "star": 3,
     "profession": "重装",
     "tagList": ["防护"]
+  },
+  {
+    "id": "char_284_spot",
+    "name": "斑点",
+    "appellation": "Spot",
+    "description": "技能可以治疗友方单位",
+    "team": "行动预备组A6",
+    "color": "#58ccff",
+    "obtain": "招募寻访",
+    "position": "近战位",
+    "star": 3,
+    "profession": "重装",
+    "tagList": ["防护", "治疗"]
   },
   {
     "id": "char_124_kroos",
@@ -284,6 +310,19 @@
     "star": 4,
     "profession": "术士",
     "tagList": ["群攻"]
+  },
+  {
+    "id": "char_253_greyy",
+    "name": "格雷伊",
+    "appellation": "Greyy",
+    "description": "攻击造成群体法术伤害",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "远程位",
+    "star": 4,
+    "profession": "术士",
+    "tagList": ["群攻", "减速"]
   },
   {
     "id": "char_235_jesica",
@@ -609,6 +648,19 @@
     "star": 5,
     "profession": "前锋",
     "tagList": ["费用回复", "控场"]
+  },
+  {
+    "id": "char_308_swire",
+    "name": "诗怀雅",
+    "appellation": "Swire",
+    "description": "可以攻击到较远敌人",
+    "team": "龙门近卫局",
+    "color": "#ff6a30",
+    "obtain": "招募寻访",
+    "position": "近战位",
+    "star": 5,
+    "profession": "近卫",
+    "tagList": ["输出", "支援"]
   },
   {
     "id": "char_106_franka",
@@ -1064,6 +1116,19 @@
     "star": 6,
     "profession": "近卫",
     "tagList": ["输出", "支援"]
+  },
+  {
+    "id": "char_010_chen",
+    "name": "陈",
+    "appellation": "Ch'en",
+    "description": "普通攻击连续造成两次伤害",
+    "team": "龙门近卫局",
+    "color": "#ff6a30",
+    "obtain": "招募寻访",
+    "position": "近战位",
+    "star": 6,
+    "profession": "近卫",
+    "tagList": ["爆发", "输出"]
   },
   {
     "id": "char_230_savage",

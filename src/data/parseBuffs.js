@@ -1,5 +1,5 @@
 const buildings = require('./original/building_data.json');
-const { charMaps } = require('./parseCharacter');
+const { parseSimpleInfo } = require('./parseCharacter');
 const { filterHtmlTag } = require('./util/filterHtmlTag');
 const uuid = require('uuid');
 
@@ -8,6 +8,8 @@ const { rooms, chars, buffs } = buildings;
 const path = require('path');
 const fs = require('fs-extra');
 const { writeFile } = require('./util/write');
+
+const charMaps = parseSimpleInfo();
 
 function parseRooms() {
   const keys = Object.keys(rooms);

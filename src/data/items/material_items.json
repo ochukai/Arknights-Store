@@ -11,13 +11,7 @@
         "name": "三水锰矿",
         "rarity": 3,
         "children": [
-          {
-            "id": "30083",
-            "count": 2,
-            "name": "轻锰矿",
-            "rarity": 2,
-            "children": []
-          },
+          {"id": "30083", "count": 2, "name": "轻锰矿", "rarity": 2, "children": []},
           {
             "id": "30033",
             "count": 1,
@@ -29,25 +23,11 @@
                 "count": 4,
                 "name": "聚酸酯",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30031",
-                    "count": 3,
-                    "name": "酯原料",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30073",
-            "count": 1,
-            "name": "扭转醇",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30073", "count": 1, "name": "扭转醇", "rarity": 2, "children": []}
         ]
       },
       {
@@ -56,13 +36,7 @@
         "name": "五水研磨石",
         "rarity": 3,
         "children": [
-          {
-            "id": "30093",
-            "count": 1,
-            "name": "研磨石",
-            "rarity": 2,
-            "children": []
-          },
+          {"id": "30093", "count": 1, "name": "研磨石", "rarity": 2, "children": []},
           {
             "id": "30043",
             "count": 1,
@@ -74,15 +48,7 @@
                 "count": 4,
                 "name": "异铁",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30041",
-                    "count": 3,
-                    "name": "异铁碎片",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -97,15 +63,7 @@
                 "count": 4,
                 "name": "装置",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30061",
-                    "count": 3,
-                    "name": "破损装置",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
               }
             ]
           }
@@ -117,13 +75,7 @@
         "name": "RMA70-24",
         "rarity": 3,
         "children": [
-          {
-            "id": "30103",
-            "count": 1,
-            "name": "RMA70-12",
-            "rarity": 2,
-            "children": []
-          },
+          {"id": "30103", "count": 1, "name": "RMA70-12", "rarity": 2, "children": []},
           {
             "id": "30013",
             "count": 2,
@@ -135,15 +87,7 @@
                 "count": 5,
                 "name": "固源岩",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30011",
-                    "count": 3,
-                    "name": "源岩",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -158,15 +102,7 @@
                 "count": 4,
                 "name": "酮凝集",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30051",
-                    "count": 3,
-                    "name": "双酮",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
               }
             ]
           }
@@ -197,15 +133,7 @@
                 "count": 4,
                 "name": "装置",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30061",
-                    "count": 3,
-                    "name": "破损装置",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -220,25 +148,11 @@
                 "count": 5,
                 "name": "固源岩",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30011",
-                    "count": 3,
-                    "name": "源岩",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30093",
-            "count": 1,
-            "name": "研磨石",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30093", "count": 1, "name": "研磨石", "rarity": 2, "children": []}
         ]
       },
       {
@@ -247,13 +161,7 @@
         "name": "白马醇",
         "rarity": 3,
         "children": [
-          {
-            "id": "30073",
-            "count": 1,
-            "name": "扭转醇",
-            "rarity": 2,
-            "children": []
-          },
+          {"id": "30073", "count": 1, "name": "扭转醇", "rarity": 2, "children": []},
           {
             "id": "30023",
             "count": 1,
@@ -265,25 +173,11 @@
                 "count": 4,
                 "name": "糖",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30021",
-                    "count": 3,
-                    "name": "代糖",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30103",
-            "count": 1,
-            "name": "RMA70-12",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30103", "count": 1, "name": "RMA70-12", "rarity": 2, "children": []}
         ]
       }
     ]
@@ -311,15 +205,7 @@
                 "count": 5,
                 "name": "固源岩",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30011",
-                    "count": 3,
-                    "name": "源岩",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
               }
             ]
           }
@@ -342,15 +228,7 @@
                 "count": 4,
                 "name": "异铁",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30041",
-                    "count": 3,
-                    "name": "异铁碎片",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -365,15 +243,7 @@
                 "count": 4,
                 "name": "装置",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30061",
-                    "count": 3,
-                    "name": "破损装置",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -388,15 +258,7 @@
                 "count": 4,
                 "name": "聚酸酯",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30031",
-                    "count": 3,
-                    "name": "酯原料",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
               }
             ]
           }
@@ -419,15 +281,7 @@
                 "count": 4,
                 "name": "酮凝集",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30051",
-                    "count": 3,
-                    "name": "双酮",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -442,25 +296,11 @@
                 "count": 4,
                 "name": "糖",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30021",
-                    "count": 3,
-                    "name": "代糖",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30083",
-            "count": 1,
-            "name": "轻锰矿",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30083", "count": 1, "name": "轻锰矿", "rarity": 2, "children": []}
         ]
       }
     ]
@@ -483,25 +323,11 @@
             "count": 4,
             "name": "糖",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30021",
-                "count": 3,
-                "name": "代糖",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
           }
         ]
       },
-      {
-        "id": "30103",
-        "count": 1,
-        "name": "RMA70-12",
-        "rarity": 2,
-        "children": []
-      }
+      {"id": "30103", "count": 1, "name": "RMA70-12", "rarity": 2, "children": []}
     ]
   },
   {"id": "30073", "name": "扭转醇", "sortId": 27, "rarity": 2, "children": []},
@@ -523,15 +349,7 @@
             "count": 4,
             "name": "聚酸酯",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30031",
-                "count": 3,
-                "name": "酯原料",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -557,15 +375,7 @@
             "count": 4,
             "name": "异铁",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30041",
-                "count": 3,
-                "name": "异铁碎片",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -580,15 +390,7 @@
             "count": 4,
             "name": "装置",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30061",
-                "count": 3,
-                "name": "破损装置",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
           }
         ]
       }
@@ -601,13 +403,7 @@
     "sortId": 32,
     "rarity": 3,
     "children": [
-      {
-        "id": "30103",
-        "count": 1,
-        "name": "RMA70-12",
-        "rarity": 2,
-        "children": []
-      },
+      {"id": "30103", "count": 1, "name": "RMA70-12", "rarity": 2, "children": []},
       {
         "id": "30013",
         "count": 2,
@@ -619,15 +415,7 @@
             "count": 5,
             "name": "固源岩",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30011",
-                "count": 3,
-                "name": "源岩",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -642,27 +430,13 @@
             "count": 4,
             "name": "酮凝集",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30051",
-                "count": 3,
-                "name": "双酮",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
           }
         ]
       }
     ]
   },
-  {
-    "id": "30103",
-    "name": "RMA70-12",
-    "sortId": 33,
-    "rarity": 2,
-    "children": []
-  },
+  {"id": "30103", "name": "RMA70-12", "sortId": 33, "rarity": 2, "children": []},
   {
     "id": "30014",
     "name": "提纯源岩",
@@ -680,15 +454,7 @@
             "count": 5,
             "name": "固源岩",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30011",
-                "count": 3,
-                "name": "源岩",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
           }
         ]
       }
@@ -705,9 +471,7 @@
         "count": 5,
         "name": "固源岩",
         "rarity": 1,
-        "children": [
-          {"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}
-        ]
+        "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
       }
     ]
   },
@@ -716,9 +480,7 @@
     "name": "固源岩",
     "sortId": 36,
     "rarity": 1,
-    "children": [
-      {"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}
-    ]
+    "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
   },
   {"id": "30011", "name": "源岩", "sortId": 37, "rarity": 0, "children": []},
   {
@@ -738,15 +500,7 @@
             "count": 4,
             "name": "装置",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30061",
-                "count": 3,
-                "name": "破损装置",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -761,15 +515,7 @@
             "count": 5,
             "name": "固源岩",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30011",
-                "count": 3,
-                "name": "源岩",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -787,15 +533,7 @@
         "count": 4,
         "name": "装置",
         "rarity": 1,
-        "children": [
-          {
-            "id": "30061",
-            "count": 3,
-            "name": "破损装置",
-            "rarity": 0,
-            "children": []
-          }
-        ]
+        "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
       }
     ]
   },
@@ -804,9 +542,7 @@
     "name": "装置",
     "sortId": 40,
     "rarity": 1,
-    "children": [
-      {"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}
-    ]
+    "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
   },
   {"id": "30061", "name": "破损装置", "sortId": 41, "rarity": 0, "children": []},
   {
@@ -826,15 +562,7 @@
             "count": 4,
             "name": "聚酸酯",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30031",
-                "count": 3,
-                "name": "酯原料",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -849,15 +577,7 @@
             "count": 4,
             "name": "酮凝集",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30051",
-                "count": 3,
-                "name": "双酮",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -875,15 +595,7 @@
         "count": 4,
         "name": "聚酸酯",
         "rarity": 1,
-        "children": [
-          {
-            "id": "30031",
-            "count": 3,
-            "name": "酯原料",
-            "rarity": 0,
-            "children": []
-          }
-        ]
+        "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
       }
     ]
   },
@@ -892,9 +604,7 @@
     "name": "聚酸酯",
     "sortId": 44,
     "rarity": 1,
-    "children": [
-      {"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}
-    ]
+    "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
   },
   {"id": "30031", "name": "酯原料", "sortId": 45, "rarity": 0, "children": []},
   {
@@ -914,15 +624,7 @@
             "count": 4,
             "name": "糖",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30021",
-                "count": 3,
-                "name": "代糖",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -937,15 +639,7 @@
             "count": 4,
             "name": "异铁",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30041",
-                "count": 3,
-                "name": "异铁碎片",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -963,9 +657,7 @@
         "count": 4,
         "name": "糖",
         "rarity": 1,
-        "children": [
-          {"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}
-        ]
+        "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
       }
     ]
   },
@@ -974,9 +666,7 @@
     "name": "糖",
     "sortId": 48,
     "rarity": 1,
-    "children": [
-      {"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}
-    ]
+    "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
   },
   {"id": "30021", "name": "代糖", "sortId": 49, "rarity": 0, "children": []},
   {
@@ -996,15 +686,7 @@
             "count": 4,
             "name": "异铁",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30041",
-                "count": 3,
-                "name": "异铁碎片",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -1019,15 +701,7 @@
             "count": 4,
             "name": "装置",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30061",
-                "count": 3,
-                "name": "破损装置",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -1042,15 +716,7 @@
             "count": 4,
             "name": "聚酸酯",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30031",
-                "count": 3,
-                "name": "酯原料",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
           }
         ]
       }
@@ -1067,15 +733,7 @@
         "count": 4,
         "name": "异铁",
         "rarity": 1,
-        "children": [
-          {
-            "id": "30041",
-            "count": 3,
-            "name": "异铁碎片",
-            "rarity": 0,
-            "children": []
-          }
-        ]
+        "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
       }
     ]
   },
@@ -1084,9 +742,7 @@
     "name": "异铁",
     "sortId": 52,
     "rarity": 1,
-    "children": [
-      {"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}
-    ]
+    "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
   },
   {"id": "30041", "name": "异铁碎片", "sortId": 53, "rarity": 0, "children": []},
   {
@@ -1106,15 +762,7 @@
             "count": 4,
             "name": "酮凝集",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30051",
-                "count": 3,
-                "name": "双酮",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -1129,15 +777,7 @@
             "count": 4,
             "name": "糖",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30021",
-                "count": 3,
-                "name": "代糖",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
           }
         ]
       },
@@ -1155,9 +795,7 @@
         "count": 4,
         "name": "酮凝集",
         "rarity": 1,
-        "children": [
-          {"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}
-        ]
+        "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
       }
     ]
   },
@@ -1166,9 +804,7 @@
     "name": "酮凝集",
     "sortId": 56,
     "rarity": 1,
-    "children": [
-      {"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}
-    ]
+    "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
   },
   {"id": "30051", "name": "双酮", "sortId": 57, "rarity": 0, "children": []}
 ]

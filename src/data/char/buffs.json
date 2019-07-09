@@ -1,17 +1,17 @@
 [
   {
-    "id": "12d257d4-f939-44b5-a7e3-eb33763757ab",
+    "id": "b6b3ca82-1d6f-4ecd-aa36-bb6b85f4b61b",
     "name": "备用能源",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
     "room": "发电站",
-    "description": "当进驻发电站时，无人机每小时恢复速度+10%",
+    "description": "进驻发电站时，无人机每小时恢复速度+10%",
     "phase": "初始",
     "level": 1,
     "char": "Lancet-2"
   },
   {
-    "id": "cfebcdc3-d2e3-40cf-bc99-ceaf5e7da072",
+    "id": "458ed7ed-e0ec-4955-8c8a-0be73041a6d6",
     "name": "医疗服务",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -22,18 +22,18 @@
     "char": "Lancet-2"
   },
   {
-    "id": "3a5aa21a-b37b-4854-b73d-cb91457e1e81",
+    "id": "1de836e3-4020-44dc-b2f7-5500d2c48b5e",
     "name": "备用能源",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
     "room": "发电站",
-    "description": "当进驻发电站时，无人机每小时恢复速度+10%",
+    "description": "进驻发电站时，无人机每小时恢复速度+10%",
     "phase": "初始",
     "level": 1,
     "char": "Castle-3"
   },
   {
-    "id": "d157abc0-22dd-4a68-a984-620d9ab42e3b",
+    "id": "afc9465b-9a3a-48d7-b068-a623f15b31f0",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -44,7 +44,7 @@
     "char": "Castle-3"
   },
   {
-    "id": "828baced-7d06-4da0-9881-c0673c7f23fc",
+    "id": "ee43f81d-bb5a-4224-901d-cc674faa5e44",
     "name": "线索搜集·β",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -55,7 +55,7 @@
     "char": "12F"
   },
   {
-    "id": "47474917-f573-41eb-86ef-67729176ee40",
+    "id": "134b39c5-4895-4db4-8bb8-69c9c1d7bd71",
     "name": "特训记录",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -66,7 +66,7 @@
     "char": "12F"
   },
   {
-    "id": "d118301a-bc42-437b-a673-561c972db3da",
+    "id": "e80764b2-d5cd-4fc6-9ca3-647f9f8f9d49",
     "name": "仓库整备·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -77,7 +77,7 @@
     "char": "黑角"
   },
   {
-    "id": "18f74ae1-7d71-4ec9-bea9-0ffce27c517a",
+    "id": "8aec25cf-33bd-4651-859b-13d81e18fbb3",
     "name": "订单管理·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -88,29 +88,29 @@
     "char": "黑角"
   },
   {
-    "id": "4d6788e1-6821-4872-9e71-d324e9f78e14",
+    "id": "d9c732a6-9d2f-4ff4-bc00-0d5f7de3217b",
     "name": "慵懒",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，自身心情每小时恢复-0.1，该宿舍内所有干员心情每小时恢复+0.2（同种效果取最高）",
+    "description": "进驻宿舍时，自身心情每小时恢复-0.1，该宿舍内所有干员的心情每小时恢复+0.2（同种效果取最高）",
     "phase": "初始",
     "level": 1,
     "char": "杜林"
   },
   {
-    "id": "3b10d0a8-c1bb-4e39-8435-df6f782ed1c3",
+    "id": "a2fc79b9-8024-4f4e-933b-f27bb24725e3",
     "name": "嗜睡",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，自身心情每小时恢复-0.1，该宿舍内所有干员心情每小时恢复+0.25（同种效果取最高）",
+    "description": "进驻宿舍时，自身心情每小时恢复-0.1，该宿舍内所有干员的心情每小时恢复+0.25（同种效果取最高）",
     "phase": "初始",
     "level": 30,
     "char": "杜林"
   },
   {
-    "id": "f8045a70-a4f7-495a-80ea-f1e58dec7a1d",
+    "id": "97a755d5-36d8-427e-8013-6d110d12de1e",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -121,7 +121,7 @@
     "char": "夜刀"
   },
   {
-    "id": "6a05a64a-c31f-496a-806d-12ee31197ae0",
+    "id": "67f16d3a-49d4-43e5-a1f2-7e9a8a6f8d9a",
     "name": "标准化·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -132,7 +132,7 @@
     "char": "夜刀"
   },
   {
-    "id": "dab51d38-5490-475b-a85f-85800a186888",
+    "id": "ab542bd4-d8c8-4451-9c71-7f0c400c5018",
     "name": "人事管理·α",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -143,7 +143,7 @@
     "char": "巡林者"
   },
   {
-    "id": "45261215-8e1f-4d20-9ef7-af9a15a5d140",
+    "id": "491823bb-3472-432e-83b4-10b48d0c53c2",
     "name": "能工巧匠",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -154,7 +154,7 @@
     "char": "巡林者"
   },
   {
-    "id": "5ccdbf2f-6dc4-4e6a-bbcf-f39e5dac4eee",
+    "id": "7eac87d2-95ac-4e74-a0d0-9bd29a50fd4d",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -165,7 +165,7 @@
     "char": "芙蓉"
   },
   {
-    "id": "d13a1244-2a7e-4cb7-97e2-b3a531bc0a4a",
+    "id": "60b2fe19-c067-4bbe-a83d-fc5b849af233",
     "name": "营养学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -176,18 +176,18 @@
     "char": "芙蓉"
   },
   {
-    "id": "7f38276e-ba18-4762-addd-290b2a0d695a",
+    "id": "00360514-c531-49e3-aad7-323320723850",
     "name": "热能充能·α",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
     "room": "发电站",
-    "description": "当进驻发电站时，无人机每小时恢复速度+10%",
+    "description": "进驻发电站时，无人机每小时恢复速度+10%",
     "phase": "初始",
     "level": 1,
     "char": "炎熔"
   },
   {
-    "id": "99671a87-7c5e-4385-89ce-28ccd9455248",
+    "id": "01c785be-90e4-4cf0-9399-6f527a66144c",
     "name": "源石工艺·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -198,7 +198,7 @@
     "char": "炎熔"
   },
   {
-    "id": "394613b8-0317-4601-91f7-9b1765463663",
+    "id": "809a5cf2-cf77-44b7-9ff1-41fb04ce966e",
     "name": "仓库整备·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -209,7 +209,7 @@
     "char": "米格鲁"
   },
   {
-    "id": "0af4f50c-e014-458e-88e9-94a744c456c3",
+    "id": "42138b9d-b5b5-4df5-add3-9e054070a11f",
     "name": "活泼",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -220,7 +220,7 @@
     "char": "米格鲁"
   },
   {
-    "id": "e75469f8-9a4f-46d6-bd73-152a0cdf22c2",
+    "id": "e1c5f752-f115-4759-910a-e1afe0cc8c35",
     "name": "急性子",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -231,7 +231,7 @@
     "char": "芬"
   },
   {
-    "id": "9384097b-9a89-4b3d-b9ea-39c54680facc",
+    "id": "29cd845b-e5a9-45fd-b28f-f14de7b06324",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -242,7 +242,7 @@
     "char": "芬"
   },
   {
-    "id": "c60e6eea-0828-4e50-9c28-363d2e7267f9",
+    "id": "b6b91701-5f0e-486e-b477-b0d067fc6651",
     "name": "慢性子",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -253,7 +253,7 @@
     "char": "克洛丝"
   },
   {
-    "id": "9fc08ecb-fd62-4a72-9102-d84d41c95458",
+    "id": "4af6ffeb-058c-41a8-832d-c5031de4e945",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -264,7 +264,7 @@
     "char": "克洛丝"
   },
   {
-    "id": "99ddd7ce-567f-4910-8468-9088a6be4005",
+    "id": "9932ed65-ec74-44c3-940a-9a4b87de8503",
     "name": "先锋专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -275,7 +275,7 @@
     "char": "翎羽"
   },
   {
-    "id": "0f4fc6f3-4645-40f5-ad98-f4325b1bbd87",
+    "id": "0a10419e-17de-4661-a3a6-feea0b0746d8",
     "name": "订单管理·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -286,7 +286,7 @@
     "char": "翎羽"
   },
   {
-    "id": "e8a4c11c-e30c-42a5-8eb7-c27c9681b4e4",
+    "id": "b4b144dd-68ac-4cd3-8f1e-ba8fbd80bac9",
     "name": "供应管理",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -297,7 +297,7 @@
     "char": "玫兰莎"
   },
   {
-    "id": "574ea455-deb2-440d-a390-ace8595681fc",
+    "id": "c3b6f893-3fc3-4373-9580-0f02a8db297d",
     "name": "专注·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -308,7 +308,7 @@
     "char": "玫兰莎"
   },
   {
-    "id": "f7b34404-fd85-40ef-a321-0590a7d181df",
+    "id": "ac0ae664-551e-47a8-9fbb-3312a79b7d6d",
     "name": "仓库整备·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -319,7 +319,7 @@
     "char": "卡缇"
   },
   {
-    "id": "290d7681-e092-48cc-8962-b445804d6f6a",
+    "id": "2b59b74e-f711-4294-a4a7-b023ce48be93",
     "name": "活泼",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -330,18 +330,18 @@
     "char": "卡缇"
   },
   {
-    "id": "d596f2bd-2ba3-4320-b54d-9e41eb127c8c",
+    "id": "d5782976-cf0c-4f1b-a024-9fc0f835b08f",
     "name": "谈判",
     "bgColor": "#0075a9",
     "color": "#ffffff",
     "room": "贸易站",
-    "description": "进驻贸易站时，订单上限+3，每小时心情消耗-0.25",
+    "description": "进驻贸易站时，订单上限+3，心情每小时消耗-0.25",
     "phase": "初始",
     "level": 1,
     "char": "史都华德"
   },
   {
-    "id": "2d4641c0-855b-45fc-8e0e-a419319505e8",
+    "id": "8274373a-7359-4086-8d18-a21547510943",
     "name": "标准化·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -352,7 +352,7 @@
     "char": "史都华德"
   },
   {
-    "id": "324073eb-1abc-403f-8d17-3ebd8c5223c7",
+    "id": "441ce772-821a-4603-8c92-8d1fd703179c",
     "name": "订单分发·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -363,7 +363,7 @@
     "char": "安德切尔"
   },
   {
-    "id": "8997f72d-2e7c-4d55-b25d-ad4589ea470e",
+    "id": "4aa64158-d2e6-4354-b640-bac1431b9770",
     "name": "能工巧匠",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -374,7 +374,7 @@
     "char": "安德切尔"
   },
   {
-    "id": "8ae717a1-1420-4d58-be9d-fe6904927f32",
+    "id": "3aa0ab25-1037-4e6e-958a-94f637fb297f",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -385,7 +385,7 @@
     "char": "安赛尔"
   },
   {
-    "id": "2dbe2e35-4794-4bf9-a32c-6c39bbaf111f",
+    "id": "a4107478-fe0b-460b-bb8e-8d49b8836276",
     "name": "药理学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -396,7 +396,7 @@
     "char": "安赛尔"
   },
   {
-    "id": "260518d4-6b45-4581-90b2-3bed49ec4c8e",
+    "id": "c50f8f96-d74b-4978-854c-18949a783a5e",
     "name": "标准化·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -407,7 +407,7 @@
     "char": "香草"
   },
   {
-    "id": "b92590e3-fd43-4ac4-a2c8-f9f5416c26ff",
+    "id": "0285ddfd-6501-439a-93bd-cc20ba2a6932",
     "name": "订单分发·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -418,7 +418,7 @@
     "char": "香草"
   },
   {
-    "id": "9d7cfcab-264d-4b10-9f81-04be1cab419b",
+    "id": "a495da99-2fd4-4682-b4aa-6156d032d1ab",
     "name": "心理学",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -429,7 +429,7 @@
     "char": "梓兰"
   },
   {
-    "id": "948d9634-0dc0-47ca-a993-8376d65bc98b",
+    "id": "f7352bfc-70ff-4e60-a946-733e3325424b",
     "name": "供应管理",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -440,18 +440,18 @@
     "char": "梓兰"
   },
   {
-    "id": "3945cbd2-e7a7-4514-a501-bbd0ffd3b866",
+    "id": "f08b829a-cd9c-4bdc-80e8-f1c4a4e08768",
     "name": "交际",
     "bgColor": "#0075a9",
     "color": "#ffffff",
     "room": "贸易站",
-    "description": "进驻贸易站时，订单获取效率+30%，每小时心情消耗-0.25",
+    "description": "进驻贸易站时，订单获取效率+30%，心情每小时消耗-0.25",
     "phase": "初始",
     "level": 1,
     "char": "空爆"
   },
   {
-    "id": "dbbb0481-2308-49e4-98ea-6027134d13a8",
+    "id": "d6f95f47-468d-42a3-9b19-97f90763f9d5",
     "name": "爆破材料学·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -462,18 +462,18 @@
     "char": "空爆"
   },
   {
-    "id": "6cc11952-ee3b-4109-b47e-cd001ad6d18a",
+    "id": "a40b34e4-d3d1-4abf-97e2-6c412bf4364b",
     "name": "交际",
     "bgColor": "#0075a9",
     "color": "#ffffff",
     "room": "贸易站",
-    "description": "进驻贸易站时，订单获取效率+30%，每小时心情消耗-0.25",
+    "description": "进驻贸易站时，订单获取效率+30%，心情每小时消耗-0.25",
     "phase": "初始",
     "level": 1,
     "char": "月见夜"
   },
   {
-    "id": "f92ef780-56f9-4fcd-b7c7-fde2c5ac3917",
+    "id": "e939a23c-ebd5-4252-99c2-be86a045b2b3",
     "name": "源石工艺·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -484,7 +484,51 @@
     "char": "月见夜"
   },
   {
-    "id": "5ed89d47-b46b-4001-862d-07e50d3e9c02",
+    "id": "800d932e-3fd9-4792-8241-2fec60cb3481",
+    "name": "麻烦制造者",
+    "bgColor": "#ffd800",
+    "color": "#333333",
+    "room": "制造站",
+    "description": "进驻制造站时，生产力+25%，仓库容量上限-12，心情每小时消耗+0.25",
+    "phase": "初始",
+    "level": 1,
+    "char": "泡普卡"
+  },
+  {
+    "id": "1be77a66-0345-4403-9d71-5100860b2166",
+    "name": "和谐",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，使该宿舍内除自身以外心情未满的某个干员每小时恢复+0.4（同种效果取最高）；同时自身心情每小时恢复+0.2",
+    "phase": "精一",
+    "level": 1,
+    "char": "泡普卡"
+  },
+  {
+    "id": "90493a93-84ce-46e9-8fdd-ec1dd60928bb",
+    "name": "能工巧匠",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工任意类材料时，副产品的产出概率提升50%",
+    "phase": "初始",
+    "level": 1,
+    "char": "斑点"
+  },
+  {
+    "id": "34e4c306-2798-4227-ab32-ce475bb00427",
+    "name": "金属工艺·α",
+    "bgColor": "#ffd800",
+    "color": "#333333",
+    "room": "制造站",
+    "description": "进驻制造站时，贵金属类配方的生产力+30%",
+    "phase": "精一",
+    "level": 1,
+    "char": "斑点"
+  },
+  {
+    "id": "7ecc9a73-478c-40fe-bf89-8f45d7cf555d",
     "name": "供应管理",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -495,7 +539,7 @@
     "char": "远山"
   },
   {
-    "id": "66b34912-775c-4a11-92d5-f9a63a59e11c",
+    "id": "8c2c4b22-9241-48a3-81b7-7e096889eba6",
     "name": "占卜",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -506,7 +550,7 @@
     "char": "远山"
   },
   {
-    "id": "740c1741-8b42-4123-9c1b-374fff3048ca",
+    "id": "c6e2c3e4-84fa-4b7d-9c23-0ac1e0877fea",
     "name": "订单分发·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -517,7 +561,7 @@
     "char": "深海色"
   },
   {
-    "id": "a81a7539-d6a4-4fe2-930c-503753b6fccc",
+    "id": "a2878eca-2c8b-4c6c-b407-407139812368",
     "name": "专注·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -528,7 +572,7 @@
     "char": "深海色"
   },
   {
-    "id": "c1aec511-40cc-46ce-8179-c309007d6ddd",
+    "id": "496d3851-a13a-4761-98b6-86572de86b69",
     "name": "药理学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -539,7 +583,7 @@
     "char": "末药"
   },
   {
-    "id": "48e164dc-1ded-4dd8-83a6-3e496a420533",
+    "id": "b9964c1b-ed81-4c83-9deb-a3b88e2959d3",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -550,7 +594,7 @@
     "char": "末药"
   },
   {
-    "id": "d38b7f03-3ff3-4d6d-9d34-1c384409816a",
+    "id": "ceec701b-3510-4bd9-8ccf-2583fc59585a",
     "name": "线索搜集·β",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -561,7 +605,7 @@
     "char": "白雪"
   },
   {
-    "id": "8c12eb04-4350-4254-be85-0d07a80188fd",
+    "id": "1d25530a-1781-4c3d-be51-e991e020f1f6",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -572,7 +616,7 @@
     "char": "白雪"
   },
   {
-    "id": "58f0105a-f76b-473a-a825-0ccba7faa718",
+    "id": "c4b17ca8-c5ba-4753-a9bb-183185dbcc62",
     "name": "标准化·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -583,7 +627,7 @@
     "char": "流星"
   },
   {
-    "id": "0bf0e023-6de5-41ec-ab48-1bd71817b377",
+    "id": "ec7919dc-06fd-4ff6-8d83-3b1b885144f6",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -594,7 +638,7 @@
     "char": "流星"
   },
   {
-    "id": "18d24e23-63a4-49fe-bf45-131c09abbaee",
+    "id": "6e75fc4f-94c1-432d-bdb6-4b1eb38083b3",
     "name": "专注·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -605,7 +649,7 @@
     "char": "艾丝黛尔"
   },
   {
-    "id": "392e1f66-62a8-490e-a23d-995248197ab6",
+    "id": "93698864-e7c5-4c99-a0af-56969cdfa742",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -616,29 +660,29 @@
     "char": "艾丝黛尔"
   },
   {
-    "id": "7e780a07-48b4-401e-a635-28461bf0ce25",
+    "id": "37fc8986-a328-4706-ac3e-471e782af2d7",
     "name": "左膀右臂",
     "bgColor": "#005752",
     "color": "#ffffff",
     "room": "控制中枢",
-    "description": "进驻控制中枢时，控制中枢内的其他干员心情每小时消耗-0.05",
+    "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时消耗-0.05",
     "phase": "初始",
     "level": 1,
     "char": "杜宾"
   },
   {
-    "id": "f9fc4eb6-c3b0-4821-bd16-a0e11d7f0b89",
+    "id": "f966efd1-9e4a-4bb3-b04c-981b3291f5a0",
     "name": "教官",
     "bgColor": "#7d0022",
     "color": "#ffffff",
     "room": "训练室",
-    "description": "进驻训练室协助位时，干员的训练速度+25%",
+    "description": "进驻训练室协助位时，干员的专精技能训练速度+25%",
     "phase": "精一",
     "level": 1,
     "char": "杜宾"
   },
   {
-    "id": "c1f05a99-1c6e-4f27-8ce5-2480d2158510",
+    "id": "d4a5b9f9-edbc-40de-8f70-0bd8c1b8c698",
     "name": "近卫专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -649,7 +693,7 @@
     "char": "猎蜂"
   },
   {
-    "id": "59e73c5c-ae3b-4470-8b27-a01274caa072",
+    "id": "3361c9f9-5db4-4b0d-8d09-d46649f8269e",
     "name": "特训记录",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -660,7 +704,7 @@
     "char": "猎蜂"
   },
   {
-    "id": "30900c01-07d5-43ad-8026-6cef5b43e581",
+    "id": "f77c395b-8bcf-4fd4-bdcd-48b591caa776",
     "name": "金属工艺·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -671,7 +715,7 @@
     "char": "夜烟"
   },
   {
-    "id": "526fed58-f9c6-499f-b5bb-2fa0d4e4e58c",
+    "id": "ff87d807-13fc-445e-8324-65f61b30552c",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -682,29 +726,29 @@
     "char": "夜烟"
   },
   {
-    "id": "1231110d-db9d-4d53-bf45-d5d14ec260c8",
+    "id": "8e90ebdc-a664-43a4-b4ca-09b3db13d4a3",
     "name": "S.W.E.E.P",
     "bgColor": "#005752",
     "color": "#ffffff",
     "room": "控制中枢",
-    "description": "进驻控制中枢时，控制中枢内的其他干员心情每小时消耗-0.05",
+    "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时消耗-0.05",
     "phase": "初始",
     "level": 1,
     "char": "清道夫"
   },
   {
-    "id": "78d128ed-d6db-4738-afc9-03fb9bf3d88a",
+    "id": "e04d2978-03e5-490f-92ac-02d55f81481d",
     "name": "拾荒者",
     "bgColor": "#ffd800",
     "color": "#333333",
     "room": "制造站",
-    "description": "进驻制造站时，仓库容量上限+8，每小时心情消耗-0.25",
+    "description": "进驻制造站时，仓库容量上限+8，心情每小时消耗-0.25",
     "phase": "精一",
     "level": 1,
     "char": "清道夫"
   },
   {
-    "id": "f88669b2-9f22-4dac-aeb9-7f25a59046d1",
+    "id": "c3620d3f-9b2f-4b28-be6b-2cbfed922600",
     "name": "仓库整备·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -715,7 +759,7 @@
     "char": "蛇屠箱"
   },
   {
-    "id": "cb093725-485b-4e0a-a67a-5fe093f50bf1",
+    "id": "c7ab7c85-d7ec-4bbe-aad2-d444b59e266a",
     "name": "订单分发·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -726,7 +770,7 @@
     "char": "蛇屠箱"
   },
   {
-    "id": "ea43af72-bfd5-400c-9f77-b67ae4071e96",
+    "id": "a4bd5455-1364-4edf-8bc8-fb8782236bce",
     "name": "药理学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -737,7 +781,7 @@
     "char": "调香师"
   },
   {
-    "id": "e44890c0-0bcd-435d-b397-55d0a298a6ea",
+    "id": "b2f2342b-0aed-47c3-b943-9e5ad520ea87",
     "name": "标准化·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -748,7 +792,7 @@
     "char": "调香师"
   },
   {
-    "id": "bf3d1d2b-49cf-4ece-85d0-8b1292c7add9",
+    "id": "cd282011-b8f0-4dc0-b578-28211b4ff526",
     "name": "天灾信使·α",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -759,7 +803,7 @@
     "char": "地灵"
   },
   {
-    "id": "eab6f6f4-59ef-4eb6-9957-1218c7a7d319",
+    "id": "08aba66b-c01f-4cca-a7a9-720201be3292",
     "name": "地质学家",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -770,7 +814,7 @@
     "char": "地灵"
   },
   {
-    "id": "ecc1959e-e96c-429c-b738-4db6be4ba5fd",
+    "id": "267f65b8-4633-4b18-9b81-b7e40ea9ff64",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -781,7 +825,7 @@
     "char": "慕斯"
   },
   {
-    "id": "6b40edc3-4a29-4de6-b810-56cc6edd3850",
+    "id": "f75256d8-d017-4c79-91d4-9a1d8aa2a5e6",
     "name": "烘焙",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -792,7 +836,7 @@
     "char": "慕斯"
   },
   {
-    "id": "6d11972d-0c16-4324-86e2-cb7b86004b04",
+    "id": "9c3fcfb7-200c-4b63-acd9-087795b0d581",
     "name": "药理学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -803,7 +847,7 @@
     "char": "嘉维尔"
   },
   {
-    "id": "2e568ea8-ed07-44bc-b763-a40e9420168e",
+    "id": "3045467f-c159-4cc8-af9e-679155d3f47c",
     "name": "医疗专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -814,7 +858,7 @@
     "char": "嘉维尔"
   },
   {
-    "id": "818802a5-37df-41f3-9e75-0b79ad13cc5d",
+    "id": "26b5000b-0d54-4bf7-b91d-fc24c56de3e7",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -825,7 +869,7 @@
     "char": "霜叶"
   },
   {
-    "id": "a857ee35-9500-4bb7-bcdd-4d1851327730",
+    "id": "bbd506c9-d538-4975-9c67-2cdb78be92bd",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -836,18 +880,18 @@
     "char": "霜叶"
   },
   {
-    "id": "02d28f24-4cb4-453a-81fc-77d69e47b26f",
+    "id": "8a237b31-4e56-4130-9f5e-49be0b2717ee",
     "name": "交际",
     "bgColor": "#0075a9",
     "color": "#ffffff",
     "room": "贸易站",
-    "description": "进驻贸易站时，订单获取效率+30%，每小时心情消耗-0.25",
+    "description": "进驻贸易站时，订单获取效率+30%，心情每小时消耗-0.25",
     "phase": "初始",
     "level": 1,
     "char": "古米"
   },
   {
-    "id": "c633a245-aed7-4a68-9f8a-ce023ebee096",
+    "id": "0a8e1e5a-6de4-418a-89a4-7a6b5bf4f8d0",
     "name": "烹饪",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -858,7 +902,7 @@
     "char": "古米"
   },
   {
-    "id": "982dfb8d-f6e5-4a4f-9058-2de91a601654",
+    "id": "89abf90a-73bb-4608-a798-1fdd61c81564",
     "name": "喀兰贸易·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -869,7 +913,7 @@
     "char": "讯使"
   },
   {
-    "id": "878fcab4-c411-4f85-bdb5-ebe54a3a466c",
+    "id": "bb0955ee-7bfc-4ad7-8f59-e966ddcbf631",
     "name": "讯使",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -880,7 +924,7 @@
     "char": "讯使"
   },
   {
-    "id": "6229fccd-5eda-406e-b83e-73bee93ee7e2",
+    "id": "8739fc3c-019a-4781-9436-bdcfec5b5755",
     "name": "喀兰贸易·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -891,7 +935,7 @@
     "char": "角峰"
   },
   {
-    "id": "bbf7b903-5133-42a4-ba21-486bc9ca0a8f",
+    "id": "3ddc9fc3-86bf-41ba-85a4-0b0c8e6df2d3",
     "name": "重装专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -902,7 +946,7 @@
     "char": "角峰"
   },
   {
-    "id": "9eb467f3-605b-4036-9e63-321eb7e6b601",
+    "id": "5256ad73-251d-4772-8e07-d8e11c5f3627",
     "name": "标准化·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -913,7 +957,7 @@
     "char": "杰西卡"
   },
   {
-    "id": "94d0e95f-2e4b-4d8e-824f-d6d95b43bec5",
+    "id": "87651627-072d-41e5-9dfd-7c98146e79d7",
     "name": "联络员",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -924,7 +968,7 @@
     "char": "杰西卡"
   },
   {
-    "id": "f259dc58-53cf-49f4-86e1-f1cab3f5f1f5",
+    "id": "08311f0e-7d80-4592-868c-d51974444492",
     "name": "线索搜集·β",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -935,18 +979,18 @@
     "char": "暗索"
   },
   {
-    "id": "0b3a0969-28ff-47df-ad4a-2b9cf4fb4888",
+    "id": "bd90c4ab-ed65-43f1-981c-2c1bc650db71",
     "name": "谈判",
     "bgColor": "#0075a9",
     "color": "#ffffff",
     "room": "贸易站",
-    "description": "进驻贸易站时，订单上限+3，每小时心情消耗-0.25",
+    "description": "进驻贸易站时，订单上限+3，心情每小时消耗-0.25",
     "phase": "精一",
     "level": 1,
     "char": "暗索"
   },
   {
-    "id": "db7867c3-3d46-41a5-882b-9f84fe17fa28",
+    "id": "b24f9fd5-b01f-4639-a9a6-184f2dce9352",
     "name": "专注·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -957,7 +1001,7 @@
     "char": "砾"
   },
   {
-    "id": "6d4c89fb-fb8e-4090-b259-14af159b16fa",
+    "id": "c9a30a36-2a2c-4123-8486-51366196fa6d",
     "name": "金属工艺·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -968,7 +1012,7 @@
     "char": "砾"
   },
   {
-    "id": "21d8fdc8-0b62-436b-9170-20906f664a66",
+    "id": "c51b5743-39b2-4479-916a-b5f14910040d",
     "name": "工程学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -979,18 +1023,18 @@
     "char": "阿消"
   },
   {
-    "id": "f048afcc-bd22-4c59-9cac-b7458ed95440",
+    "id": "a6b99a71-e7bd-4876-8037-36f5ece5eecd",
     "name": "设备维护",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
     "room": "发电站",
-    "description": "当进驻发电站时，无人机每小时恢复速度+15%",
+    "description": "进驻发电站时，无人机每小时恢复速度+15%",
     "phase": "精一",
     "level": 1,
     "char": "阿消"
   },
   {
-    "id": "22c714c5-1e28-4227-b0c8-3a94355365ee",
+    "id": "76801aef-da69-41c5-994c-0adfb251dfd0",
     "name": "技巧理论",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1001,7 +1045,7 @@
     "char": "缠丸"
   },
   {
-    "id": "e2a8014e-099b-4ce9-bab7-730769de8606",
+    "id": "25c5cc85-9f77-4730-a2cb-c6162eef6677",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1012,7 +1056,7 @@
     "char": "缠丸"
   },
   {
-    "id": "eb99b84c-6cbd-447b-817d-85b197e86dfb",
+    "id": "e1b141ee-ccb4-4d39-9179-7715ac9228da",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1023,7 +1067,7 @@
     "char": "红豆"
   },
   {
-    "id": "387f2b92-57c3-4a2a-8036-b31eddda6765",
+    "id": "4278e36d-4e42-454f-b8ec-a85998c08e4f",
     "name": "先锋专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1034,40 +1078,62 @@
     "char": "红豆"
   },
   {
-    "id": "e95519a6-4172-4aa0-9bdb-fba01770ea48",
+    "id": "f1a84399-94f8-454c-a978-8fb5828bd986",
+    "name": "静电场",
+    "bgColor": "#8fc31f",
+    "color": "#ffffff",
+    "room": "发电站",
+    "description": "进驻发电站时，无人机每小时恢复速度+20%",
+    "phase": "初始",
+    "level": 1,
+    "char": "格雷伊"
+  },
+  {
+    "id": "82db007c-2044-4b7a-b782-bd6c8fb01fb7",
+    "name": "能工巧匠",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工任意类材料时，副产品的产出概率提升50%",
+    "phase": "精一",
+    "level": 1,
+    "char": "格雷伊"
+  },
+  {
+    "id": "f775f4ea-c99e-4ca3-bc50-2546df8c3e2c",
     "name": "合作协议",
     "bgColor": "#005752",
     "color": "#ffffff",
     "room": "控制中枢",
-    "description": "进驻控制中枢时，所有贸易站订单效率+7%",
+    "description": "进驻控制中枢时，所有贸易站订单效率+7%（同种效果取最高）",
     "phase": "初始",
     "level": 1,
     "char": "阿米娅"
   },
   {
-    "id": "1dc5a88e-911b-4ba6-8a16-d49e776221c6",
+    "id": "2776a2cb-4b54-4194-8599-cb945e3e17ea",
     "name": "小提琴独奏",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，该宿舍内所有干员心情每小时恢复+0.15（同种效果取最高）",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.15（同种效果取最高）",
     "phase": "精二",
     "level": 1,
     "char": "阿米娅"
   },
   {
-    "id": "25f57de5-1c23-4716-898d-d460e39b9279",
+    "id": "f6f8c062-a58c-4554-8af5-744d5ebcbf10",
     "name": "偶像",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，该宿舍内所有干员心情每小时恢复+0.15（同种效果取最高）",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.15（同种效果取最高）",
     "phase": "初始",
     "level": 1,
     "char": "空"
   },
   {
-    "id": "a2a8a597-711e-4131-95f8-f916f5402bdf",
+    "id": "41c84dae-7076-44ab-ae7d-039a06aa7ef6",
     "name": "企鹅物流·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1078,7 +1144,7 @@
     "char": "空"
   },
   {
-    "id": "fca388e7-e460-4519-ab2c-b7071d939408",
+    "id": "dd9d7a3f-45cc-427a-a26d-c1149d976f29",
     "name": "恩怨",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1089,7 +1155,7 @@
     "char": "德克萨斯"
   },
   {
-    "id": "4ac6885b-d646-4c65-bfd8-8d8b34b3fd87",
+    "id": "0c694bed-2424-4c9f-a651-d5317213c2b4",
     "name": "默契",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1100,7 +1166,7 @@
     "char": "德克萨斯"
   },
   {
-    "id": "1078b6a0-6e68-40fb-9517-5d47a0884230",
+    "id": "b361d9c5-8b6d-498e-94db-b204f1115f37",
     "name": "近卫专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1111,7 +1177,7 @@
     "char": "芙兰卡"
   },
   {
-    "id": "3d2c7766-5dd1-4af0-8b0e-00493bcfabf9",
+    "id": "42566ebd-d5a2-47d2-9a97-b4ad9079e835",
     "name": "近卫专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1122,29 +1188,29 @@
     "char": "芙兰卡"
   },
   {
-    "id": "a55d8af1-d8eb-445b-93eb-4c80d5ef2ed8",
+    "id": "1435744a-e6d0-4a25-9a84-4fc1c9e43fae",
     "name": "脉冲电弧·α",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
     "room": "发电站",
-    "description": "当进驻发电站时，无人机每小时恢复速度+15%",
+    "description": "进驻发电站时，无人机每小时恢复速度+15%",
     "phase": "初始",
     "level": 1,
     "char": "雷蛇"
   },
   {
-    "id": "626a6150-6996-4607-8925-799b549452c3",
+    "id": "9431fdad-ca34-4e69-a88c-090f3b30c105",
     "name": "脉冲电弧·β",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
     "room": "发电站",
-    "description": "当进驻发电站时，无人机每小时恢复速度+20%",
+    "description": "进驻发电站时，无人机每小时恢复速度+20%",
     "phase": "精二",
     "level": 1,
     "char": "雷蛇"
   },
   {
-    "id": "7834a776-8e02-452e-bb12-f20672ce2893",
+    "id": "adb80d65-c172-4afb-b6b6-0ea169fe3652",
     "name": "莱茵科技·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1155,7 +1221,7 @@
     "char": "赫默"
   },
   {
-    "id": "9215a761-ad2d-49b9-a608-0377ac572a18",
+    "id": "fded550d-e3b7-4481-8304-fdfbf260a5cd",
     "name": "莱茵科技·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1166,29 +1232,29 @@
     "char": "赫默"
   },
   {
-    "id": "49750604-8d37-424f-a48a-e446c2cfb2ca",
+    "id": "f83d6f8f-fed8-4ab2-b74e-43ad0ce23583",
     "name": "领袖",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，该宿舍内所有干员心情每小时恢复+0.15（同种效果取最高）",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.15（同种效果取最高）",
     "phase": "初始",
     "level": 1,
     "char": "凛冬"
   },
   {
-    "id": "ea4c4db5-44a2-4669-9a02-06ff7114534a",
+    "id": "c47ed491-ae46-4fcc-94e1-1ce08573ad3b",
     "name": "凛冬将军",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，该宿舍内所有干员心情每小时恢复+0.2（同种效果取最高）",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.2（同种效果取最高）",
     "phase": "精二",
     "level": 1,
     "char": "凛冬"
   },
   {
-    "id": "f88a9b24-7012-4f7e-bfe3-1c3f46c5437d",
+    "id": "4637d4e4-e638-4e88-9303-10b7d768f466",
     "name": "莱茵科技·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1199,7 +1265,7 @@
     "char": "白面鸮"
   },
   {
-    "id": "925e50fb-4659-49ce-aa8f-6cecb81dc0f3",
+    "id": "254325ca-c542-40a0-920e-57cb4b3de794",
     "name": "莱茵科技·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1210,7 +1276,7 @@
     "char": "白面鸮"
   },
   {
-    "id": "adf9e576-7deb-48c7-8627-30a69f8791de",
+    "id": "1976d6e1-5761-49a5-9e7e-491c7e4058a8",
     "name": "毒理学·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1221,7 +1287,7 @@
     "char": "蓝毒"
   },
   {
-    "id": "2b291a57-2dae-4fca-bcf0-a60a0cb1c7c7",
+    "id": "de95ffc9-3b1f-49d3-8e15-692f46810caa",
     "name": "毒理学·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1232,7 +1298,7 @@
     "char": "蓝毒"
   },
   {
-    "id": "fb5ff11a-34c4-460f-b43d-9174743d1c3c",
+    "id": "fb0ba071-0bfb-471c-8d58-b9c12c0e63b0",
     "name": "醉翁之意·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1243,7 +1309,7 @@
     "char": "拉普兰德"
   },
   {
-    "id": "83b59448-4e25-4bae-973a-9873252a2b77",
+    "id": "d6603758-8369-4ae8-81c8-91301d0dbb4b",
     "name": "醉翁之意·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1254,7 +1320,7 @@
     "char": "拉普兰德"
   },
   {
-    "id": "158374ca-8eae-41ca-9df5-df528c91d16f",
+    "id": "ea37a9ba-c760-4171-b16b-5e2e3b313ac2",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1265,7 +1331,7 @@
     "char": "幽灵鲨"
   },
   {
-    "id": "2a5f835e-9bd0-46fe-8d13-eab15339f9ab",
+    "id": "9718e289-3688-4f08-b816-24017aa002c0",
     "name": "狂热",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1276,18 +1342,18 @@
     "char": "幽灵鲨"
   },
   {
-    "id": "ede52629-4dc4-46b6-9f31-6b16dbdb89cc",
+    "id": "c3fa5d5b-678c-4721-85e5-9151c451ade7",
     "name": "S.W.E.E.P",
     "bgColor": "#005752",
     "color": "#ffffff",
     "room": "控制中枢",
-    "description": "进驻控制中枢时，控制中枢内的其他干员心情每小时消耗-0.05",
+    "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时消耗-0.05",
     "phase": "初始",
     "level": 1,
     "char": "红"
   },
   {
-    "id": "f853a881-474a-4fce-8b26-d883a406f18c",
+    "id": "e0393140-f43d-456e-bb0b-3e6fa4efbe61",
     "name": "追踪者",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1298,7 +1364,7 @@
     "char": "红"
   },
   {
-    "id": "7dd9f94e-f81e-40db-b337-6feb2ff62f62",
+    "id": "8d138284-c56a-47aa-8c58-1b343abed9e7",
     "name": "天灾信使·α",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -1309,7 +1375,7 @@
     "char": "普罗旺斯"
   },
   {
-    "id": "12b2ee4a-2a4e-4bc9-b06e-5b996bbe9ca8",
+    "id": "852c471d-d12f-46e5-8dcc-30d841d85533",
     "name": "天灾信使·β",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -1320,18 +1386,18 @@
     "char": "普罗旺斯"
   },
   {
-    "id": "66b2e6f7-c64e-47b4-9fe1-15257ef5413a",
+    "id": "25045923-6414-4ee0-8d01-3daad178b171",
     "name": "左膀右臂",
     "bgColor": "#005752",
     "color": "#ffffff",
     "room": "控制中枢",
-    "description": "进驻控制中枢时，控制中枢内的其他干员心情每小时消耗-0.05",
+    "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时消耗-0.05",
     "phase": "初始",
     "level": 1,
     "char": "临光"
   },
   {
-    "id": "7b1aaecb-24e2-484a-b307-b252b27761c2",
+    "id": "59753f11-6229-45ea-8824-88d94cebe6ef",
     "name": "耀骑士",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1342,7 +1408,7 @@
     "char": "临光"
   },
   {
-    "id": "45583dc6-3fee-47f9-9d0c-11d8cc4aaf84",
+    "id": "4062467c-9e74-45ec-a8b3-eab87e3cac00",
     "name": "线索搜集·α",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1353,7 +1419,7 @@
     "char": "因陀罗"
   },
   {
-    "id": "248f19d4-9aaa-433f-8127-cd8d5de53f9c",
+    "id": "8270f0b2-404a-4d47-be8f-6995ace258c7",
     "name": "传讯者",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1364,7 +1430,7 @@
     "char": "因陀罗"
   },
   {
-    "id": "39d0381b-4595-44b6-a609-27e091857770",
+    "id": "7dce56ee-3f7f-44d0-b450-7ff037beba4e",
     "name": "线索搜集·α",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1375,7 +1441,7 @@
     "char": "守林人"
   },
   {
-    "id": "d17582c6-40f6-4f29-b382-13e44f371f6f",
+    "id": "a3416491-3779-4086-ba6b-9cde22bbb0eb",
     "name": "线索搜集·β",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1386,29 +1452,29 @@
     "char": "守林人"
   },
   {
-    "id": "d67c8704-5851-4df5-a229-47bc7585e92b",
+    "id": "d1828462-8148-4505-ad4b-35ed08ba317b",
     "name": "工匠精神·α",
     "bgColor": "#ffd800",
     "color": "#333333",
     "room": "制造站",
-    "description": "进驻制造站时，生产力-5%，仓库容量上限+16，每小时心情消耗-0.15",
+    "description": "进驻制造站时，生产力-5%，仓库容量上限+16，心情每小时消耗-0.15",
     "phase": "初始",
     "level": 1,
     "char": "火神"
   },
   {
-    "id": "6977e3a6-30da-4fbd-905d-05d51a34602e",
+    "id": "6e473703-e852-4de5-9e09-5b3308d43601",
     "name": "工匠精神·β",
     "bgColor": "#ffd800",
     "color": "#333333",
     "room": "制造站",
-    "description": "进驻制造站时，生产力-5%，仓库容量上限+16，每小时心情消耗-0.25",
+    "description": "进驻制造站时，生产力-5%，仓库容量上限+16，心情每小时消耗-0.25",
     "phase": "精二",
     "level": 1,
     "char": "火神"
   },
   {
-    "id": "e7c4d04b-43c5-4699-83e9-ffa820ac708b",
+    "id": "00bf7632-99b1-4248-8b2a-75eda85c8fd4",
     "name": "术师专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1419,7 +1485,7 @@
     "char": "夜魔"
   },
   {
-    "id": "09672b14-a6cd-497e-bb20-47e2a50a04f5",
+    "id": "7198abff-5aa9-44e3-a5d8-5fc4bae53aa0",
     "name": "心理学",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -1430,7 +1496,7 @@
     "char": "夜魔"
   },
   {
-    "id": "7097817a-cc9e-48a3-976d-6209c0dd9166",
+    "id": "2649f87a-46d1-45b9-ab77-0f32d7be9e32",
     "name": "术师专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1441,7 +1507,7 @@
     "char": "天火"
   },
   {
-    "id": "c14ca94a-b491-4066-8589-ea88655f0a3a",
+    "id": "dc9e6297-c526-4266-b978-af019bbeea76",
     "name": "术师专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1452,7 +1518,7 @@
     "char": "天火"
   },
   {
-    "id": "4a2f4fff-a591-4d35-a66b-f916740f52f3",
+    "id": "e26506e6-d351-4afe-9473-5b8983f94430",
     "name": "医疗专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1463,7 +1529,7 @@
     "char": "华法琳"
   },
   {
-    "id": "7cc64f18-b168-4b67-8e38-1b8fe7906ab6",
+    "id": "f33c75f1-de3e-4589-af1f-b4edffba22ee",
     "name": "医疗专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1474,7 +1540,7 @@
     "char": "华法琳"
   },
   {
-    "id": "15b25e8e-eb82-4084-b86a-3ef1f1349faa",
+    "id": "9874289f-3f7f-4297-b49f-fbb15d4135fc",
     "name": "探险家的热情",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1485,7 +1551,7 @@
     "char": "崖心"
   },
   {
-    "id": "8f9adcc2-2970-4741-9634-5b18a44812d7",
+    "id": "addce483-60a9-49de-9460-57128b7dfeac",
     "name": "喀兰贸易·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1496,7 +1562,7 @@
     "char": "崖心"
   },
   {
-    "id": "aa11972a-299d-43db-b733-324c869feff0",
+    "id": "6c0e1a30-054c-46a0-96f8-37f1af260d8a",
     "name": "喀兰圣女",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1507,7 +1573,7 @@
     "char": "初雪"
   },
   {
-    "id": "b7797bfd-4138-4279-a19f-ee31f9bc3cd2",
+    "id": "58b7e72c-714c-44e9-ad5e-60da2155e673",
     "name": "辅助专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1518,7 +1584,7 @@
     "char": "初雪"
   },
   {
-    "id": "522b6157-9c67-4546-89e9-b0f676ec4cb4",
+    "id": "9f55be5e-c7fa-44b6-b2ae-e3378474ff54",
     "name": "辅助专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1529,7 +1595,7 @@
     "char": "真理"
   },
   {
-    "id": "f6184735-22bc-4544-8b56-4a6e8a56311b",
+    "id": "87698417-9e3d-47fd-9b42-98ff2886b6ee",
     "name": "参谋",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1540,7 +1606,7 @@
     "char": "真理"
   },
   {
-    "id": "09a4eb71-4cd6-4f52-bb0e-f10d16ac6f26",
+    "id": "1ec2ddd2-8425-4ca8-a97e-c69c2e0f1563",
     "name": "企鹅物流·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1551,7 +1617,7 @@
     "char": "可颂"
   },
   {
-    "id": "32486bc0-477e-4c1d-bef2-fd961f217691",
+    "id": "221dbab2-f426-45b8-9c5a-4f133a90af98",
     "name": "使命必达",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1562,7 +1628,7 @@
     "char": "可颂"
   },
   {
-    "id": "b78e12dd-cb9a-42b1-b297-7446ed976385",
+    "id": "516b9b1f-45c3-439f-bf26-7502b0e9153d",
     "name": "狙击专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1573,7 +1639,7 @@
     "char": "白金"
   },
   {
-    "id": "a11aed0d-89b0-4ea6-bf3a-7087348936fb",
+    "id": "8580e957-5d76-4114-ab1f-439bbe08b115",
     "name": "狙击专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1584,7 +1650,7 @@
     "char": "白金"
   },
   {
-    "id": "802dfef7-5139-4762-948e-b2c85817ba05",
+    "id": "74494853-64ca-4c91-9874-504d4dded7ae",
     "name": "特种专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1595,7 +1661,7 @@
     "char": "狮蝎"
   },
   {
-    "id": "3b7f6160-2f69-4d6b-91af-cce7a969955d",
+    "id": "b7112dcb-cf1e-4ef7-8007-a4107e7e2705",
     "name": "特种专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1606,7 +1672,7 @@
     "char": "狮蝎"
   },
   {
-    "id": "3ae73d82-a45e-4885-861c-a297b863bb3b",
+    "id": "418f5fa5-8e34-4246-ae49-a973c143be53",
     "name": "爆破材料学·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1617,7 +1683,7 @@
     "char": "陨星"
   },
   {
-    "id": "9d55c830-4f70-41d8-b6aa-20ddb6bd4084",
+    "id": "57a219da-0644-46f7-b16c-69392a088c86",
     "name": "爆破材料学·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1628,7 +1694,7 @@
     "char": "陨星"
   },
   {
-    "id": "cc23e2b2-c634-4a03-9df0-e863bbd0fe21",
+    "id": "fddaa949-cbd9-467b-97c2-0064b25f8f97",
     "name": "先锋专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1639,7 +1705,7 @@
     "char": "格拉尼"
   },
   {
-    "id": "bad4560c-a6ab-4e76-8c28-da017424acdd",
+    "id": "2ac00682-d81c-4eab-be94-0e8c02bd83b5",
     "name": "先锋专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1650,7 +1716,7 @@
     "char": "格拉尼"
   },
   {
-    "id": "a08bfca1-1789-4c57-aaa7-7b0be34aa23a",
+    "id": "a08f00ab-64db-4cac-8efe-9095354cb099",
     "name": "技巧理论",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1661,7 +1727,7 @@
     "char": "暴行"
   },
   {
-    "id": "a2fd3da5-3b8c-4599-b99d-d1ec3aa74fbe",
+    "id": "d33c280e-93d9-4bd3-b6df-a497e5e77feb",
     "name": "烹饪",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1672,7 +1738,7 @@
     "char": "暴行"
   },
   {
-    "id": "3a210bd8-860c-4861-94de-5cfc7bbdd5b9",
+    "id": "4a3f84b0-85da-46fa-824f-e413d0a1a435",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1683,7 +1749,7 @@
     "char": "食铁兽"
   },
   {
-    "id": "923b118f-f1dd-4eec-b655-522858eb2a7e",
+    "id": "0dc4448d-1d53-4c83-b3af-3382f97eb96f",
     "name": "拳术指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1694,7 +1760,7 @@
     "char": "食铁兽"
   },
   {
-    "id": "e2152943-bfbb-4b68-8dce-a147a3a6882c",
+    "id": "00f9d452-567d-4a1e-b1f4-0fb15ecc8300",
     "name": "咪波·加工型",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1705,7 +1771,7 @@
     "char": "梅尔"
   },
   {
-    "id": "4910f620-83b7-4e54-805f-86cd4b96db5a",
+    "id": "09e6ec21-d500-441c-a208-c47ac43d584c",
     "name": "咪波·制造型",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1716,7 +1782,51 @@
     "char": "梅尔"
   },
   {
-    "id": "8c20f345-0edc-4521-961f-f7257663b36c",
+    "id": "3fcd6899-0a62-4ff6-8fd7-65fc41d41a59",
+    "name": "德才兼备",
+    "bgColor": "#005752",
+    "color": "#ffffff",
+    "room": "控制中枢",
+    "description": "进驻控制中枢时，控制中枢内每个龙门近卫局干员，可使控制中枢内所有干员的心情每小时消耗-0.05",
+    "phase": "初始",
+    "level": 1,
+    "char": "陈"
+  },
+  {
+    "id": "a4f94409-62e3-4361-8c15-89afe4a79ce4",
+    "name": "警司",
+    "bgColor": "#dd653f",
+    "color": "#ffffff",
+    "room": "会客室",
+    "description": "进驻会客室时，线索搜集速度提升25%",
+    "phase": "精二",
+    "level": 1,
+    "char": "陈"
+  },
+  {
+    "id": "d30b4436-a040-42cf-990c-cd4793730828",
+    "name": "大小姐",
+    "bgColor": "#005752",
+    "color": "#ffffff",
+    "room": "控制中枢",
+    "description": "进驻控制中枢时，所有贸易站订单效率+7%（同种效果取最高）",
+    "phase": "初始",
+    "level": 1,
+    "char": "诗怀雅"
+  },
+  {
+    "id": "5128ae45-3807-4d97-9762-7228586e1750",
+    "name": "教官",
+    "bgColor": "#7d0022",
+    "color": "#ffffff",
+    "room": "训练室",
+    "description": "进驻训练室协助位时，干员的专精技能训练速度+25%",
+    "phase": "精二",
+    "level": 1,
+    "char": "诗怀雅"
+  },
+  {
+    "id": "72eb93c0-80f1-44ab-8ecd-3581ad18aeaf",
     "name": "企鹅物流·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1727,7 +1837,7 @@
     "char": "能天使"
   },
   {
-    "id": "bd34436a-8c00-46df-8927-f5ce18ac9bf8",
+    "id": "7a83cffb-13b5-4c31-bd61-1fa241326584",
     "name": "物流专家",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1738,51 +1848,51 @@
     "char": "能天使"
   },
   {
-    "id": "f0195738-c9a7-4ebf-8121-ed4c42fe550e",
+    "id": "0d7570a7-0912-4c77-ac0a-a330c39f29c2",
     "name": "领袖",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，该宿舍内所有干员心情每小时恢复+0.15（同种效果取最高）",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.15（同种效果取最高）",
     "phase": "初始",
     "level": 1,
     "char": "推进之王"
   },
   {
-    "id": "7bda6fe5-e4b3-4897-957b-60fa3fe41eae",
+    "id": "9cb77d4e-093a-4cc6-b8af-8512c9b3af86",
     "name": "狮心王",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，该宿舍内所有干员心情每小时恢复+0.2（同种效果取最高）",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.2（同种效果取最高）",
     "phase": "精二",
     "level": 1,
     "char": "推进之王"
   },
   {
-    "id": "7e8e5a2a-3746-4d06-979e-008b4227223b",
+    "id": "931fa17a-d269-4405-99ef-578cc6acfd75",
     "name": "热能充能·α",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
     "room": "发电站",
-    "description": "当进驻发电站时，无人机每小时恢复速度+10%",
+    "description": "进驻发电站时，无人机每小时恢复速度+10%",
     "phase": "初始",
     "level": 1,
     "char": "伊芙利特"
   },
   {
-    "id": "c666abc8-46f0-4253-8072-40495c75b62f",
+    "id": "19edd505-a7ef-4324-afd3-c9a6490b8ccd",
     "name": "高热充能",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
     "room": "发电站",
-    "description": "当进驻发电站时，无人机每小时恢复速度+15%",
+    "description": "进驻发电站时，无人机每小时恢复速度+15%",
     "phase": "精二",
     "level": 1,
     "char": "伊芙利特"
   },
   {
-    "id": "bfbf4636-cf2d-424d-8ee7-9fb2b200c75a",
+    "id": "534e59f5-ecff-4a93-918c-8d094156792a",
     "name": "重装专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1793,7 +1903,7 @@
     "char": "星熊"
   },
   {
-    "id": "b66eb954-b056-416d-bd05-5f9c51bb6418",
+    "id": "a4e966be-60b4-42a9-87cf-99066fe4340f",
     "name": "般若之盾",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1804,7 +1914,7 @@
     "char": "星熊"
   },
   {
-    "id": "d5e09f2f-5b17-49fc-98b9-5dad06644458",
+    "id": "103979da-a436-471c-92a0-824b365ec08b",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1815,7 +1925,7 @@
     "char": "闪灵"
   },
   {
-    "id": "88a50757-9faa-4803-88f1-8c19e96dce1a",
+    "id": "107190c9-b2d5-4f61-9f1b-2d18b529c3f7",
     "name": "慈悲",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1826,7 +1936,7 @@
     "char": "闪灵"
   },
   {
-    "id": "d2d09d5c-a881-48f5-82a2-e7b6d083780f",
+    "id": "4911b504-7b6e-4d70-af08-10954ba2cd42",
     "name": "喀兰贸易·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1837,7 +1947,7 @@
     "char": "银灰"
   },
   {
-    "id": "603cc695-10f7-41c8-905a-c63085463d6f",
+    "id": "24e9ea7e-e650-4e30-992f-0fc86d94885e",
     "name": "喀兰之主",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1848,29 +1958,29 @@
     "char": "银灰"
   },
   {
-    "id": "53f13802-efb0-4286-8421-a1e72e44bb00",
+    "id": "d00f3246-ce4a-4c5b-8673-f99b4a0fcd68",
     "name": "鼓舞",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，该宿舍内所有干员心情每小时恢复+0.1（同种效果取最高）",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.1（同种效果取最高）",
     "phase": "初始",
     "level": 1,
     "char": "夜莺"
   },
   {
-    "id": "90aa0a65-dfa6-4f8c-a32a-71a3d8012ef1",
+    "id": "4aee07fd-c1c4-4c27-98f1-43c6ab58108d",
     "name": "提灯女神",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
     "room": "宿舍",
-    "description": "进驻宿舍时，该宿舍内所有干员心情每小时恢复+0.2（同种效果取最高）",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.2（同种效果取最高）",
     "phase": "精二",
     "level": 1,
     "char": "夜莺"
   },
   {
-    "id": "83a7081d-4c6d-46f0-a380-f15c04bbdb04",
+    "id": "b0c1f6d5-d5cf-47a1-beb8-29f264ec56d8",
     "name": "火山学家",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1881,7 +1991,7 @@
     "char": "艾雅法拉"
   },
   {
-    "id": "667e30b4-c7d4-414b-bb18-2c1b7737766d",
+    "id": "ca568993-2a89-483e-b141-86692acad8ca",
     "name": "天灾信使·β",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -1892,7 +2002,7 @@
     "char": "艾雅法拉"
   },
   {
-    "id": "86fb3d57-0f22-4bf8-a8c1-63fc3d9b37c9",
+    "id": "00a4077c-ab0d-454b-bd71-b7ae2174bfe2",
     "name": "线索搜集·α",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1903,7 +2013,7 @@
     "char": "塞雷娅"
   },
   {
-    "id": "92444d25-4cc5-49cb-a43b-774cd948febb",
+    "id": "78088b4c-c375-47ce-9125-61355cdec066",
     "name": "守望者",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1914,7 +2024,7 @@
     "char": "塞雷娅"
   },
   {
-    "id": "40186df9-6dc9-4529-81d6-439eb510d53c",
+    "id": "2bbcfe44-a5c0-47a6-8546-3d78299d6310",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1925,7 +2035,7 @@
     "char": "斯卡蒂"
   },
   {
-    "id": "3e9d5be5-214a-4238-8547-c3b44881d3c2",
+    "id": "adba2f10-f249-4906-9a87-afb73bdb22bf",
     "name": "悲歌",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1936,7 +2046,7 @@
     "char": "斯卡蒂"
   },
   {
-    "id": "f390def8-ebac-4b89-8301-b5ede45a4277",
+    "id": "ef931756-eb14-45c6-a60f-c57cb66a53bc",
     "name": "线索搜集·α",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1947,7 +2057,7 @@
     "char": "安洁莉娜"
   },
   {
-    "id": "2b515216-4fb1-4b5f-9d5f-63aa88a972b0",
+    "id": "f72856fe-877d-4ed6-a175-dfc4b0503c0b",
     "name": "信使",
     "bgColor": "#dd653f",
     "color": "#ffffff",

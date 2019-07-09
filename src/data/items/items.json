@@ -34,9 +34,7 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [
-            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
-          ]
+          "drops": [{"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}]
         }
       },
       {
@@ -108,9 +106,7 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [
-            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}
-          ]
+          "drops": [{"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}]
         }
       },
       {
@@ -123,9 +119,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}
-          ]
+          "drops": [{"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}]
         }
       }
     ],
@@ -180,9 +174,7 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
-          "drops": [
-            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
-          ]
+          "drops": [{"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}]
         }
       },
       {
@@ -195,9 +187,20 @@
           "apCost": 21,
           "expGain": 210,
           "goldGain": 210,
-          "drops": [
-            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
-          ]
+          "drops": [{"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}]
+        }
+      },
+      {
+        "stageId": "sub_05-3-2",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_05-3-2",
+          "name": "恐慌-2",
+          "code": "S5-6",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [{"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}]
         }
       }
     ],
@@ -308,9 +311,7 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [
-            {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"}]
         }
       }
     ],
@@ -1414,9 +1415,7 @@
           "apCost": 10,
           "expGain": 100,
           "goldGain": 100,
-          "drops": [
-            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}]
         }
       },
       {
@@ -1429,9 +1428,7 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [
-            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}]
         }
       }
     ],
@@ -1459,9 +1456,7 @@
           "apCost": 10,
           "expGain": 100,
           "goldGain": 100,
-          "drops": [
-            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}]
         }
       }
     ],
@@ -1501,9 +1496,7 @@
           "apCost": 10,
           "expGain": 100,
           "goldGain": 100,
-          "drops": [
-            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}]
         }
       }
     ],
@@ -1543,9 +1536,7 @@
           "apCost": 10,
           "expGain": 100,
           "goldGain": 1410,
-          "drops": [
-            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
-          ]
+          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
         }
       },
       {
@@ -1575,9 +1566,7 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 0,
-          "drops": [
-            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
-          ]
+          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
         }
       },
       {
@@ -1590,9 +1579,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 0,
-          "drops": [
-            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
-          ]
+          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
         }
       },
       {
@@ -1605,9 +1592,7 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 0,
-          "drops": [
-            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
-          ]
+          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
         }
       },
       {
@@ -1620,9 +1605,7 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 0,
-          "drops": [
-            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
-          ]
+          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
         }
       },
       {
@@ -1635,9 +1618,20 @@
           "apCost": 21,
           "expGain": 210,
           "goldGain": 0,
-          "drops": [
-            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
-          ]
+          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
+        }
+      },
+      {
+        "stageId": "sub_05-1-2",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_05-1-2",
+          "name": "盘踞-2",
+          "code": "S5-2",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 0,
+          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
         }
       }
     ],
@@ -1666,17 +1660,8 @@
           "expGain": 90,
           "goldGain": 90,
           "drops": [
-            {
-              "type": "FURN",
-              "id": "furni_pizza_exitIndicator_01",
-              "dropType": 1
-            },
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "FURN", "id": "furni_pizza_exitIndicator_01", "dropType": 1},
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
             {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
           ]
@@ -1692,9 +1677,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}]
         }
       },
       {
@@ -1754,8 +1737,35 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
+          "drops": [{"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"}]
+        }
+      },
+      {
+        "stageId": "main_05-10",
+        "occPer": 3,
+        "stage": {
+          "id": "main_05-10",
+          "name": "长夜终尽",
+          "code": "5-10",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [{"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"}]
+        }
+      },
+      {
+        "stageId": "sub_05-1-1",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_05-1-1",
+          "name": "盘踞-1",
+          "code": "S5-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
           "drops": [
-            {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"}
+            {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"},
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
           ]
         }
       }
@@ -1768,9 +1778,7 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [
-          {"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}
-        ],
+        "costs": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}],
         "roomType": "WORKSHOP",
         "item": "固源岩"
       }
@@ -1798,9 +1806,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"}]
         }
       },
       {
@@ -1818,6 +1824,19 @@
             {"type": "MATERIAL", "id": "30014", "dropType": 3, "name": "提纯源岩"}
           ]
         }
+      },
+      {
+        "stageId": "main_05-01",
+        "occPer": 4,
+        "stage": {
+          "id": "main_05-01",
+          "name": "冤家易结",
+          "code": "5-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [{"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"}]
+        }
       }
     ],
     "buildings": [
@@ -1834,15 +1853,7 @@
             "count": 5,
             "name": "固源岩",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30011",
-                "count": 3,
-                "name": "源岩",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
           }
         ],
         "roomType": "WORKSHOP",
@@ -1899,15 +1910,7 @@
                 "count": 5,
                 "name": "固源岩",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30011",
-                    "count": 3,
-                    "name": "源岩",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
               }
             ]
           }
@@ -1940,17 +1943,8 @@
           "expGain": 90,
           "goldGain": 90,
           "drops": [
-            {
-              "type": "FURN",
-              "id": "furni_pizza_brickWallSticker_01",
-              "dropType": 1
-            },
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "FURN", "id": "furni_pizza_brickWallSticker_01", "dropType": 1},
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
             {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
           ]
@@ -1966,9 +1960,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}]
         }
       },
       {
@@ -1981,9 +1973,7 @@
           "apCost": 6,
           "expGain": 60,
           "goldGain": 60,
-          "drops": [
-            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}]
         }
       }
     ],
@@ -2013,12 +2003,7 @@
           "goldGain": 120,
           "drops": [
             {"type": "CHAR", "id": "char_220_grani", "dropType": 1},
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
             {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
           ]
@@ -2034,9 +2019,20 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [
-            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}]
+        }
+      },
+      {
+        "stageId": "main_05-03",
+        "occPer": 3,
+        "stage": {
+          "id": "main_05-03",
+          "name": "义胆凡躯",
+          "code": "5-3",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [{"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"}]
         }
       },
       {
@@ -2049,8 +2045,22 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
+          "drops": [{"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}]
+        }
+      },
+      {
+        "stageId": "sub_05-2-2",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_05-2-2",
+          "name": "恶寒-2",
+          "code": "S5-4",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
           "drops": [
-            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
+            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"},
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
           ]
         }
       }
@@ -2063,9 +2073,7 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [
-          {"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}
-        ],
+        "costs": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}],
         "roomType": "WORKSHOP",
         "item": "糖"
       }
@@ -2093,9 +2101,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"}]
         }
       },
       {
@@ -2105,6 +2111,22 @@
           "id": "main_04-02",
           "name": "雨中漫步",
           "code": "4-2",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
+            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_05-02",
+        "occPer": 4,
+        "stage": {
+          "id": "main_05-02",
+          "name": "有口难言",
+          "code": "5-2",
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
@@ -2129,15 +2151,7 @@
             "count": 4,
             "name": "糖",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30021",
-                "count": 3,
-                "name": "代糖",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
           }
         ],
         "roomType": "WORKSHOP",
@@ -2172,6 +2186,22 @@
             {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
           ]
         }
+      },
+      {
+        "stageId": "main_05-02",
+        "occPer": 5,
+        "stage": {
+          "id": "main_05-02",
+          "name": "有口难言",
+          "code": "5-2",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
+            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
+          ]
+        }
       }
     ],
     "buildings": [
@@ -2194,15 +2224,7 @@
                 "count": 4,
                 "name": "糖",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30021",
-                    "count": 3,
-                    "name": "代糖",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -2217,25 +2239,11 @@
                 "count": 4,
                 "name": "异铁",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30041",
-                    "count": 3,
-                    "name": "异铁碎片",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30083",
-            "count": 1,
-            "name": "轻锰矿",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30083", "count": 1, "name": "轻锰矿", "rarity": 2, "children": []}
         ],
         "roomType": "WORKSHOP",
         "item": "糖聚块"
@@ -2265,17 +2273,8 @@
           "expGain": 90,
           "goldGain": 90,
           "drops": [
-            {
-              "type": "FURN",
-              "id": "furni_pizza_exitIndicator_01",
-              "dropType": 1
-            },
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "FURN", "id": "furni_pizza_exitIndicator_01", "dropType": 1},
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
             {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
           ]
@@ -2291,9 +2290,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}]
         }
       },
       {
@@ -2340,12 +2337,7 @@
           "goldGain": 120,
           "drops": [
             {"type": "FURN", "id": "furni_pizza_barStool_01", "dropType": 1},
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
             {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
           ]
@@ -2377,8 +2369,22 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
+          "drops": [{"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}]
+        }
+      },
+      {
+        "stageId": "sub_05-2-1",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_05-2-1",
+          "name": "恶寒-1",
+          "code": "S5-3",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
           "drops": [
-            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
+            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"},
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
           ]
         }
       }
@@ -2391,15 +2397,7 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [
-          {
-            "id": "30031",
-            "count": 3,
-            "name": "酯原料",
-            "rarity": 0,
-            "children": []
-          }
-        ],
+        "costs": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}],
         "roomType": "WORKSHOP",
         "item": "聚酸酯"
       }
@@ -2427,9 +2425,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"}]
         }
       },
       {
@@ -2448,6 +2444,19 @@
             {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"}
           ]
         }
+      },
+      {
+        "stageId": "main_05-03",
+        "occPer": 3,
+        "stage": {
+          "id": "main_05-03",
+          "name": "义胆凡躯",
+          "code": "5-3",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [{"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"}]
+        }
       }
     ],
     "buildings": [
@@ -2464,15 +2473,7 @@
             "count": 4,
             "name": "聚酸酯",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30031",
-                "count": 3,
-                "name": "酯原料",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
           }
         ],
         "roomType": "WORKSHOP",
@@ -2530,15 +2531,7 @@
                 "count": 4,
                 "name": "聚酸酯",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30031",
-                    "count": 3,
-                    "name": "酯原料",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -2553,25 +2546,11 @@
                 "count": 4,
                 "name": "酮凝集",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30051",
-                    "count": 3,
-                    "name": "双酮",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30073",
-            "count": 1,
-            "name": "扭转醇",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30073", "count": 1, "name": "扭转醇", "rarity": 2, "children": []}
         ],
         "roomType": "WORKSHOP",
         "item": "聚酸酯块"
@@ -2600,9 +2579,7 @@
           "apCost": 6,
           "expGain": 60,
           "goldGain": 60,
-          "drops": [
-            {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}]
         }
       },
       {
@@ -2615,9 +2592,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}]
         }
       }
     ],
@@ -2647,12 +2622,7 @@
           "goldGain": 120,
           "drops": [
             {"type": "CHAR", "id": "char_220_grani", "dropType": 1},
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
             {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
           ]
@@ -2668,9 +2638,20 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [
-            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}]
+        }
+      },
+      {
+        "stageId": "main_05-07",
+        "occPer": 3,
+        "stage": {
+          "id": "main_05-07",
+          "name": "生死与共",
+          "code": "5-7",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [{"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}]
         }
       },
       {
@@ -2683,9 +2664,7 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [
-            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}]
         }
       }
     ],
@@ -2697,15 +2676,7 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [
-          {
-            "id": "30041",
-            "count": 3,
-            "name": "异铁碎片",
-            "rarity": 0,
-            "children": []
-          }
-        ],
+        "costs": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}],
         "roomType": "WORKSHOP",
         "item": "异铁"
       }
@@ -2733,8 +2704,22 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
+          "drops": [{"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"}]
+        }
+      },
+      {
+        "stageId": "main_05-05",
+        "occPer": 4,
+        "stage": {
+          "id": "main_05-05",
+          "name": "连绵战火",
+          "code": "5-5",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
           "drops": [
-            {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"}
+            {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
+            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"}
           ]
         }
       },
@@ -2769,15 +2754,7 @@
             "count": 4,
             "name": "异铁",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30041",
-                "count": 3,
-                "name": "异铁碎片",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
           }
         ],
         "roomType": "WORKSHOP",
@@ -2797,6 +2774,22 @@
     "description": "在极为苛刻的条件下，由多套异铁组熔铸成型的异铁块。已知异铁材料中最为稳定也最为稀少的形式，作为原材料，足以打破现有制品运用领域的疆界。",
     "usage": "价值高昂的工业材料。可用于多种强化场合，也常作为制作聚合剂的原料之一。",
     "drops": [
+      {
+        "stageId": "main_05-05",
+        "occPer": 5,
+        "stage": {
+          "id": "main_05-05",
+          "name": "连绵战火",
+          "code": "5-5",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
+            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"}
+          ]
+        }
+      },
       {
         "stageId": "sub_04-1-1",
         "occPer": 5,
@@ -2834,15 +2827,7 @@
                 "count": 4,
                 "name": "异铁",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30041",
-                    "count": 3,
-                    "name": "异铁碎片",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -2857,15 +2842,7 @@
                 "count": 4,
                 "name": "装置",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30061",
-                    "count": 3,
-                    "name": "破损装置",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -2880,15 +2857,7 @@
                 "count": 4,
                 "name": "聚酸酯",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30031",
-                    "count": 3,
-                    "name": "酯原料",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
               }
             ]
           }
@@ -2920,9 +2889,7 @@
           "apCost": 6,
           "expGain": 60,
           "goldGain": 60,
-          "drops": [
-            {"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}]
         }
       },
       {
@@ -2935,9 +2902,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}]
         }
       }
     ],
@@ -2967,12 +2932,7 @@
           "goldGain": 120,
           "drops": [
             {"type": "FURN", "id": "furni_pizza_barStool_01", "dropType": 1},
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
             {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
           ]
@@ -2988,9 +2948,7 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [
-            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}]
         }
       },
       {
@@ -3003,9 +2961,7 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [
-            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}]
         }
       }
     ],
@@ -3017,9 +2973,7 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [
-          {"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}
-        ],
+        "costs": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}],
         "roomType": "WORKSHOP",
         "item": "酮凝集"
       }
@@ -3047,9 +3001,7 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [
-            {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"}]
         }
       },
       {
@@ -3059,6 +3011,22 @@
           "id": "main_04-05",
           "name": "官僚主义",
           "code": "4-5",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_05-08",
+        "occPer": 4,
+        "stage": {
+          "id": "main_05-08",
+          "name": "了如指掌",
+          "code": "5-8",
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
@@ -3083,15 +3051,7 @@
             "count": 4,
             "name": "酮凝集",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30051",
-                "count": 3,
-                "name": "双酮",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
           }
         ],
         "roomType": "WORKSHOP",
@@ -3126,6 +3086,22 @@
             {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
           ]
         }
+      },
+      {
+        "stageId": "main_05-08",
+        "occPer": 5,
+        "stage": {
+          "id": "main_05-08",
+          "name": "了如指掌",
+          "code": "5-8",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
+          ]
+        }
       }
     ],
     "buildings": [
@@ -3148,15 +3124,7 @@
                 "count": 4,
                 "name": "酮凝集",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30051",
-                    "count": 3,
-                    "name": "双酮",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -3171,25 +3139,11 @@
                 "count": 4,
                 "name": "糖",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30021",
-                    "count": 3,
-                    "name": "代糖",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30083",
-            "count": 1,
-            "name": "轻锰矿",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30083", "count": 1, "name": "轻锰矿", "rarity": 2, "children": []}
         ],
         "roomType": "WORKSHOP",
         "item": "酮阵列"
@@ -3219,17 +3173,8 @@
           "expGain": 90,
           "goldGain": 90,
           "drops": [
-            {
-              "type": "FURN",
-              "id": "furni_pizza_brickWallSticker_01",
-              "dropType": 1
-            },
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "FURN", "id": "furni_pizza_brickWallSticker_01", "dropType": 1},
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
             {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
           ]
@@ -3245,9 +3190,7 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}]
         }
       },
       {
@@ -3260,9 +3203,7 @@
           "apCost": 6,
           "expGain": 60,
           "goldGain": 60,
-          "drops": [
-            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}]
         }
       }
     ],
@@ -3306,8 +3247,22 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
+          "drops": [{"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"}]
+        }
+      },
+      {
+        "stageId": "sub_05-3-1",
+        "occPer": 3,
+        "stage": {
+          "id": "sub_05-3-1",
+          "name": "恐慌-1",
+          "code": "S5-5",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
           "drops": [
-            {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"}
+            {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"},
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
           ]
         }
       }
@@ -3320,15 +3275,7 @@
         "count": 1,
         "goldCost": 100,
         "apCost": 360000,
-        "costs": [
-          {
-            "id": "30061",
-            "count": 3,
-            "name": "破损装置",
-            "rarity": 0,
-            "children": []
-          }
-        ],
+        "costs": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}],
         "roomType": "WORKSHOP",
         "item": "装置"
       }
@@ -3377,6 +3324,19 @@
             {"type": "MATERIAL", "id": "30064", "dropType": 3, "name": "改量装置"}
           ]
         }
+      },
+      {
+        "stageId": "main_05-10",
+        "occPer": 4,
+        "stage": {
+          "id": "main_05-10",
+          "name": "长夜终尽",
+          "code": "5-10",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [{"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"}]
+        }
       }
     ],
     "buildings": [
@@ -3393,15 +3353,7 @@
             "count": 4,
             "name": "装置",
             "rarity": 1,
-            "children": [
-              {
-                "id": "30061",
-                "count": 3,
-                "name": "破损装置",
-                "rarity": 0,
-                "children": []
-              }
-            ]
+            "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
           }
         ],
         "roomType": "WORKSHOP",
@@ -3458,15 +3410,7 @@
                 "count": 4,
                 "name": "装置",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30061",
-                    "count": 3,
-                    "name": "破损装置",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -3481,25 +3425,11 @@
                 "count": 5,
                 "name": "固源岩",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30011",
-                    "count": 3,
-                    "name": "源岩",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30093",
-            "count": 1,
-            "name": "研磨石",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30093", "count": 1, "name": "研磨石", "rarity": 2, "children": []}
         ],
         "roomType": "WORKSHOP",
         "item": "改量装置"
@@ -3530,14 +3460,22 @@
           "goldGain": 150,
           "drops": [
             {"type": "FURN", "id": "furni_pizza_chair_L_01", "dropType": 1},
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}
           ]
+        }
+      },
+      {
+        "stageId": "main_02-09",
+        "occPer": 4,
+        "stage": {
+          "id": "main_02-09",
+          "name": "操作暗箱",
+          "code": "2-9",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [{"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}]
         }
       },
       {
@@ -3557,18 +3495,16 @@
         }
       },
       {
-        "stageId": "main_02-09",
+        "stageId": "main_05-04",
         "occPer": 4,
         "stage": {
-          "id": "main_02-09",
-          "name": "操作暗箱",
-          "code": "2-9",
-          "apCost": 12,
-          "expGain": 120,
-          "goldGain": 120,
-          "drops": [
-            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}
-          ]
+          "id": "main_05-04",
+          "name": "没人在家",
+          "code": "5-4",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [{"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}]
         }
       }
     ],
@@ -3612,13 +3548,7 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {
-            "id": "30073",
-            "count": 1,
-            "name": "扭转醇",
-            "rarity": 2,
-            "children": []
-          },
+          {"id": "30073", "count": 1, "name": "扭转醇", "rarity": 2, "children": []},
           {
             "id": "30023",
             "count": 1,
@@ -3630,25 +3560,11 @@
                 "count": 4,
                 "name": "糖",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30021",
-                    "count": 3,
-                    "name": "代糖",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30103",
-            "count": 1,
-            "name": "RMA70-12",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30103", "count": 1, "name": "RMA70-12", "rarity": 2, "children": []}
         ],
         "roomType": "WORKSHOP",
         "item": "白马醇"
@@ -3677,9 +3593,7 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [
-            {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"}
-          ]
+          "drops": [{"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"}]
         }
       },
       {
@@ -3697,6 +3611,19 @@
             {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
             {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"}
           ]
+        }
+      },
+      {
+        "stageId": "main_05-06",
+        "occPer": 4,
+        "stage": {
+          "id": "main_05-06",
+          "name": "疑兵之计",
+          "code": "5-6",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [{"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"}]
         }
       }
     ],
@@ -3741,13 +3668,7 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {
-            "id": "30083",
-            "count": 2,
-            "name": "轻锰矿",
-            "rarity": 2,
-            "children": []
-          },
+          {"id": "30083", "count": 2, "name": "轻锰矿", "rarity": 2, "children": []},
           {
             "id": "30033",
             "count": 1,
@@ -3759,25 +3680,11 @@
                 "count": 4,
                 "name": "聚酸酯",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30031",
-                    "count": 3,
-                    "name": "酯原料",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
               }
             ]
           },
-          {
-            "id": "30073",
-            "count": 1,
-            "name": "扭转醇",
-            "rarity": 2,
-            "children": []
-          }
+          {"id": "30073", "count": 1, "name": "扭转醇", "rarity": 2, "children": []}
         ],
         "roomType": "WORKSHOP",
         "item": "三水锰矿"
@@ -3808,14 +3715,22 @@
           "goldGain": 150,
           "drops": [
             {"type": "FURN", "id": "furni_pizza_chair_R_01", "dropType": 1},
-            {
-              "type": "ACTIVITY_COIN",
-              "id": "1stact",
-              "dropType": 2,
-              "name": "赏金猎人金币"
-            },
+            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
             {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}
           ]
+        }
+      },
+      {
+        "stageId": "main_03-03",
+        "occPer": 4,
+        "stage": {
+          "id": "main_03-03",
+          "name": "回旋",
+          "code": "3-3",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [{"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}]
         }
       },
       {
@@ -3835,18 +3750,16 @@
         }
       },
       {
-        "stageId": "main_03-03",
+        "stageId": "main_05-07",
         "occPer": 4,
         "stage": {
-          "id": "main_03-03",
-          "name": "回旋",
-          "code": "3-3",
-          "apCost": 15,
-          "expGain": 150,
-          "goldGain": 150,
-          "drops": [
-            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}
-          ]
+          "id": "main_05-07",
+          "name": "生死与共",
+          "code": "5-7",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [{"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}]
         }
       }
     ],
@@ -3890,13 +3803,7 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {
-            "id": "30093",
-            "count": 1,
-            "name": "研磨石",
-            "rarity": 2,
-            "children": []
-          },
+          {"id": "30093", "count": 1, "name": "研磨石", "rarity": 2, "children": []},
           {
             "id": "30043",
             "count": 1,
@@ -3908,15 +3815,7 @@
                 "count": 4,
                 "name": "异铁",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30041",
-                    "count": 3,
-                    "name": "异铁碎片",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -3931,15 +3830,7 @@
                 "count": 4,
                 "name": "装置",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30061",
-                    "count": 3,
-                    "name": "破损装置",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
               }
             ]
           }
@@ -3973,12 +3864,7 @@
           "goldGain": 150,
           "drops": [
             {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
-            {
-              "type": "MATERIAL",
-              "id": "30103",
-              "dropType": 2,
-              "name": "RMA70-12"
-            }
+            {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"}
           ]
         }
       },
@@ -3994,19 +3880,22 @@
           "goldGain": 210,
           "drops": [
             {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
-            {
-              "type": "MATERIAL",
-              "id": "30103",
-              "dropType": 2,
-              "name": "RMA70-12"
-            },
-            {
-              "type": "MATERIAL",
-              "id": "30104",
-              "dropType": 3,
-              "name": "RMA70-24"
-            }
+            {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
+            {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"}
           ]
+        }
+      },
+      {
+        "stageId": "main_05-09",
+        "occPer": 4,
+        "stage": {
+          "id": "main_05-09",
+          "name": "孽生恶物",
+          "code": "5-9",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [{"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"}]
         }
       }
     ],
@@ -4036,18 +3925,8 @@
           "goldGain": 210,
           "drops": [
             {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
-            {
-              "type": "MATERIAL",
-              "id": "30103",
-              "dropType": 2,
-              "name": "RMA70-12"
-            },
-            {
-              "type": "MATERIAL",
-              "id": "30104",
-              "dropType": 3,
-              "name": "RMA70-24"
-            }
+            {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
+            {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"}
           ]
         }
       }
@@ -4061,13 +3940,7 @@
         "goldCost": 300,
         "apCost": 1440000,
         "costs": [
-          {
-            "id": "30103",
-            "count": 1,
-            "name": "RMA70-12",
-            "rarity": 2,
-            "children": []
-          },
+          {"id": "30103", "count": 1, "name": "RMA70-12", "rarity": 2, "children": []},
           {
             "id": "30013",
             "count": 2,
@@ -4079,15 +3952,7 @@
                 "count": 5,
                 "name": "固源岩",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30011",
-                    "count": 3,
-                    "name": "源岩",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
               }
             ]
           },
@@ -4102,15 +3967,7 @@
                 "count": 4,
                 "name": "酮凝集",
                 "rarity": 1,
-                "children": [
-                  {
-                    "id": "30051",
-                    "count": 3,
-                    "name": "双酮",
-                    "rarity": 0,
-                    "children": []
-                  }
-                ]
+                "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
               }
             ]
           }
@@ -4158,15 +4015,7 @@
                     "count": 5,
                     "name": "固源岩",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30011",
-                        "count": 3,
-                        "name": "源岩",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
                   }
                 ]
               }
@@ -4189,15 +4038,7 @@
                     "count": 4,
                     "name": "异铁",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30041",
-                        "count": 3,
-                        "name": "异铁碎片",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
                   }
                 ]
               },
@@ -4212,15 +4053,7 @@
                     "count": 4,
                     "name": "装置",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30061",
-                        "count": 3,
-                        "name": "破损装置",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
                   }
                 ]
               },
@@ -4235,15 +4068,7 @@
                     "count": 4,
                     "name": "聚酸酯",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30031",
-                        "count": 3,
-                        "name": "酯原料",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
                   }
                 ]
               }
@@ -4266,15 +4091,7 @@
                     "count": 4,
                     "name": "酮凝集",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30051",
-                        "count": 3,
-                        "name": "双酮",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
                   }
                 ]
               },
@@ -4289,25 +4106,11 @@
                     "count": 4,
                     "name": "糖",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30021",
-                        "count": 3,
-                        "name": "代糖",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
                   }
                 ]
               },
-              {
-                "id": "30083",
-                "count": 1,
-                "name": "轻锰矿",
-                "rarity": 2,
-                "children": []
-              }
+              {"id": "30083", "count": 1, "name": "轻锰矿", "rarity": 2, "children": []}
             ]
           }
         ],
@@ -4354,15 +4157,7 @@
                     "count": 4,
                     "name": "装置",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30061",
-                        "count": 3,
-                        "name": "破损装置",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
                   }
                 ]
               },
@@ -4377,25 +4172,11 @@
                     "count": 5,
                     "name": "固源岩",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30011",
-                        "count": 3,
-                        "name": "源岩",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
                   }
                 ]
               },
-              {
-                "id": "30093",
-                "count": 1,
-                "name": "研磨石",
-                "rarity": 2,
-                "children": []
-              }
+              {"id": "30093", "count": 1, "name": "研磨石", "rarity": 2, "children": []}
             ]
           },
           {
@@ -4404,13 +4185,7 @@
             "name": "白马醇",
             "rarity": 3,
             "children": [
-              {
-                "id": "30073",
-                "count": 1,
-                "name": "扭转醇",
-                "rarity": 2,
-                "children": []
-              },
+              {"id": "30073", "count": 1, "name": "扭转醇", "rarity": 2, "children": []},
               {
                 "id": "30023",
                 "count": 1,
@@ -4422,25 +4197,11 @@
                     "count": 4,
                     "name": "糖",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30021",
-                        "count": 3,
-                        "name": "代糖",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30021", "count": 3, "name": "代糖", "rarity": 0, "children": []}]
                   }
                 ]
               },
-              {
-                "id": "30103",
-                "count": 1,
-                "name": "RMA70-12",
-                "rarity": 2,
-                "children": []
-              }
+              {"id": "30103", "count": 1, "name": "RMA70-12", "rarity": 2, "children": []}
             ]
           }
         ],
@@ -4476,13 +4237,7 @@
             "name": "三水锰矿",
             "rarity": 3,
             "children": [
-              {
-                "id": "30083",
-                "count": 2,
-                "name": "轻锰矿",
-                "rarity": 2,
-                "children": []
-              },
+              {"id": "30083", "count": 2, "name": "轻锰矿", "rarity": 2, "children": []},
               {
                 "id": "30033",
                 "count": 1,
@@ -4494,25 +4249,11 @@
                     "count": 4,
                     "name": "聚酸酯",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30031",
-                        "count": 3,
-                        "name": "酯原料",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30031", "count": 3, "name": "酯原料", "rarity": 0, "children": []}]
                   }
                 ]
               },
-              {
-                "id": "30073",
-                "count": 1,
-                "name": "扭转醇",
-                "rarity": 2,
-                "children": []
-              }
+              {"id": "30073", "count": 1, "name": "扭转醇", "rarity": 2, "children": []}
             ]
           },
           {
@@ -4521,13 +4262,7 @@
             "name": "五水研磨石",
             "rarity": 3,
             "children": [
-              {
-                "id": "30093",
-                "count": 1,
-                "name": "研磨石",
-                "rarity": 2,
-                "children": []
-              },
+              {"id": "30093", "count": 1, "name": "研磨石", "rarity": 2, "children": []},
               {
                 "id": "30043",
                 "count": 1,
@@ -4539,15 +4274,7 @@
                     "count": 4,
                     "name": "异铁",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30041",
-                        "count": 3,
-                        "name": "异铁碎片",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30041", "count": 3, "name": "异铁碎片", "rarity": 0, "children": []}]
                   }
                 ]
               },
@@ -4562,15 +4289,7 @@
                     "count": 4,
                     "name": "装置",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30061",
-                        "count": 3,
-                        "name": "破损装置",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30061", "count": 3, "name": "破损装置", "rarity": 0, "children": []}]
                   }
                 ]
               }
@@ -4582,13 +4301,7 @@
             "name": "RMA70-24",
             "rarity": 3,
             "children": [
-              {
-                "id": "30103",
-                "count": 1,
-                "name": "RMA70-12",
-                "rarity": 2,
-                "children": []
-              },
+              {"id": "30103", "count": 1, "name": "RMA70-12", "rarity": 2, "children": []},
               {
                 "id": "30013",
                 "count": 2,
@@ -4600,15 +4313,7 @@
                     "count": 5,
                     "name": "固源岩",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30011",
-                        "count": 3,
-                        "name": "源岩",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30011", "count": 3, "name": "源岩", "rarity": 0, "children": []}]
                   }
                 ]
               },
@@ -4623,15 +4328,7 @@
                     "count": 4,
                     "name": "酮凝集",
                     "rarity": 1,
-                    "children": [
-                      {
-                        "id": "30051",
-                        "count": 3,
-                        "name": "双酮",
-                        "rarity": 0,
-                        "children": []
-                      }
-                    ]
+                    "children": [{"id": "30051", "count": 3, "name": "双酮", "rarity": 0, "children": []}]
                   }
                 ]
               }

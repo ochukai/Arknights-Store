@@ -88,3 +88,4 @@ function write() {
 }
 
 write();
+exports.parseSimpleInfo = parseSimpleInfo;
