@@ -900,6 +900,19 @@
   ],
   "commonPotentialLvlUpCount": 4,
   "weeklyOverrideDesc": "",
+  "legacyTime": 1562659200,
+  "legacyItemList": [
+    {
+      "id": "4003",
+      "count": 200,
+      "type": "DIAMOND_SHD"
+    },
+    {
+      "id": "AP_GAMEPLAY",
+      "count": 60,
+      "type": "AP_GAMEPLAY"
+    }
+  ],
   "useAssistSocialPt": 30,
   "useAssistSocialPtMaxCount": 1,
   "assistBeUsedSocialPt": {

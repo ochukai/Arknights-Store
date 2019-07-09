@@ -1002,9 +1002,9 @@
         "type": "DIAMOND_SHD"
       },
       {
-        "id": "AP_GAMEPLAY",
-        "count": 60,
-        "type": "AP_GAMEPLAY"
+        "id": "ap_supply_lt_60",
+        "count": 1,
+        "type": "AP_SUPPLY"
       }
     ]
   },
