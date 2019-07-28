@@ -83,14 +83,14 @@ export const imageMaps = {
   "char_147_shining": require('../../assets/images/char_147_shining_2.png'),
   "char_179_cgbird": require('../../assets/images/char_179_cgbird_2.png'),
   "char_136_hsguma": require('../../assets/images/char_136_hsguma_2.png'),
-  // "char_202_demkni": require('../../assets/images/char_202_demkni_2.png'),
+  "char_202_demkni": require('../../assets/images/char_202_demkni_2.png'),
   "char_172_svrash": require('../../assets/images/char_172_svrash_2.png'),
   // "char_010_chen": require('../../assets/images/char_010_chen_2.png'),
   "char_230_savage": require('../../assets/images/char_230_savage_2.png'),
-  // "char_282_catap": require('../../assets/images/char_282_catap_1.png'),
-  // "char_283_midn": require('../../assets/images/char_283_midn_1.png'),
-  // "char_137_brownb": require('../../assets/images/char_137_brownb_2.png'),
-  // "char_164_nightm": require('../../assets/images/char_164_nightm_2.png'),
-  // "char_220_grani": require('../../assets/images/char_220_grani_2.png'),
-  // "char_263_skadi": require('../../assets/images/char_263_skadi_2.png')
+  "char_282_catap": require('../../assets/images/char_282_catap_1.png'),
+  "char_283_midn": require('../../assets/images/char_283_midn_1.png'),
+  "char_137_brownb": require('../../assets/images/char_137_brownb_2.png'),
+  "char_164_nightm": require('../../assets/images/char_164_nightm_2.png'),
+  "char_220_grani": require('../../assets/images/char_220_grani_2.png'),
+  "char_263_skadi": require('../../assets/images/char_263_skadi_2.png')
 };
