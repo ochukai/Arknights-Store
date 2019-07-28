@@ -5,7 +5,7 @@ import { Switch, Route, Link, withRouter } from "react-router-dom";
 import memoizeOne from 'memoize-one';
 import loadable from '@loadable/component';
 
-import { Layout, Menu, Icon, Button } from '../../components';
+import { Layout, Menu, Icon, Button, Spin } from '../../components';
 
 import Demo from '../demo';
 import AkMaterial from '../material';
@@ -64,6 +64,19 @@ class Main extends Component {
   }
 
   renderRoutes() {
+    const CharCom = loadable(() => import('../chars/Char'), {
+      fallback: (
+        <div style={{
+          marginTop: 50,
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center'
+        }}>
+          <Spin/>
+        </div>
+      )
+    });
+
     return (
       <Switch>
         {/* {pathMaps.map((pm, index) => (
@@ -76,7 +89,7 @@ class Main extends Component {
         <Route path="/buffs" component={AKBuffs} />
         <Route path="/enemys" component={AKEnemys} />
         <Route path="/chars" component={AKChars} />
-        <Route path="/char/:id" component={loadable(() => import('../chars/Char'))} />
+        <Route path="/char/:id" component={CharCom} />
         {/* <Route component={NotFound}/> */}
       </Switch>
     );
