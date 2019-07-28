@@ -81,9 +81,10 @@ function parseCharBuffs() {
   return result;
 }
 
+exports.exportBuffs = function() {
+  const curDir = path.join(__dirname, 'char');
+  fs.ensureDir(curDir);
 
-const curDir = path.join(__dirname, 'char');
-fs.ensureDir(curDir);
-
-const data = parseCharBuffs();
-writeFile(curDir, 'buffs.json', data);
+  const data = parseCharBuffs();
+  writeFile(curDir, 'buffs.json', data);
+}

@@ -87,5 +87,5 @@ function write() {
   });
 }
 
-write();
 exports.parseSimpleInfo = parseSimpleInfo;
+exports.exportChars = write;

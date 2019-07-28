@@ -97,7 +97,6 @@ function parseStages() {
     });
 }
 
-
 function isValidSortId(sortId = -1) {
   return sortId > 0 && sortId < 120;
 }
@@ -251,57 +250,54 @@ function fillItems(items) {
     fillItem(item);
   });
 }
-
-
 // 所有的 item
 const itemKeys = Object.keys(items);
 const itemArr = itemKeys.map(key => items[key]);
 
-const formulas = parseFormulas();
-const stageMaps = parseStages();
-
 const iconList = {};
+const stageMaps = parseStages();
+const formulas = parseFormulas();
 const allItems = parseItems();
-// fillItems(allItems);
 
 const storeItems = parseStoreItems();
 
-// start write
-
-const itemDir = path.join(__dirname, 'items');
-fs.ensureDirSync(itemDir);
-fs.emptyDirSync(itemDir);
-
-writeFile(itemDir, 'icons.js', iconList, (value) => {
-  value = value.replace(/\"require/ig, 'require');
-  value = value.replace(/\)\"/ig, ')');
-  return `export const iconMaps = ${value}`;
-});
-
-
 let materialItems = allItems
-  .filter(ai => isMaterial(ai.sortId))
-  .map(itm => {
-    const { buildings = [] } = itm;
-    let children = [];
-    if (buildings.length > 0) {
-      children = _.clone(buildings[0].costs);
-    }
+.filter(ai => isMaterial(ai.sortId))
+.map(itm => {
+  const { buildings = [] } = itm;
+  let children = [];
+  if (buildings.length > 0) {
+    children = _.clone(buildings[0].costs);
+  }
 
-    return {
-      id: itm.id,
-      name: itm.name,
-      sortId: itm.sortId,
-      rarity: itm.rarity,
-      children,
-    };
-  });
+  return {
+    id: itm.id,
+    name: itm.name,
+    sortId: itm.sortId,
+    rarity: itm.rarity,
+    children,
+  };
+});
 
 materialItems = _.clone(materialItems);
 fillItems(materialItems);
 
-writeFile(itemDir, 'formulas.json', formulas);
-writeFile(itemDir, 'stages.json', stageMaps);
-writeFile(itemDir, 'items.json', allItems);
-writeFile(itemDir, 'store_items.json', storeItems);
-writeFile(itemDir, 'material_items.json', _.sortBy(materialItems, 'sortId'));
+exports.exportItems = function () {
+  // start write
+  const itemDir = path.join(__dirname, 'items');
+  fs.ensureDirSync(itemDir);
+  fs.emptyDirSync(itemDir);
+
+  writeFile(itemDir, 'icons.js', iconList, (value) => {
+    value = value.replace(/\"require/ig, 'require');
+    value = value.replace(/\)\"/ig, ')');
+    return `export const iconMaps = ${value}`;
+  });
+
+
+  writeFile(itemDir, 'formulas.json', formulas);
+  writeFile(itemDir, 'stages.json', stageMaps);
+  writeFile(itemDir, 'items.json', allItems);
+  writeFile(itemDir, 'store_items.json', storeItems);
+  writeFile(itemDir, 'material_items.json', _.sortBy(materialItems, 'sortId'));
+};

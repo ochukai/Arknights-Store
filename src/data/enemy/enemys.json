@@ -13,16 +13,16 @@
     "series": "enemy_1007_slime"
   },
   {
-    "name": "源石虫",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2050,
     "level": 1,
     "atk": 300,
     "def": 0,
     "magicResistance": 0,
-    "moveSpeed": 1,
-    "attackSpeed": 1.7,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1007_slime"
   },
   {
@@ -39,16 +39,16 @@
     "series": "enemy_1007_slime_2"
   },
   {
-    "name": "源石虫·α",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2850,
     "level": 1,
     "atk": 400,
     "def": 0,
     "magicResistance": 0,
-    "moveSpeed": 1,
-    "attackSpeed": 1.7,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1007_slime_2"
   },
   {
@@ -130,16 +130,16 @@
     "series": "enemy_1000_gopro"
   },
   {
-    "name": "猎狗",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2350,
     "level": 1,
     "atk": 400,
     "def": 190,
     "magicResistance": 30,
-    "moveSpeed": 1.9,
-    "attackSpeed": 1.4,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1000_gopro"
   },
   {
@@ -156,16 +156,16 @@
     "series": "enemy_1000_gopro_2"
   },
   {
-    "name": "猎狗pro",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2900,
     "level": 1,
     "atk": 460,
     "def": 210,
     "magicResistance": 35,
-    "moveSpeed": 1.9,
-    "attackSpeed": 1.4,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1000_gopro_2"
   },
   {
@@ -195,16 +195,16 @@
     "series": "enemy_1002_nsabr"
   },
   {
-    "name": "士兵",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2750,
     "level": 1,
     "atk": 300,
     "def": 130,
     "magicResistance": 0,
-    "moveSpeed": 1.1,
-    "attackSpeed": 2,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1002_nsabr"
   },
   {
@@ -221,16 +221,16 @@
     "series": "enemy_1003_ncbow"
   },
   {
-    "name": "弩手",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 1850,
     "level": 1,
     "atk": 310,
     "def": 100,
     "magicResistance": 0,
-    "moveSpeed": 0.9,
-    "attackSpeed": 2.4,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1003_ncbow"
   },
   {
@@ -247,16 +247,16 @@
     "series": "enemy_1003_ncbow_2"
   },
   {
-    "name": "弩手组长",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2500,
     "level": 1,
     "atk": 380,
     "def": 150,
     "magicResistance": 0,
-    "moveSpeed": 0.9,
-    "attackSpeed": 2.4,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1003_ncbow_2"
   },
   {
@@ -273,16 +273,16 @@
     "series": "enemy_1011_wizard"
   },
   {
-    "name": "术师",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 1770,
     "level": 1,
     "atk": 350,
     "def": 80,
     "magicResistance": 0,
-    "moveSpeed": 0.8,
-    "attackSpeed": 4,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1011_wizard"
   },
   {
@@ -299,29 +299,29 @@
     "series": "enemy_1011_wizard_2"
   },
   {
-    "name": "术师组长",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2300,
     "level": 1,
     "atk": 420,
     "def": 100,
     "magicResistance": 50,
-    "moveSpeed": 0.8,
-    "attackSpeed": 4,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1011_wizard_2"
   },
   {
-    "name": "术师组长",
+    "name": null,
     "description": "高阶敌人，高攻中血中护甲高魔抗。",
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 6500,
     "level": 2,
     "atk": 600,
     "def": 500,
     "magicResistance": 0,
-    "moveSpeed": 0.8,
-    "attackSpeed": 4,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1011_wizard_2"
   },
   {
@@ -364,16 +364,16 @@
     "series": "enemy_1013_airdrp"
   },
   {
-    "name": "空降兵",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2570,
     "level": 1,
     "atk": 320,
     "def": 180,
     "magicResistance": 20,
-    "moveSpeed": 1,
-    "attackSpeed": 1.9,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1013_airdrp"
   },
   {
@@ -390,16 +390,16 @@
     "series": "enemy_1013_airdrp_2"
   },
   {
-    "name": "空降组长",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 3000,
     "level": 1,
     "atk": 400,
     "def": 220,
     "magicResistance": 20,
-    "moveSpeed": 1,
-    "attackSpeed": 1.9,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1013_airdrp_2"
   },
   {
@@ -442,16 +442,16 @@
     "series": "enemy_1014_rogue"
   },
   {
-    "name": "双持剑士",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 1950,
     "level": 1,
     "atk": 310,
     "def": 150,
     "magicResistance": 0,
-    "moveSpeed": 1.1,
-    "attackSpeed": 1.2,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1014_rogue"
   },
   {
@@ -468,16 +468,16 @@
     "series": "enemy_1014_rogue_2"
   },
   {
-    "name": "双持剑士组长",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2550,
     "level": 1,
     "atk": 420,
     "def": 150,
     "magicResistance": 25,
-    "moveSpeed": 1.1,
-    "attackSpeed": 1.2,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1014_rogue_2"
   },
   {
@@ -520,16 +520,16 @@
     "series": "enemy_1006_shield"
   },
   {
-    "name": "重装防御者",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 8000,
     "level": 1,
     "atk": 600,
     "def": 850,
     "magicResistance": 0,
-    "moveSpeed": 0.75,
-    "attackSpeed": 2.6,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1006_shield"
   },
   {
@@ -546,16 +546,16 @@
     "series": "enemy_1006_shield_2"
   },
   {
-    "name": "重装防御组长",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 15000,
     "level": 1,
     "atk": 700,
     "def": 850,
     "magicResistance": 0,
-    "moveSpeed": 0.75,
-    "attackSpeed": 2.6,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1006_shield_2"
   },
   {
@@ -572,16 +572,16 @@
     "series": "enemy_1006_shield_3"
   },
   {
-    "name": "重装五十夫长",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 33000,
     "level": 1,
     "atk": 2500,
     "def": 1500,
     "magicResistance": 0,
-    "moveSpeed": 0.75,
-    "attackSpeed": 2.6,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1006_shield_3"
   },
   {
@@ -624,16 +624,16 @@
     "series": "enemy_1016_diaman"
   },
   {
-    "name": "磐蟹",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 6000,
     "level": 1,
     "atk": 500,
     "def": 800,
     "magicResistance": 70,
-    "moveSpeed": 0.75,
-    "attackSpeed": 2.3,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1016_diaman"
   },
   {
@@ -650,16 +650,16 @@
     "series": "enemy_1009_lurker"
   },
   {
-    "name": "潜伏者",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 3400,
     "level": 1,
     "atk": 400,
     "def": 130,
     "magicResistance": 20,
-    "moveSpeed": 1,
-    "attackSpeed": 2,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1009_lurker"
   },
   {
@@ -702,16 +702,16 @@
     "series": "enemy_1005_yokai"
   },
   {
-    "name": "妖怪",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 1870,
     "level": 1,
     "atk": 0,
     "def": 0,
     "magicResistance": 0,
-    "moveSpeed": 0.9,
-    "attackSpeed": 2.3,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1005_yokai"
   },
   {
@@ -728,16 +728,16 @@
     "series": "enemy_1005_yokai_2"
   },
   {
-    "name": "妖怪MKII",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 2500,
     "level": 1,
     "atk": 330,
     "def": 125,
     "magicResistance": 35,
-    "moveSpeed": 0.9,
-    "attackSpeed": 3,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1005_yokai_2"
   },
   {
@@ -767,16 +767,16 @@
     "series": "enemy_1017_defdrn"
   },
   {
-    "name": "御4",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 8000,
     "level": 1,
     "atk": 0,
     "def": 200,
     "magicResistance": 0,
-    "moveSpeed": 0.8,
-    "attackSpeed": 2,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1017_defdrn"
   },
   {
@@ -858,15 +858,15 @@
     "series": "enemy_1010_demon"
   },
   {
-    "name": "萨卡兹大剑手",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 10000,
     "level": 1,
     "atk": 900,
     "def": 350,
     "magicResistance": 0,
-    "moveSpeed": 0.85,
+    "moveSpeed": 0,
     "attackSpeed": 2,
     "series": "enemy_1010_demon"
   },
@@ -897,16 +897,16 @@
     "series": "enemy_1012_dcross"
   },
   {
-    "name": "萨卡兹狙击手",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 6700,
     "level": 1,
     "atk": 660,
     "def": 300,
     "magicResistance": 0,
-    "moveSpeed": 0.8,
-    "attackSpeed": 3,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1012_dcross"
   },
   {
@@ -936,16 +936,16 @@
     "series": "enemy_1022_dmage"
   },
   {
-    "name": "萨卡兹术师",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 12000,
     "level": 1,
     "atk": 700,
     "def": 300,
     "magicResistance": 0,
-    "moveSpeed": 0.8,
-    "attackSpeed": 4,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1022_dmage"
   },
   {
@@ -975,16 +975,16 @@
     "series": "enemy_1501_demonk"
   },
   {
-    "name": "萨卡兹百夫长",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 23000,
     "level": 1,
     "atk": 950,
     "def": 250,
     "magicResistance": 0,
-    "moveSpeed": 0.78,
-    "attackSpeed": 5,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1501_demonk"
   },
   {
@@ -1001,16 +1001,16 @@
     "series": "enemy_1025_reveng"
   },
   {
-    "name": "寻仇者",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 15000,
     "level": 1,
     "atk": 650,
     "def": 250,
     "magicResistance": 50,
-    "moveSpeed": 0.65,
-    "attackSpeed": 2.3,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1025_reveng"
   },
   {
@@ -1027,16 +1027,16 @@
     "series": "enemy_1025_reveng_2"
   },
   {
-    "name": "复仇者",
+    "name": null,
     "description": null,
-    "lifePointReduce": 1,
+    "lifePointReduce": 0,
     "hp": 30000,
     "level": 1,
     "atk": 850,
     "def": 250,
     "magicResistance": 50,
-    "moveSpeed": 0.65,
-    "attackSpeed": 2.3,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1025_reveng_2"
   },
   {
@@ -1300,7 +1300,7 @@
     "series": "enemy_1500_skulsr"
   },
   {
-    "name": "碎骨",
+    "name": null,
     "description": null,
     "lifePointReduce": 2,
     "hp": 30000,
@@ -1308,21 +1308,21 @@
     "atk": 1300,
     "def": 240,
     "magicResistance": 30,
-    "moveSpeed": 0.6,
-    "attackSpeed": 3,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1500_skulsr"
   },
   {
-    "name": "碎骨",
+    "name": null,
     "description": null,
-    "lifePointReduce": 2,
+    "lifePointReduce": 0,
     "hp": 80000,
     "level": 2,
     "atk": 1950,
     "def": 400,
     "magicResistance": 30,
-    "moveSpeed": 0.6,
-    "attackSpeed": 3,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1500_skulsr"
   },
   {
@@ -1339,29 +1339,29 @@
     "series": "enemy_1502_crowns"
   },
   {
-    "name": "弑君者",
+    "name": null,
     "description": null,
-    "lifePointReduce": 2,
+    "lifePointReduce": 0,
     "hp": 10000,
     "level": 1,
     "atk": 550,
     "def": 150,
     "magicResistance": 50,
-    "moveSpeed": 1.4,
-    "attackSpeed": 2.8,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1502_crowns"
   },
   {
-    "name": "弑君者",
+    "name": null,
     "description": null,
-    "lifePointReduce": 2,
+    "lifePointReduce": 0,
     "hp": 20000,
     "level": 2,
     "atk": 700,
     "def": 250,
     "magicResistance": 0,
-    "moveSpeed": 1.4,
-    "attackSpeed": 2.8,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1502_crowns"
   },
   {
@@ -1391,16 +1391,16 @@
     "series": "enemy_1505_frstar"
   },
   {
-    "name": "霜星",
+    "name": null,
     "description": null,
-    "lifePointReduce": 2,
+    "lifePointReduce": 0,
     "hp": 35000,
     "level": 1,
     "atk": 620,
     "def": 350,
     "magicResistance": 0,
-    "moveSpeed": 0.5,
-    "attackSpeed": 3.7,
+    "moveSpeed": 0,
+    "attackSpeed": 0,
     "series": "enemy_1505_frstar"
   }
 ]
