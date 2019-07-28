@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f62481f40581fe166730997f3d851761",
+    "revision": "e20e3e369c22eb0ec3c29db2def80f7d",
     "url": "/Arknights-Store/index.html"
   },
   {
-    "revision": "a2f41865d67bb13896ee",
+    "revision": "cf752257b8da2b7f5d66",
     "url": "/Arknights-Store/static/css/2.30ce7e60.chunk.css"
   },
   {
-    "revision": "9c5ad464ddc830df82cd",
-    "url": "/Arknights-Store/static/css/main.3572bb42.chunk.css"
+    "revision": "70d7c41e9d71815678f7",
+    "url": "/Arknights-Store/static/css/main.994216ab.chunk.css"
   },
   {
-    "revision": "a2f41865d67bb13896ee",
-    "url": "/Arknights-Store/static/js/2.cf561c9a.chunk.js"
+    "revision": "cf752257b8da2b7f5d66",
+    "url": "/Arknights-Store/static/js/2.5faa52f4.chunk.js"
   },
   {
-    "revision": "cf2b5db25d1a535e00f1",
-    "url": "/Arknights-Store/static/js/3.04c2bd32.chunk.js"
+    "revision": "a557f1977234115f8a0b",
+    "url": "/Arknights-Store/static/js/3.aef7c774.chunk.js"
   },
   {
-    "revision": "9c5ad464ddc830df82cd",
-    "url": "/Arknights-Store/static/js/main.bc49eaf6.chunk.js"
+    "revision": "70d7c41e9d71815678f7",
+    "url": "/Arknights-Store/static/js/main.d85492c9.chunk.js"
   },
   {
-    "revision": "cce1de57bb5612a6b603",
-    "url": "/Arknights-Store/static/js/runtime~main.46a39800.js"
+    "revision": "b7225460863eb028a373",
+    "url": "/Arknights-Store/static/js/runtime~main.67084949.js"
   },
   {
     "revision": "0e962d40079e98310176c7a23173173e",
