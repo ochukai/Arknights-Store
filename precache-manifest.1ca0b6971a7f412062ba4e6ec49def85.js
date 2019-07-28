@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "087265c77069061ea21dd0aef3216cbc",
+    "revision": "f62481f40581fe166730997f3d851761",
     "url": "/Arknights-Store/index.html"
   },
   {
-    "revision": "1d81baad8040d2816fad",
+    "revision": "a2f41865d67bb13896ee",
     "url": "/Arknights-Store/static/css/2.30ce7e60.chunk.css"
   },
   {
-    "revision": "42cfea759f8c704f8332",
+    "revision": "9c5ad464ddc830df82cd",
     "url": "/Arknights-Store/static/css/main.3572bb42.chunk.css"
   },
   {
-    "revision": "1d81baad8040d2816fad",
-    "url": "/Arknights-Store/static/js/2.f4dc0efe.chunk.js"
+    "revision": "a2f41865d67bb13896ee",
+    "url": "/Arknights-Store/static/js/2.cf561c9a.chunk.js"
   },
   {
     "revision": "cf2b5db25d1a535e00f1",
     "url": "/Arknights-Store/static/js/3.04c2bd32.chunk.js"
   },
   {
-    "revision": "42cfea759f8c704f8332",
-    "url": "/Arknights-Store/static/js/main.b59c62d2.chunk.js"
+    "revision": "9c5ad464ddc830df82cd",
+    "url": "/Arknights-Store/static/js/main.bc49eaf6.chunk.js"
   },
   {
-    "revision": "70577b8a86cbf1cf1008",
-    "url": "/Arknights-Store/static/js/runtime~main.7c21c05f.js"
+    "revision": "cce1de57bb5612a6b603",
+    "url": "/Arknights-Store/static/js/runtime~main.46a39800.js"
   },
   {
     "revision": "0e962d40079e98310176c7a23173173e",
@@ -320,8 +320,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/bluep-512.11890f37.png"
   },
   {
-    "revision": "301fcae615fb4d4395c1c74a7aa87c2d",
-    "url": "/Arknights-Store/static/media/char_002_amiya_2.301fcae6.png"
+    "revision": "05e95647e34ab6f946cfabf490c1112d",
+    "url": "/Arknights-Store/static/media/char_002_amiya_2.05e95647.png"
   },
   {
     "revision": "32759c4d5aa346d5573d86b4203dacc7",
@@ -332,8 +332,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_101_sora_2.9d6b2db7.png"
   },
   {
-    "revision": "ae82fd3019fa24377ab520f20a4b28a6",
-    "url": "/Arknights-Store/static/media/char_102_texas_2.ae82fd30.png"
+    "revision": "59a4f03f569745060dccf03fd9a48c47",
+    "url": "/Arknights-Store/static/media/char_102_texas_2.59a4f03f.png"
   },
   {
     "revision": "6295ecf8a4e0703d9ad99d47def87543",
@@ -384,8 +384,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_121_lava_1.c3fbda13.png"
   },
   {
-    "revision": "9119dce8ccc3711cbdfb46a43b5429ef",
-    "url": "/Arknights-Store/static/media/char_122_beagle_1.9119dce8.png"
+    "revision": "76211046aa39dcacb9c35f03e96e3873",
+    "url": "/Arknights-Store/static/media/char_122_beagle_1.76211046.png"
   },
   {
     "revision": "9284e69cd7ff71999013743d82ec2bf1",
@@ -400,8 +400,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_126_shotst_2.9cbc4d6d.png"
   },
   {
-    "revision": "1a30a8289c91ac2d8267a321434c37bf",
-    "url": "/Arknights-Store/static/media/char_127_estell_2.1a30a828.png"
+    "revision": "8ad4d5f372705c2ca0654454c5ae6152",
+    "url": "/Arknights-Store/static/media/char_127_estell_2.8ad4d5f3.png"
   },
   {
     "revision": "ab30dcaed2c90c316559ae2a43a257c2",
@@ -424,6 +424,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_136_hsguma_2.c3a8c3af.png"
   },
   {
+    "revision": "35cc3fbadbbd9c4806009d1fef8c103d",
+    "url": "/Arknights-Store/static/media/char_137_brownb_2.35cc3fba.png"
+  },
+  {
     "revision": "553801224780d5e70d2204ab8fc7ba43",
     "url": "/Arknights-Store/static/media/char_140_whitew_2.55380122.png"
   },
@@ -444,12 +448,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_145_prove_2.7d18d2cd.png"
   },
   {
-    "revision": "f38ebc8bc473b38aa37b8f33e4577c69",
-    "url": "/Arknights-Store/static/media/char_147_shining_2.f38ebc8b.png"
+    "revision": "437ed0da25e198b7276c9e92ffd78555",
+    "url": "/Arknights-Store/static/media/char_147_shining_2.437ed0da.png"
   },
   {
-    "revision": "04409f6190b83d70645827590cefa249",
-    "url": "/Arknights-Store/static/media/char_148_nearl_2.04409f61.png"
+    "revision": "4bb57eb372afa7353d1ccbbbec123766",
+    "url": "/Arknights-Store/static/media/char_148_nearl_2.4bb57eb3.png"
   },
   {
     "revision": "3a438e62332da95025be5a5a5437329c",
@@ -472,6 +476,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_163_hpsts_2.a8a190a0.png"
   },
   {
+    "revision": "b3d9b376d0431d70e4ca60b39aa9624a",
+    "url": "/Arknights-Store/static/media/char_164_nightm_2.b3d9b376.png"
+  },
+  {
     "revision": "80f6715f8a2dbcc46c0d7c8e3808d7b5",
     "url": "/Arknights-Store/static/media/char_166_skfire_2.80f6715f.png"
   },
@@ -484,8 +492,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_172_svrash_2.3bb1190f.png"
   },
   {
-    "revision": "c39e4bd6623e7bd1f2598956418b5a92",
-    "url": "/Arknights-Store/static/media/char_173_slchan_2.c39e4bd6.png"
+    "revision": "4a43254df87ad2b438d1b114c8fd1aab",
+    "url": "/Arknights-Store/static/media/char_173_slchan_2.4a43254d.png"
   },
   {
     "revision": "714131261b049c76a419f4aef70111ee",
@@ -512,16 +520,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_185_frncat_2.5a915cbb.png"
   },
   {
-    "revision": "3f0d89f4cd403436e94a16d3328062e1",
-    "url": "/Arknights-Store/static/media/char_187_ccheal_2.3f0d89f4.png"
+    "revision": "ca0fcdbf116615e4d4545c63a9a9d8ee",
+    "url": "/Arknights-Store/static/media/char_187_ccheal_2.ca0fcdbf.png"
   },
   {
     "revision": "e2157c4bcb753ef7d0abedc459f25909",
     "url": "/Arknights-Store/static/media/char_192_falco_1.e2157c4b.png"
   },
   {
-    "revision": "7d39b57805466e15d3df0ec49eb51dcf",
-    "url": "/Arknights-Store/static/media/char_193_frostl_2.7d39b578.png"
+    "revision": "09b9c541e5eb9ba812238a64c3114d35",
+    "url": "/Arknights-Store/static/media/char_193_frostl_2.09b9c541.png"
   },
   {
     "revision": "7156435b3675ba363b7543df292a5084",
@@ -532,16 +540,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_196_sunbr_2.8bdab329.png"
   },
   {
-    "revision": "6d314e27c72ded863044aef1c4d73b15",
-    "url": "/Arknights-Store/static/media/char_198_blackd_2.6d314e27.png"
+    "revision": "8e59d28d82a7d751ba301f839e84c69d",
+    "url": "/Arknights-Store/static/media/char_198_blackd_2.8e59d28d.png"
   },
   {
-    "revision": "d7bbbbb4632cc9bc8492c1fd20c90094",
-    "url": "/Arknights-Store/static/media/char_199_yak_2.d7bbbbb4.png"
+    "revision": "f97a796ba8dd1cf0490d8c79b32cda9e",
+    "url": "/Arknights-Store/static/media/char_199_yak_2.f97a796b.png"
   },
   {
     "revision": "556544489c036fdd21bccc62bdd5db60",
     "url": "/Arknights-Store/static/media/char_201_moeshd_2.55654448.png"
+  },
+  {
+    "revision": "c4d2704a0f1049bc4da45663a49159c4",
+    "url": "/Arknights-Store/static/media/char_202_demkni_2.c4d2704a.png"
   },
   {
     "revision": "e6120d7d583033dff5f8682488efc7f6",
@@ -568,20 +580,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_212_ansel_1.2e73987e.png"
   },
   {
-    "revision": "6505fc52a40df6eec2e6cfbf4db7058d",
-    "url": "/Arknights-Store/static/media/char_215_mantic_2.6505fc52.png"
+    "revision": "056b7c88dcb5b014dad4f4edbe62d3be",
+    "url": "/Arknights-Store/static/media/char_215_mantic_2.056b7c88.png"
   },
   {
-    "revision": "634c69f98736a4091dd346d7e8ee07e0",
-    "url": "/Arknights-Store/static/media/char_219_meteo_2.634c69f9.png"
+    "revision": "24995a670fb37a52beadb5c1098a8015",
+    "url": "/Arknights-Store/static/media/char_219_meteo_2.24995a67.png"
   },
   {
-    "revision": "15f7e358a69b9f908bf0240918ef0996",
-    "url": "/Arknights-Store/static/media/char_230_savage_2.15f7e358.png"
+    "revision": "fcc493b052686def83d17d5a42372df9",
+    "url": "/Arknights-Store/static/media/char_220_grani_2.fcc493b0.png"
   },
   {
-    "revision": "1ba60422afc5987dcd1bd0fe0a89a664",
-    "url": "/Arknights-Store/static/media/char_235_jesica_2.1ba60422.png"
+    "revision": "af4d807ff4afd91b36ada89a583674b2",
+    "url": "/Arknights-Store/static/media/char_230_savage_2.af4d807f.png"
+  },
+  {
+    "revision": "72c93f223f19b3c2ba98f07f6f849af3",
+    "url": "/Arknights-Store/static/media/char_235_jesica_2.72c93f22.png"
   },
   {
     "revision": "a476c9c21dd33b3e5afaeedbf093b511",
@@ -604,6 +620,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_242_otter_2.60154fa2.png"
   },
   {
+    "revision": "7c75e3a806fec64f71ba843849bf9f2b",
+    "url": "/Arknights-Store/static/media/char_263_skadi_2.7c75e3a8.png"
+  },
+  {
     "revision": "273175588bc928afeb71cf3cdd6784ad",
     "url": "/Arknights-Store/static/media/char_277_sqrrel_2.27317558.png"
   },
@@ -612,12 +632,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_278_orchid_1.c802341a.png"
   },
   {
-    "revision": "55e662dfcdf719ab2d52d6f1fc1bfaaf",
-    "url": "/Arknights-Store/static/media/char_285_medic2_1.55e662df.png"
+    "revision": "4adc8e1610f752160b56613cfd8abf67",
+    "url": "/Arknights-Store/static/media/char_282_catap_1.4adc8e16.png"
   },
   {
-    "revision": "03d67ef8cfb2a5cc33f3ca0446f8489d",
-    "url": "/Arknights-Store/static/media/char_286_cast3_1.03d67ef8.png"
+    "revision": "c5502e0d7b3ee5f7992af6c0816dd66a",
+    "url": "/Arknights-Store/static/media/char_283_midn_1.c5502e0d.png"
+  },
+  {
+    "revision": "2a783ca04af8e9a54a33101495e13865",
+    "url": "/Arknights-Store/static/media/char_285_medic2_1.2a783ca0.png"
+  },
+  {
+    "revision": "372bd49a5a4e239954367ba8817eff39",
+    "url": "/Arknights-Store/static/media/char_286_cast3_1.372bd49a.png"
   },
   {
     "revision": "a9ea7bf5d84fb33308eedf3d5816c04b",
@@ -632,8 +660,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_291_aglina_2.17a18992.png"
   },
   {
-    "revision": "d8536e5fb307f28a6d7c654063e0bb89",
-    "url": "/Arknights-Store/static/media/char_500_noirc_1.d8536e5f.png"
+    "revision": "cb48db4492ca483870549c52271aecf1",
+    "url": "/Arknights-Store/static/media/char_500_noirc_1.cb48db44.png"
   },
   {
     "revision": "7140d122bdf147695a5bc4315a131b25",
@@ -644,8 +672,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arknights-Store/static/media/char_502_nblade_1.366406da.png"
   },
   {
-    "revision": "32c41bb8ee990f2899f9ffed67a63b05",
-    "url": "/Arknights-Store/static/media/char_503_rang_1.32c41bb8.png"
+    "revision": "335ae1e71295cf3c82022afaaab39a7f",
+    "url": "/Arknights-Store/static/media/char_503_rang_1.335ae1e7.png"
   },
   {
     "revision": "19254560cbdc7d5431ed3d9cc318b305",
