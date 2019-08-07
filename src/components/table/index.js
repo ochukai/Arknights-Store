@@ -220,6 +220,7 @@ export default class Table extends Component {
       dataSource,
       border,
       size,
+      style = {}
     } = this.props;
 
     const clazz = classNames('oli-table', `oli-table-${size}`, className, {
@@ -228,7 +229,7 @@ export default class Table extends Component {
     });
 
     return (
-      <div className="oli-table-wrapper">
+      <div className="oli-table-wrapper" style={style}>
         <div className={clazz}>
           {this.renderTitle()}
           <div className="oli-table-content">

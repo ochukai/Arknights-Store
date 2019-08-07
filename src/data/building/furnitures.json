@@ -1,0 +1,2034 @@
+[
+  {
+    "id": "furni_set_warehouse",
+    "name": "货运仓库",
+    "groups": [
+      {
+        "themeId": "furni_set_warehouse",
+        "name": "货架与推车",
+        "comfort": 45,
+        "furniture": ["furni_warehouse_storageshelf_01", "furni_warehouse_trolley_01"]
+      },
+      {
+        "themeId": "furni_set_warehouse",
+        "name": "物流办公用品",
+        "comfort": 30,
+        "furniture": ["furni_warehouse_laptop_01", "furni_warehouse_attendance_01", "furni_warehouse_note_01"]
+      },
+      {
+        "themeId": "furni_set_warehouse",
+        "name": "加班小憩",
+        "comfort": 45,
+        "furniture": [
+          "furni_warehouse_chair_01",
+          "furni_warehouse_bed_01",
+          "furni_warehouse_cardboard_01",
+          "furni_warehouse_graffiti_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_warehouse",
+        "name": "物流货品与包装",
+        "comfort": 45,
+        "furniture": ["furni_warehouse_boxes_01", "furni_warehouse_boxes_02", "furni_warehouse_boxes_03"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_warehouse_storageshelf_01",
+        "name": "大号货架",
+        "type": "DECORATION",
+        "comfort": 85,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_boxes_01",
+        "name": "很多纸箱",
+        "type": "DECORATION",
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_boxes_02",
+        "name": "一个纸箱",
+        "type": "DECORATION",
+        "comfort": 35,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_boxes_03",
+        "name": "几个纸箱",
+        "type": "DECORATION",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_chair_01",
+        "name": "纸箱小凳",
+        "type": "SEATING",
+        "comfort": 35,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_bed_01",
+        "name": "实用气垫",
+        "type": "BEDDING",
+        "comfort": 90,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_laptop_01",
+        "name": "便携™计算器",
+        "type": "DECORATION",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_trolley_01",
+        "name": "货运推车",
+        "type": "DECORATION",
+        "comfort": 50,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_cardboard_01",
+        "name": "货物垫板",
+        "type": "CARPET",
+        "comfort": 25,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_attendance_01",
+        "name": "轮班考勤板",
+        "type": "WALLDECO",
+        "comfort": 30,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_note_01",
+        "name": "快捷便利贴",
+        "type": "WALLDECO",
+        "comfort": 25,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_warehouse_graffiti_01",
+        "name": "街头涂鸦",
+        "type": "WALLDECO",
+        "comfort": 25,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 750
+  },
+  {
+    "id": "furni_set_s1_01",
+    "name": "边线/纯色简约家居",
+    "groups": [
+      {
+        "themeId": "furni_set_s1_01",
+        "name": "纯色/卧室家居",
+        "comfort": 120,
+        "furniture": ["furni_s1_bed_01", "furni_s1_nightstand_01", "furni_s1_tv_01", "furni_s1_clock_01"]
+      },
+      {
+        "themeId": "furni_set_s1_01",
+        "name": "纯色/客厅系列",
+        "comfort": 105,
+        "furniture": ["furni_s1_sofa_01", "furni_s1_coffeetable_01", "furni_s1_carpet_01", "furni_s1_bulletinboard_01"]
+      },
+      {
+        "themeId": "furni_set_s1_01",
+        "name": "纯色/书房设备",
+        "comfort": 115,
+        "furniture": ["furni_s1_comdesk_01", "furni_s1_comchair_01", "furni_s1_comcabinet_01", "furni_s1_bookcase_01"]
+      },
+      {
+        "themeId": "furni_set_s1_01",
+        "name": "纯色/室内设计",
+        "comfort": 60,
+        "furniture": ["furni_s1_wallpaper_01", "furni_s1_walllamp_01", "furni_s1_floor_01"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_s1_bed_01",
+        "name": "瓷色大床",
+        "type": "BEDDING",
+        "comfort": 230,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_nightstand_01",
+        "name": "瓷色床头柜",
+        "type": "CABINET",
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_comdesk_01",
+        "name": "黑色简拼办公桌",
+        "type": "TABLE",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_comchair_01",
+        "name": "黑色滚轮靠背椅",
+        "type": "SEATING",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_comcabinet_01",
+        "name": "黑色简拼桌柜",
+        "type": "CABINET",
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_bookcase_01",
+        "name": "纯色棋盘式书柜",
+        "type": "CABINET",
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_tv_01",
+        "name": "清晰™黑色电视",
+        "type": "DECORATION",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_sofa_01",
+        "name": "纯色矮沙发",
+        "type": "SEATING",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_coffeetable_01",
+        "name": "纯色直角茶几",
+        "type": "TABLE",
+        "comfort": 115,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_floor_01",
+        "name": "磨砂黑地砖",
+        "type": "FLOOR",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_carpet_01",
+        "name": "灰色纤维地毯",
+        "type": "CARPET",
+        "comfort": 65,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_bulletinboard_01",
+        "name": "小型公告板",
+        "type": "WALLDECO",
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_clock_01",
+        "name": "黑色简约时钟",
+        "type": "WALLDECO",
+        "comfort": 30,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_walllamp_01",
+        "name": "瓷色壁灯",
+        "type": "WALLLAMP",
+        "comfort": 30,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_s1_wallpaper_01",
+        "name": "瓷色壁纸",
+        "type": "WALLPAPER",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 2035
+  },
+  {
+    "id": "furni_set_s1_02",
+    "name": "边线/橘色简约家居",
+    "groups": [
+      {
+        "themeId": "furni_set_s1_02",
+        "name": "橘色/卧室家居",
+        "comfort": 120,
+        "furniture": ["furni_s1_bed_02", "furni_s1_nightstand_02", "furni_s1_tv_02", "furni_s1_clock_02"]
+      },
+      {
+        "themeId": "furni_set_s1_02",
+        "name": "橘色/客厅系列",
+        "comfort": 105,
+        "furniture": ["furni_s1_sofa_02", "furni_s1_coffeetable_02", "furni_s1_carpet_02", "furni_s1_bulletinboard_02"]
+      },
+      {
+        "themeId": "furni_set_s1_02",
+        "name": "橘色/书房设备",
+        "comfort": 115,
+        "furniture": ["furni_s1_comdesk_02", "furni_s1_comchair_02", "furni_s1_comcabinet_02", "furni_s1_bookcase_02"]
+      },
+      {
+        "themeId": "furni_set_s1_02",
+        "name": "橘色/室内设计",
+        "comfort": 60,
+        "furniture": ["furni_s1_wallpaper_02", "furni_s1_walllamp_02", "furni_s1_floor_02"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_s1_bed_02",
+        "name": "橘色大床",
+        "type": "BEDDING",
+        "comfort": 230,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_nightstand_02",
+        "name": "橘色床头柜",
+        "type": "CABINET",
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_comdesk_02",
+        "name": "橘色简拼办公桌",
+        "type": "TABLE",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_comchair_02",
+        "name": "橘色滚轮靠背椅",
+        "type": "SEATING",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_comcabinet_02",
+        "name": "橘色简拼桌柜",
+        "type": "CABINET",
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_bookcase_02",
+        "name": "橘色棋盘式书柜",
+        "type": "CABINET",
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_tv_02",
+        "name": "清晰™橘色电视",
+        "type": "DECORATION",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_sofa_02",
+        "name": "橘色矮沙发",
+        "type": "SEATING",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_coffeetable_02",
+        "name": "橘色直角茶几",
+        "type": "TABLE",
+        "comfort": 115,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_floor_02",
+        "name": "雅士白地砖",
+        "type": "FLOOR",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_carpet_02",
+        "name": "白色纤维地毯",
+        "type": "CARPET",
+        "comfort": 65,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_bulletinboard_02",
+        "name": "小型贴示板",
+        "type": "WALLDECO",
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_clock_02",
+        "name": "橘色简约时钟",
+        "type": "WALLDECO",
+        "comfort": 30,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s1_walllamp_02",
+        "name": "橘色壁灯",
+        "type": "WALLLAMP",
+        "comfort": 30,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_s1_wallpaper_02",
+        "name": "橘色壁纸",
+        "type": "WALLPAPER",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 2035
+  },
+  {
+    "id": "furni_set_specimen",
+    "name": "幻想生物纪实",
+    "groups": [
+      {
+        "themeId": "furni_set_specimen",
+        "name": "稀有植物对照组",
+        "comfort": 145,
+        "furniture": ["furni_specimen_pottedplant_01", "furni_specimen_pottedplant_02", "furni_specimen_seedling_01"]
+      },
+      {
+        "themeId": "furni_set_specimen",
+        "name": "未确认生物标本",
+        "comfort": 135,
+        "furniture": [
+          "furni_specimen_showcase_01",
+          "furni_specimen_specimenframed_01",
+          "furni_specimen_specimenframedkit_01",
+          "furni_specimen_bulletinboard_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_specimen",
+        "name": "展览休息室必要设施",
+        "comfort": 210,
+        "furniture": [
+          "furni_specimen_coffeetable_01",
+          "furni_specimen_bed_01",
+          "furni_specimen_nightstand_01",
+          "furni_specimen_lazysofa_L_01",
+          "furni_specimen_lazysofa_R_01",
+          "furni_specimen_carpet_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_specimen",
+        "name": "展览休息室装修组件",
+        "comfort": 140,
+        "furniture": [
+          "furni_specimen_wallpaper_01",
+          "furni_specimen_floor_01",
+          "furni_specimen_downlight_01",
+          "furni_specimen_downlight_02"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_specimen_wallpaper_01",
+        "name": "金属墙纸",
+        "type": "WALLPAPER",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_floor_01",
+        "name": "铜色地板",
+        "type": "FLOOR",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_coffeetable_01",
+        "name": "筐形矮茶几",
+        "type": "TABLE",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_bed_01",
+        "name": "金属大床",
+        "type": "BEDDING",
+        "comfort": 230,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_nightstand_01",
+        "name": "方形床头矮柜",
+        "type": "CABINET",
+        "comfort": 85,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_lazysofa_L_01",
+        "name": "褐色懒人沙发（左）",
+        "type": "SEATING",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_lazysofa_R_01",
+        "name": "褐色懒人沙发（右）",
+        "type": "SEATING",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_pottedplant_01",
+        "name": "阔叶盆栽",
+        "type": "DECORATION",
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_pottedplant_02",
+        "name": "针叶盆栽",
+        "type": "DECORATION",
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_seedling_01",
+        "name": "厚叶盆栽",
+        "type": "DECORATION",
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_showcase_01",
+        "name": "生态展览柜",
+        "type": "DECORATION",
+        "comfort": 225,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_carpet_01",
+        "name": "灰色宽地毯",
+        "type": "CARPET",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_specimenframed_01",
+        "name": "未确认生物骨骼",
+        "type": "WALLDECO",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_specimenframedkit_01",
+        "name": "未知生物标本集",
+        "type": "WALLDECO",
+        "comfort": 105,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_bulletinboard_01",
+        "name": "展出标本资料板",
+        "type": "WALLDECO",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_downlight_01",
+        "name": "内嵌宽顶灯",
+        "type": "CEILINGLAMP",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_specimen_downlight_02",
+        "name": "内嵌方顶灯",
+        "type": "CEILINGLAMP",
+        "comfort": 95,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      }
+    ],
+    "totalComfort": 3195
+  },
+  {
+    "id": "furni_set_cabin",
+    "name": "12号生命循环舱",
+    "groups": [
+      {
+        "themeId": "furni_set_cabin",
+        "name": "舱室控制及记录",
+        "comfort": 60,
+        "furniture": ["furni_cabin_control_01", "furni_cabin_display_01"]
+      },
+      {
+        "themeId": "furni_set_cabin",
+        "name": "舱室工作套件",
+        "comfort": 160,
+        "furniture": [
+          "furni_cabin_desk_01",
+          "furni_cabin_chair_01",
+          "furni_cabin_trash_01",
+          "furni_cabin_note_01",
+          "furni_cabin_cabinet_01",
+          "furni_cabin_carpet_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_cabin",
+        "name": "工休设备",
+        "comfort": 185,
+        "furniture": ["furni_cabin_bed_01", "furni_cabin_fireExtinguisher_01"]
+      },
+      {
+        "themeId": "furni_set_cabin",
+        "name": "舱室铺设组件",
+        "comfort": 195,
+        "furniture": ["furni_cabin_wallpaper_01", "furni_cabin_floor_01", "furni_cabin_constructionMember_01"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_cabin_desk_01",
+        "name": "组合工作台",
+        "type": "TABLE",
+        "comfort": 290,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_chair_01",
+        "name": "组合滚轮靠背椅",
+        "type": "SEATING",
+        "comfort": 100,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_trash_01",
+        "name": "防爆垃圾桶",
+        "type": "DECORATION",
+        "comfort": 85,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_bed_01",
+        "name": "舱室组合双层床",
+        "type": "BEDDING",
+        "comfort": 635,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_control_01",
+        "name": "生命循环舱总控台",
+        "type": "DECORATION",
+        "comfort": 145,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_display_01",
+        "name": "控制显示器",
+        "type": "WALLDECO",
+        "comfort": 90,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_note_01",
+        "name": "舱用记事板",
+        "type": "WALLDECO",
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_cabinet_01",
+        "name": "嵌壁资料柜",
+        "type": "WALLDECO",
+        "comfort": 115,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_fireExtinguisher_01",
+        "name": "舱室灭火套组",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_constructionMember_01",
+        "name": "舱室嵌顶构件",
+        "type": "CEILING",
+        "comfort": 540,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_carpet_01",
+        "name": "黑色纤维地毯",
+        "type": "CARPET",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_wallpaper_01",
+        "name": "淡绿壁纸",
+        "type": "WALLPAPER",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cabin_floor_01",
+        "name": "舱室用地砖",
+        "type": "FLOOR",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 3045
+  },
+  {
+    "id": "furni_set_cafe",
+    "name": "哥伦比亚咖啡馆",
+    "groups": [
+      {
+        "themeId": "furni_set_cafe",
+        "name": "经典哥伦比亚装饰",
+        "comfort": 250,
+        "furniture": ["furni_cafe_shelf_01", "furni_cafe_pottedplant_01", "furni_cafe_framedwallartset_01"]
+      },
+      {
+        "themeId": "furni_set_cafe",
+        "name": "咖啡桌椅组合",
+        "comfort": 140,
+        "furniture": [
+          "furni_cafe_coffeetable_01",
+          "furni_cafe_chair_L_01",
+          "furni_cafe_chair_R_01",
+          "furni_cafe_framedwallart_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_cafe",
+        "name": "咖啡馆吧台设施",
+        "comfort": 315,
+        "furniture": [
+          "furni_cafe_barlamp_01",
+          "furni_cafe_bar_01",
+          "furni_cafe_barstool_01",
+          "furni_cafe_cupboard_01",
+          "furni_cafe_floatingshelf_01",
+          "furni_cafe_blackboard_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_cafe",
+        "name": "经典哥伦比亚装潢",
+        "comfort": 165,
+        "furniture": [
+          "furni_cafe_wallpaper_01",
+          "furni_cafe_floor_01",
+          "furni_cafe_downlight_01",
+          "furni_cafe_ceilinglamp_01"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_cafe_bar_01",
+        "name": "红砖咖啡馆吧台",
+        "type": "TABLE",
+        "comfort": 455,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_barstool_01",
+        "name": "曲底高脚咖啡椅",
+        "type": "SEATING",
+        "comfort": 110,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_shelf_01",
+        "name": "褐色跃格书架",
+        "type": "DECORATION",
+        "comfort": 330,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_cafe_cupboard_01",
+        "name": "红砖色储物柜",
+        "type": "CABINET",
+        "comfort": 180,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_pottedplant_01",
+        "name": "长叶盆栽",
+        "type": "DECORATION",
+        "comfort": 165,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_chair_L_01",
+        "name": "成对咖啡椅（左）",
+        "type": "SEATING",
+        "comfort": 110,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_chair_R_01",
+        "name": "成对咖啡椅（右）",
+        "type": "SEATING",
+        "comfort": 110,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_coffeetable_01",
+        "name": "独脚咖啡桌",
+        "type": "TABLE",
+        "comfort": 215,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_floatingshelf_01",
+        "name": "饮料陈列架",
+        "type": "WALLDECO",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_blackboard_01",
+        "name": "饮料价目表",
+        "type": "WALLDECO",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_framedwallart_01",
+        "name": "玻利瓦尔咖啡豆",
+        "type": "WALLDECO",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_framedwallartset_01",
+        "name": "哥伦比亚街景照",
+        "type": "WALLDECO",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_barlamp_01",
+        "name": "吧台吊顶",
+        "type": "CEILING",
+        "comfort": 225,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_ceilinglamp_01",
+        "name": "垂吊式顶灯",
+        "type": "CEILINGLAMP",
+        "comfort": 65,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_cafe_downlight_01",
+        "name": "柔和顶灯",
+        "type": "CEILINGLAMP",
+        "comfort": 40,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 5
+      },
+      {
+        "id": "furni_cafe_wallpaper_01",
+        "name": "砖墙壁纸",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_cafe_floor_01",
+        "name": "大理石地砖",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4420
+  },
+  {
+    "id": "furni_set_s2_01",
+    "name": "近卫局休息室",
+    "groups": [
+      {
+        "themeId": "furni_set_s2_01",
+        "name": "近卫局简要会议设施",
+        "comfort": 385,
+        "furniture": [
+          "furni_s2_bulletinboard_01",
+          "furni_s2_lowtable_01",
+          "furni_s2_lowchair_L_01",
+          "furni_s2_lowchair_R_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_s2_01",
+        "name": "会客用单色套组",
+        "comfort": 190,
+        "furniture": [
+          "furni_s2_table_01",
+          "furni_s2_chair_L_01",
+          "furni_s2_chair_R_01",
+          "furni_s2_chair2_01",
+          "furni_s2_poster_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_s2_01",
+        "name": "深度休息套组（檀木）",
+        "comfort": 165,
+        "furniture": ["furni_s2_bed_01", "furni_s2_nightstand_01", "furni_s2_carpet_01"]
+      },
+      {
+        "themeId": "furni_set_s2_01",
+        "name": "近卫局式装潢",
+        "comfort": 130,
+        "furniture": ["furni_s2_wallpaper_01", "furni_s2_floor_01", "furni_s2_walllamp_01"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_s2_bed_01",
+        "name": "檀木大床",
+        "type": "BEDDING",
+        "comfort": 400,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_nightstand_01",
+        "name": "檀木床头矮柜",
+        "type": "CABINET",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_table_01",
+        "name": "黑色独脚桌",
+        "type": "TABLE",
+        "comfort": 245,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_chair_L_01",
+        "name": "黑色复古椅（左）",
+        "type": "SEATING",
+        "comfort": 125,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_chair_R_01",
+        "name": "黑色复古椅（右）",
+        "type": "SEATING",
+        "comfort": 125,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_chair2_01",
+        "name": "黑色复古凳",
+        "type": "SEATING",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_lowtable_01",
+        "name": "檀木低脚会议桌",
+        "type": "TABLE",
+        "comfort": 465,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_lowchair_L_01",
+        "name": "黑色简装矮沙发（左）",
+        "type": "SEATING",
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_lowchair_R_01",
+        "name": "黑色简装矮沙发（右）",
+        "type": "SEATING",
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_bulletinboard_01",
+        "name": "檀木会议板",
+        "type": "DECORATION",
+        "comfort": 630,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_carpet_01",
+        "name": "灰色绒毛地毯",
+        "type": "CARPET",
+        "comfort": 145,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_floor_01",
+        "name": "黑色地砖",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_poster_01",
+        "name": "檀木相框挂画",
+        "type": "WALLDECO",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_walllamp_01",
+        "name": "明亮挂灯",
+        "type": "WALLLAMP",
+        "comfort": 65,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_s2_wallpaper_01",
+        "name": "复式木制墙栏",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4390
+  },
+  {
+    "id": "furni_set_s2_02",
+    "name": "仿龙门式休息室",
+    "groups": [
+      {
+        "themeId": "furni_set_s2_02",
+        "name": "龙门简要会议设施",
+        "comfort": 385,
+        "furniture": [
+          "furni_s2_bulletinboard_02",
+          "furni_s2_lowtable_02",
+          "furni_s2_lowchair_L_02",
+          "furni_s2_lowchair_R_02"
+        ]
+      },
+      {
+        "themeId": "furni_set_s2_02",
+        "name": "会客用双色套组",
+        "comfort": 190,
+        "furniture": [
+          "furni_s2_table_02",
+          "furni_s2_chair_L_02",
+          "furni_s2_chair_R_02",
+          "furni_s2_chair2_02",
+          "furni_s2_poster_02"
+        ]
+      },
+      {
+        "themeId": "furni_set_s2_02",
+        "name": "深度休息套件（柚木）",
+        "comfort": 165,
+        "furniture": ["furni_s2_bed_02", "furni_s2_nightstand_02", "furni_s2_carpet_02"]
+      },
+      {
+        "themeId": "furni_set_s2_02",
+        "name": "仿龙门式装潢",
+        "comfort": 130,
+        "furniture": ["furni_s2_wallpaper_02", "furni_s2_floor_02", "furni_s2_walllamp_02"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_s2_bed_02",
+        "name": "柚木大床",
+        "type": "BEDDING",
+        "comfort": 400,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_nightstand_02",
+        "name": "柚木床头矮柜",
+        "type": "CABINET",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_table_02",
+        "name": "白色独脚桌",
+        "type": "TABLE",
+        "comfort": 245,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_chair_L_02",
+        "name": "钢琴黑复古椅（左）",
+        "type": "SEATING",
+        "comfort": 125,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_chair_R_02",
+        "name": "钢琴黑复古椅（右）",
+        "type": "SEATING",
+        "comfort": 125,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_chair2_02",
+        "name": "钢琴黑复古凳",
+        "type": "SEATING",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_lowtable_02",
+        "name": "柚木低脚会议桌",
+        "type": "TABLE",
+        "comfort": 465,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_lowchair_L_02",
+        "name": "灰色简装矮沙发（左）",
+        "type": "SEATING",
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_lowchair_R_02",
+        "name": "灰色简装矮沙发（右）",
+        "type": "SEATING",
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_bulletinboard_02",
+        "name": "柚木轮班考勤板",
+        "type": "DECORATION",
+        "comfort": 630,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_carpet_02",
+        "name": "黑色绒毛地毯",
+        "type": "CARPET",
+        "comfort": 145,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_floor_02",
+        "name": "棕色地砖",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_poster_02",
+        "name": "柚木相框挂画",
+        "type": "WALLDECO",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_s2_walllamp_02",
+        "name": "柔和挂灯",
+        "type": "WALLLAMP",
+        "comfort": 65,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_s2_wallpaper_02",
+        "name": "复式铜制墙栏",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4390
+  },
+  {
+    "id": "furni_set_pizza",
+    "name": "快捷连锁披萨店",
+    "groups": [
+      {
+        "themeId": "furni_set_pizza",
+        "name": "商铺经营设施",
+        "comfort": 280,
+        "furniture": [
+          "furni_pizza_priceList_01",
+          "furni_pizza_cashierDesk_01",
+          "furni_pizza_brazier_01",
+          "furni_pizza_cupboard_01",
+          "furni_pizza_shelf_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_pizza",
+        "name": "商铺宣传设施",
+        "comfort": 250,
+        "furniture": ["furni_pizza_noticeWall_01", "furni_pizza_banner_01", "furni_pizza_column_01"]
+      },
+      {
+        "themeId": "furni_set_pizza",
+        "name": "单人就餐设施",
+        "comfort": 130,
+        "furniture": ["furni_pizza_barTable_01", "furni_pizza_barStool_01", "furni_pizza_exitIndicator_01"]
+      },
+      {
+        "themeId": "furni_set_pizza",
+        "name": "多人聚餐设施",
+        "comfort": 150,
+        "furniture": [
+          "furni_pizza_diningTable_01",
+          "furni_pizza_chair_L_01",
+          "furni_pizza_chair_R_01",
+          "furni_pizza_chair_F_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_pizza",
+        "name": "现下流行的披萨店设计",
+        "comfort": 250,
+        "furniture": [
+          "furni_pizza_wallpaper_01",
+          "furni_pizza_floor_01",
+          "furni_pizza_abstractArt_01",
+          "furni_pizza_ceilingLights_01",
+          "furni_pizza_brickWallSticker_01"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_pizza_priceList_01",
+        "name": "披萨价目表",
+        "type": "CEILING",
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_cashierDesk_01",
+        "name": "披萨店用黑色收银台",
+        "type": "TABLE",
+        "comfort": 280,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_brazier_01",
+        "name": "披萨烤炉",
+        "type": "DECORATION",
+        "comfort": 375,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_cupboard_01",
+        "name": "披萨店用餐盘柜",
+        "type": "CABINET",
+        "comfort": 175,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_shelf_01",
+        "name": "披萨店用餐盘架",
+        "type": "WALLDECO",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_brickWallSticker_01",
+        "name": "披萨店用砌砖型墙纸",
+        "type": "WALLDECO",
+        "comfort": 50,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 5
+      },
+      {
+        "id": "furni_pizza_ceilingLights_01",
+        "name": "披萨店用柔光吊灯",
+        "type": "CEILINGLAMP",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 3
+      },
+      {
+        "id": "furni_pizza_noticeWall_01",
+        "name": "黑色隔断墙",
+        "type": "DECORATION",
+        "comfort": 340,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_column_01",
+        "name": "披萨店用海报柱",
+        "type": "DECORATION",
+        "comfort": 265,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_banner_01",
+        "name": "披萨店用落地海报架",
+        "type": "DECORATION",
+        "comfort": 300,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_barTable_01",
+        "name": "披萨店用快餐吧台",
+        "type": "WALLDECO",
+        "comfort": 195,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_barStool_01",
+        "name": "披萨店用高脚凳",
+        "type": "SEATING",
+        "comfort": 100,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 3
+      },
+      {
+        "id": "furni_pizza_exitIndicator_01",
+        "name": "披萨店用出口指示灯",
+        "type": "WALLDECO",
+        "comfort": 40,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_abstractArt_01",
+        "name": "披萨店用装饰画",
+        "type": "WALLDECO",
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_diningTable_01",
+        "name": "披萨店用活动餐桌",
+        "type": "TABLE",
+        "comfort": 250,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_chair_L_01",
+        "name": "披萨店用靠背单椅（左）",
+        "type": "SEATING",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_chair_R_01",
+        "name": "披萨店用靠背单椅（右）",
+        "type": "SEATING",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_chair_F_01",
+        "name": "披萨店用靠背单椅",
+        "type": "SEATING",
+        "comfort": 160,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_wallpaper_01",
+        "name": "披萨店用黑色墙纸",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_pizza_floor_01",
+        "name": "披萨店用瓷砖地板",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 5405
+  },
+  {
+    "id": "furni_set_wooden",
+    "name": "萨米乡野别墅",
+    "groups": [
+      {
+        "themeId": "furni_set_wooden",
+        "name": "原木家私套组",
+        "comfort": 250,
+        "furniture": [
+          "furni_wooden_loftBed_01",
+          "furni_wooden_diningTable_01",
+          "furni_wooden_chair_L_01",
+          "furni_wooden_chair_R_01",
+          "furni_wooden_cabinet_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_wooden",
+        "name": "长夜漫谈套件",
+        "comfort": 190,
+        "furniture": [
+          "furni_wooden_fireplace_01",
+          "furni_wooden_carpet_01",
+          "furni_wooden_rockingChair_01",
+          "furni_wooden_woodBasket_01",
+          "furni_wooden_violin_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_wooden",
+        "name": "复古顶部装饰组",
+        "comfort": 175,
+        "furniture": ["furni_wooden_slopedCeiling_01", "furni_wooden_ceilingLight_01", "furni_wooden_ceilingFan_01"]
+      },
+      {
+        "themeId": "furni_set_wooden",
+        "name": "原野风韵套件",
+        "comfort": 80,
+        "furniture": ["furni_wooden_wallpaper_01", "furni_wooden_floor_01", "furni_wooden_deerHeads_01"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_wooden_loftBed_01",
+        "name": "原木沙发高架床",
+        "type": "BEDDING",
+        "comfort": 390,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_fireplace_01",
+        "name": "砖砌燃木壁炉",
+        "type": "DECORATION",
+        "comfort": 340,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_woodBasket_01",
+        "name": "手编木柴篓",
+        "type": "DECORATION",
+        "comfort": 95,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_rockingChair_01",
+        "name": "靠垫摇椅",
+        "type": "SEATING",
+        "comfort": 205,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_carpet_01",
+        "name": "毛绒地毯",
+        "type": "CARPET",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_violin_01",
+        "name": "云杉小提琴",
+        "type": "DECORATION",
+        "comfort": 95,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_deerHeads_01",
+        "name": "“生灵的躯骸”",
+        "type": "WALLDECO",
+        "comfort": 105,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_cabinet_01",
+        "name": "原木置物柜",
+        "type": "CABINET",
+        "comfort": 205,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_diningTable_01",
+        "name": "原木餐桌",
+        "type": "TABLE",
+        "comfort": 210,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_chair_L_01",
+        "name": "原木靠背椅（左）",
+        "type": "SEATING",
+        "comfort": 95,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_chair_R_01",
+        "name": "原木靠背椅（右）",
+        "type": "SEATING",
+        "comfort": 95,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_ceilingFan_01",
+        "name": "复古吊扇",
+        "type": "CEILING",
+        "comfort": 110,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_ceilingLight_01",
+        "name": "复古吊灯",
+        "type": "CEILINGLAMP",
+        "comfort": 35,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 6
+      },
+      {
+        "id": "furni_wooden_slopedCeiling_01",
+        "name": "原木房梁",
+        "type": "CEILING",
+        "comfort": 400,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_wallpaper_01",
+        "name": "木浆壁纸",
+        "type": "WALLPAPER",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_wooden_floor_01",
+        "name": "原木地板",
+        "type": "FLOOR",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 3570
+  },
+  {
+    "id": "furni_set_artdeco",
+    "name": "哥伦比亚摩登酒店",
+    "groups": [
+      {
+        "themeId": "furni_set_artdeco",
+        "name": "大都会吧台套件",
+        "comfort": 225,
+        "furniture": [
+          "furni_artdeco_barCeiling_01",
+          "furni_artdeco_bar_01",
+          "furni_artdeco_barstool_01",
+          "furni_artdeco_refrigerator_01",
+          "furni_artdeco_framedArt_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_artdeco",
+        "name": "大都会音乐区套件",
+        "comfort": 355,
+        "furniture": [
+          "furni_artdeco_pianoKit_01",
+          "furni_artdeco_carpet_01",
+          "furni_artdeco_JukeBox_01",
+          "furni_artdeco_abstractArt_01",
+          "furni_artdeco_ceilingLamp_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_artdeco",
+        "name": "大都会休息区套件",
+        "comfort": 230,
+        "furniture": [
+          "furni_artdeco_sofa_01",
+          "furni_artdeco_coffeeTable_01",
+          "furni_artdeco_framedArt2_01",
+          "furni_artdeco_floorLamp_01",
+          "furni_artdeco_ceiling_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_artdeco",
+        "name": "摩登年代套件",
+        "comfort": 90,
+        "furniture": ["furni_artdeco_wallpaper_01", "furni_artdeco_floor_01", "furni_artdeco_wallLamp_01"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_artdeco_barCeiling_01",
+        "name": "塔状吧台吊顶",
+        "type": "CEILING",
+        "comfort": 165,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_bar_01",
+        "name": "酒店万用吧台",
+        "type": "TABLE",
+        "comfort": 250,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_barstool_01",
+        "name": "酒水台高脚凳",
+        "type": "SEATING",
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 3
+      },
+      {
+        "id": "furni_artdeco_refrigerator_01",
+        "name": "黑金冰柜",
+        "type": "DECORATION",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_framedArt_01",
+        "name": "意识流挂画",
+        "type": "WALLDECO",
+        "comfort": 90,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_pianoKit_01",
+        "name": "威廉姆™钢琴组合",
+        "type": "DECORATION",
+        "comfort": 580,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_carpet_01",
+        "name": "摩登酒店地毯",
+        "type": "CARPET",
+        "comfort": 435,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_JukeBox_01",
+        "name": "公告牌™点唱机",
+        "type": "DECORATION",
+        "comfort": 105,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_wallLamp_01",
+        "name": "摩登酒店壁灯",
+        "type": "WALLLAMP",
+        "comfort": 35,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_artdeco_abstractArt_01",
+        "name": "摩登壁挂装饰",
+        "type": "WALLDECO",
+        "comfort": 115,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_ceilingLamp_01",
+        "name": "摩登酒店吊灯",
+        "type": "CEILINGLAMP",
+        "comfort": 95,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_sofa_01",
+        "name": "摩登酒店沙发",
+        "type": "SEATING",
+        "comfort": 340,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_coffeeTable_01",
+        "name": "摩登酒店茶几",
+        "type": "TABLE",
+        "comfort": 180,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_framedArt2_01",
+        "name": "“光辉的时代”",
+        "type": "WALLDECO",
+        "comfort": 100,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_floorLamp_01",
+        "name": "摩登酒店落地灯",
+        "type": "DECORATION",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_ceiling_01",
+        "name": "摩登酒店吊顶",
+        "type": "CEILING",
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_wallpaper_01",
+        "name": "摩登酒店壁纸",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_artdeco_floor_01",
+        "name": "褐色大理石地砖",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4555
+  },
+  {
+    "id": "furni_set_chen",
+    "name": "陈的办公室",
+    "groups": [
+      {
+        "themeId": "furni_set_chen",
+        "name": "近卫局公务组合",
+        "comfort": 300,
+        "furniture": [
+          "furni_chen_desk_01",
+          "furni_chen_chair_01",
+          "furni_chen_trash_01",
+          "furni_chen_investigationBoard_01",
+          "furni_chen_spotlight_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_chen",
+        "name": "陈的私人陈列",
+        "comfort": 185,
+        "furniture": ["furni_chen_showcase_01", "furni_chen_weaponCabinet_01", "furni_chen_honorMedal_01"]
+      },
+      {
+        "themeId": "furni_set_chen",
+        "name": "陈的兴趣套装",
+        "comfort": 180,
+        "furniture": ["furni_chen_supineBoard_01", "furni_chen_wingChunDummy_01", "furni_chen_cactusPottedPlant_01"]
+      },
+      {
+        "themeId": "furni_set_chen",
+        "name": "近卫局通配装修",
+        "comfort": 295,
+        "furniture": [
+          "furni_chen_wallpaper_01",
+          "furni_chen_floor_01",
+          "furni_chen_ceilingLight_R_01",
+          "furni_chen_ceilingLight_C_01"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_chen_showcase_01",
+        "name": "近卫局通配书柜",
+        "type": "CABINET",
+        "comfort": 305,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_weaponCabinet_01",
+        "name": "陈的武器架",
+        "type": "CABINET",
+        "comfort": 305,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_supineBoard_01",
+        "name": "近卫局健腹板",
+        "type": "DECORATION",
+        "comfort": 265,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_honorMedal_01",
+        "name": "陈的荣誉状",
+        "type": "WALLDECO",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_cactusPottedPlant_01",
+        "name": "仙人掌盆栽",
+        "type": "DECORATION",
+        "comfort": 155,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_desk_01",
+        "name": "陈的办公桌",
+        "type": "TABLE",
+        "comfort": 425,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_chair_01",
+        "name": "陈的办公椅",
+        "type": "SEATING",
+        "comfort": 190,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_trash_01",
+        "name": "近卫局通用垃圾桶",
+        "type": "DECORATION",
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_wingChunDummy_01",
+        "name": "近卫局特制正桩",
+        "type": "DECORATION",
+        "comfort": 325,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_investigationBoard_01",
+        "name": "办公室线索板",
+        "type": "DECORATION",
+        "comfort": 320,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_ceilingLight_R_01",
+        "name": "近卫局日光灯",
+        "type": "CEILINGLAMP",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 4
+      },
+      {
+        "id": "furni_chen_ceilingLight_C_01",
+        "name": "近卫局荧光灯",
+        "type": "CEILINGLAMP",
+        "comfort": 85,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 5
+      },
+      {
+        "id": "furni_chen_spotlight_01",
+        "name": "近卫局用聚焦灯",
+        "type": "CEILINGLAMP",
+        "comfort": 85,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_chen_wallpaper_01",
+        "name": "近卫局通用墙纸",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_chen_floor_01",
+        "name": "近卫局石砖地板",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4915
+  }
+]

@@ -3,7 +3,7 @@ const { parseSimpleInfo } = require('./parseCharacter');
 const { filterHtmlTag } = require('./util/filterHtmlTag');
 const uuid = require('uuid');
 
-const { rooms, chars, buffs } = buildings;
+const { rooms, chars, buffs, customData } = buildings;
 
 const path = require('path');
 const fs = require('fs-extra');
@@ -81,10 +81,105 @@ function parseCharBuffs() {
   return result;
 }
 
+function parseFurnitures() {
+  const { furnitures } = customData;
+  const keys = Object.keys(furnitures);
+  return keys.map(key => {
+    const furn = furnitures[key];
+    const { id, name, type, ratiry, comfort, usage } = furn;
+    return { id, name, type, ratiry, comfort, usage };
+  });
+}
+
+function parseFurnCount() {
+  const { themes } = customData;
+  const keys = Object.keys(themes);
+  const furnCountMap = {};
+
+  keys.forEach(key => {
+    const theme = themes[key];
+    const { quickSetup = [] } = theme;
+
+    const counts = {};
+    quickSetup.forEach(item => {
+      const id = item.furnitureId;
+      const val = counts[id];
+      if (!val) {
+        counts[id] = 1;
+      } else {
+        counts[id] = val + 1;
+      }
+    });
+
+    furnCountMap[key] = counts;
+  });
+
+  return furnCountMap;
+}
+
+function parseFurnGroups() {
+  const { groups } = customData;
+  const keys = Object.keys(groups);
+  return keys.map(key => {
+    const group = groups[key];
+    const { themeId, name, comfort, furniture } = group;
+    return {
+      themeId,
+      name,
+      comfort,
+      furniture
+    };
+  });
+}
+
+function parseThemes() {
+  const allFurns = parseFurnitures();
+  const allFurnCount = parseFurnCount();
+  const allGroups = parseFurnGroups();
+  const { themes } = customData;
+  const keys = Object.keys(themes);
+  return keys.map(key => {
+    const theme = themes[key];
+    const { id, name } = theme;
+    // themeId: {id: count}
+    const curFurnCount = allFurnCount[id] || {};
+    // 当前主题所有的 furnId
+    const curThemeFurnIds = Object.keys(curFurnCount);
+    const furnMaps = curThemeFurnIds.map(furnId => {
+      const furn = allFurns.filter(af => af.id === furnId)[0];
+      const furnCount = curFurnCount[furnId];
+      return {
+        ...furn,
+        count: furnCount
+      }
+    });
+
+    let fc = 0;
+    let gc = 0;
+    furnMaps.forEach(fm => fc += fm.comfort * fm.count);
+
+    const groups = allGroups.filter(ag => ag.themeId === id);
+    groups.forEach(g => gc += g.comfort);
+
+    return {
+      id,
+      name,
+      groups,
+      furnitures: furnMaps,
+      totalComfort: (fc + gc)
+    };
+  });
+}
+
 exports.exportBuffs = function() {
   const curDir = path.join(__dirname, 'char');
   fs.ensureDir(curDir);
 
   const data = parseCharBuffs();
   writeFile(curDir, 'buffs.json', data);
+
+  const buildingDir = path.join(__dirname, 'building');
+  fs.ensureDir(buildingDir);
+  const themes = parseThemes();
+  writeFile(buildingDir, 'furnitures.json', themes);
 }

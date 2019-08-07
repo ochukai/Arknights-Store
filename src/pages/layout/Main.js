@@ -14,6 +14,8 @@ import AKEnemys from '../enemys';
 import AKBuffs from '../buffs';
 import AKIndex from './Index';
 import AKChars from '../chars';
+import AKDorms from '../dorm';
+import AKDorm from '../dorm/Dorm';
 
 import history from '../../history';
 
@@ -27,6 +29,7 @@ const pathMaps = [
   { path: '/material', name: '材料计算', component: AkMaterial },
   { path: '/buffs', name: '基建技能', component: AKBuffs },
   { path: '/enemys', name: '敌人信息', component: AKEnemys },
+  { path: '/dorms', name: '宿舍', component: AKDorms },
   { path: '/demo', name: '组件展示', component: Demo }
 ];
 
@@ -37,8 +40,6 @@ class Main extends Component {
   };
 
   static getDerivedStateFromProps(nextProps) {
-    // console.log(nextProps);
-
     const { location } = nextProps;
     const { pathname } = location;
     return {
@@ -88,6 +89,8 @@ class Main extends Component {
         <Route path="/store" component={AKStore} />
         <Route path="/buffs" component={AKBuffs} />
         <Route path="/enemys" component={AKEnemys} />
+        <Route path="/dorms" component={AKDorms} />
+        <Route path="/dorm/:id" component={AKDorm} />
         <Route path="/chars" component={AKChars} />
         <Route path="/char/:id" component={CharCom} />
         {/* <Route component={NotFound}/> */}
@@ -111,7 +114,11 @@ class Main extends Component {
   renderHeader() {
     const { pathname } = this.state;
     const header = this.getHeader(pathname);
-    if (!header && pathname.indexOf('/char/char_') === 0) {
+    if (!header && (
+      pathname.indexOf('/char/char_') === 0
+        || pathname.indexOf('/dorm/furni_') === 0
+      )
+    ) {
       return <Button onClick={this.handleBackClick}>返回</Button>
     }
 

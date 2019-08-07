@@ -82,7 +82,7 @@ export default class Char extends Component {
         <Layout.Content>
           <div className="char-image">
             {image && (
-              <img height={imageHeight} src={image} />
+              <img height={imageHeight} src={image} alt="" />
             )}
           </div>
         </Layout.Content>

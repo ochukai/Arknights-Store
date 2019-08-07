@@ -67,9 +67,13 @@ export default class AKEnemys extends React.Component {
     return (
       <Layout className="enemy-wrapper">
         <Layout.Content>
-          <Table dataSource={enemys} columns={columns} />
+          <Table
+            style={{minWidth: 800, width: '60%'}}
+            dataSource={enemys}
+            columns={columns}
+          />
         </Layout.Content>
-        <Layout.Sider width={300} hideOn="mobile">
+        {/* <Layout.Sider width={300} hideOn="mobile">
           <div style={{padding: '0 20px'}}>
             <p>
               <strong>防御</strong>：影响干员受到物理攻击时承受的伤害量。<br/> 1点防御=1点物理减伤。
@@ -83,7 +87,7 @@ export default class AKEnemys extends React.Component {
               <li><strong>2. 法术伤害</strong> 伤害量 = 攻击 * (1 - 法抗%)</li>
             </ul>
           </div>
-        </Layout.Sider>
+        </Layout.Sider> */}
       </Layout>
     );
   }
