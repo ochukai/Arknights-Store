@@ -1650,24 +1650,6 @@
     "usage": "从地表开采出的岩石，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "a001_01",
-        "occPer": 1,
-        "stage": {
-          "id": "a001_01",
-          "name": "日正当中",
-          "code": "GT-1",
-          "apCost": 9,
-          "expGain": 90,
-          "goldGain": 90,
-          "drops": [
-            {"type": "FURN", "id": "furni_pizza_exitIndicator_01", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
-            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
-          ]
-        }
-      },
-      {
         "stageId": "sub_02-05",
         "occPer": 1,
         "stage": {
@@ -1933,24 +1915,6 @@
     "usage": "机械化制作的廉价天然糖替代产物，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "a001_02",
-        "occPer": 1,
-        "stage": {
-          "id": "a001_02",
-          "name": "察言观色",
-          "code": "GT-2",
-          "apCost": 9,
-          "expGain": 90,
-          "goldGain": 90,
-          "drops": [
-            {"type": "FURN", "id": "furni_pizza_brickWallSticker_01", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
-            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
-          ]
-        }
-      },
-      {
         "stageId": "sub_02-06",
         "occPer": 1,
         "stage": {
@@ -1991,24 +1955,6 @@
     "description": "使用自然原材制作的稍显贵重的糖料。啊啊，这个味道……会带来不错的好心情。不是用来当零食吃的。",
     "usage": "机械化制作的少量糖块，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
-      {
-        "stageId": "a001_03",
-        "occPer": 3,
-        "stage": {
-          "id": "a001_03",
-          "name": "意外之旅",
-          "code": "GT-3",
-          "apCost": 12,
-          "expGain": 120,
-          "goldGain": 120,
-          "drops": [
-            {"type": "CHAR", "id": "char_220_grani", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
-            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
-          ]
-        }
-      },
       {
         "stageId": "main_02-02",
         "occPer": 2,
@@ -2263,24 +2209,6 @@
     "usage": "工业制造所需的酯原料，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "a001_01",
-        "occPer": 1,
-        "stage": {
-          "id": "a001_01",
-          "name": "日正当中",
-          "code": "GT-1",
-          "apCost": 9,
-          "expGain": 90,
-          "goldGain": 90,
-          "drops": [
-            {"type": "FURN", "id": "furni_pizza_exitIndicator_01", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
-            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
-          ]
-        }
-      },
-      {
         "stageId": "sub_02-07",
         "occPer": 1,
         "stage": {
@@ -2325,24 +2253,6 @@
     "description": "虽然强度上还略有不足，但已经可以用来制作我们所需要的部分基础物件。同时是一些缓释药物中的常用成分。",
     "usage": "工业制造所需的零散聚酸酯，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
-      {
-        "stageId": "a001_04",
-        "occPer": 3,
-        "stage": {
-          "id": "a001_04",
-          "name": "污点证人",
-          "code": "GT-4",
-          "apCost": 12,
-          "expGain": 120,
-          "goldGain": 120,
-          "drops": [
-            {"type": "FURN", "id": "furni_pizza_barStool_01", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
-            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
-          ]
-        }
-      },
       {
         "stageId": "main_01-08",
         "occPer": 2,
@@ -2610,24 +2520,6 @@
     "description": "在少数惰化流程中，异铁碎片偶尔会产生相变，聚合为异铁。一般认为达到此量级的异铁产物才是异铁较为稳定的形态。",
     "usage": "罕见的工业材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
-      {
-        "stageId": "a001_03",
-        "occPer": 2,
-        "stage": {
-          "id": "a001_03",
-          "name": "意外之旅",
-          "code": "GT-3",
-          "apCost": 12,
-          "expGain": 120,
-          "goldGain": 120,
-          "drops": [
-            {"type": "CHAR", "id": "char_220_grani", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
-            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}
-          ]
-        }
-      },
       {
         "stageId": "main_02-01",
         "occPer": 3,
@@ -2921,24 +2813,6 @@
     "usage": "少量的工业用有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "a001_04",
-        "occPer": 2,
-        "stage": {
-          "id": "a001_04",
-          "name": "污点证人",
-          "code": "GT-4",
-          "apCost": 12,
-          "expGain": 120,
-          "goldGain": 120,
-          "drops": [
-            {"type": "FURN", "id": "furni_pizza_barStool_01", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
-            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
-          ]
-        }
-      },
-      {
         "stageId": "main_03-07",
         "occPer": 1,
         "stage": {
@@ -3162,24 +3036,6 @@
     "description": "一些残破的装置。这些装置曾被拼装在敌人的武器和防具上，经历了激烈的战斗后已经损坏，不过其内部元件依旧具备一定的使用价值。",
     "usage": "收缴来的破损机械装置，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
-      {
-        "stageId": "a001_02",
-        "occPer": 3,
-        "stage": {
-          "id": "a001_02",
-          "name": "察言观色",
-          "code": "GT-2",
-          "apCost": 9,
-          "expGain": 90,
-          "goldGain": 90,
-          "drops": [
-            {"type": "FURN", "id": "furni_pizza_brickWallSticker_01", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
-            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}
-          ]
-        }
-      },
       {
         "stageId": "main_02-03",
         "occPer": 1,
@@ -3449,23 +3305,6 @@
     "usage": "片状有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "a001_05",
-        "occPer": 3,
-        "stage": {
-          "id": "a001_05",
-          "name": "各抒己见",
-          "code": "GT-5",
-          "apCost": 15,
-          "expGain": 150,
-          "goldGain": 150,
-          "drops": [
-            {"type": "FURN", "id": "furni_pizza_chair_L_01", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}
-          ]
-        }
-      },
-      {
         "stageId": "main_02-09",
         "occPer": 4,
         "stage": {
@@ -3703,23 +3542,6 @@
     "description": "不起爆、不粉化、不开裂，于零件加工工序中占有重要地位的工具材料。自然属性相当稳定。",
     "usage": "用于加工武器零件的研磨石。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
-      {
-        "stageId": "a001_06",
-        "occPer": 4,
-        "stage": {
-          "id": "a001_06",
-          "name": "黄金三角",
-          "code": "GT-6",
-          "apCost": 15,
-          "expGain": 150,
-          "goldGain": 150,
-          "drops": [
-            {"type": "FURN", "id": "furni_pizza_chair_R_01", "dropType": 1},
-            {"type": "ACTIVITY_COIN", "id": "1stact", "dropType": 2, "name": "赏金猎人金币"},
-            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}
-          ]
-        }
-      },
       {
         "stageId": "main_03-03",
         "occPer": 4,

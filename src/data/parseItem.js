@@ -61,11 +61,11 @@ function parseFormulas() {
   return allFormulas;
 }
 
-
 function parseStages() {
   const { stages } = require('./original/stage_table.json');
   return Object
     .keys(stages)
+    .filter(id => id.indexOf('a001_') < 0)
     .map(key => {
       const stage = stages[key];
       const { stageId, name, code, apCost, expGain, goldGain, stageDropInfo } = stage;
@@ -150,7 +150,6 @@ function parseItems() {
       description,
       usage,
       iconId,
-      stageDropList = [],
       buildingProductList = []
     } = item;
 
@@ -158,7 +157,9 @@ function parseItems() {
       return;
     }
 
+    let { stageDropList = [] } = item;
     if (stageDropList.length > 0) {
+      stageDropList = stageDropList.filter(drop => drop.stageId.indexOf('a001_') < 0);
       stageDropList.forEach(drop => {
         const { stageId, occPer } = drop;
         drop.occPer = DropLevels[occPer];
