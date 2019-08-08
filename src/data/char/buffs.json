@@ -1,6 +1,6 @@
 [
   {
-    "id": "c8dc4f07-3fdf-488b-87d6-da805878c259",
+    "id": "e597e2a2-3308-44c8-a5c4-56c26778c350",
     "name": "备用能源",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
@@ -11,7 +11,7 @@
     "char": "Lancet-2"
   },
   {
-    "id": "c78d1219-ec15-430b-bf12-f059109dccef",
+    "id": "a2628d46-d43e-4b55-b3dd-802789c3d803",
     "name": "医疗服务",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -22,7 +22,7 @@
     "char": "Lancet-2"
   },
   {
-    "id": "7304561e-181d-4df7-9395-ff79bf8d35a5",
+    "id": "04d8a9fc-b2b7-4fd7-b055-7fd78e5a7850",
     "name": "备用能源",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
@@ -33,7 +33,7 @@
     "char": "Castle-3"
   },
   {
-    "id": "4ade4af2-54c8-4f8c-8f07-301f690ae198",
+    "id": "27a1a121-f949-44d1-898e-db2476441e8f",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -44,7 +44,7 @@
     "char": "Castle-3"
   },
   {
-    "id": "1ab3c308-b88e-42dd-847d-47842b55d72c",
+    "id": "0705398e-762a-4726-9cb0-478af6559c0c",
     "name": "线索搜集·β",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -55,7 +55,7 @@
     "char": "12F"
   },
   {
-    "id": "4e2a48c3-94ac-4ec8-89c0-fcb37471bc93",
+    "id": "31c7929a-8e61-4812-9150-e07a622627a7",
     "name": "特训记录",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -66,7 +66,7 @@
     "char": "12F"
   },
   {
-    "id": "7378d305-b0ac-49fa-b3d8-9538373dbfe4",
+    "id": "33f4c175-47e7-405a-900c-f0327954a989",
     "name": "仓库整备·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -77,7 +77,7 @@
     "char": "黑角"
   },
   {
-    "id": "5969bc89-1b4e-49ba-bb71-e8c07e21a7b6",
+    "id": "779b6105-4035-4993-87ab-09a0f1c87d17",
     "name": "订单管理·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -88,7 +88,7 @@
     "char": "黑角"
   },
   {
-    "id": "182f0d42-2b47-4580-b0e2-cfd8ee88a84d",
+    "id": "c2665bff-269f-488e-96c1-e8e201ea0a90",
     "name": "慵懒",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -99,7 +99,7 @@
     "char": "杜林"
   },
   {
-    "id": "e68d4d28-5c65-4dc0-8a91-4ac7ee03590c",
+    "id": "c6ff09c2-746e-4fa5-9fe5-5ae45a1a0b18",
     "name": "嗜睡",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -110,7 +110,7 @@
     "char": "杜林"
   },
   {
-    "id": "5d0efc98-dd35-4733-b0c0-b56e2b9021ac",
+    "id": "6802580c-df05-4f33-beea-8c2280b72c8d",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -121,7 +121,7 @@
     "char": "夜刀"
   },
   {
-    "id": "32799ab5-97de-436c-98a0-a86cc4ee6dda",
+    "id": "6437ec6b-42ed-4110-bbe9-c69af9cb92bc",
     "name": "标准化·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -132,7 +132,7 @@
     "char": "夜刀"
   },
   {
-    "id": "44b07c63-4326-4358-938a-512eb4ae95c8",
+    "id": "3e417d4f-0e52-4118-acd0-dedad2851cf5",
     "name": "人事管理·α",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -143,7 +143,7 @@
     "char": "巡林者"
   },
   {
-    "id": "b7447300-fd82-44f9-9f5e-d5bd05f44891",
+    "id": "b1c9361e-b73b-4a47-84f3-f2eb73bc8a24",
     "name": "能工巧匠",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -154,7 +154,7 @@
     "char": "巡林者"
   },
   {
-    "id": "014c55da-6142-42fa-a9c7-fb0049ec4f6c",
+    "id": "2b0738a3-9caa-4969-ac66-576171d6cbe1",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -165,7 +165,7 @@
     "char": "芙蓉"
   },
   {
-    "id": "13268507-9508-428a-b5ec-7b771bb67110",
+    "id": "93df86c6-0118-45fc-9748-d9a01b3fef71",
     "name": "营养学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -176,7 +176,7 @@
     "char": "芙蓉"
   },
   {
-    "id": "f5157da8-3824-4d28-a64b-787d5029c2cf",
+    "id": "468b98ce-e537-42df-8f68-de835fbff772",
     "name": "热能充能·α",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
@@ -187,7 +187,7 @@
     "char": "炎熔"
   },
   {
-    "id": "eca107be-34e4-4588-95ef-1f947a77e7bf",
+    "id": "7d71db2f-953b-41e1-b082-e695b20a3f0c",
     "name": "源石工艺·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -198,7 +198,7 @@
     "char": "炎熔"
   },
   {
-    "id": "f179b081-a382-4a7d-b19d-e6a976ba6415",
+    "id": "98e3e099-a583-4e3a-84a2-90ac4f46abdd",
     "name": "仓库整备·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -209,7 +209,7 @@
     "char": "米格鲁"
   },
   {
-    "id": "e2202fb6-f3e3-4335-b0d1-a4376b79837c",
+    "id": "66de8933-72a8-4543-b814-3e33d2c86f4a",
     "name": "活泼",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -220,7 +220,7 @@
     "char": "米格鲁"
   },
   {
-    "id": "84c72cd0-9123-49ba-be48-65dec69d02a1",
+    "id": "15f7deab-c6a8-431f-8c65-5f0daf6ff487",
     "name": "急性子",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -231,7 +231,7 @@
     "char": "芬"
   },
   {
-    "id": "62ab05af-eade-4908-975e-93ef162840ff",
+    "id": "fb5ae812-d74d-4a62-b565-2018433bd8b9",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -242,7 +242,7 @@
     "char": "芬"
   },
   {
-    "id": "0ab4e7ca-ef4e-4573-b849-3926dc4f4fb7",
+    "id": "6c981d81-b272-4f82-929c-8e553a4d692a",
     "name": "慢性子",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -253,7 +253,7 @@
     "char": "克洛丝"
   },
   {
-    "id": "a58a52c9-b6f1-4faa-a322-341a0fd0eeb7",
+    "id": "ad8491bc-09e6-4257-b5f7-ca5a0da7a4f7",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -264,7 +264,7 @@
     "char": "克洛丝"
   },
   {
-    "id": "eb13ab37-c7ab-4e32-9e44-d92d96d3562e",
+    "id": "21c8242e-94f0-4a0b-b779-5e2d1d72df0c",
     "name": "先锋专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -275,7 +275,7 @@
     "char": "翎羽"
   },
   {
-    "id": "f0841074-ab08-4283-9656-2004976cf5f6",
+    "id": "07b93113-ca23-463b-add9-3a81a61fcfdd",
     "name": "订单管理·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -286,7 +286,7 @@
     "char": "翎羽"
   },
   {
-    "id": "72ccf986-5774-4396-bff7-284569afd3e7",
+    "id": "de4f19a9-9ff6-46bc-8871-cdddcbd8115f",
     "name": "供应管理",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -297,7 +297,7 @@
     "char": "玫兰莎"
   },
   {
-    "id": "1dab0609-bad1-45ff-9293-5c9c0dcd1b2a",
+    "id": "344e2d4f-282c-423f-990c-c2ca64aebbe8",
     "name": "专注·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -308,7 +308,7 @@
     "char": "玫兰莎"
   },
   {
-    "id": "8d344435-d76c-48f8-81ae-8b9fc041251e",
+    "id": "a4fd0846-a39f-4535-9de4-32b8638e5c51",
     "name": "仓库整备·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -319,7 +319,7 @@
     "char": "卡缇"
   },
   {
-    "id": "f7946384-f4f1-4174-831e-53336ec19d9b",
+    "id": "d270df78-da33-4b8d-8fde-fa8d38537f77",
     "name": "活泼",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -330,7 +330,7 @@
     "char": "卡缇"
   },
   {
-    "id": "b8302067-61dc-4d78-bb5f-1cbbc41d03ed",
+    "id": "8c4d79ab-dbaa-4f39-bc99-9eade4f7ef30",
     "name": "谈判",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -341,7 +341,7 @@
     "char": "史都华德"
   },
   {
-    "id": "c28db1cf-35ae-4aab-aa0c-52abec71cb0f",
+    "id": "d8fec2b8-5eff-48cb-8b7d-c03234c9da96",
     "name": "标准化·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -352,7 +352,7 @@
     "char": "史都华德"
   },
   {
-    "id": "1c7c68ee-87a5-4af9-ba60-cdaaf8992b55",
+    "id": "a0b81795-986e-4e2c-a30b-53cebce474ba",
     "name": "订单分发·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -363,7 +363,7 @@
     "char": "安德切尔"
   },
   {
-    "id": "2037ef9f-6ccf-4806-9a48-2324655c3ab7",
+    "id": "b39c1992-8d54-4682-8307-f0a6708df6a6",
     "name": "能工巧匠",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -374,7 +374,7 @@
     "char": "安德切尔"
   },
   {
-    "id": "db09cb9e-cb70-410c-83bd-ff408b09522f",
+    "id": "ce1810fc-41e0-4b52-9657-d6ab40f8eb9d",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -385,7 +385,7 @@
     "char": "安赛尔"
   },
   {
-    "id": "3d72b740-6b2d-4d1e-a7e8-883b01075599",
+    "id": "3ed49a41-f341-489d-8ca4-763fc8f328ce",
     "name": "药理学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -396,7 +396,7 @@
     "char": "安赛尔"
   },
   {
-    "id": "7fc7b6b8-b853-458f-8fd2-5ad5eccaf3d6",
+    "id": "baede6ab-233d-4175-94cf-85249f14fc2e",
     "name": "标准化·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -407,7 +407,7 @@
     "char": "香草"
   },
   {
-    "id": "8219d2eb-d729-4699-a7f1-a34d7bb0cf81",
+    "id": "62398417-21c4-415b-b958-3f1f0d0c9ef5",
     "name": "订单分发·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -418,7 +418,7 @@
     "char": "香草"
   },
   {
-    "id": "ec0d2015-10c4-4ee9-8bf6-feb876657c62",
+    "id": "5e59acbf-acd1-46d5-b89e-956fec0e037b",
     "name": "心理学",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -429,7 +429,7 @@
     "char": "梓兰"
   },
   {
-    "id": "33dc09ef-d29a-48b6-ab84-fa7392fc857e",
+    "id": "b174bda9-e6b9-47b6-ad9e-3730d9b13c82",
     "name": "供应管理",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -440,7 +440,7 @@
     "char": "梓兰"
   },
   {
-    "id": "644dbdf0-36cc-42ba-bb04-5881cdea3880",
+    "id": "d603fe74-728f-494d-8c00-d4587c40c883",
     "name": "交际",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -451,7 +451,7 @@
     "char": "空爆"
   },
   {
-    "id": "c8a2ade9-bfd7-4326-9808-12a59fa7320e",
+    "id": "34e48480-115c-44e9-8eae-555236ec7d37",
     "name": "爆破材料学·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -462,7 +462,7 @@
     "char": "空爆"
   },
   {
-    "id": "642c5da6-9ae4-4ba9-9e6a-18f35716dfbc",
+    "id": "e91beaa3-8f8c-4f02-8788-444f6a14231a",
     "name": "交际",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -473,7 +473,7 @@
     "char": "月见夜"
   },
   {
-    "id": "ae5f29db-5195-4ae8-9782-2e07bdd78205",
+    "id": "d922454c-8884-4f8e-80ee-16d0d9db2ed5",
     "name": "源石工艺·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -484,7 +484,7 @@
     "char": "月见夜"
   },
   {
-    "id": "241c6090-8a06-4358-9e80-9d68acae964b",
+    "id": "9d5950a1-1cbb-4e11-a9db-c36401dfa24c",
     "name": "麻烦制造者",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -495,7 +495,7 @@
     "char": "泡普卡"
   },
   {
-    "id": "eb84c1c0-f924-43ef-a35a-659f0f7acce5",
+    "id": "67edf885-476c-446c-b984-013f38c6381d",
     "name": "和谐",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -506,7 +506,7 @@
     "char": "泡普卡"
   },
   {
-    "id": "91d62280-3166-4ed4-9ad7-b301f4ba2572",
+    "id": "38dce3d9-4616-4d78-9696-3806082ef1b8",
     "name": "能工巧匠",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -517,7 +517,7 @@
     "char": "斑点"
   },
   {
-    "id": "7037d585-3f6c-4d48-9c8c-f3ea941b5dd0",
+    "id": "8ba5f903-a54f-449b-9b18-076013459285",
     "name": "金属工艺·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -528,7 +528,7 @@
     "char": "斑点"
   },
   {
-    "id": "43bc041e-4afa-4f4f-bcbd-fea067e65277",
+    "id": "1a78641b-0f0f-4c9b-b80e-e26fb6edfdd2",
     "name": "供应管理",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -539,7 +539,7 @@
     "char": "远山"
   },
   {
-    "id": "5b4af4f5-c0a9-44e5-bdbb-94e70dd7253b",
+    "id": "6eee5f64-7a27-4542-83f5-f31b82de8486",
     "name": "占卜",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -550,7 +550,7 @@
     "char": "远山"
   },
   {
-    "id": "71c5f5eb-53e6-4614-8ca1-665c53f10a89",
+    "id": "c606d0bb-9f3d-4eca-b641-b8cc10c2c11a",
     "name": "订单分发·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -561,7 +561,7 @@
     "char": "深海色"
   },
   {
-    "id": "10086eef-f371-4b24-8b70-cdfe832827a5",
+    "id": "0220b10a-08e1-4d65-a75b-a6934ce5a6b0",
     "name": "专注·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -572,7 +572,7 @@
     "char": "深海色"
   },
   {
-    "id": "99e01958-7b72-4862-9b81-5829e9add0d0",
+    "id": "b0023272-0c85-4df7-b79b-0f61bdb698ad",
     "name": "药理学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -583,7 +583,7 @@
     "char": "末药"
   },
   {
-    "id": "3043a143-2935-48f4-abb2-2f56a7d9fd4e",
+    "id": "02dc48dc-bfce-4ae9-8f42-0e8767b149e2",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -594,7 +594,7 @@
     "char": "末药"
   },
   {
-    "id": "a5ccc1dc-ab41-4069-9408-b732025002d8",
+    "id": "e6ed72d2-8cc6-4b5b-985b-e0284231e2fc",
     "name": "线索搜集·β",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -605,7 +605,7 @@
     "char": "白雪"
   },
   {
-    "id": "77b58459-835a-46ba-a7b5-67c52261f557",
+    "id": "bad7ddbb-289d-434e-a439-b45ed37b4132",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -616,7 +616,7 @@
     "char": "白雪"
   },
   {
-    "id": "b271bade-4a15-4911-a64d-bf85fdc2e71d",
+    "id": "c7135ef5-ca32-43c6-8da5-3445f97d0f5f",
     "name": "标准化·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -627,7 +627,7 @@
     "char": "流星"
   },
   {
-    "id": "40d8a1f7-039f-41a7-bfed-771fb52afadd",
+    "id": "c1f904a2-a67c-4e18-b998-83d6833a6aa8",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -638,7 +638,7 @@
     "char": "流星"
   },
   {
-    "id": "f133f0f9-69e4-42d2-a55e-f4afecd2dbbc",
+    "id": "9ad89701-9071-4f92-bde9-1edf1a73b6a7",
     "name": "专注·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -649,7 +649,7 @@
     "char": "艾丝黛尔"
   },
   {
-    "id": "88c3502c-91ee-4ba3-b6ac-fda4fc266fab",
+    "id": "6be84aa3-4f9c-4ef0-99a7-576b6d9c3aa1",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -660,7 +660,7 @@
     "char": "艾丝黛尔"
   },
   {
-    "id": "005a4975-a456-4e26-ae21-b163560ccd21",
+    "id": "ab173565-093f-49e3-80dc-b3ea48c0c0e0",
     "name": "左膀右臂",
     "bgColor": "#005752",
     "color": "#ffffff",
@@ -671,7 +671,7 @@
     "char": "杜宾"
   },
   {
-    "id": "24e61248-128c-4de2-b726-defe4144b582",
+    "id": "d5dc80a3-bf60-4f75-832c-c7ecb9d95717",
     "name": "教官",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -682,7 +682,7 @@
     "char": "杜宾"
   },
   {
-    "id": "74edc79c-c238-4bed-a4f9-6148694b35af",
+    "id": "b6247a08-9a6c-4ae0-847e-f6bab9c66d05",
     "name": "近卫专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -693,7 +693,7 @@
     "char": "猎蜂"
   },
   {
-    "id": "0692a73b-cf4e-4432-9407-94bc25c425e4",
+    "id": "ec44e2af-07ff-40d3-92e8-842c981668cd",
     "name": "特训记录",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -704,7 +704,7 @@
     "char": "猎蜂"
   },
   {
-    "id": "8095910c-cc84-4ca9-b23b-4d69ad4dfc9d",
+    "id": "5e0e41cf-116c-4f5f-bac6-129e80da5375",
     "name": "金属工艺·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -715,7 +715,7 @@
     "char": "夜烟"
   },
   {
-    "id": "6a01713d-47ca-40c9-b366-bb4105ee99d7",
+    "id": "c5c894e9-8154-4467-8430-3c49615107bc",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -726,7 +726,7 @@
     "char": "夜烟"
   },
   {
-    "id": "6ae3e313-49dd-4394-a5b6-e10c88ce3a72",
+    "id": "a168aa2f-6b91-42c6-a139-f0a22d883cd4",
     "name": "S.W.E.E.P",
     "bgColor": "#005752",
     "color": "#ffffff",
@@ -737,7 +737,7 @@
     "char": "清道夫"
   },
   {
-    "id": "5b3cd339-d55f-4835-8400-90a054d34785",
+    "id": "213c13f0-da3e-436e-a626-20f3e2aa710a",
     "name": "拾荒者",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -748,7 +748,7 @@
     "char": "清道夫"
   },
   {
-    "id": "3c891901-5f89-4858-a7b3-62b977aca343",
+    "id": "dee05df3-057b-47c6-9ad9-bd53f8e28a82",
     "name": "仓库整备·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -759,7 +759,7 @@
     "char": "蛇屠箱"
   },
   {
-    "id": "1766cf8c-41dd-4177-beaf-a6371a3ad0ba",
+    "id": "7ffacb24-4751-42ea-a761-64e39f772090",
     "name": "订单分发·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -770,7 +770,7 @@
     "char": "蛇屠箱"
   },
   {
-    "id": "3fe3f5fc-7d58-49f2-b779-1cb6da7a337e",
+    "id": "1ccf4ad5-2edb-487d-94aa-49111a8e5c8d",
     "name": "药理学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -781,7 +781,7 @@
     "char": "调香师"
   },
   {
-    "id": "25c189c7-6efb-48bd-b1fc-3d34d61fff4d",
+    "id": "d6a21cbb-ee8c-4d5a-8a38-91de8b851b6c",
     "name": "标准化·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -792,7 +792,7 @@
     "char": "调香师"
   },
   {
-    "id": "301850ce-12cc-49b2-9509-33c9b2d2f524",
+    "id": "c7ec6ace-014d-4d46-9ff0-8b6d504cc482",
     "name": "天灾信使·α",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -803,7 +803,7 @@
     "char": "地灵"
   },
   {
-    "id": "2329c0f7-52b8-486c-a069-23c4767a438e",
+    "id": "6dfe1304-90a1-43e7-a32e-ca109b5163cf",
     "name": "地质学家",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -814,7 +814,7 @@
     "char": "地灵"
   },
   {
-    "id": "4ad1507a-d702-4c26-8001-78ed73c85e7c",
+    "id": "64661929-b26f-41aa-8913-6cc6b0561603",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -825,7 +825,7 @@
     "char": "慕斯"
   },
   {
-    "id": "8a5b6eff-d3be-4076-98b1-fa33f3d9a0fa",
+    "id": "9dd47c8f-0b0e-45fa-9a44-d15aad9ccfb2",
     "name": "烘焙",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -836,7 +836,7 @@
     "char": "慕斯"
   },
   {
-    "id": "b6ee0f9f-fd9d-49f9-9c60-b8b92dc43472",
+    "id": "f43bafc1-69e9-402f-b47c-5fac8c3d853a",
     "name": "药理学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -847,7 +847,7 @@
     "char": "嘉维尔"
   },
   {
-    "id": "43d690e6-0bc7-4116-8aac-b84c00cff423",
+    "id": "67a3d90e-9fd0-46f1-985c-4ef8bd6f8b59",
     "name": "医疗专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -858,7 +858,7 @@
     "char": "嘉维尔"
   },
   {
-    "id": "5adeb1dc-3cab-4cac-8b3d-86c19e18ffa8",
+    "id": "5e3d3cf2-86e4-4ed5-b352-aada6a9e4a6f",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -869,7 +869,7 @@
     "char": "霜叶"
   },
   {
-    "id": "79e9cb98-552b-4e17-9715-d3eedf9c2763",
+    "id": "31090f77-c550-47e1-987a-f666fc3de6b0",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -880,7 +880,7 @@
     "char": "霜叶"
   },
   {
-    "id": "7a07b926-c454-44b5-b7ad-cb41ad3391e8",
+    "id": "cd3419d9-53ed-43c8-ae62-61e3d46cb4d8",
     "name": "交际",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -891,7 +891,7 @@
     "char": "古米"
   },
   {
-    "id": "de8ec23c-d7ca-431e-a1cf-05a318526012",
+    "id": "80726d58-0bf6-4d15-8bda-15c5b127427d",
     "name": "烹饪",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -902,7 +902,7 @@
     "char": "古米"
   },
   {
-    "id": "88eb880a-947d-47f8-98c1-a80ea78c0342",
+    "id": "f34e562a-6de0-4f8e-9df1-4f43911c54e8",
     "name": "喀兰贸易·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -913,7 +913,7 @@
     "char": "讯使"
   },
   {
-    "id": "020a342a-0a6d-4724-bc1d-c7a951344ed2",
+    "id": "4649562f-8561-4330-a77d-d2663575ccff",
     "name": "讯使",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -924,7 +924,7 @@
     "char": "讯使"
   },
   {
-    "id": "7a5f0b01-1866-4dd7-840c-03bc13082df4",
+    "id": "57fb056d-d5e9-4d10-a32c-df0dce38d7e1",
     "name": "喀兰贸易·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -935,7 +935,7 @@
     "char": "角峰"
   },
   {
-    "id": "9b8a9881-b41b-403d-bd7e-0107fb65eb25",
+    "id": "f9bcf91d-4609-4e74-9f7a-28e91d0ca8c4",
     "name": "重装专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -946,7 +946,7 @@
     "char": "角峰"
   },
   {
-    "id": "764d761e-46e8-4748-a235-78c21d025746",
+    "id": "23126aef-4b0f-44bb-96f1-655715aff040",
     "name": "标准化·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -957,7 +957,7 @@
     "char": "杰西卡"
   },
   {
-    "id": "81466534-7aad-402c-beb7-eaed1b8c40d8",
+    "id": "ba76c48d-05f6-49c5-b3e5-11691a2f7af4",
     "name": "联络员",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -968,7 +968,7 @@
     "char": "杰西卡"
   },
   {
-    "id": "22aa0fdd-4ddd-4369-b744-36a34e76fb0b",
+    "id": "5e6821ae-735e-43b7-b607-db65b50c9e5a",
     "name": "线索搜集·β",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -979,7 +979,7 @@
     "char": "暗索"
   },
   {
-    "id": "f753acd3-a2ff-4343-9e90-2a74aeb5ba63",
+    "id": "9071620c-77ff-4cbc-bea9-5748f0f4525d",
     "name": "谈判",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -990,7 +990,7 @@
     "char": "暗索"
   },
   {
-    "id": "d49d13d6-c9ef-4cec-8bf5-a48ffd347b19",
+    "id": "215cc426-c653-40dd-a340-4e0dea4830b1",
     "name": "专注·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1001,7 +1001,7 @@
     "char": "砾"
   },
   {
-    "id": "4d3e7c73-fdf1-4e37-a451-4333bae4fa5e",
+    "id": "d8cec57f-55d0-43e6-97a9-bd30bd2a1b93",
     "name": "金属工艺·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1012,7 +1012,7 @@
     "char": "砾"
   },
   {
-    "id": "83010b8a-63ed-4357-92f4-f973784ad52c",
+    "id": "6a83d442-b770-48e8-bb75-e20a36c630ac",
     "name": "工程学",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1023,7 +1023,7 @@
     "char": "阿消"
   },
   {
-    "id": "5dd8fab3-3891-4b32-b619-17f15398c0af",
+    "id": "3356a281-07d0-4faf-9f1c-b6b0aad6980a",
     "name": "设备维护",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
@@ -1034,7 +1034,7 @@
     "char": "阿消"
   },
   {
-    "id": "9ce6d541-dc27-48d3-8fb2-8dd60583862b",
+    "id": "8dca7752-80b5-4fb5-93dd-b6fe66fb4a86",
     "name": "技巧理论",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1045,7 +1045,7 @@
     "char": "缠丸"
   },
   {
-    "id": "29f82181-6dc1-4e3d-a2bc-4d66c2cc46b1",
+    "id": "ab850f59-6680-4981-8ad3-3947358378f6",
     "name": "订单分发·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1056,7 +1056,7 @@
     "char": "缠丸"
   },
   {
-    "id": "71ad992a-7939-4b1b-ab7e-a07113b50ed8",
+    "id": "c0d4c740-2255-4bc9-b807-ec3a19da8f7f",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1067,7 +1067,7 @@
     "char": "红豆"
   },
   {
-    "id": "dee36c0a-0025-41d2-9955-2ed0d5bf5de8",
+    "id": "d388ba93-6070-415b-9861-04e48a582aa8",
     "name": "先锋专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1078,7 +1078,7 @@
     "char": "红豆"
   },
   {
-    "id": "a7267484-b785-4ecf-bcd5-0d7d544ae879",
+    "id": "3365418f-f484-48e7-a046-f5a037cd6dd7",
     "name": "静电场",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
@@ -1089,7 +1089,7 @@
     "char": "格雷伊"
   },
   {
-    "id": "fc7f2678-6f50-4f1e-9f8f-df7daee7c87b",
+    "id": "4d4db1a8-7f7b-4607-928b-d6381e175fbd",
     "name": "能工巧匠",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1100,7 +1100,7 @@
     "char": "格雷伊"
   },
   {
-    "id": "a497a74d-1eac-4f0e-8c57-d53f84dc61eb",
+    "id": "934360c8-7b4c-4874-a617-1d71bd810237",
     "name": "合作协议",
     "bgColor": "#005752",
     "color": "#ffffff",
@@ -1111,7 +1111,7 @@
     "char": "阿米娅"
   },
   {
-    "id": "e1ba0e56-5673-48e7-83d8-c592382468c0",
+    "id": "e8a0fc88-0ade-4126-ab68-fe62b49b37a6",
     "name": "小提琴独奏",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1122,7 +1122,7 @@
     "char": "阿米娅"
   },
   {
-    "id": "cdbd1583-7c17-405a-a08e-2a176a919304",
+    "id": "a2ca4891-3c34-4afd-b07f-ff42a1c26a83",
     "name": "偶像",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1133,7 +1133,7 @@
     "char": "空"
   },
   {
-    "id": "1cb82a9a-2b15-4c0b-b861-3aae415d79d2",
+    "id": "0af59bb3-f45e-47b0-81bc-5edb36c7a9be",
     "name": "企鹅物流·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1144,7 +1144,7 @@
     "char": "空"
   },
   {
-    "id": "008264b4-92c4-4238-8e32-67d20165181f",
+    "id": "12ed8d92-60cd-47e7-869f-fd3719e41f02",
     "name": "恩怨",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1155,7 +1155,7 @@
     "char": "德克萨斯"
   },
   {
-    "id": "93b1124d-ce51-4457-a50c-e3fb0fd2acb0",
+    "id": "191201ef-5eb5-49ea-8c80-54018a425093",
     "name": "默契",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1166,7 +1166,7 @@
     "char": "德克萨斯"
   },
   {
-    "id": "00c60683-8fa9-41ac-a17b-476fd14ebf4b",
+    "id": "e2a619b5-b8f6-4ea9-ab61-8a65a0b935d3",
     "name": "近卫专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1177,7 +1177,7 @@
     "char": "芙兰卡"
   },
   {
-    "id": "d541fc18-08be-48c9-95a7-b16a47b3f43c",
+    "id": "ab70a02c-9b92-4d04-b2f0-05448058acec",
     "name": "近卫专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1188,7 +1188,7 @@
     "char": "芙兰卡"
   },
   {
-    "id": "74308520-9954-40b7-a498-2703dd01a301",
+    "id": "95a41eed-4fba-4879-9a60-6de10a628ae0",
     "name": "脉冲电弧·α",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
@@ -1199,7 +1199,7 @@
     "char": "雷蛇"
   },
   {
-    "id": "93b42625-8663-4081-95b2-f03201b64b6d",
+    "id": "c9b06a9c-fc1f-40aa-8759-ec8bfe590fe8",
     "name": "脉冲电弧·β",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
@@ -1210,7 +1210,7 @@
     "char": "雷蛇"
   },
   {
-    "id": "fd089b68-5e8e-42ba-869d-754898573c70",
+    "id": "3ea20bfd-ed7a-4936-97b6-3a9400cf3228",
     "name": "莱茵科技·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1221,7 +1221,7 @@
     "char": "赫默"
   },
   {
-    "id": "6b1f7792-2608-4228-9758-5e76f226f016",
+    "id": "f8b8409e-61d4-4f9b-8213-0be738420682",
     "name": "莱茵科技·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1232,7 +1232,7 @@
     "char": "赫默"
   },
   {
-    "id": "78de20a9-b13a-4dfe-bdf5-5a6a7947feb4",
+    "id": "e90b8331-b229-4439-88ed-a2652341fbc7",
     "name": "领袖",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1243,7 +1243,7 @@
     "char": "凛冬"
   },
   {
-    "id": "61ef63eb-4ae8-452d-8dcf-50df36efbd94",
+    "id": "3b6aa63b-25ef-450b-92bb-104002043bdc",
     "name": "凛冬将军",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1254,7 +1254,7 @@
     "char": "凛冬"
   },
   {
-    "id": "05f1e2e7-d409-4429-ba2d-c2477f4e7335",
+    "id": "23774f2f-4d7d-41e1-b176-b63b3dba3b0b",
     "name": "莱茵科技·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1265,7 +1265,7 @@
     "char": "白面鸮"
   },
   {
-    "id": "bd4427aa-d80c-47c8-9d29-c78d67297ed0",
+    "id": "da9c9b79-f78c-4d7b-ba70-e9fa396417d0",
     "name": "莱茵科技·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1276,7 +1276,7 @@
     "char": "白面鸮"
   },
   {
-    "id": "f8e392d7-1960-4a83-aac6-bbedf1989939",
+    "id": "5a483775-c0b5-4b44-a326-c2ad994f6de0",
     "name": "毒理学·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1287,7 +1287,7 @@
     "char": "蓝毒"
   },
   {
-    "id": "e09a4695-1418-4b2f-a0bc-9d8f702ac70b",
+    "id": "446240d5-fd61-48de-9653-3b0cc6de0b6e",
     "name": "毒理学·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1298,7 +1298,7 @@
     "char": "蓝毒"
   },
   {
-    "id": "3efae67d-51ca-4a1c-ba9b-50104d49cc4d",
+    "id": "0140e84d-ee61-4038-ba8c-520a71731370",
     "name": "醉翁之意·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1309,7 +1309,7 @@
     "char": "拉普兰德"
   },
   {
-    "id": "d9de9fed-3c60-456f-a32d-18785101d242",
+    "id": "d70bb58b-c1d6-4fb5-9b87-26815903a9ec",
     "name": "醉翁之意·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1320,7 +1320,7 @@
     "char": "拉普兰德"
   },
   {
-    "id": "4e50798c-ff7b-4057-b9cb-291ca762ac48",
+    "id": "6219e733-6cb4-4a63-b854-5ea249ed5929",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1331,7 +1331,7 @@
     "char": "幽灵鲨"
   },
   {
-    "id": "de3c4c7d-8224-4461-b392-2bbae39b5dd2",
+    "id": "de1400fc-7373-43a1-8c5a-1eea7cd008aa",
     "name": "狂热",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1342,7 +1342,7 @@
     "char": "幽灵鲨"
   },
   {
-    "id": "408c298a-619a-47df-84c4-1b0d36cffc6c",
+    "id": "66a24a45-8fb3-4842-bdf4-aadd4d1f6ced",
     "name": "S.W.E.E.P",
     "bgColor": "#005752",
     "color": "#ffffff",
@@ -1353,7 +1353,7 @@
     "char": "红"
   },
   {
-    "id": "4154ea4a-3925-47a9-aa1a-a66c36a84b22",
+    "id": "8aaed621-a91b-4627-bc86-f21dbb67cc16",
     "name": "追踪者",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1364,7 +1364,7 @@
     "char": "红"
   },
   {
-    "id": "ea8a9a34-127e-42ae-9209-2be71e5ec8ab",
+    "id": "258dbf62-6bb9-406f-bf19-e1e082a0f6ec",
     "name": "天灾信使·α",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -1375,7 +1375,7 @@
     "char": "普罗旺斯"
   },
   {
-    "id": "00e001c0-4db2-4b6c-b78b-32c3ca78086f",
+    "id": "9b4cb6e3-68bc-4146-a466-8aab0bed6054",
     "name": "天灾信使·β",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -1386,7 +1386,7 @@
     "char": "普罗旺斯"
   },
   {
-    "id": "842c700b-b42e-4863-8d12-c342320fc886",
+    "id": "133d53b6-1f48-45ae-b851-cc4df852aa49",
     "name": "左膀右臂",
     "bgColor": "#005752",
     "color": "#ffffff",
@@ -1397,7 +1397,7 @@
     "char": "临光"
   },
   {
-    "id": "fde1a494-eb88-448d-90b2-0a73794c28b0",
+    "id": "19748853-1ad1-4ba3-8aec-b394c16bdfc0",
     "name": "耀骑士",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1408,7 +1408,7 @@
     "char": "临光"
   },
   {
-    "id": "56ad7f0b-dead-4335-952f-ca416a7139d5",
+    "id": "84fe0c65-cf00-4a5a-884d-b3348cb094b7",
     "name": "线索搜集·α",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1419,7 +1419,7 @@
     "char": "因陀罗"
   },
   {
-    "id": "39e6ea5f-1e45-4f52-96e0-1ca611768d34",
+    "id": "82630019-d8a4-4a97-9fba-5d77d8f9cafe",
     "name": "传讯者",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1430,7 +1430,7 @@
     "char": "因陀罗"
   },
   {
-    "id": "7a2a094a-12f2-4c49-9562-c60dec7aa05d",
+    "id": "3e219cea-1e18-4154-bbc9-f61fd275c2dd",
     "name": "线索搜集·α",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1441,7 +1441,7 @@
     "char": "守林人"
   },
   {
-    "id": "63aea933-07ce-4eb0-bcc8-87b8e6e5d29c",
+    "id": "190e6891-d47d-4ef9-89fc-518f5a6b216d",
     "name": "线索搜集·β",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1452,7 +1452,7 @@
     "char": "守林人"
   },
   {
-    "id": "528cc496-9c9a-4d77-97c4-2e65fc694e8a",
+    "id": "e4421756-db7c-449c-8b48-10b7c5ec7976",
     "name": "工匠精神·α",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1463,7 +1463,7 @@
     "char": "火神"
   },
   {
-    "id": "2b491c97-2daa-479e-b706-e07704a6f7d7",
+    "id": "37f4e75f-9ddb-43b7-9eb2-a824eeeca81b",
     "name": "工匠精神·β",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1474,7 +1474,7 @@
     "char": "火神"
   },
   {
-    "id": "de4b8799-1906-46ba-9578-df007238b695",
+    "id": "6bab11a2-b63c-4f34-a062-0afab71b0d94",
     "name": "术师专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1485,7 +1485,7 @@
     "char": "夜魔"
   },
   {
-    "id": "33da138d-4c35-4f51-beb1-540cd03447cc",
+    "id": "f731c295-a719-4b50-adc8-e5647e0b52e3",
     "name": "心理学",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -1496,7 +1496,7 @@
     "char": "夜魔"
   },
   {
-    "id": "cf6f9248-c7c1-4cc8-8f5b-6a61c4a1d62f",
+    "id": "923ec704-e8e9-44f9-84e3-383190abb163",
     "name": "术师专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1507,7 +1507,7 @@
     "char": "天火"
   },
   {
-    "id": "34a2dbb9-02d0-45b2-8b49-6ffa7e72fb3a",
+    "id": "2b1b6a22-7019-48d8-8379-d0c56fa99c55",
     "name": "术师专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1518,7 +1518,7 @@
     "char": "天火"
   },
   {
-    "id": "bb4ecfa5-1a46-4bf5-9d96-f4d51435c6e4",
+    "id": "f658b6e4-abae-4c0f-bef0-3946154eac15",
     "name": "医疗专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1529,7 +1529,7 @@
     "char": "华法琳"
   },
   {
-    "id": "322f3e9f-b633-452f-a766-f5f009dd43f5",
+    "id": "395adda4-b05c-4cd4-ad61-efce6322745e",
     "name": "医疗专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1540,7 +1540,7 @@
     "char": "华法琳"
   },
   {
-    "id": "e182a4da-b528-420b-b03c-5afc01ae7c7a",
+    "id": "e616df2a-0826-48ff-9b62-05951b1b7fe7",
     "name": "探险家的热情",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1551,7 +1551,7 @@
     "char": "崖心"
   },
   {
-    "id": "e3ce73d9-2e65-4b76-9cc9-2f3636043b03",
+    "id": "0e118ae7-2c55-4c92-8165-4b42ba4ada54",
     "name": "喀兰贸易·β",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1562,7 +1562,7 @@
     "char": "崖心"
   },
   {
-    "id": "1979a4ae-883a-4a43-8cf9-14f6e5066f13",
+    "id": "ce3d8334-28be-4761-93cb-b19cf24011e0",
     "name": "喀兰圣女",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1573,7 +1573,7 @@
     "char": "初雪"
   },
   {
-    "id": "c1f0ac7b-49d3-4b83-bd76-3e2ea290ad72",
+    "id": "3b500ef3-975f-4a60-9e8a-b0847f357cae",
     "name": "辅助专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1584,7 +1584,7 @@
     "char": "初雪"
   },
   {
-    "id": "e325b2eb-3c59-4b40-9093-2f62362598c3",
+    "id": "31bfa1c1-0b40-4b6c-b9b0-96e3ace1d675",
     "name": "辅助专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1595,7 +1595,7 @@
     "char": "真理"
   },
   {
-    "id": "6676e761-b6b6-4e07-b7e3-3dcc4a6bab1c",
+    "id": "0e5a641f-272a-4f5b-9b51-bb622e2e2ac2",
     "name": "参谋",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1606,7 +1606,7 @@
     "char": "真理"
   },
   {
-    "id": "d2f6390e-a705-476f-977f-a818beeeec80",
+    "id": "45dea105-149c-49a5-808a-2b74dc45e8c9",
     "name": "企鹅物流·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1617,7 +1617,7 @@
     "char": "可颂"
   },
   {
-    "id": "2e202785-0056-4ffe-9e78-b0ce36570e00",
+    "id": "b2de383b-4640-4a72-9027-fba7ff62ccfb",
     "name": "使命必达",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1628,7 +1628,7 @@
     "char": "可颂"
   },
   {
-    "id": "4752a9b0-b478-444c-841e-ac3f9fa42783",
+    "id": "c4b351de-5303-4eba-bbdb-760006917bdb",
     "name": "狙击专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1639,7 +1639,7 @@
     "char": "白金"
   },
   {
-    "id": "c1607045-d997-4d8d-b647-bd8e3109298c",
+    "id": "98e8ce87-96ab-4bf4-834a-261241daf526",
     "name": "狙击专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1650,7 +1650,7 @@
     "char": "白金"
   },
   {
-    "id": "d0b2d279-0d77-4f41-a193-fef4e64a9a4e",
+    "id": "3e8e67ce-08d9-4d35-ba38-4859dcb2aaa4",
     "name": "特种专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1661,7 +1661,7 @@
     "char": "狮蝎"
   },
   {
-    "id": "65b931ac-ea4c-4259-9b1b-9913a81ddca2",
+    "id": "a576b1e5-c1f9-43fc-8b0c-418ee3aaa0df",
     "name": "特种专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1672,7 +1672,7 @@
     "char": "狮蝎"
   },
   {
-    "id": "38ee7d9b-a357-42ad-b3bb-ef54b9637c02",
+    "id": "444c38ac-72e3-44e3-9414-114de0d03fd1",
     "name": "爆破材料学·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1683,7 +1683,7 @@
     "char": "陨星"
   },
   {
-    "id": "30c9657f-152c-4c82-9069-c780f4d0af10",
+    "id": "e8e7fd6c-85ba-4496-8305-a392961c1f9c",
     "name": "爆破材料学·β",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1694,7 +1694,7 @@
     "char": "陨星"
   },
   {
-    "id": "b73bcd83-ffa3-4486-be0c-fe58fecabac3",
+    "id": "fdfa86f6-91f1-46f4-ab0b-d1413af91eea",
     "name": "先锋专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1705,7 +1705,7 @@
     "char": "格拉尼"
   },
   {
-    "id": "29533f34-5de8-4f79-87e0-ac8a43aa8caf",
+    "id": "b4bba863-f87a-4a3b-b022-586b39a153ab",
     "name": "先锋专精·β",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1716,7 +1716,7 @@
     "char": "格拉尼"
   },
   {
-    "id": "b44bd2ef-732c-41a9-a321-9d1a8f8e3581",
+    "id": "2aedeae2-0548-40f0-857f-14a1ca36dc1d",
     "name": "技巧理论",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1727,7 +1727,7 @@
     "char": "暴行"
   },
   {
-    "id": "f5e469b4-a88c-4bd7-bec7-4af04816f9b0",
+    "id": "079fd251-f29e-4fc5-b422-c99808459b5e",
     "name": "烹饪",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1738,7 +1738,7 @@
     "char": "暴行"
   },
   {
-    "id": "5e7247c1-3b39-44ea-8af5-bdfd8df9cd72",
+    "id": "36543249-f27c-4349-9d35-ca517f0abac3",
     "name": "作战指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1749,7 +1749,7 @@
     "char": "食铁兽"
   },
   {
-    "id": "3c2f88bc-7c3b-4c80-aad6-648eef45aa21",
+    "id": "bba159e0-6106-4ff9-9014-888b1babb3f5",
     "name": "拳术指导录像",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1760,7 +1760,7 @@
     "char": "食铁兽"
   },
   {
-    "id": "0347a013-95b2-4c24-ad5c-d7d21a671869",
+    "id": "a0b2d472-4620-4e32-89a3-11a1d646ea5f",
     "name": "咪波·加工型",
     "bgColor": "#e3eb00",
     "color": "#333333",
@@ -1771,7 +1771,7 @@
     "char": "梅尔"
   },
   {
-    "id": "7edd2431-1948-4677-ae23-074eb76ac152",
+    "id": "6f87b139-c8d0-491b-97f5-5eda9e74810a",
     "name": "咪波·制造型",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1782,7 +1782,7 @@
     "char": "梅尔"
   },
   {
-    "id": "07e8ee1b-342d-4437-9f48-b8d533c8397c",
+    "id": "efd07626-b434-42cd-8364-7654a5086cc7",
     "name": "德才兼备",
     "bgColor": "#005752",
     "color": "#ffffff",
@@ -1793,7 +1793,7 @@
     "char": "陈"
   },
   {
-    "id": "4768cdca-05e8-4a60-99ec-3c0a20eed706",
+    "id": "39671360-715a-479f-bb63-7d1079820937",
     "name": "警司",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -1804,7 +1804,7 @@
     "char": "陈"
   },
   {
-    "id": "7eb9ce7d-b3d4-4747-b840-8105641a6b72",
+    "id": "ec97c5bb-7bf4-4ada-929f-0bcf4cde6206",
     "name": "大小姐",
     "bgColor": "#005752",
     "color": "#ffffff",
@@ -1815,7 +1815,7 @@
     "char": "诗怀雅"
   },
   {
-    "id": "ff063219-ad0f-4a2c-b8e4-c8c98e6b6fae",
+    "id": "1e62fc75-9537-4321-8bbd-890ede83b715",
     "name": "教官",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1826,7 +1826,7 @@
     "char": "诗怀雅"
   },
   {
-    "id": "81c72d1e-caae-4a64-a898-bdbabaa256db",
+    "id": "1b0d5d13-da87-42a2-ae40-76c61d2d37e7",
     "name": "企鹅物流·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1837,7 +1837,7 @@
     "char": "能天使"
   },
   {
-    "id": "92db4402-d1e1-4fa0-8bea-03fe656e51b0",
+    "id": "f7cf9c8c-9883-4c6e-8b19-39392c8e9fe0",
     "name": "物流专家",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1848,7 +1848,7 @@
     "char": "能天使"
   },
   {
-    "id": "7774f19f-3b48-4fcc-9bf3-b21b147cbcc3",
+    "id": "8f723ff9-b13d-4630-8f04-d2b965297836",
     "name": "领袖",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1859,7 +1859,7 @@
     "char": "推进之王"
   },
   {
-    "id": "386c3b3a-9bae-4f88-82ce-b5a1c470d538",
+    "id": "bab678df-53d7-4767-ab77-4d924796730b",
     "name": "狮心王",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1870,7 +1870,7 @@
     "char": "推进之王"
   },
   {
-    "id": "a2664758-4d19-49ac-8c39-ef96d04f97d3",
+    "id": "4f7091f2-1254-4653-afad-d4defff3458f",
     "name": "热能充能·α",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
@@ -1881,7 +1881,7 @@
     "char": "伊芙利特"
   },
   {
-    "id": "e6af7f1b-72b0-44c4-9b60-a05404ce1d89",
+    "id": "1d6d8048-bc3b-4be8-938f-7cf740a58fd3",
     "name": "高热充能",
     "bgColor": "#8fc31f",
     "color": "#ffffff",
@@ -1892,7 +1892,7 @@
     "char": "伊芙利特"
   },
   {
-    "id": "62c58bf6-5f79-4297-a998-65cfc2ab833c",
+    "id": "4c162751-f3b2-4e09-9ed4-03f23e4a0ae0",
     "name": "重装专精·α",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1903,7 +1903,7 @@
     "char": "星熊"
   },
   {
-    "id": "5d6d3d6d-07dd-424e-a8f8-d82932d78e25",
+    "id": "4cfa9d83-e8cf-4138-87f4-f79bb2ca0a62",
     "name": "般若之盾",
     "bgColor": "#7d0022",
     "color": "#ffffff",
@@ -1914,7 +1914,7 @@
     "char": "星熊"
   },
   {
-    "id": "198d0f55-9b8a-4bf2-82fb-ce1c7f42c9ce",
+    "id": "41224354-5068-40e2-be65-5535df457b1f",
     "name": "善解人意",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1925,7 +1925,7 @@
     "char": "闪灵"
   },
   {
-    "id": "6373ff8f-4470-46ed-87a8-a3089fedd177",
+    "id": "636c2c71-d41f-4f8e-bca7-08d428d5284c",
     "name": "慈悲",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1936,7 +1936,7 @@
     "char": "闪灵"
   },
   {
-    "id": "e9109d5d-9157-475d-a182-5e1d0c42a5f0",
+    "id": "5507a3f9-0839-45fc-a6db-1d0cd1ed371f",
     "name": "喀兰贸易·α",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1947,7 +1947,7 @@
     "char": "银灰"
   },
   {
-    "id": "1a291fa4-7c0e-4aa2-9cdb-8f1904fbb0ae",
+    "id": "a2d6e704-a899-4e4b-b70f-e0814cd5e4be",
     "name": "喀兰之主",
     "bgColor": "#0075a9",
     "color": "#ffffff",
@@ -1958,7 +1958,7 @@
     "char": "银灰"
   },
   {
-    "id": "2f07cc4b-2c47-47a2-9b11-7a263e35b24c",
+    "id": "34f6d70f-782a-4055-bed8-9841e97f6c93",
     "name": "鼓舞",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1969,7 +1969,7 @@
     "char": "夜莺"
   },
   {
-    "id": "ae117306-c2a9-4ad2-b59b-d78bdac164cd",
+    "id": "3fc70e4b-cf64-4d6a-8c39-1c294517d43e",
     "name": "提灯女神",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -1980,7 +1980,7 @@
     "char": "夜莺"
   },
   {
-    "id": "f414dfb2-50fa-485a-90f3-0e503f8995f2",
+    "id": "45a5db05-eb1a-47a9-a38c-d633ec4e4f4b",
     "name": "火山学家",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -1991,7 +1991,7 @@
     "char": "艾雅法拉"
   },
   {
-    "id": "54422a0f-30aa-4f82-8784-e7d95f83572c",
+    "id": "826a39e0-af0e-433f-80cd-9827336ceaf6",
     "name": "天灾信使·β",
     "bgColor": "#565656",
     "color": "#ffffff",
@@ -2002,7 +2002,7 @@
     "char": "艾雅法拉"
   },
   {
-    "id": "7ee69ef4-c60d-47e8-bc1b-cfc4a40d8aea",
+    "id": "a6292b0c-0802-426f-aa51-ff65bee09c66",
     "name": "线索搜集·α",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -2013,7 +2013,7 @@
     "char": "塞雷娅"
   },
   {
-    "id": "f84976fa-5d02-4ece-8ce5-52ec8107647b",
+    "id": "d9e51b42-d9d3-44ac-b1ed-06ca8340e0e1",
     "name": "守望者",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -2024,7 +2024,7 @@
     "char": "塞雷娅"
   },
   {
-    "id": "58c326c3-eacf-4607-a655-950610a9b90d",
+    "id": "b7d8b979-0690-441f-95ff-00418e1b8399",
     "name": "独处",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -2035,7 +2035,7 @@
     "char": "斯卡蒂"
   },
   {
-    "id": "9cfca27c-c028-470b-9ac7-9992cbb3896c",
+    "id": "078aba69-163d-4e6c-96b3-f28ee9d39940",
     "name": "悲歌",
     "bgColor": "#21cdcb",
     "color": "#ffffff",
@@ -2046,7 +2046,7 @@
     "char": "斯卡蒂"
   },
   {
-    "id": "651ad726-d40d-4c50-b3ea-3d9402d59613",
+    "id": "48f5561b-f17e-4476-9863-0a6a72ad2d41",
     "name": "线索搜集·α",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -2057,7 +2057,7 @@
     "char": "安洁莉娜"
   },
   {
-    "id": "2d41fa39-8a24-4c2a-951b-5d2e6d184154",
+    "id": "aa11ba3f-e665-4a9c-8886-5f688a6eabfa",
     "name": "信使",
     "bgColor": "#dd653f",
     "color": "#ffffff",
