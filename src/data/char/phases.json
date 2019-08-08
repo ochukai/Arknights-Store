@@ -1,0 +1,1596 @@
+[
+  {
+    "id": "char_285_medic2",
+    "phases": [{"level": 1, "maxHp": 261, "atk": 42, "def": 16}, {"level": 30, "maxHp": 435, "atk": 70, "def": 27}]
+  },
+  {
+    "id": "char_286_cast3",
+    "phases": [{"level": 1, "maxHp": 862, "atk": 221, "def": 63}, {"level": 30, "maxHp": 1106, "atk": 316, "def": 90}]
+  },
+  {
+    "id": "char_502_nblade",
+    "phases": [{"level": 1, "maxHp": 721, "atk": 150, "def": 134}, {"level": 30, "maxHp": 1030, "atk": 232, "def": 192}]
+  },
+  {
+    "id": "char_500_noirc",
+    "phases": [
+      {"level": 1, "maxHp": 1219, "atk": 180, "def": 220},
+      {"level": 30, "maxHp": 1670, "atk": 240, "def": 315}
+    ]
+  },
+  {
+    "id": "char_503_rang",
+    "phases": [{"level": 1, "maxHp": 546, "atk": 161, "def": 46}, {"level": 30, "maxHp": 780, "atk": 269, "def": 66}]
+  },
+  {
+    "id": "char_501_durin",
+    "phases": [{"level": 1, "maxHp": 571, "atk": 238, "def": 36}, {"level": 30, "maxHp": 952, "atk": 340, "def": 62}]
+  },
+  {
+    "id": "char_009_12fce",
+    "phases": [{"level": 1, "maxHp": 1378, "atk": 280, "def": 31}, {"level": 30, "maxHp": 1378, "atk": 400, "def": 50}]
+  },
+  {
+    "id": "char_123_fang",
+    "phases": [
+      {"level": 1, "maxHp": 742, "atk": 157, "def": 130},
+      {"level": 40, "maxHp": 1060, "atk": 235, "def": 187},
+      {"level": 95, "maxHp": 1325, "atk": 325, "def": 260}
+    ]
+  },
+  {
+    "id": "char_240_wyvern",
+    "phases": [
+      {"level": 1, "maxHp": 711, "atk": 168, "def": 128},
+      {"level": 40, "maxHp": 1016, "atk": 248, "def": 184},
+      {"level": 95, "maxHp": 1270, "atk": 355, "def": 240}
+    ]
+  },
+  {
+    "id": "char_192_falco",
+    "phases": [
+      {"level": 1, "maxHp": 688, "atk": 229, "def": 148},
+      {"level": 40, "maxHp": 956, "atk": 333, "def": 212},
+      {"level": 95, "maxHp": 1226, "atk": 445, "def": 279}
+    ]
+  },
+  {
+    "id": "char_208_melan",
+    "phases": [
+      {"level": 1, "maxHp": 1332, "atk": 361, "def": 83},
+      {"level": 40, "maxHp": 1903, "atk": 531, "def": 119},
+      {"level": 95, "maxHp": 2620, "atk": 673, "def": 155}
+    ]
+  },
+  {
+    "id": "char_281_popka",
+    "phases": [
+      {"level": 1, "maxHp": 1130, "atk": 263, "def": 126},
+      {"level": 40, "maxHp": 1449, "atk": 366, "def": 181},
+      {"level": 95, "maxHp": 1858, "atk": 495, "def": 245}
+    ]
+  },
+  {
+    "id": "char_209_ardign",
+    "phases": [
+      {"level": 1, "maxHp": 1197, "atk": 190, "def": 229},
+      {"level": 40, "maxHp": 1597, "atk": 244, "def": 342},
+      {"level": 95, "maxHp": 2130, "atk": 305, "def": 475}
+    ]
+  },
+  {
+    "id": "char_122_beagle",
+    "phases": [
+      {"level": 1, "maxHp": 1144, "atk": 184, "def": 242},
+      {"level": 40, "maxHp": 1526, "atk": 236, "def": 362},
+      {"level": 95, "maxHp": 2035, "atk": 295, "def": 490}
+    ]
+  },
+  {
+    "id": "char_284_spot",
+    "phases": [
+      {"level": 1, "maxHp": 1057, "atk": 165, "def": 225},
+      {"level": 40, "maxHp": 1429, "atk": 236, "def": 331},
+      {"level": 95, "maxHp": 1833, "atk": 320, "def": 442}
+    ]
+  },
+  {
+    "id": "char_124_kroos",
+    "phases": [
+      {"level": 1, "maxHp": 545, "atk": 154, "def": 52},
+      {"level": 40, "maxHp": 826, "atk": 258, "def": 88},
+      {"level": 95, "maxHp": 1060, "atk": 375, "def": 126}
+    ]
+  },
+  {
+    "id": "char_211_adnach",
+    "phases": [
+      {"level": 1, "maxHp": 531, "atk": 150, "def": 55},
+      {"level": 40, "maxHp": 831, "atk": 251, "def": 93},
+      {"level": 95, "maxHp": 1080, "atk": 365, "def": 134}
+    ]
+  },
+  {
+    "id": "char_121_lava",
+    "phases": [
+      {"level": 1, "maxHp": 576, "atk": 296, "def": 41},
+      {"level": 40, "maxHp": 823, "atk": 417, "def": 69},
+      {"level": 95, "maxHp": 1070, "atk": 535, "def": 95}
+    ]
+  },
+  {
+    "id": "char_120_hibisc",
+    "phases": [
+      {"level": 1, "maxHp": 682, "atk": 153, "def": 61},
+      {"level": 40, "maxHp": 975, "atk": 248, "def": 82},
+      {"level": 95, "maxHp": 1220, "atk": 345, "def": 110}
+    ]
+  },
+  {
+    "id": "char_212_ansel",
+    "phases": [
+      {"level": 1, "maxHp": 634, "atk": 156, "def": 60},
+      {"level": 40, "maxHp": 907, "atk": 257, "def": 81},
+      {"level": 95, "maxHp": 1135, "atk": 362, "def": 109}
+    ]
+  },
+  {
+    "id": "char_210_stward",
+    "phases": [
+      {"level": 1, "maxHp": 592, "atk": 249, "def": 38},
+      {"level": 40, "maxHp": 847, "atk": 357, "def": 65},
+      {"level": 95, "maxHp": 1100, "atk": 470, "def": 90}
+    ]
+  },
+  {
+    "id": "char_278_orchid",
+    "phases": [
+      {"level": 1, "maxHp": 553, "atk": 192, "def": 44},
+      {"level": 40, "maxHp": 738, "atk": 283, "def": 64},
+      {"level": 95, "maxHp": 935, "atk": 378, "def": 83}
+    ]
+  },
+  {
+    "id": "char_141_nights",
+    "phases": [
+      {"level": 1, "maxHp": 619, "atk": 253, "def": 42},
+      {"level": 45, "maxHp": 885, "atk": 362, "def": 71},
+      {"level": 105, "maxHp": 1150, "atk": 483, "def": 98},
+      {"level": 175, "maxHp": 1420, "atk": 583, "def": 110}
+    ]
+  },
+  {
+    "id": "char_109_fmout",
+    "phases": [
+      {"level": 1, "maxHp": 622, "atk": 303, "def": 47},
+      {"level": 45, "maxHp": 889, "atk": 428, "def": 72},
+      {"level": 105, "maxHp": 1155, "atk": 549, "def": 99},
+      {"level": 175, "maxHp": 1520, "atk": 654, "def": 118}
+    ]
+  },
+  {
+    "id": "char_253_greyy",
+    "phases": [
+      {"level": 1, "maxHp": 595, "atk": 298, "def": 52},
+      {"level": 45, "maxHp": 850, "atk": 421, "def": 79},
+      {"level": 105, "maxHp": 1105, "atk": 541, "def": 109},
+      {"level": 175, "maxHp": 1455, "atk": 645, "def": 130}
+    ]
+  },
+  {
+    "id": "char_235_jesica",
+    "phases": [
+      {"level": 1, "maxHp": 604, "atk": 163, "def": 54},
+      {"level": 45, "maxHp": 864, "atk": 272, "def": 91},
+      {"level": 105, "maxHp": 1108, "atk": 389, "def": 130},
+      {"level": 175, "maxHp": 1320, "atk": 475, "def": 154}
+    ]
+  },
+  {
+    "id": "char_126_shotst",
+    "phases": [
+      {"level": 1, "maxHp": 612, "atk": 159, "def": 58},
+      {"level": 45, "maxHp": 875, "atk": 266, "def": 97},
+      {"level": 105, "maxHp": 1123, "atk": 381, "def": 139},
+      {"level": 175, "maxHp": 1370, "atk": 465, "def": 165}
+    ]
+  },
+  {
+    "id": "char_118_yuki",
+    "phases": [
+      {"level": 1, "maxHp": 834, "atk": 347, "def": 51},
+      {"level": 45, "maxHp": 1043, "atk": 496, "def": 66},
+      {"level": 105, "maxHp": 1304, "atk": 621, "def": 84},
+      {"level": 175, "maxHp": 1630, "atk": 797, "def": 100}
+    ]
+  },
+  {
+    "id": "char_198_blackd",
+    "phases": [
+      {"level": 1, "maxHp": 758, "atk": 170, "def": 137},
+      {"level": 45, "maxHp": 1083, "atk": 254, "def": 196},
+      {"level": 105, "maxHp": 1389, "atk": 348, "def": 273},
+      {"level": 175, "maxHp": 1985, "atk": 435, "def": 322}
+    ]
+  },
+  {
+    "id": "char_149_scave",
+    "phases": [
+      {"level": 1, "maxHp": 693, "atk": 185, "def": 136},
+      {"level": 45, "maxHp": 937, "atk": 281, "def": 198},
+      {"level": 105, "maxHp": 1284, "atk": 385, "def": 255},
+      {"level": 175, "maxHp": 1835, "atk": 470, "def": 310}
+    ]
+  },
+  {
+    "id": "char_290_vigna",
+    "phases": [
+      {"level": 1, "maxHp": 724, "atk": 248, "def": 152},
+      {"level": 45, "maxHp": 1006, "atk": 355, "def": 218},
+      {"level": 105, "maxHp": 1291, "atk": 468, "def": 287},
+      {"level": 175, "maxHp": 1845, "atk": 558, "def": 351}
+    ]
+  },
+  {
+    "id": "char_130_doberm",
+    "phases": [
+      {"level": 1, "maxHp": 743, "atk": 239, "def": 178},
+      {"level": 45, "maxHp": 1019, "atk": 342, "def": 252},
+      {"level": 105, "maxHp": 1324, "atk": 457, "def": 320},
+      {"level": 175, "maxHp": 1840, "atk": 545, "def": 382}
+    ]
+  },
+  {
+    "id": "char_289_gyuki",
+    "phases": [
+      {"level": 1, "maxHp": 1443, "atk": 370, "def": 70},
+      {"level": 45, "maxHp": 1925, "atk": 553, "def": 100},
+      {"level": 105, "maxHp": 2567, "atk": 709, "def": 131},
+      {"level": 175, "maxHp": 3470, "atk": 855, "def": 156}
+    ]
+  },
+  {
+    "id": "char_193_frostl",
+    "phases": [
+      {"level": 1, "maxHp": 949, "atk": 272, "def": 154},
+      {"level": 45, "maxHp": 1356, "atk": 400, "def": 211},
+      {"level": 105, "maxHp": 1785, "atk": 534, "def": 268},
+      {"level": 175, "maxHp": 2260, "atk": 660, "def": 323}
+    ]
+  },
+  {
+    "id": "char_127_estell",
+    "phases": [
+      {"level": 1, "maxHp": 1140, "atk": 278, "def": 133},
+      {"level": 45, "maxHp": 1462, "atk": 387, "def": 190},
+      {"level": 105, "maxHp": 1875, "atk": 524, "def": 258},
+      {"level": 175, "maxHp": 2500, "atk": 690, "def": 315}
+    ]
+  },
+  {
+    "id": "char_185_frncat",
+    "phases": [
+      {"level": 1, "maxHp": 1069, "atk": 273, "def": 158},
+      {"level": 45, "maxHp": 1407, "atk": 396, "def": 230},
+      {"level": 105, "maxHp": 1782, "atk": 515, "def": 296},
+      {"level": 175, "maxHp": 2345, "atk": 644, "def": 357}
+    ]
+  },
+  {
+    "id": "char_237_gravel",
+    "phases": [
+      {"level": 1, "maxHp": 663, "atk": 176, "def": 151},
+      {"level": 45, "maxHp": 885, "atk": 256, "def": 216},
+      {"level": 105, "maxHp": 1107, "atk": 352, "def": 281},
+      {"level": 175, "maxHp": 1420, "atk": 452, "def": 335}
+    ]
+  },
+  {
+    "id": "char_236_rope",
+    "phases": [
+      {"level": 1, "maxHp": 744, "atk": 313, "def": 142},
+      {"level": 45, "maxHp": 1006, "atk": 448, "def": 209},
+      {"level": 105, "maxHp": 1307, "atk": 582, "def": 276},
+      {"level": 175, "maxHp": 1720, "atk": 728, "def": 325}
+    ]
+  },
+  {
+    "id": "char_117_myrrh",
+    "phases": [
+      {"level": 1, "maxHp": 752, "atk": 161, "def": 57},
+      {"level": 45, "maxHp": 1060, "atk": 264, "def": 83},
+      {"level": 105, "maxHp": 1278, "atk": 372, "def": 104},
+      {"level": 175, "maxHp": 1420, "atk": 465, "def": 131}
+    ]
+  },
+  {
+    "id": "char_187_ccheal",
+    "phases": [
+      {"level": 1, "maxHp": 851, "atk": 159, "def": 66},
+      {"level": 45, "maxHp": 1167, "atk": 262, "def": 96},
+      {"level": 105, "maxHp": 1374, "atk": 364, "def": 121},
+      {"level": 175, "maxHp": 1580, "atk": 450, "def": 152}
+    ]
+  },
+  {
+    "id": "char_181_flower",
+    "phases": [
+      {"level": 1, "maxHp": 710, "atk": 117, "def": 69},
+      {"level": 45, "maxHp": 960, "atk": 189, "def": 92},
+      {"level": 105, "maxHp": 1232, "atk": 256, "def": 120},
+      {"level": 175, "maxHp": 1560, "atk": 320, "def": 145}
+    ]
+  },
+  {
+    "id": "char_199_yak",
+    "phases": [
+      {"level": 1, "maxHp": 1273, "atk": 198, "def": 241},
+      {"level": 45, "maxHp": 1698, "atk": 254, "def": 361},
+      {"level": 105, "maxHp": 2264, "atk": 318, "def": 489},
+      {"level": 175, "maxHp": 3235, "atk": 375, "def": 670}
+    ]
+  },
+  {
+    "id": "char_150_snakek",
+    "phases": [
+      {"level": 1, "maxHp": 1221, "atk": 193, "def": 249},
+      {"level": 45, "maxHp": 1629, "atk": 248, "def": 372},
+      {"level": 105, "maxHp": 2173, "atk": 310, "def": 503},
+      {"level": 175, "maxHp": 3105, "atk": 365, "def": 690}
+    ]
+  },
+  {
+    "id": "char_196_sunbr",
+    "phases": [
+      {"level": 1, "maxHp": 1059, "atk": 179, "def": 234},
+      {"level": 45, "maxHp": 1432, "atk": 257, "def": 345},
+      {"level": 105, "maxHp": 1836, "atk": 348, "def": 460},
+      {"level": 175, "maxHp": 2550, "atk": 435, "def": 562}
+    ]
+  },
+  {
+    "id": "char_110_deepcl",
+    "phases": [
+      {"level": 1, "maxHp": 472, "atk": 181, "def": 53},
+      {"level": 45, "maxHp": 638, "atk": 259, "def": 77},
+      {"level": 105, "maxHp": 829, "atk": 346, "def": 103},
+      {"level": 175, "maxHp": 1050, "atk": 403, "def": 125}
+    ]
+  },
+  {
+    "id": "char_183_skgoat",
+    "phases": [
+      {"level": 1, "maxHp": 548, "atk": 202, "def": 46},
+      {"level": 45, "maxHp": 751, "atk": 298, "def": 66},
+      {"level": 105, "maxHp": 964, "atk": 398, "def": 85},
+      {"level": 175, "maxHp": 1205, "atk": 480, "def": 101}
+    ]
+  },
+  {
+    "id": "char_277_sqrrel",
+    "phases": [
+      {"level": 1, "maxHp": 824, "atk": 252, "def": 151},
+      {"level": 45, "maxHp": 1099, "atk": 351, "def": 229},
+      {"level": 105, "maxHp": 1392, "atk": 469, "def": 302},
+      {"level": 175, "maxHp": 1785, "atk": 580, "def": 365}
+    ]
+  },
+  {
+    "id": "char_128_plosis",
+    "phases": [
+      {"level": 1, "maxHp": 751, "atk": 122, "def": 71},
+      {"level": 50, "maxHp": 1016, "atk": 198, "def": 95},
+      {"level": 120, "maxHp": 1271, "atk": 268, "def": 124},
+      {"level": 200, "maxHp": 1610, "atk": 335, "def": 150}
+    ]
+  },
+  {
+    "id": "char_115_headbr",
+    "phases": [
+      {"level": 1, "maxHp": 812, "atk": 183, "def": 147},
+      {"level": 50, "maxHp": 1128, "atk": 274, "def": 211},
+      {"level": 120, "maxHp": 1505, "atk": 376, "def": 290},
+      {"level": 200, "maxHp": 2150, "atk": 470, "def": 350}
+    ]
+  },
+  {
+    "id": "char_102_texas",
+    "phases": [
+      {"level": 1, "maxHp": 727, "atk": 203, "def": 139},
+      {"level": 50, "maxHp": 996, "atk": 299, "def": 208},
+      {"level": 120, "maxHp": 1365, "atk": 410, "def": 274},
+      {"level": 200, "maxHp": 1950, "atk": 500, "def": 343}
+    ]
+  },
+  {
+    "id": "char_308_swire",
+    "phases": [
+      {"level": 1, "maxHp": 703, "atk": 261, "def": 193},
+      {"level": 50, "maxHp": 964, "atk": 373, "def": 273},
+      {"level": 120, "maxHp": 1252, "atk": 498, "def": 346},
+      {"level": 200, "maxHp": 1740, "atk": 593, "def": 413}
+    ]
+  },
+  {
+    "id": "char_106_franka",
+    "phases": [
+      {"level": 1, "maxHp": 1386, "atk": 382, "def": 105},
+      {"level": 50, "maxHp": 1981, "atk": 563, "def": 150},
+      {"level": 120, "maxHp": 2715, "atk": 713, "def": 195},
+      {"level": 200, "maxHp": 3620, "atk": 860, "def": 235}
+    ]
+  },
+  {
+    "id": "char_155_tiger",
+    "phases": [
+      {"level": 1, "maxHp": 1071, "atk": 206, "def": 151},
+      {"level": 50, "maxHp": 1448, "atk": 303, "def": 217},
+      {"level": 120, "maxHp": 1857, "atk": 405, "def": 294},
+      {"level": 200, "maxHp": 2265, "atk": 500, "def": 350}
+    ]
+  },
+  {
+    "id": "char_140_whitew",
+    "phases": [
+      {"level": 1, "maxHp": 987, "atk": 285, "def": 173},
+      {"level": 50, "maxHp": 1410, "atk": 426, "def": 238},
+      {"level": 120, "maxHp": 1856, "atk": 554, "def": 302},
+      {"level": 200, "maxHp": 2350, "atk": 685, "def": 365}
+    ]
+  },
+  {
+    "id": "char_143_ghost",
+    "phases": [
+      {"level": 1, "maxHp": 1199, "atk": 293, "def": 150},
+      {"level": 50, "maxHp": 1538, "atk": 407, "def": 215},
+      {"level": 120, "maxHp": 1972, "atk": 551, "def": 291},
+      {"level": 200, "maxHp": 2630, "atk": 725, "def": 355}
+    ]
+  },
+  {
+    "id": "char_129_bluep",
+    "phases": [
+      {"level": 1, "maxHp": 536, "atk": 178, "def": 45},
+      {"level": 50, "maxHp": 767, "atk": 297, "def": 76},
+      {"level": 120, "maxHp": 984, "atk": 438, "def": 109},
+      {"level": 200, "maxHp": 1230, "atk": 535, "def": 130}
+    ]
+  },
+  {
+    "id": "char_204_platnm",
+    "phases": [
+      {"level": 1, "maxHp": 693, "atk": 167, "def": 58},
+      {"level": 50, "maxHp": 991, "atk": 279, "def": 97},
+      {"level": 120, "maxHp": 1271, "atk": 405, "def": 139},
+      {"level": 200, "maxHp": 1550, "atk": 495, "def": 165}
+    ]
+  },
+  {
+    "id": "char_219_meteo",
+    "phases": [
+      {"level": 1, "maxHp": 770, "atk": 377, "def": 59},
+      {"level": 50, "maxHp": 963, "atk": 539, "def": 77},
+      {"level": 120, "maxHp": 1204, "atk": 674, "def": 98},
+      {"level": 200, "maxHp": 1505, "atk": 865, "def": 116}
+    ]
+  },
+  {
+    "id": "char_002_amiya",
+    "phases": [
+      {"level": 1, "maxHp": 699, "atk": 276, "def": 48},
+      {"level": 50, "maxHp": 958, "atk": 390, "def": 81},
+      {"level": 120, "maxHp": 1198, "atk": 514, "def": 110},
+      {"level": 200, "maxHp": 1480, "atk": 612, "def": 121}
+    ]
+  },
+  {
+    "id": "char_166_skfire",
+    "phases": [
+      {"level": 1, "maxHp": 686, "atk": 332, "def": 48},
+      {"level": 50, "maxHp": 954, "atk": 468, "def": 74},
+      {"level": 120, "maxHp": 1193, "atk": 600, "def": 102},
+      {"level": 200, "maxHp": 1530, "atk": 715, "def": 122}
+    ]
+  },
+  {
+    "id": "char_242_otter",
+    "phases": [
+      {"level": 1, "maxHp": 480, "atk": 199, "def": 56},
+      {"level": 50, "maxHp": 649, "atk": 285, "def": 80},
+      {"level": 120, "maxHp": 843, "atk": 380, "def": 107},
+      {"level": 200, "maxHp": 1068, "atk": 443, "def": 130}
+    ]
+  },
+  {
+    "id": "char_108_silent",
+    "phases": [
+      {"level": 1, "maxHp": 845, "atk": 166, "def": 62},
+      {"level": 50, "maxHp": 1191, "atk": 273, "def": 90},
+      {"level": 120, "maxHp": 1435, "atk": 385, "def": 113},
+      {"level": 200, "maxHp": 1595, "atk": 482, "def": 142}
+    ]
+  },
+  {
+    "id": "char_171_bldsk",
+    "phases": [
+      {"level": 1, "maxHp": 805, "atk": 172, "def": 55},
+      {"level": 50, "maxHp": 1135, "atk": 282, "def": 80},
+      {"level": 120, "maxHp": 1368, "atk": 404, "def": 100},
+      {"level": 200, "maxHp": 1520, "atk": 505, "def": 125}
+    ]
+  },
+  {
+    "id": "char_148_nearl",
+    "phases": [
+      {"level": 1, "maxHp": 1154, "atk": 191, "def": 240},
+      {"level": 50, "maxHp": 1560, "atk": 273, "def": 353},
+      {"level": 120, "maxHp": 2001, "atk": 369, "def": 471},
+      {"level": 200, "maxHp": 2780, "atk": 462, "def": 575}
+    ]
+  },
+  {
+    "id": "char_144_red",
+    "phases": [
+      {"level": 1, "maxHp": 703, "atk": 204, "def": 135},
+      {"level": 50, "maxHp": 938, "atk": 301, "def": 194},
+      {"level": 120, "maxHp": 1173, "atk": 413, "def": 253},
+      {"level": 200, "maxHp": 1505, "atk": 530, "def": 302}
+    ]
+  },
+  {
+    "id": "char_107_liskam",
+    "phases": [
+      {"level": 1, "maxHp": 1307, "atk": 219, "def": 256},
+      {"level": 50, "maxHp": 1743, "atk": 281, "def": 383},
+      {"level": 120, "maxHp": 2324, "atk": 352, "def": 518},
+      {"level": 200, "maxHp": 3240, "atk": 425, "def": 710}
+    ]
+  },
+  {
+    "id": "char_201_moeshd",
+    "phases": [
+      {"level": 1, "maxHp": 1503, "atk": 201, "def": 249},
+      {"level": 50, "maxHp": 1978, "atk": 258, "def": 373},
+      {"level": 120, "maxHp": 2569, "atk": 323, "def": 511},
+      {"level": 200, "maxHp": 3520, "atk": 380, "def": 710}
+    ]
+  },
+  {
+    "id": "char_163_hpsts",
+    "phases": [
+      {"level": 1, "maxHp": 1574, "atk": 344, "def": 222},
+      {"level": 50, "maxHp": 2072, "atk": 479, "def": 337},
+      {"level": 120, "maxHp": 2692, "atk": 639, "def": 450},
+      {"level": 200, "maxHp": 3688, "atk": 820, "def": 585}
+    ]
+  },
+  {
+    "id": "char_145_prove",
+    "phases": [
+      {"level": 1, "maxHp": 716, "atk": 332, "def": 81},
+      {"level": 50, "maxHp": 995, "atk": 456, "def": 117},
+      {"level": 120, "maxHp": 1276, "atk": 601, "def": 156},
+      {"level": 200, "maxHp": 1680, "atk": 781, "def": 215}
+    ]
+  },
+  {
+    "id": "char_158_milu",
+    "phases": [
+      {"level": 1, "maxHp": 714, "atk": 486, "def": 63},
+      {"level": 50, "maxHp": 928, "atk": 675, "def": 85},
+      {"level": 120, "maxHp": 1160, "atk": 889, "def": 107},
+      {"level": 200, "maxHp": 1450, "atk": 1085, "def": 131}
+    ]
+  },
+  {
+    "id": "char_173_slchan",
+    "phases": [
+      {"level": 1, "maxHp": 852, "atk": 329, "def": 148},
+      {"level": 50, "maxHp": 1152, "atk": 471, "def": 219},
+      {"level": 120, "maxHp": 1497, "atk": 612, "def": 289},
+      {"level": 200, "maxHp": 1970, "atk": 765, "def": 340}
+    ]
+  },
+  {
+    "id": "char_174_slbell",
+    "phases": [
+      {"level": 1, "maxHp": 629, "atk": 193, "def": 46},
+      {"level": 50, "maxHp": 925, "atk": 277, "def": 67},
+      {"level": 120, "maxHp": 1251, "atk": 356, "def": 89},
+      {"level": 200, "maxHp": 1605, "atk": 430, "def": 102}
+    ]
+  },
+  {
+    "id": "char_195_glassb",
+    "phases": [
+      {"level": 1, "maxHp": 581, "atk": 218, "def": 46},
+      {"level": 50, "maxHp": 797, "atk": 321, "def": 67},
+      {"level": 120, "maxHp": 1024, "atk": 429, "def": 87},
+      {"level": 200, "maxHp": 1280, "atk": 518, "def": 104}
+    ]
+  },
+  {
+    "id": "char_101_sora",
+    "phases": [
+      {"level": 1, "maxHp": 519, "atk": 133, "def": 95},
+      {"level": 50, "maxHp": 742, "atk": 208, "def": 142},
+      {"level": 120, "maxHp": 1017, "atk": 278, "def": 190},
+      {"level": 200, "maxHp": 1356, "atk": 335, "def": 238}
+    ]
+  },
+  {
+    "id": "char_215_mantic",
+    "phases": [
+      {"level": 1, "maxHp": 777, "atk": 378, "def": 141},
+      {"level": 50, "maxHp": 1080, "atk": 511, "def": 218},
+      {"level": 120, "maxHp": 1385, "atk": 656, "def": 284},
+      {"level": 200, "maxHp": 1630, "atk": 811, "def": 343}
+    ]
+  },
+  {
+    "id": "char_241_panda",
+    "phases": [
+      {"level": 1, "maxHp": 852, "atk": 279, "def": 158},
+      {"level": 50, "maxHp": 1136, "atk": 388, "def": 240},
+      {"level": 120, "maxHp": 1439, "atk": 518, "def": 317},
+      {"level": 200, "maxHp": 1845, "atk": 640, "def": 382}
+    ]
+  },
+  {
+    "id": "char_103_angel",
+    "phases": [
+      {"level": 1, "maxHp": 711, "atk": 183, "def": 57},
+      {"level": 50, "maxHp": 1016, "atk": 305, "def": 95},
+      {"level": 130, "maxHp": 1338, "atk": 437, "def": 136},
+      {"level": 220, "maxHp": 1673, "atk": 540, "def": 161}
+    ]
+  },
+  {
+    "id": "char_112_siege",
+    "phases": [
+      {"level": 1, "maxHp": 911, "atk": 212, "def": 154},
+      {"level": 50, "maxHp": 1199, "atk": 308, "def": 227},
+      {"level": 130, "maxHp": 1643, "atk": 422, "def": 307},
+      {"level": 220, "maxHp": 2251, "atk": 515, "def": 384}
+    ]
+  },
+  {
+    "id": "char_134_ifrit",
+    "phases": [
+      {"level": 1, "maxHp": 687, "atk": 377, "def": 52},
+      {"level": 50, "maxHp": 982, "atk": 563, "def": 79},
+      {"level": 130, "maxHp": 1276, "atk": 722, "def": 109},
+      {"level": 220, "maxHp": 1680, "atk": 870, "def": 130}
+    ]
+  },
+  {
+    "id": "char_180_amgoat",
+    "phases": [
+      {"level": 1, "maxHp": 732, "atk": 292, "def": 46},
+      {"level": 50, "maxHp": 1046, "atk": 406, "def": 79},
+      {"level": 130, "maxHp": 1359, "atk": 535, "def": 109},
+      {"level": 220, "maxHp": 1743, "atk": 645, "def": 122}
+    ]
+  },
+  {
+    "id": "char_291_aglina",
+    "phases": [
+      {"level": 1, "maxHp": 629, "atk": 228, "def": 53},
+      {"level": 50, "maxHp": 863, "atk": 336, "def": 77},
+      {"level": 130, "maxHp": 1108, "atk": 449, "def": 100},
+      {"level": 220, "maxHp": 1385, "atk": 542, "def": 120}
+    ]
+  },
+  {
+    "id": "char_147_shining",
+    "phases": [
+      {"level": 1, "maxHp": 854, "atk": 180, "def": 60},
+      {"level": 50, "maxHp": 1204, "atk": 296, "def": 88},
+      {"level": 130, "maxHp": 1451, "atk": 424, "def": 110},
+      {"level": 220, "maxHp": 1613, "atk": 530, "def": 138}
+    ]
+  },
+  {
+    "id": "char_179_cgbird",
+    "phases": [
+      {"level": 1, "maxHp": 796, "atk": 132, "def": 80},
+      {"level": 50, "maxHp": 1076, "atk": 210, "def": 107},
+      {"level": 130, "maxHp": 1346, "atk": 280, "def": 140},
+      {"level": 220, "maxHp": 1705, "atk": 350, "def": 169}
+    ]
+  },
+  {
+    "id": "char_136_hsguma",
+    "phases": [
+      {"level": 1, "maxHp": 1602, "atk": 221, "def": 257},
+      {"level": 50, "maxHp": 2165, "atk": 284, "def": 384},
+      {"level": 130, "maxHp": 2849, "atk": 356, "def": 527},
+      {"level": 220, "maxHp": 3850, "atk": 430, "def": 723}
+    ]
+  },
+  {
+    "id": "char_202_demkni",
+    "phases": [
+      {"level": 1, "maxHp": 1309, "atk": 200, "def": 248},
+      {"level": 50, "maxHp": 1769, "atk": 287, "def": 365},
+      {"level": 130, "maxHp": 2268, "atk": 388, "def": 487},
+      {"level": 220, "maxHp": 3150, "atk": 485, "def": 595}
+    ]
+  },
+  {
+    "id": "char_172_svrash",
+    "phases": [
+      {"level": 1, "maxHp": 1075, "atk": 297, "def": 189},
+      {"level": 50, "maxHp": 1536, "atk": 444, "def": 259},
+      {"level": 130, "maxHp": 2022, "atk": 577, "def": 329},
+      {"level": 220, "maxHp": 2560, "atk": 713, "def": 397}
+    ]
+  },
+  {
+    "id": "char_010_chen",
+    "phases": [
+      {"level": 1, "maxHp": 1229, "atk": 249, "def": 154},
+      {"level": 50, "maxHp": 1684, "atk": 361, "def": 221},
+      {"level": 130, "maxHp": 2188, "atk": 469, "def": 288},
+      {"level": 220, "maxHp": 2880, "atk": 610, "def": 352}
+    ]
+  },
+  {
+    "id": "char_230_savage",
+    "phases": [
+      {"level": 1, "maxHp": 1108, "atk": 284, "def": 135},
+      {"level": 50, "maxHp": 1421, "atk": 395, "def": 193},
+      {"level": 120, "maxHp": 1822, "atk": 535, "def": 262},
+      {"level": 200, "maxHp": 2430, "atk": 705, "def": 320}
+    ]
+  },
+  {
+    "id": "char_282_catap",
+    "phases": [
+      {"level": 1, "maxHp": 736, "atk": 340, "def": 51},
+      {"level": 40, "maxHp": 920, "atk": 487, "def": 67},
+      {"level": 95, "maxHp": 1150, "atk": 617, "def": 85}
+    ]
+  },
+  {
+    "id": "char_283_midn",
+    "phases": [
+      {"level": 1, "maxHp": 879, "atk": 252, "def": 162},
+      {"level": 40, "maxHp": 1256, "atk": 372, "def": 222},
+      {"level": 95, "maxHp": 1653, "atk": 497, "def": 282}
+    ]
+  },
+  {
+    "id": "char_137_brownb",
+    "phases": [
+      {"level": 1, "maxHp": 1010, "atk": 201, "def": 131},
+      {"level": 45, "maxHp": 1365, "atk": 296, "def": 191},
+      {"level": 105, "maxHp": 1750, "atk": 395, "def": 262},
+      {"level": 175, "maxHp": 2135, "atk": 488, "def": 312}
+    ]
+  },
+  {
+    "id": "char_164_nightm",
+    "phases": [
+      {"level": 1, "maxHp": 658, "atk": 281, "def": 45},
+      {"level": 50, "maxHp": 941, "atk": 396, "def": 77},
+      {"level": 120, "maxHp": 1223, "atk": 522, "def": 107},
+      {"level": 200, "maxHp": 1510, "atk": 622, "def": 120}
+    ]
+  },
+  {
+    "id": "char_220_grani",
+    "phases": [
+      {"level": 1, "maxHp": 877, "atk": 235, "def": 166},
+      {"level": 50, "maxHp": 1219, "atk": 347, "def": 231},
+      {"level": 120, "maxHp": 1564, "atk": 463, "def": 300},
+      {"level": 200, "maxHp": 2235, "atk": 552, "def": 367}
+    ]
+  },
+  {
+    "id": "char_263_skadi",
+    "phases": [
+      {"level": 1, "maxHp": 1442, "atk": 415, "def": 116},
+      {"level": 50, "maxHp": 2060, "atk": 611, "def": 167},
+      {"level": 130, "maxHp": 2785, "atk": 774, "def": 220},
+      {"level": 220, "maxHp": 3665, "atk": 933, "def": 263}
+    ]
+  },
+  {
+    "id": "char_285_medic2",
+    "phases": [{"level": 1, "maxHp": 261, "atk": 42, "def": 16}, {"level": 30, "maxHp": 435, "atk": 70, "def": 27}]
+  },
+  {
+    "id": "char_286_cast3",
+    "phases": [{"level": 1, "maxHp": 862, "atk": 221, "def": 63}, {"level": 30, "maxHp": 1106, "atk": 316, "def": 90}]
+  },
+  {
+    "id": "char_502_nblade",
+    "phases": [{"level": 1, "maxHp": 721, "atk": 150, "def": 134}, {"level": 30, "maxHp": 1030, "atk": 232, "def": 192}]
+  },
+  {
+    "id": "char_500_noirc",
+    "phases": [
+      {"level": 1, "maxHp": 1219, "atk": 180, "def": 220},
+      {"level": 30, "maxHp": 1670, "atk": 240, "def": 315}
+    ]
+  },
+  {
+    "id": "char_503_rang",
+    "phases": [{"level": 1, "maxHp": 546, "atk": 161, "def": 46}, {"level": 30, "maxHp": 780, "atk": 269, "def": 66}]
+  },
+  {
+    "id": "char_501_durin",
+    "phases": [{"level": 1, "maxHp": 571, "atk": 238, "def": 36}, {"level": 30, "maxHp": 952, "atk": 340, "def": 62}]
+  },
+  {
+    "id": "char_009_12fce",
+    "phases": [{"level": 1, "maxHp": 1378, "atk": 280, "def": 31}, {"level": 30, "maxHp": 1378, "atk": 400, "def": 50}]
+  },
+  {
+    "id": "char_123_fang",
+    "phases": [
+      {"level": 1, "maxHp": 742, "atk": 157, "def": 130},
+      {"level": 40, "maxHp": 1060, "atk": 235, "def": 187},
+      {"level": 95, "maxHp": 1325, "atk": 325, "def": 260}
+    ]
+  },
+  {
+    "id": "char_240_wyvern",
+    "phases": [
+      {"level": 1, "maxHp": 711, "atk": 168, "def": 128},
+      {"level": 40, "maxHp": 1016, "atk": 248, "def": 184},
+      {"level": 95, "maxHp": 1270, "atk": 355, "def": 240}
+    ]
+  },
+  {
+    "id": "char_192_falco",
+    "phases": [
+      {"level": 1, "maxHp": 688, "atk": 229, "def": 148},
+      {"level": 40, "maxHp": 956, "atk": 333, "def": 212},
+      {"level": 95, "maxHp": 1226, "atk": 445, "def": 279}
+    ]
+  },
+  {
+    "id": "char_208_melan",
+    "phases": [
+      {"level": 1, "maxHp": 1332, "atk": 361, "def": 83},
+      {"level": 40, "maxHp": 1903, "atk": 531, "def": 119},
+      {"level": 95, "maxHp": 2620, "atk": 673, "def": 155}
+    ]
+  },
+  {
+    "id": "char_281_popka",
+    "phases": [
+      {"level": 1, "maxHp": 1130, "atk": 263, "def": 126},
+      {"level": 40, "maxHp": 1449, "atk": 366, "def": 181},
+      {"level": 95, "maxHp": 1858, "atk": 495, "def": 245}
+    ]
+  },
+  {
+    "id": "char_209_ardign",
+    "phases": [
+      {"level": 1, "maxHp": 1197, "atk": 190, "def": 229},
+      {"level": 40, "maxHp": 1597, "atk": 244, "def": 342},
+      {"level": 95, "maxHp": 2130, "atk": 305, "def": 475}
+    ]
+  },
+  {
+    "id": "char_122_beagle",
+    "phases": [
+      {"level": 1, "maxHp": 1144, "atk": 184, "def": 242},
+      {"level": 40, "maxHp": 1526, "atk": 236, "def": 362},
+      {"level": 95, "maxHp": 2035, "atk": 295, "def": 490}
+    ]
+  },
+  {
+    "id": "char_284_spot",
+    "phases": [
+      {"level": 1, "maxHp": 1057, "atk": 165, "def": 225},
+      {"level": 40, "maxHp": 1429, "atk": 236, "def": 331},
+      {"level": 95, "maxHp": 1833, "atk": 320, "def": 442}
+    ]
+  },
+  {
+    "id": "char_124_kroos",
+    "phases": [
+      {"level": 1, "maxHp": 545, "atk": 154, "def": 52},
+      {"level": 40, "maxHp": 826, "atk": 258, "def": 88},
+      {"level": 95, "maxHp": 1060, "atk": 375, "def": 126}
+    ]
+  },
+  {
+    "id": "char_211_adnach",
+    "phases": [
+      {"level": 1, "maxHp": 531, "atk": 150, "def": 55},
+      {"level": 40, "maxHp": 831, "atk": 251, "def": 93},
+      {"level": 95, "maxHp": 1080, "atk": 365, "def": 134}
+    ]
+  },
+  {
+    "id": "char_121_lava",
+    "phases": [
+      {"level": 1, "maxHp": 576, "atk": 296, "def": 41},
+      {"level": 40, "maxHp": 823, "atk": 417, "def": 69},
+      {"level": 95, "maxHp": 1070, "atk": 535, "def": 95}
+    ]
+  },
+  {
+    "id": "char_120_hibisc",
+    "phases": [
+      {"level": 1, "maxHp": 682, "atk": 153, "def": 61},
+      {"level": 40, "maxHp": 975, "atk": 248, "def": 82},
+      {"level": 95, "maxHp": 1220, "atk": 345, "def": 110}
+    ]
+  },
+  {
+    "id": "char_212_ansel",
+    "phases": [
+      {"level": 1, "maxHp": 634, "atk": 156, "def": 60},
+      {"level": 40, "maxHp": 907, "atk": 257, "def": 81},
+      {"level": 95, "maxHp": 1135, "atk": 362, "def": 109}
+    ]
+  },
+  {
+    "id": "char_210_stward",
+    "phases": [
+      {"level": 1, "maxHp": 592, "atk": 249, "def": 38},
+      {"level": 40, "maxHp": 847, "atk": 357, "def": 65},
+      {"level": 95, "maxHp": 1100, "atk": 470, "def": 90}
+    ]
+  },
+  {
+    "id": "char_278_orchid",
+    "phases": [
+      {"level": 1, "maxHp": 553, "atk": 192, "def": 44},
+      {"level": 40, "maxHp": 738, "atk": 283, "def": 64},
+      {"level": 95, "maxHp": 935, "atk": 378, "def": 83}
+    ]
+  },
+  {
+    "id": "char_141_nights",
+    "phases": [
+      {"level": 1, "maxHp": 619, "atk": 253, "def": 42},
+      {"level": 45, "maxHp": 885, "atk": 362, "def": 71},
+      {"level": 105, "maxHp": 1150, "atk": 483, "def": 98},
+      {"level": 175, "maxHp": 1420, "atk": 583, "def": 110}
+    ]
+  },
+  {
+    "id": "char_109_fmout",
+    "phases": [
+      {"level": 1, "maxHp": 622, "atk": 303, "def": 47},
+      {"level": 45, "maxHp": 889, "atk": 428, "def": 72},
+      {"level": 105, "maxHp": 1155, "atk": 549, "def": 99},
+      {"level": 175, "maxHp": 1520, "atk": 654, "def": 118}
+    ]
+  },
+  {
+    "id": "char_253_greyy",
+    "phases": [
+      {"level": 1, "maxHp": 595, "atk": 298, "def": 52},
+      {"level": 45, "maxHp": 850, "atk": 421, "def": 79},
+      {"level": 105, "maxHp": 1105, "atk": 541, "def": 109},
+      {"level": 175, "maxHp": 1455, "atk": 645, "def": 130}
+    ]
+  },
+  {
+    "id": "char_235_jesica",
+    "phases": [
+      {"level": 1, "maxHp": 604, "atk": 163, "def": 54},
+      {"level": 45, "maxHp": 864, "atk": 272, "def": 91},
+      {"level": 105, "maxHp": 1108, "atk": 389, "def": 130},
+      {"level": 175, "maxHp": 1320, "atk": 475, "def": 154}
+    ]
+  },
+  {
+    "id": "char_126_shotst",
+    "phases": [
+      {"level": 1, "maxHp": 612, "atk": 159, "def": 58},
+      {"level": 45, "maxHp": 875, "atk": 266, "def": 97},
+      {"level": 105, "maxHp": 1123, "atk": 381, "def": 139},
+      {"level": 175, "maxHp": 1370, "atk": 465, "def": 165}
+    ]
+  },
+  {
+    "id": "char_118_yuki",
+    "phases": [
+      {"level": 1, "maxHp": 834, "atk": 347, "def": 51},
+      {"level": 45, "maxHp": 1043, "atk": 496, "def": 66},
+      {"level": 105, "maxHp": 1304, "atk": 621, "def": 84},
+      {"level": 175, "maxHp": 1630, "atk": 797, "def": 100}
+    ]
+  },
+  {
+    "id": "char_198_blackd",
+    "phases": [
+      {"level": 1, "maxHp": 758, "atk": 170, "def": 137},
+      {"level": 45, "maxHp": 1083, "atk": 254, "def": 196},
+      {"level": 105, "maxHp": 1389, "atk": 348, "def": 273},
+      {"level": 175, "maxHp": 1985, "atk": 435, "def": 322}
+    ]
+  },
+  {
+    "id": "char_149_scave",
+    "phases": [
+      {"level": 1, "maxHp": 693, "atk": 185, "def": 136},
+      {"level": 45, "maxHp": 937, "atk": 281, "def": 198},
+      {"level": 105, "maxHp": 1284, "atk": 385, "def": 255},
+      {"level": 175, "maxHp": 1835, "atk": 470, "def": 310}
+    ]
+  },
+  {
+    "id": "char_290_vigna",
+    "phases": [
+      {"level": 1, "maxHp": 724, "atk": 248, "def": 152},
+      {"level": 45, "maxHp": 1006, "atk": 355, "def": 218},
+      {"level": 105, "maxHp": 1291, "atk": 468, "def": 287},
+      {"level": 175, "maxHp": 1845, "atk": 558, "def": 351}
+    ]
+  },
+  {
+    "id": "char_130_doberm",
+    "phases": [
+      {"level": 1, "maxHp": 743, "atk": 239, "def": 178},
+      {"level": 45, "maxHp": 1019, "atk": 342, "def": 252},
+      {"level": 105, "maxHp": 1324, "atk": 457, "def": 320},
+      {"level": 175, "maxHp": 1840, "atk": 545, "def": 382}
+    ]
+  },
+  {
+    "id": "char_289_gyuki",
+    "phases": [
+      {"level": 1, "maxHp": 1443, "atk": 370, "def": 70},
+      {"level": 45, "maxHp": 1925, "atk": 553, "def": 100},
+      {"level": 105, "maxHp": 2567, "atk": 709, "def": 131},
+      {"level": 175, "maxHp": 3470, "atk": 855, "def": 156}
+    ]
+  },
+  {
+    "id": "char_193_frostl",
+    "phases": [
+      {"level": 1, "maxHp": 949, "atk": 272, "def": 154},
+      {"level": 45, "maxHp": 1356, "atk": 400, "def": 211},
+      {"level": 105, "maxHp": 1785, "atk": 534, "def": 268},
+      {"level": 175, "maxHp": 2260, "atk": 660, "def": 323}
+    ]
+  },
+  {
+    "id": "char_127_estell",
+    "phases": [
+      {"level": 1, "maxHp": 1140, "atk": 278, "def": 133},
+      {"level": 45, "maxHp": 1462, "atk": 387, "def": 190},
+      {"level": 105, "maxHp": 1875, "atk": 524, "def": 258},
+      {"level": 175, "maxHp": 2500, "atk": 690, "def": 315}
+    ]
+  },
+  {
+    "id": "char_185_frncat",
+    "phases": [
+      {"level": 1, "maxHp": 1069, "atk": 273, "def": 158},
+      {"level": 45, "maxHp": 1407, "atk": 396, "def": 230},
+      {"level": 105, "maxHp": 1782, "atk": 515, "def": 296},
+      {"level": 175, "maxHp": 2345, "atk": 644, "def": 357}
+    ]
+  },
+  {
+    "id": "char_237_gravel",
+    "phases": [
+      {"level": 1, "maxHp": 663, "atk": 176, "def": 151},
+      {"level": 45, "maxHp": 885, "atk": 256, "def": 216},
+      {"level": 105, "maxHp": 1107, "atk": 352, "def": 281},
+      {"level": 175, "maxHp": 1420, "atk": 452, "def": 335}
+    ]
+  },
+  {
+    "id": "char_236_rope",
+    "phases": [
+      {"level": 1, "maxHp": 744, "atk": 313, "def": 142},
+      {"level": 45, "maxHp": 1006, "atk": 448, "def": 209},
+      {"level": 105, "maxHp": 1307, "atk": 582, "def": 276},
+      {"level": 175, "maxHp": 1720, "atk": 728, "def": 325}
+    ]
+  },
+  {
+    "id": "char_117_myrrh",
+    "phases": [
+      {"level": 1, "maxHp": 752, "atk": 161, "def": 57},
+      {"level": 45, "maxHp": 1060, "atk": 264, "def": 83},
+      {"level": 105, "maxHp": 1278, "atk": 372, "def": 104},
+      {"level": 175, "maxHp": 1420, "atk": 465, "def": 131}
+    ]
+  },
+  {
+    "id": "char_187_ccheal",
+    "phases": [
+      {"level": 1, "maxHp": 851, "atk": 159, "def": 66},
+      {"level": 45, "maxHp": 1167, "atk": 262, "def": 96},
+      {"level": 105, "maxHp": 1374, "atk": 364, "def": 121},
+      {"level": 175, "maxHp": 1580, "atk": 450, "def": 152}
+    ]
+  },
+  {
+    "id": "char_181_flower",
+    "phases": [
+      {"level": 1, "maxHp": 710, "atk": 117, "def": 69},
+      {"level": 45, "maxHp": 960, "atk": 189, "def": 92},
+      {"level": 105, "maxHp": 1232, "atk": 256, "def": 120},
+      {"level": 175, "maxHp": 1560, "atk": 320, "def": 145}
+    ]
+  },
+  {
+    "id": "char_199_yak",
+    "phases": [
+      {"level": 1, "maxHp": 1273, "atk": 198, "def": 241},
+      {"level": 45, "maxHp": 1698, "atk": 254, "def": 361},
+      {"level": 105, "maxHp": 2264, "atk": 318, "def": 489},
+      {"level": 175, "maxHp": 3235, "atk": 375, "def": 670}
+    ]
+  },
+  {
+    "id": "char_150_snakek",
+    "phases": [
+      {"level": 1, "maxHp": 1221, "atk": 193, "def": 249},
+      {"level": 45, "maxHp": 1629, "atk": 248, "def": 372},
+      {"level": 105, "maxHp": 2173, "atk": 310, "def": 503},
+      {"level": 175, "maxHp": 3105, "atk": 365, "def": 690}
+    ]
+  },
+  {
+    "id": "char_196_sunbr",
+    "phases": [
+      {"level": 1, "maxHp": 1059, "atk": 179, "def": 234},
+      {"level": 45, "maxHp": 1432, "atk": 257, "def": 345},
+      {"level": 105, "maxHp": 1836, "atk": 348, "def": 460},
+      {"level": 175, "maxHp": 2550, "atk": 435, "def": 562}
+    ]
+  },
+  {
+    "id": "char_110_deepcl",
+    "phases": [
+      {"level": 1, "maxHp": 472, "atk": 181, "def": 53},
+      {"level": 45, "maxHp": 638, "atk": 259, "def": 77},
+      {"level": 105, "maxHp": 829, "atk": 346, "def": 103},
+      {"level": 175, "maxHp": 1050, "atk": 403, "def": 125}
+    ]
+  },
+  {
+    "id": "char_183_skgoat",
+    "phases": [
+      {"level": 1, "maxHp": 548, "atk": 202, "def": 46},
+      {"level": 45, "maxHp": 751, "atk": 298, "def": 66},
+      {"level": 105, "maxHp": 964, "atk": 398, "def": 85},
+      {"level": 175, "maxHp": 1205, "atk": 480, "def": 101}
+    ]
+  },
+  {
+    "id": "char_277_sqrrel",
+    "phases": [
+      {"level": 1, "maxHp": 824, "atk": 252, "def": 151},
+      {"level": 45, "maxHp": 1099, "atk": 351, "def": 229},
+      {"level": 105, "maxHp": 1392, "atk": 469, "def": 302},
+      {"level": 175, "maxHp": 1785, "atk": 580, "def": 365}
+    ]
+  },
+  {
+    "id": "char_128_plosis",
+    "phases": [
+      {"level": 1, "maxHp": 751, "atk": 122, "def": 71},
+      {"level": 50, "maxHp": 1016, "atk": 198, "def": 95},
+      {"level": 120, "maxHp": 1271, "atk": 268, "def": 124},
+      {"level": 200, "maxHp": 1610, "atk": 335, "def": 150}
+    ]
+  },
+  {
+    "id": "char_115_headbr",
+    "phases": [
+      {"level": 1, "maxHp": 812, "atk": 183, "def": 147},
+      {"level": 50, "maxHp": 1128, "atk": 274, "def": 211},
+      {"level": 120, "maxHp": 1505, "atk": 376, "def": 290},
+      {"level": 200, "maxHp": 2150, "atk": 470, "def": 350}
+    ]
+  },
+  {
+    "id": "char_102_texas",
+    "phases": [
+      {"level": 1, "maxHp": 727, "atk": 203, "def": 139},
+      {"level": 50, "maxHp": 996, "atk": 299, "def": 208},
+      {"level": 120, "maxHp": 1365, "atk": 410, "def": 274},
+      {"level": 200, "maxHp": 1950, "atk": 500, "def": 343}
+    ]
+  },
+  {
+    "id": "char_308_swire",
+    "phases": [
+      {"level": 1, "maxHp": 703, "atk": 261, "def": 193},
+      {"level": 50, "maxHp": 964, "atk": 373, "def": 273},
+      {"level": 120, "maxHp": 1252, "atk": 498, "def": 346},
+      {"level": 200, "maxHp": 1740, "atk": 593, "def": 413}
+    ]
+  },
+  {
+    "id": "char_106_franka",
+    "phases": [
+      {"level": 1, "maxHp": 1386, "atk": 382, "def": 105},
+      {"level": 50, "maxHp": 1981, "atk": 563, "def": 150},
+      {"level": 120, "maxHp": 2715, "atk": 713, "def": 195},
+      {"level": 200, "maxHp": 3620, "atk": 860, "def": 235}
+    ]
+  },
+  {
+    "id": "char_155_tiger",
+    "phases": [
+      {"level": 1, "maxHp": 1071, "atk": 206, "def": 151},
+      {"level": 50, "maxHp": 1448, "atk": 303, "def": 217},
+      {"level": 120, "maxHp": 1857, "atk": 405, "def": 294},
+      {"level": 200, "maxHp": 2265, "atk": 500, "def": 350}
+    ]
+  },
+  {
+    "id": "char_140_whitew",
+    "phases": [
+      {"level": 1, "maxHp": 987, "atk": 285, "def": 173},
+      {"level": 50, "maxHp": 1410, "atk": 426, "def": 238},
+      {"level": 120, "maxHp": 1856, "atk": 554, "def": 302},
+      {"level": 200, "maxHp": 2350, "atk": 685, "def": 365}
+    ]
+  },
+  {
+    "id": "char_143_ghost",
+    "phases": [
+      {"level": 1, "maxHp": 1199, "atk": 293, "def": 150},
+      {"level": 50, "maxHp": 1538, "atk": 407, "def": 215},
+      {"level": 120, "maxHp": 1972, "atk": 551, "def": 291},
+      {"level": 200, "maxHp": 2630, "atk": 725, "def": 355}
+    ]
+  },
+  {
+    "id": "char_129_bluep",
+    "phases": [
+      {"level": 1, "maxHp": 536, "atk": 178, "def": 45},
+      {"level": 50, "maxHp": 767, "atk": 297, "def": 76},
+      {"level": 120, "maxHp": 984, "atk": 438, "def": 109},
+      {"level": 200, "maxHp": 1230, "atk": 535, "def": 130}
+    ]
+  },
+  {
+    "id": "char_204_platnm",
+    "phases": [
+      {"level": 1, "maxHp": 693, "atk": 167, "def": 58},
+      {"level": 50, "maxHp": 991, "atk": 279, "def": 97},
+      {"level": 120, "maxHp": 1271, "atk": 405, "def": 139},
+      {"level": 200, "maxHp": 1550, "atk": 495, "def": 165}
+    ]
+  },
+  {
+    "id": "char_219_meteo",
+    "phases": [
+      {"level": 1, "maxHp": 770, "atk": 377, "def": 59},
+      {"level": 50, "maxHp": 963, "atk": 539, "def": 77},
+      {"level": 120, "maxHp": 1204, "atk": 674, "def": 98},
+      {"level": 200, "maxHp": 1505, "atk": 865, "def": 116}
+    ]
+  },
+  {
+    "id": "char_002_amiya",
+    "phases": [
+      {"level": 1, "maxHp": 699, "atk": 276, "def": 48},
+      {"level": 50, "maxHp": 958, "atk": 390, "def": 81},
+      {"level": 120, "maxHp": 1198, "atk": 514, "def": 110},
+      {"level": 200, "maxHp": 1480, "atk": 612, "def": 121}
+    ]
+  },
+  {
+    "id": "char_166_skfire",
+    "phases": [
+      {"level": 1, "maxHp": 686, "atk": 332, "def": 48},
+      {"level": 50, "maxHp": 954, "atk": 468, "def": 74},
+      {"level": 120, "maxHp": 1193, "atk": 600, "def": 102},
+      {"level": 200, "maxHp": 1530, "atk": 715, "def": 122}
+    ]
+  },
+  {
+    "id": "char_242_otter",
+    "phases": [
+      {"level": 1, "maxHp": 480, "atk": 199, "def": 56},
+      {"level": 50, "maxHp": 649, "atk": 285, "def": 80},
+      {"level": 120, "maxHp": 843, "atk": 380, "def": 107},
+      {"level": 200, "maxHp": 1068, "atk": 443, "def": 130}
+    ]
+  },
+  {
+    "id": "char_108_silent",
+    "phases": [
+      {"level": 1, "maxHp": 845, "atk": 166, "def": 62},
+      {"level": 50, "maxHp": 1191, "atk": 273, "def": 90},
+      {"level": 120, "maxHp": 1435, "atk": 385, "def": 113},
+      {"level": 200, "maxHp": 1595, "atk": 482, "def": 142}
+    ]
+  },
+  {
+    "id": "char_171_bldsk",
+    "phases": [
+      {"level": 1, "maxHp": 805, "atk": 172, "def": 55},
+      {"level": 50, "maxHp": 1135, "atk": 282, "def": 80},
+      {"level": 120, "maxHp": 1368, "atk": 404, "def": 100},
+      {"level": 200, "maxHp": 1520, "atk": 505, "def": 125}
+    ]
+  },
+  {
+    "id": "char_148_nearl",
+    "phases": [
+      {"level": 1, "maxHp": 1154, "atk": 191, "def": 240},
+      {"level": 50, "maxHp": 1560, "atk": 273, "def": 353},
+      {"level": 120, "maxHp": 2001, "atk": 369, "def": 471},
+      {"level": 200, "maxHp": 2780, "atk": 462, "def": 575}
+    ]
+  },
+  {
+    "id": "char_144_red",
+    "phases": [
+      {"level": 1, "maxHp": 703, "atk": 204, "def": 135},
+      {"level": 50, "maxHp": 938, "atk": 301, "def": 194},
+      {"level": 120, "maxHp": 1173, "atk": 413, "def": 253},
+      {"level": 200, "maxHp": 1505, "atk": 530, "def": 302}
+    ]
+  },
+  {
+    "id": "char_107_liskam",
+    "phases": [
+      {"level": 1, "maxHp": 1307, "atk": 219, "def": 256},
+      {"level": 50, "maxHp": 1743, "atk": 281, "def": 383},
+      {"level": 120, "maxHp": 2324, "atk": 352, "def": 518},
+      {"level": 200, "maxHp": 3240, "atk": 425, "def": 710}
+    ]
+  },
+  {
+    "id": "char_201_moeshd",
+    "phases": [
+      {"level": 1, "maxHp": 1503, "atk": 201, "def": 249},
+      {"level": 50, "maxHp": 1978, "atk": 258, "def": 373},
+      {"level": 120, "maxHp": 2569, "atk": 323, "def": 511},
+      {"level": 200, "maxHp": 3520, "atk": 380, "def": 710}
+    ]
+  },
+  {
+    "id": "char_163_hpsts",
+    "phases": [
+      {"level": 1, "maxHp": 1574, "atk": 344, "def": 222},
+      {"level": 50, "maxHp": 2072, "atk": 479, "def": 337},
+      {"level": 120, "maxHp": 2692, "atk": 639, "def": 450},
+      {"level": 200, "maxHp": 3688, "atk": 820, "def": 585}
+    ]
+  },
+  {
+    "id": "char_145_prove",
+    "phases": [
+      {"level": 1, "maxHp": 716, "atk": 332, "def": 81},
+      {"level": 50, "maxHp": 995, "atk": 456, "def": 117},
+      {"level": 120, "maxHp": 1276, "atk": 601, "def": 156},
+      {"level": 200, "maxHp": 1680, "atk": 781, "def": 215}
+    ]
+  },
+  {
+    "id": "char_158_milu",
+    "phases": [
+      {"level": 1, "maxHp": 714, "atk": 486, "def": 63},
+      {"level": 50, "maxHp": 928, "atk": 675, "def": 85},
+      {"level": 120, "maxHp": 1160, "atk": 889, "def": 107},
+      {"level": 200, "maxHp": 1450, "atk": 1085, "def": 131}
+    ]
+  },
+  {
+    "id": "char_173_slchan",
+    "phases": [
+      {"level": 1, "maxHp": 852, "atk": 329, "def": 148},
+      {"level": 50, "maxHp": 1152, "atk": 471, "def": 219},
+      {"level": 120, "maxHp": 1497, "atk": 612, "def": 289},
+      {"level": 200, "maxHp": 1970, "atk": 765, "def": 340}
+    ]
+  },
+  {
+    "id": "char_174_slbell",
+    "phases": [
+      {"level": 1, "maxHp": 629, "atk": 193, "def": 46},
+      {"level": 50, "maxHp": 925, "atk": 277, "def": 67},
+      {"level": 120, "maxHp": 1251, "atk": 356, "def": 89},
+      {"level": 200, "maxHp": 1605, "atk": 430, "def": 102}
+    ]
+  },
+  {
+    "id": "char_195_glassb",
+    "phases": [
+      {"level": 1, "maxHp": 581, "atk": 218, "def": 46},
+      {"level": 50, "maxHp": 797, "atk": 321, "def": 67},
+      {"level": 120, "maxHp": 1024, "atk": 429, "def": 87},
+      {"level": 200, "maxHp": 1280, "atk": 518, "def": 104}
+    ]
+  },
+  {
+    "id": "char_101_sora",
+    "phases": [
+      {"level": 1, "maxHp": 519, "atk": 133, "def": 95},
+      {"level": 50, "maxHp": 742, "atk": 208, "def": 142},
+      {"level": 120, "maxHp": 1017, "atk": 278, "def": 190},
+      {"level": 200, "maxHp": 1356, "atk": 335, "def": 238}
+    ]
+  },
+  {
+    "id": "char_215_mantic",
+    "phases": [
+      {"level": 1, "maxHp": 777, "atk": 378, "def": 141},
+      {"level": 50, "maxHp": 1080, "atk": 511, "def": 218},
+      {"level": 120, "maxHp": 1385, "atk": 656, "def": 284},
+      {"level": 200, "maxHp": 1630, "atk": 811, "def": 343}
+    ]
+  },
+  {
+    "id": "char_241_panda",
+    "phases": [
+      {"level": 1, "maxHp": 852, "atk": 279, "def": 158},
+      {"level": 50, "maxHp": 1136, "atk": 388, "def": 240},
+      {"level": 120, "maxHp": 1439, "atk": 518, "def": 317},
+      {"level": 200, "maxHp": 1845, "atk": 640, "def": 382}
+    ]
+  },
+  {
+    "id": "char_103_angel",
+    "phases": [
+      {"level": 1, "maxHp": 711, "atk": 183, "def": 57},
+      {"level": 50, "maxHp": 1016, "atk": 305, "def": 95},
+      {"level": 130, "maxHp": 1338, "atk": 437, "def": 136},
+      {"level": 220, "maxHp": 1673, "atk": 540, "def": 161}
+    ]
+  },
+  {
+    "id": "char_112_siege",
+    "phases": [
+      {"level": 1, "maxHp": 911, "atk": 212, "def": 154},
+      {"level": 50, "maxHp": 1199, "atk": 308, "def": 227},
+      {"level": 130, "maxHp": 1643, "atk": 422, "def": 307},
+      {"level": 220, "maxHp": 2251, "atk": 515, "def": 384}
+    ]
+  },
+  {
+    "id": "char_134_ifrit",
+    "phases": [
+      {"level": 1, "maxHp": 687, "atk": 377, "def": 52},
+      {"level": 50, "maxHp": 982, "atk": 563, "def": 79},
+      {"level": 130, "maxHp": 1276, "atk": 722, "def": 109},
+      {"level": 220, "maxHp": 1680, "atk": 870, "def": 130}
+    ]
+  },
+  {
+    "id": "char_180_amgoat",
+    "phases": [
+      {"level": 1, "maxHp": 732, "atk": 292, "def": 46},
+      {"level": 50, "maxHp": 1046, "atk": 406, "def": 79},
+      {"level": 130, "maxHp": 1359, "atk": 535, "def": 109},
+      {"level": 220, "maxHp": 1743, "atk": 645, "def": 122}
+    ]
+  },
+  {
+    "id": "char_291_aglina",
+    "phases": [
+      {"level": 1, "maxHp": 629, "atk": 228, "def": 53},
+      {"level": 50, "maxHp": 863, "atk": 336, "def": 77},
+      {"level": 130, "maxHp": 1108, "atk": 449, "def": 100},
+      {"level": 220, "maxHp": 1385, "atk": 542, "def": 120}
+    ]
+  },
+  {
+    "id": "char_147_shining",
+    "phases": [
+      {"level": 1, "maxHp": 854, "atk": 180, "def": 60},
+      {"level": 50, "maxHp": 1204, "atk": 296, "def": 88},
+      {"level": 130, "maxHp": 1451, "atk": 424, "def": 110},
+      {"level": 220, "maxHp": 1613, "atk": 530, "def": 138}
+    ]
+  },
+  {
+    "id": "char_179_cgbird",
+    "phases": [
+      {"level": 1, "maxHp": 796, "atk": 132, "def": 80},
+      {"level": 50, "maxHp": 1076, "atk": 210, "def": 107},
+      {"level": 130, "maxHp": 1346, "atk": 280, "def": 140},
+      {"level": 220, "maxHp": 1705, "atk": 350, "def": 169}
+    ]
+  },
+  {
+    "id": "char_136_hsguma",
+    "phases": [
+      {"level": 1, "maxHp": 1602, "atk": 221, "def": 257},
+      {"level": 50, "maxHp": 2165, "atk": 284, "def": 384},
+      {"level": 130, "maxHp": 2849, "atk": 356, "def": 527},
+      {"level": 220, "maxHp": 3850, "atk": 430, "def": 723}
+    ]
+  },
+  {
+    "id": "char_202_demkni",
+    "phases": [
+      {"level": 1, "maxHp": 1309, "atk": 200, "def": 248},
+      {"level": 50, "maxHp": 1769, "atk": 287, "def": 365},
+      {"level": 130, "maxHp": 2268, "atk": 388, "def": 487},
+      {"level": 220, "maxHp": 3150, "atk": 485, "def": 595}
+    ]
+  },
+  {
+    "id": "char_172_svrash",
+    "phases": [
+      {"level": 1, "maxHp": 1075, "atk": 297, "def": 189},
+      {"level": 50, "maxHp": 1536, "atk": 444, "def": 259},
+      {"level": 130, "maxHp": 2022, "atk": 577, "def": 329},
+      {"level": 220, "maxHp": 2560, "atk": 713, "def": 397}
+    ]
+  },
+  {
+    "id": "char_010_chen",
+    "phases": [
+      {"level": 1, "maxHp": 1229, "atk": 249, "def": 154},
+      {"level": 50, "maxHp": 1684, "atk": 361, "def": 221},
+      {"level": 130, "maxHp": 2188, "atk": 469, "def": 288},
+      {"level": 220, "maxHp": 2880, "atk": 610, "def": 352}
+    ]
+  },
+  {
+    "id": "char_230_savage",
+    "phases": [
+      {"level": 1, "maxHp": 1108, "atk": 284, "def": 135},
+      {"level": 50, "maxHp": 1421, "atk": 395, "def": 193},
+      {"level": 120, "maxHp": 1822, "atk": 535, "def": 262},
+      {"level": 200, "maxHp": 2430, "atk": 705, "def": 320}
+    ]
+  },
+  {
+    "id": "char_282_catap",
+    "phases": [
+      {"level": 1, "maxHp": 736, "atk": 340, "def": 51},
+      {"level": 40, "maxHp": 920, "atk": 487, "def": 67},
+      {"level": 95, "maxHp": 1150, "atk": 617, "def": 85}
+    ]
+  },
+  {
+    "id": "char_283_midn",
+    "phases": [
+      {"level": 1, "maxHp": 879, "atk": 252, "def": 162},
+      {"level": 40, "maxHp": 1256, "atk": 372, "def": 222},
+      {"level": 95, "maxHp": 1653, "atk": 497, "def": 282}
+    ]
+  },
+  {
+    "id": "char_137_brownb",
+    "phases": [
+      {"level": 1, "maxHp": 1010, "atk": 201, "def": 131},
+      {"level": 45, "maxHp": 1365, "atk": 296, "def": 191},
+      {"level": 105, "maxHp": 1750, "atk": 395, "def": 262},
+      {"level": 175, "maxHp": 2135, "atk": 488, "def": 312}
+    ]
+  },
+  {
+    "id": "char_164_nightm",
+    "phases": [
+      {"level": 1, "maxHp": 658, "atk": 281, "def": 45},
+      {"level": 50, "maxHp": 941, "atk": 396, "def": 77},
+      {"level": 120, "maxHp": 1223, "atk": 522, "def": 107},
+      {"level": 200, "maxHp": 1510, "atk": 622, "def": 120}
+    ]
+  },
+  {
+    "id": "char_220_grani",
+    "phases": [
+      {"level": 1, "maxHp": 877, "atk": 235, "def": 166},
+      {"level": 50, "maxHp": 1219, "atk": 347, "def": 231},
+      {"level": 120, "maxHp": 1564, "atk": 463, "def": 300},
+      {"level": 200, "maxHp": 2235, "atk": 552, "def": 367}
+    ]
+  },
+  {
+    "id": "char_263_skadi",
+    "phases": [
+      {"level": 1, "maxHp": 1442, "atk": 415, "def": 116},
+      {"level": 50, "maxHp": 2060, "atk": 611, "def": 167},
+      {"level": 130, "maxHp": 2785, "atk": 774, "def": 220},
+      {"level": 220, "maxHp": 3665, "atk": 933, "def": 263}
+    ]
+  }
+]

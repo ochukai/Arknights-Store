@@ -1,10 +1,10 @@
 const characters = require('./original/character_table.json');
-const handbook = require('./original/handbook_info_table.json');
-const { handbookDict } = handbook;
+// const handbook = require('./original/handbook_info_table.json');
 const keys = Object.keys(characters);
 
 const path = require('path');
 const fs = require('fs-extra');
+
 const { writeFile } = require('./util/write');
 const { filterHtmlTag } = require('./util/filterHtmlTag');
 const { parseTeams } = require('./parseTeam');
@@ -22,6 +22,7 @@ const professionMaps = {
 };
 
 const imageList = {};
+const charPhases = [];
 
 function parseSimpleInfo() {
   return keys.map((key) => {
@@ -36,7 +37,26 @@ function parseSimpleInfo() {
       itemObtainApproach,
       rarity,
       profession,
+      phases,
     } = value;
+
+    if (key.indexOf('char_') === 0) {
+      const phaseDummy = [];
+      let lel = 0;
+      phases.forEach((p, index) => {
+        const { attributesKeyFrames } = p;
+        if (index === 0) {
+          let { maxHp, atk, def } = attributesKeyFrames[0].data;
+          phaseDummy.push({level: 1, maxHp, atk, def });
+        }
+
+        const { level, data } = attributesKeyFrames[1];
+        lel += level;
+        let { maxHp, atk, def } = data;
+        phaseDummy.push({ level: lel, maxHp, atk, def });
+      });
+      charPhases.push({ id: key, phases: phaseDummy });
+    }
 
     let realTags = tagList;
     if (tagList === null) {
@@ -79,6 +99,7 @@ function write() {
 
   const simpleInfo = parseSimpleInfo();
   writeFile(curDir, 'simples.json', simpleInfo);
+  writeFile(curDir, 'phases.json', charPhases);
 
   writeFile(curDir, 'images.js', imageList, (value) => {
     value = value.replace(/\"require/ig, 'require');
