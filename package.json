@@ -50,7 +50,8 @@
     "react-scripts": "3.0.1",
     "store": "^2.0.12",
     "underscore": "^1.9.1",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.2",
+    "viser-react": "^2.4.6"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",

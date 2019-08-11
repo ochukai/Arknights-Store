@@ -68,7 +68,7 @@ export default class AKEnemys extends React.Component {
       <Layout className="enemy-wrapper">
         <Layout.Content>
           <Table
-            style={{minWidth: 800, width: '60%'}}
+            style={{ maxWidth: 1024 }}
             dataSource={enemys}
             columns={columns}
           />

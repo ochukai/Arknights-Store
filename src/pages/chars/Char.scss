@@ -1,6 +1,48 @@
 @import '../../styles/var.scss';
 
+.g2-tooltip {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 4px;
+  color: #333;
+  font-size: 12px;
+  line-height: 1.5;
+  padding: 10px 10px 6px 10px;
+  box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.2),
+    0px 2px 5px 0px rgba(0, 0, 0, 0.14),
+    0px 3px 3px -2px rgba(0, 0, 0, 0.12);
+
+  .g2-tooltip-title {
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .g2-tooltip-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    li {
+      padding: 2px 0;
+    }
+  }
+
+  .g2-tooltip-label {
+    display: inline-block;
+    min-width: 50px;
+  }
+
+  .g2-tooltip-value {
+    float: right;
+    font-weight: bold;
+    margin-left: 30px;
+  }
+}
+
 .char-detail {
+  .oli-tabs {
+    background-color: rgba($color: #fff, $alpha: 0.75);
+  }
 
   .char-image {
     img {
@@ -14,12 +56,10 @@
   .char-name {
     margin: 0 0 20px 0;
     padding: 0;
+    font-size: 24px;
   }
 
   .char-story {
-    width: 600px;
-    background-color: rgba($color: #fff, $alpha: 0.6);
-
     .char-story-content {
       padding: 10px;
     }

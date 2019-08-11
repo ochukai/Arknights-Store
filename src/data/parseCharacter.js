@@ -46,15 +46,37 @@ function parseSimpleInfo() {
       phases.forEach((p, index) => {
         const { attributesKeyFrames } = p;
         if (index === 0) {
-          let { maxHp, atk, def } = attributesKeyFrames[0].data;
-          phaseDummy.push({level: 1, maxHp, atk, def });
+          let { data } = attributesKeyFrames[0];
+          const title = '初始';
+          ['maxHp', 'atk', 'def'].forEach(attr => {
+            phaseDummy.push({
+              level: 1,
+              title,
+              attr,
+              value: data[attr],
+            })
+          });
         }
+
+        const title = index === 0
+          ? '初始满级'
+          : index === 1
+            ? '精一满级'
+            : '精二满级';
 
         const { level, data } = attributesKeyFrames[1];
         lel += level;
-        let { maxHp, atk, def } = data;
-        phaseDummy.push({ level: lel, maxHp, atk, def });
+
+        ['maxHp', 'atk', 'def'].forEach(attr => {
+          phaseDummy.push({
+            level: lel,
+            title,
+            attr,
+            value: data[attr],
+          })
+        });
       });
+
       charPhases.push({ id: key, phases: phaseDummy });
     }
 

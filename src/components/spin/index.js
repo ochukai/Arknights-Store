@@ -24,7 +24,7 @@ export default class Spin extends Component {
     const clazz = classNames('oli-spin', className, size);
     return (
       <div className={clazz} style={style}>
-        <div class="lds-dual-ring"></div>
+        <div className="lds-dual-ring"></div>
       </div>
     );
   }
