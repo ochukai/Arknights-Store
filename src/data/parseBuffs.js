@@ -72,7 +72,7 @@ function parseCharBuffs() {
           phase: phaseMaps[cond.phase],
           level: cond.level,
           char: character.name,
-          id: uuid.v4()
+          id: `${charId}_${rbd.buffId}`
         });
       });
     });
