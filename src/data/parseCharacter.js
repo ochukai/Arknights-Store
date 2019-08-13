@@ -160,6 +160,7 @@ function write() {
   const simpleInfo = parseSimpleInfo();
   writeFile(curDir, 'simples.json', simpleInfo);
   writeFile(curDir, 'phases.json', charPhases);
+  writeFile(curDir, 'evolveCosts.json', evolveCosts);
   writeFile(curDir, 'skillLvlup.json', skillLvlup);
   writeFile(curDir, 'skill810s.json', skill810s);
 

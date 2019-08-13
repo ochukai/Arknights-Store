@@ -66,7 +66,7 @@
 
     h2 {
       margin: 0;
-      padding: 4px 10px;
+      padding: 5px 12px;
       font-size: 14px;
       font-weight: normal;
       color: $color-white;
@@ -77,6 +77,32 @@
       margin: 0;
       line-height: 1.5;
       font-size: 14px;
+    }
+  }
+
+  .material-list-wrapper {
+    .title {
+      background-color: $color-primary;
+      color: $color-white;
+      padding: 5px 12px;
+      font-size: 14px;
+      font-weight: normal;
+    }
+  }
+
+  .material-list {
+    margin-bottom: 20px;
+    padding-left: 10px;
+
+    li {
+      display: flex;
+      align-items: center;
+
+      >span.label {
+        font-size: 14px;
+        min-width: 60px;
+        text-align: left;
+      }
     }
   }
 }

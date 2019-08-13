@@ -1,0 +1,2150 @@
+[
+  {"id": "char_285_medic2", "evolveCost": []},
+  {"id": "char_286_cast3", "evolveCost": []},
+  {"id": "char_502_nblade", "evolveCost": []},
+  {"id": "char_500_noirc", "evolveCost": []},
+  {"id": "char_503_rang", "evolveCost": []},
+  {"id": "char_501_durin", "evolveCost": []},
+  {"id": "char_009_12fce", "evolveCost": []},
+  {"id": "char_123_fang", "evolveCost": []},
+  {"id": "char_240_wyvern", "evolveCost": []},
+  {"id": "char_192_falco", "evolveCost": []},
+  {"id": "char_208_melan", "evolveCost": []},
+  {"id": "char_281_popka", "evolveCost": []},
+  {"id": "char_209_ardign", "evolveCost": []},
+  {"id": "char_122_beagle", "evolveCost": []},
+  {"id": "char_284_spot", "evolveCost": []},
+  {"id": "char_124_kroos", "evolveCost": []},
+  {"id": "char_211_adnach", "evolveCost": []},
+  {"id": "char_121_lava", "evolveCost": []},
+  {"id": "char_120_hibisc", "evolveCost": []},
+  {"id": "char_212_ansel", "evolveCost": []},
+  {"id": "char_210_stward", "evolveCost": []},
+  {"id": "char_278_orchid", "evolveCost": []},
+  {
+    "id": "char_141_nights",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3252", "count": 5, "type": "MATERIAL"},
+        {"id": "30013", "count": 19, "type": "MATERIAL"},
+        {"id": "30103", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_109_fmout",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3252", "count": 5, "type": "MATERIAL"},
+        {"id": "30023", "count": 17, "type": "MATERIAL"},
+        {"id": "30013", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_253_greyy",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3252", "count": 5, "type": "MATERIAL"},
+        {"id": "30083", "count": 15, "type": "MATERIAL"},
+        {"id": "30053", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_235_jesica",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3242", "count": 5, "type": "MATERIAL"},
+        {"id": "30073", "count": 20, "type": "MATERIAL"},
+        {"id": "30043", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_126_shotst",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3242", "count": 5, "type": "MATERIAL"},
+        {"id": "30043", "count": 14, "type": "MATERIAL"},
+        {"id": "30033", "count": 12, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_118_yuki",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3242", "count": 5, "type": "MATERIAL"},
+        {"id": "30053", "count": 15, "type": "MATERIAL"},
+        {"id": "30043", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_198_blackd",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3212", "count": 5, "type": "MATERIAL"},
+        {"id": "30063", "count": 11, "type": "MATERIAL"},
+        {"id": "30053", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_149_scave",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3212", "count": 5, "type": "MATERIAL"},
+        {"id": "30073", "count": 20, "type": "MATERIAL"},
+        {"id": "30063", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_290_vigna",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3212", "count": 5, "type": "MATERIAL"},
+        {"id": "30043", "count": 16, "type": "MATERIAL"},
+        {"id": "30013", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_130_doberm",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30083", "count": 15, "type": "MATERIAL"},
+        {"id": "30073", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_289_gyuki",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30053", "count": 16, "type": "MATERIAL"},
+        {"id": "30023", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_193_frostl",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30093", "count": 15, "type": "MATERIAL"},
+        {"id": "30083", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_127_estell",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30103", "count": 12, "type": "MATERIAL"},
+        {"id": "30093", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_185_frncat",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30013", "count": 20, "type": "MATERIAL"},
+        {"id": "30093", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_237_gravel",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3282", "count": 5, "type": "MATERIAL"},
+        {"id": "30033", "count": 18, "type": "MATERIAL"},
+        {"id": "30013", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_236_rope",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3282", "count": 5, "type": "MATERIAL"},
+        {"id": "30043", "count": 15, "type": "MATERIAL"},
+        {"id": "30023", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_117_myrrh",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3262", "count": 5, "type": "MATERIAL"},
+        {"id": "30053", "count": 14, "type": "MATERIAL"},
+        {"id": "30033", "count": 12, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_187_ccheal",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3262", "count": 5, "type": "MATERIAL"},
+        {"id": "30063", "count": 13, "type": "MATERIAL"},
+        {"id": "30043", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_181_flower",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3262", "count": 5, "type": "MATERIAL"},
+        {"id": "30073", "count": 19, "type": "MATERIAL"},
+        {"id": "30053", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_199_yak",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3232", "count": 5, "type": "MATERIAL"},
+        {"id": "30083", "count": 14, "type": "MATERIAL"},
+        {"id": "30063", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_150_snakek",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3232", "count": 5, "type": "MATERIAL"},
+        {"id": "30093", "count": 14, "type": "MATERIAL"},
+        {"id": "30073", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_196_sunbr",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3232", "count": 5, "type": "MATERIAL"},
+        {"id": "30103", "count": 13, "type": "MATERIAL"},
+        {"id": "30083", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_110_deepcl",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3272", "count": 5, "type": "MATERIAL"},
+        {"id": "30013", "count": 20, "type": "MATERIAL"},
+        {"id": "30083", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_183_skgoat",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3272", "count": 5, "type": "MATERIAL"},
+        {"id": "30023", "count": 20, "type": "MATERIAL"},
+        {"id": "30093", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_277_sqrrel",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3282", "count": 5, "type": "MATERIAL"},
+        {"id": "30063", "count": 12, "type": "MATERIAL"},
+        {"id": "30033", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_128_plosis",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 8, "type": "MATERIAL"},
+        {"id": "30022", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 3, "type": "MATERIAL"},
+        {"id": "30014", "count": 9, "type": "MATERIAL"},
+        {"id": "30093", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_115_headbr",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3213", "count": 3, "type": "MATERIAL"},
+        {"id": "30024", "count": 7, "type": "MATERIAL"},
+        {"id": "30103", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_102_texas",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3213", "count": 3, "type": "MATERIAL"},
+        {"id": "30034", "count": 8, "type": "MATERIAL"},
+        {"id": "30013", "count": 16, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_308_swire",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30024", "count": 7, "type": "MATERIAL"},
+        {"id": "30033", "count": 17, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_106_franka",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30044", "count": 6, "type": "MATERIAL"},
+        {"id": "30023", "count": 18, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_155_tiger",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30054", "count": 7, "type": "MATERIAL"},
+        {"id": "30033", "count": 16, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_140_whitew",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30064", "count": 6, "type": "MATERIAL"},
+        {"id": "30043", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_143_ghost",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 6, "type": "MATERIAL"},
+        {"id": "30052", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30074", "count": 8, "type": "MATERIAL"},
+        {"id": "30053", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_129_bluep",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30084", "count": 8, "type": "MATERIAL"},
+        {"id": "30063", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_204_platnm",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30094", "count": 8, "type": "MATERIAL"},
+        {"id": "30073", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_219_meteo",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30104", "count": 7, "type": "MATERIAL"},
+        {"id": "30083", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_002_amiya",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 3, "type": "MATERIAL"},
+        {"id": "30014", "count": 10, "type": "MATERIAL"},
+        {"id": "30073", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_166_skfire",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 3, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"},
+        {"id": "30093", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_242_otter",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30044", "count": 6, "type": "MATERIAL"},
+        {"id": "30103", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_108_silent",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 3, "type": "MATERIAL"},
+        {"id": "30054", "count": 7, "type": "MATERIAL"},
+        {"id": "30013", "count": 18, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_171_bldsk",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 3, "type": "MATERIAL"},
+        {"id": "30064", "count": 5, "type": "MATERIAL"},
+        {"id": "30023", "count": 17, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_148_nearl",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 3, "type": "MATERIAL"},
+        {"id": "30074", "count": 9, "type": "MATERIAL"},
+        {"id": "30033", "count": 16, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_144_red",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 7, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3283", "count": 3, "type": "MATERIAL"},
+        {"id": "30084", "count": 7, "type": "MATERIAL"},
+        {"id": "30043", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_107_liskam",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 3, "type": "MATERIAL"},
+        {"id": "30094", "count": 7, "type": "MATERIAL"},
+        {"id": "30053", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_201_moeshd",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 3, "type": "MATERIAL"},
+        {"id": "30104", "count": 8, "type": "MATERIAL"},
+        {"id": "30063", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_163_hpsts",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 3, "type": "MATERIAL"},
+        {"id": "30014", "count": 8, "type": "MATERIAL"},
+        {"id": "30053", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_145_prove",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30024", "count": 9, "type": "MATERIAL"},
+        {"id": "30063", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_158_milu",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"},
+        {"id": "30073", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_173_slchan",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 6, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3283", "count": 3, "type": "MATERIAL"},
+        {"id": "30044", "count": 6, "type": "MATERIAL"},
+        {"id": "30083", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_174_slbell",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30054", "count": 7, "type": "MATERIAL"},
+        {"id": "30093", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_195_glassb",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30052", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30064", "count": 5, "type": "MATERIAL"},
+        {"id": "30103", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_101_sora",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30074", "count": 9, "type": "MATERIAL"},
+        {"id": "30013", "count": 17, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_215_mantic",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3283", "count": 3, "type": "MATERIAL"},
+        {"id": "30084", "count": 8, "type": "MATERIAL"},
+        {"id": "30023", "count": 12, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_241_panda",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3283", "count": 3, "type": "MATERIAL"},
+        {"id": "30094", "count": 8, "type": "MATERIAL"},
+        {"id": "30033", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_103_angel",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 12, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30024", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_112_siege",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 5, "type": "MATERIAL"},
+        {"id": "30022", "count": 9, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3213", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30014", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_134_ifrit",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 5, "type": "MATERIAL"},
+        {"id": "30032", "count": 8, "type": "MATERIAL"},
+        {"id": "30012", "count": 8, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_180_amgoat",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 5, "type": "MATERIAL"},
+        {"id": "30042", "count": 7, "type": "MATERIAL"},
+        {"id": "30022", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30064", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_291_aglina",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 5, "type": "MATERIAL"},
+        {"id": "30052", "count": 7, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30024", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_147_shining",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 5, "type": "MATERIAL"},
+        {"id": "30052", "count": 6, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30044", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_179_cgbird",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 6, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30054", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_136_hsguma",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 11, "type": "MATERIAL"},
+        {"id": "30042", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30094", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_202_demkni",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 5, "type": "MATERIAL"},
+        {"id": "30022", "count": 8, "type": "MATERIAL"},
+        {"id": "30052", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30084", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_172_svrash",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 5, "type": "MATERIAL"},
+        {"id": "30032", "count": 8, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30074", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_010_chen",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 12, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30074", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_230_savage",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30014", "count": 9, "type": "MATERIAL"},
+        {"id": "30023", "count": 18, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {"id": "char_282_catap", "evolveCost": []},
+  {"id": "char_283_midn", "evolveCost": []},
+  {
+    "id": "char_137_brownb",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30023", "count": 19, "type": "MATERIAL"},
+        {"id": "30103", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_164_nightm",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 7, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 3, "type": "MATERIAL"},
+        {"id": "30024", "count": 7, "type": "MATERIAL"},
+        {"id": "30083", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_220_grani",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 8, "type": "MATERIAL"},
+        {"id": "30022", "count": 8, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3213", "count": 3, "type": "MATERIAL"},
+        {"id": "30104", "count": 7, "type": "MATERIAL"},
+        {"id": "30043", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_263_skadi",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 5, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30014", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {"id": "char_285_medic2", "evolveCost": []},
+  {"id": "char_286_cast3", "evolveCost": []},
+  {"id": "char_502_nblade", "evolveCost": []},
+  {"id": "char_500_noirc", "evolveCost": []},
+  {"id": "char_503_rang", "evolveCost": []},
+  {"id": "char_501_durin", "evolveCost": []},
+  {"id": "char_009_12fce", "evolveCost": []},
+  {"id": "char_123_fang", "evolveCost": []},
+  {"id": "char_240_wyvern", "evolveCost": []},
+  {"id": "char_192_falco", "evolveCost": []},
+  {"id": "char_208_melan", "evolveCost": []},
+  {"id": "char_281_popka", "evolveCost": []},
+  {"id": "char_209_ardign", "evolveCost": []},
+  {"id": "char_122_beagle", "evolveCost": []},
+  {"id": "char_284_spot", "evolveCost": []},
+  {"id": "char_124_kroos", "evolveCost": []},
+  {"id": "char_211_adnach", "evolveCost": []},
+  {"id": "char_121_lava", "evolveCost": []},
+  {"id": "char_120_hibisc", "evolveCost": []},
+  {"id": "char_212_ansel", "evolveCost": []},
+  {"id": "char_210_stward", "evolveCost": []},
+  {"id": "char_278_orchid", "evolveCost": []},
+  {
+    "id": "char_141_nights",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3252", "count": 5, "type": "MATERIAL"},
+        {"id": "30013", "count": 19, "type": "MATERIAL"},
+        {"id": "30103", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_109_fmout",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3252", "count": 5, "type": "MATERIAL"},
+        {"id": "30023", "count": 17, "type": "MATERIAL"},
+        {"id": "30013", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_253_greyy",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3252", "count": 5, "type": "MATERIAL"},
+        {"id": "30083", "count": 15, "type": "MATERIAL"},
+        {"id": "30053", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_235_jesica",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3242", "count": 5, "type": "MATERIAL"},
+        {"id": "30073", "count": 20, "type": "MATERIAL"},
+        {"id": "30043", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_126_shotst",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3242", "count": 5, "type": "MATERIAL"},
+        {"id": "30043", "count": 14, "type": "MATERIAL"},
+        {"id": "30033", "count": 12, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_118_yuki",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3242", "count": 5, "type": "MATERIAL"},
+        {"id": "30053", "count": 15, "type": "MATERIAL"},
+        {"id": "30043", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_198_blackd",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3212", "count": 5, "type": "MATERIAL"},
+        {"id": "30063", "count": 11, "type": "MATERIAL"},
+        {"id": "30053", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_149_scave",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3212", "count": 5, "type": "MATERIAL"},
+        {"id": "30073", "count": 20, "type": "MATERIAL"},
+        {"id": "30063", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_290_vigna",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3212", "count": 5, "type": "MATERIAL"},
+        {"id": "30043", "count": 16, "type": "MATERIAL"},
+        {"id": "30013", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_130_doberm",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30083", "count": 15, "type": "MATERIAL"},
+        {"id": "30073", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_289_gyuki",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30053", "count": 16, "type": "MATERIAL"},
+        {"id": "30023", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_193_frostl",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30093", "count": 15, "type": "MATERIAL"},
+        {"id": "30083", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_127_estell",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30103", "count": 12, "type": "MATERIAL"},
+        {"id": "30093", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_185_frncat",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30013", "count": 20, "type": "MATERIAL"},
+        {"id": "30093", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_237_gravel",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3282", "count": 5, "type": "MATERIAL"},
+        {"id": "30033", "count": 18, "type": "MATERIAL"},
+        {"id": "30013", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_236_rope",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3282", "count": 5, "type": "MATERIAL"},
+        {"id": "30043", "count": 15, "type": "MATERIAL"},
+        {"id": "30023", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_117_myrrh",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3262", "count": 5, "type": "MATERIAL"},
+        {"id": "30053", "count": 14, "type": "MATERIAL"},
+        {"id": "30033", "count": 12, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_187_ccheal",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3262", "count": 5, "type": "MATERIAL"},
+        {"id": "30063", "count": 13, "type": "MATERIAL"},
+        {"id": "30043", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_181_flower",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3262", "count": 5, "type": "MATERIAL"},
+        {"id": "30073", "count": 19, "type": "MATERIAL"},
+        {"id": "30053", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_199_yak",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3232", "count": 5, "type": "MATERIAL"},
+        {"id": "30083", "count": 14, "type": "MATERIAL"},
+        {"id": "30063", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_150_snakek",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3232", "count": 5, "type": "MATERIAL"},
+        {"id": "30093", "count": 14, "type": "MATERIAL"},
+        {"id": "30073", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_196_sunbr",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3232", "count": 5, "type": "MATERIAL"},
+        {"id": "30103", "count": 13, "type": "MATERIAL"},
+        {"id": "30083", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_110_deepcl",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3272", "count": 5, "type": "MATERIAL"},
+        {"id": "30013", "count": 20, "type": "MATERIAL"},
+        {"id": "30083", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_183_skgoat",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 3, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3272", "count": 5, "type": "MATERIAL"},
+        {"id": "30023", "count": 20, "type": "MATERIAL"},
+        {"id": "30093", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_277_sqrrel",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3282", "count": 5, "type": "MATERIAL"},
+        {"id": "30063", "count": 12, "type": "MATERIAL"},
+        {"id": "30033", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_128_plosis",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 8, "type": "MATERIAL"},
+        {"id": "30022", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 3, "type": "MATERIAL"},
+        {"id": "30014", "count": 9, "type": "MATERIAL"},
+        {"id": "30093", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_115_headbr",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3213", "count": 3, "type": "MATERIAL"},
+        {"id": "30024", "count": 7, "type": "MATERIAL"},
+        {"id": "30103", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_102_texas",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3213", "count": 3, "type": "MATERIAL"},
+        {"id": "30034", "count": 8, "type": "MATERIAL"},
+        {"id": "30013", "count": 16, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_308_swire",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30024", "count": 7, "type": "MATERIAL"},
+        {"id": "30033", "count": 17, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_106_franka",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30044", "count": 6, "type": "MATERIAL"},
+        {"id": "30023", "count": 18, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_155_tiger",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30054", "count": 7, "type": "MATERIAL"},
+        {"id": "30033", "count": 16, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_140_whitew",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30064", "count": 6, "type": "MATERIAL"},
+        {"id": "30043", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_143_ghost",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 6, "type": "MATERIAL"},
+        {"id": "30052", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30074", "count": 8, "type": "MATERIAL"},
+        {"id": "30053", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_129_bluep",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30084", "count": 8, "type": "MATERIAL"},
+        {"id": "30063", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_204_platnm",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30094", "count": 8, "type": "MATERIAL"},
+        {"id": "30073", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_219_meteo",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30104", "count": 7, "type": "MATERIAL"},
+        {"id": "30083", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_002_amiya",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 3, "type": "MATERIAL"},
+        {"id": "30014", "count": 10, "type": "MATERIAL"},
+        {"id": "30073", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_166_skfire",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 3, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"},
+        {"id": "30093", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_242_otter",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30044", "count": 6, "type": "MATERIAL"},
+        {"id": "30103", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_108_silent",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 3, "type": "MATERIAL"},
+        {"id": "30054", "count": 7, "type": "MATERIAL"},
+        {"id": "30013", "count": 18, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_171_bldsk",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 3, "type": "MATERIAL"},
+        {"id": "30064", "count": 5, "type": "MATERIAL"},
+        {"id": "30023", "count": 17, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_148_nearl",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 3, "type": "MATERIAL"},
+        {"id": "30074", "count": 9, "type": "MATERIAL"},
+        {"id": "30033", "count": 16, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_144_red",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 7, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3283", "count": 3, "type": "MATERIAL"},
+        {"id": "30084", "count": 7, "type": "MATERIAL"},
+        {"id": "30043", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_107_liskam",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 3, "type": "MATERIAL"},
+        {"id": "30094", "count": 7, "type": "MATERIAL"},
+        {"id": "30053", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_201_moeshd",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 3, "type": "MATERIAL"},
+        {"id": "30104", "count": 8, "type": "MATERIAL"},
+        {"id": "30063", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_163_hpsts",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 3, "type": "MATERIAL"},
+        {"id": "30014", "count": 8, "type": "MATERIAL"},
+        {"id": "30053", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_145_prove",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30024", "count": 9, "type": "MATERIAL"},
+        {"id": "30063", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_158_milu",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"},
+        {"id": "30073", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_173_slchan",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 6, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3283", "count": 3, "type": "MATERIAL"},
+        {"id": "30044", "count": 6, "type": "MATERIAL"},
+        {"id": "30083", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_174_slbell",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30054", "count": 7, "type": "MATERIAL"},
+        {"id": "30093", "count": 11, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_195_glassb",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30052", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30064", "count": 5, "type": "MATERIAL"},
+        {"id": "30103", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_101_sora",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30074", "count": 9, "type": "MATERIAL"},
+        {"id": "30013", "count": 17, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_215_mantic",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3283", "count": 3, "type": "MATERIAL"},
+        {"id": "30084", "count": 8, "type": "MATERIAL"},
+        {"id": "30023", "count": 12, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_241_panda",
+    "evolveCost": [
+      [
+        {"id": "3281", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"},
+        {"id": "30022", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3283", "count": 3, "type": "MATERIAL"},
+        {"id": "30094", "count": 8, "type": "MATERIAL"},
+        {"id": "30033", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_103_angel",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 12, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30024", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_112_siege",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 5, "type": "MATERIAL"},
+        {"id": "30022", "count": 9, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3213", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30014", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_134_ifrit",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 5, "type": "MATERIAL"},
+        {"id": "30032", "count": 8, "type": "MATERIAL"},
+        {"id": "30012", "count": 8, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_180_amgoat",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 5, "type": "MATERIAL"},
+        {"id": "30042", "count": 7, "type": "MATERIAL"},
+        {"id": "30022", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30064", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_291_aglina",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 5, "type": "MATERIAL"},
+        {"id": "30052", "count": 7, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30024", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_147_shining",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 5, "type": "MATERIAL"},
+        {"id": "30052", "count": 6, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30044", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_179_cgbird",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 6, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30054", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_136_hsguma",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 11, "type": "MATERIAL"},
+        {"id": "30042", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30094", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_202_demkni",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 5, "type": "MATERIAL"},
+        {"id": "30022", "count": 8, "type": "MATERIAL"},
+        {"id": "30052", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3233", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30084", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_172_svrash",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 5, "type": "MATERIAL"},
+        {"id": "30032", "count": 8, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30074", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_010_chen",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 5, "type": "MATERIAL"},
+        {"id": "30012", "count": 12, "type": "MATERIAL"},
+        {"id": "30062", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30074", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_230_savage",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30014", "count": 9, "type": "MATERIAL"},
+        {"id": "30023", "count": 18, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {"id": "char_282_catap", "evolveCost": []},
+  {"id": "char_283_midn", "evolveCost": []},
+  {
+    "id": "char_137_brownb",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3222", "count": 5, "type": "MATERIAL"},
+        {"id": "30023", "count": 19, "type": "MATERIAL"},
+        {"id": "30103", "count": 7, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_164_nightm",
+    "evolveCost": [
+      [
+        {"id": "3251", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 7, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3253", "count": 3, "type": "MATERIAL"},
+        {"id": "30024", "count": 7, "type": "MATERIAL"},
+        {"id": "30083", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_220_grani",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 8, "type": "MATERIAL"},
+        {"id": "30022", "count": 8, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3213", "count": 3, "type": "MATERIAL"},
+        {"id": "30104", "count": 7, "type": "MATERIAL"},
+        {"id": "30043", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_263_skadi",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 5, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30014", "count": 9, "type": "MATERIAL"}
+      ]
+    ]
+  }
+]
