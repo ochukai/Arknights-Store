@@ -520,6 +520,19 @@
     "tagList": ["治疗"]
   },
   {
+    "id": "char_298_susuro",
+    "name": "苏苏洛",
+    "appellation": "Sussurro",
+    "description": "恢复友方单位生命",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "远程位",
+    "star": 4,
+    "profession": "医疗",
+    "tagList": ["治疗"]
+  },
+  {
     "id": "char_181_flower",
     "name": "调香师",
     "appellation": "Perfumer",
@@ -819,6 +832,19 @@
     "tagList": ["治疗", "支援"]
   },
   {
+    "id": "char_348_ceylon",
+    "name": "锡兰",
+    "appellation": "Ceylon",
+    "description": "拥有较大治疗范围，但在治疗较远目标时治疗量变为{heal_scale:0%}",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "活动获得",
+    "position": "远程位",
+    "star": 5,
+    "profession": "医疗",
+    "tagList": ["治疗"]
+  },
+  {
     "id": "char_148_nearl",
     "name": "临光",
     "appellation": "Nearl",
@@ -949,6 +975,19 @@
     "tagList": ["减速", "输出"]
   },
   {
+    "id": "char_326_glacus",
+    "name": "格劳克斯",
+    "appellation": "Glaucus",
+    "description": "攻击造成法术伤害，并对敌人造成短暂的停顿",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "远程位",
+    "star": 5,
+    "profession": "辅助",
+    "tagList": ["减速", "控场"]
+  },
+  {
     "id": "char_101_sora",
     "name": "空",
     "appellation": "Sora",
@@ -994,6 +1033,19 @@
     "description": "优先攻击空中单位",
     "team": "企鹅物流",
     "color": "#4cd4f6",
+    "obtain": "招募寻访",
+    "position": "远程位",
+    "star": 6,
+    "profession": "阻击",
+    "tagList": ["输出"]
+  },
+  {
+    "id": "char_340_shwaz",
+    "name": "黑",
+    "appellation": "Schwarz",
+    "description": "高精度的近距离射击",
+    "team": "无团队",
+    "color": "#000000",
     "obtain": "招募寻访",
     "position": "远程位",
     "star": 6,

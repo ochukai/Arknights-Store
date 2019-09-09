@@ -6,7 +6,7 @@ import { Card, Material, Layout, NumberInput } from '../../components';
 
 import './index.scss';
 
-const materialItems = storeItems.filter(si => si.sortId >= 23 && si.sortId <= 57);
+const materialItems = storeItems.filter(si => si.sortId >= 100001 && si.sortId <= 100035);
 
 
 export default class AKStore extends React.Component {

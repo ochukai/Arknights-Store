@@ -292,6 +292,21 @@
     ]
   },
   {
+    "id": "char_298_susuro",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3262", "count": 5, "type": "MATERIAL"},
+        {"id": "30103", "count": 10, "type": "MATERIAL"},
+        {"id": "30073", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_181_flower",
     "evolveCost": [
       [
@@ -637,6 +652,21 @@
     ]
   },
   {
+    "id": "char_348_ceylon",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 3, "type": "MATERIAL"},
+        {"id": "30044", "count": 7, "type": "MATERIAL"},
+        {"id": "30053", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_148_nearl",
     "evolveCost": [
       [
@@ -787,6 +817,21 @@
     ]
   },
   {
+    "id": "char_326_glacus",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30054", "count": 7, "type": "MATERIAL"},
+        {"id": "30063", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_101_sora",
     "evolveCost": [
       [
@@ -843,6 +888,21 @@
         {"id": "3243", "count": 4, "type": "MATERIAL"},
         {"id": "30115", "count": 4, "type": "MATERIAL"},
         {"id": "30024", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_340_shwaz",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 5, "type": "MATERIAL"},
+        {"id": "30032", "count": 8, "type": "MATERIAL"},
+        {"id": "30022", "count": 6, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30044", "count": 5, "type": "MATERIAL"}
       ]
     ]
   },
@@ -1366,6 +1426,21 @@
     ]
   },
   {
+    "id": "char_298_susuro",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 3, "type": "MATERIAL"},
+        {"id": "30062", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3262", "count": 5, "type": "MATERIAL"},
+        {"id": "30103", "count": 10, "type": "MATERIAL"},
+        {"id": "30073", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_181_flower",
     "evolveCost": [
       [
@@ -1711,6 +1786,21 @@
     ]
   },
   {
+    "id": "char_348_ceylon",
+    "evolveCost": [
+      [
+        {"id": "3261", "count": 4, "type": "MATERIAL"},
+        {"id": "30042", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3263", "count": 3, "type": "MATERIAL"},
+        {"id": "30044", "count": 7, "type": "MATERIAL"},
+        {"id": "30053", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_148_nearl",
     "evolveCost": [
       [
@@ -1861,6 +1951,21 @@
     ]
   },
   {
+    "id": "char_326_glacus",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 4, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 3, "type": "MATERIAL"},
+        {"id": "30054", "count": 7, "type": "MATERIAL"},
+        {"id": "30063", "count": 10, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_101_sora",
     "evolveCost": [
       [
@@ -1917,6 +2022,21 @@
         {"id": "3243", "count": 4, "type": "MATERIAL"},
         {"id": "30115", "count": 4, "type": "MATERIAL"},
         {"id": "30024", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_340_shwaz",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 5, "type": "MATERIAL"},
+        {"id": "30032", "count": 8, "type": "MATERIAL"},
+        {"id": "30022", "count": 6, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 4, "type": "MATERIAL"},
+        {"id": "30135", "count": 4, "type": "MATERIAL"},
+        {"id": "30044", "count": 5, "type": "MATERIAL"}
       ]
     ]
   },
