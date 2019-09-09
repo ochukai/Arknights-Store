@@ -2154,5 +2154,93 @@
     "phase": "精一",
     "level": 1,
     "char": "苏苏洛"
+  },
+  {
+    "id": "char_188_helage_dorm_rec_all&oneself[010]",
+    "name": "超脱",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，自身心情每小时恢复+0.55",
+    "phase": "初始",
+    "level": 1,
+    "char": "赫拉格"
+  },
+  {
+    "id": "char_188_helage_dorm_rec_all&oneself[011]",
+    "name": "挣脱",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.1（同种效果取最高）",
+    "phase": "精一",
+    "level": 1,
+    "char": "赫拉格"
+  },
+  {
+    "id": "char_188_helage_dorm_rec_all&oneself[012]",
+    "name": "解脱",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，自身心情每小时恢复+0.55，该宿舍内所有干员的心情每小时恢复+0.1（同种效果取最高）",
+    "phase": "精二",
+    "level": 1,
+    "char": "赫拉格"
+  },
+  {
+    "id": "char_188_helage_workshop_formula_probability[010]",
+    "name": "兵者诡道",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工技巧概要时，副产品的产出概率提升80%",
+    "phase": "初始",
+    "level": 1,
+    "char": "赫拉格"
+  },
+  {
+    "id": "char_151_myrtle_trade_ord_limit&cost[000]",
+    "name": "谈判",
+    "bgColor": "#0075a9",
+    "color": "#ffffff",
+    "room": "贸易站",
+    "description": "进驻贸易站时，订单上限+3，心情每小时消耗-0.25",
+    "phase": "初始",
+    "level": 1,
+    "char": "桃金娘"
+  },
+  {
+    "id": "char_151_myrtle_dorm_rec_all[030]",
+    "name": "领袖",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.15（同种效果取最高）",
+    "phase": "精一",
+    "level": 1,
+    "char": "桃金娘"
+  },
+  {
+    "id": "char_274_astesi_meet_spd&team[000]",
+    "name": "线索搜集·α",
+    "bgColor": "#dd653f",
+    "color": "#ffffff",
+    "room": "会客室",
+    "description": "进驻会客室时，线索搜集速度提升10%",
+    "phase": "初始",
+    "level": 1,
+    "char": "星极"
+  },
+  {
+    "id": "char_274_astesi_meet_spd&team[110]",
+    "name": "星象学",
+    "bgColor": "#dd653f",
+    "color": "#ffffff",
+    "room": "会客室",
+    "description": "进驻会客室时，线索搜集速度提升25%",
+    "phase": "精二",
+    "level": 1,
+    "char": "星极"
   }
 ]

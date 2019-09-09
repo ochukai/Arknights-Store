@@ -445,6 +445,53 @@
     ]
   },
   {
+    "id": "char_151_myrtle",
+    "skills": [
+      {
+        "id": "skcom_assist_cost[2]",
+        "name": "支援号令·β型",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30044", "count": 1, "type": "MATERIAL"},
+            {"id": "30023", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30064", "count": 1, "type": "MATERIAL"},
+            {"id": "30044", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_myrtle_2",
+        "name": "治愈之翼",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30054", "count": 1, "type": "MATERIAL"},
+            {"id": "30033", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"},
+            {"id": "30054", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30125", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_130_doberm",
     "skills": [
       {
@@ -1614,6 +1661,53 @@
             {"id": "3303", "count": 10, "type": "MATERIAL"},
             {"id": "30125", "count": 4, "type": "MATERIAL"},
             {"id": "30084", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_274_astesi",
+    "skills": [
+      {
+        "id": "skchr_astesi_1",
+        "name": "星座守护",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30013", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30034", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_astesi_2",
+        "name": "星辉剑",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30023", "count": 1, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"},
+            {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 5, "type": "MATERIAL"}
           ]
         ]
       }
@@ -3532,6 +3626,74 @@
             {"id": "3303", "count": 15, "type": "MATERIAL"},
             {"id": "30135", "count": 6, "type": "MATERIAL"},
             {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_188_helage",
+    "skills": [
+      {
+        "id": "skchr_helage_1",
+        "name": "新月",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30024", "count": 4, "type": "MATERIAL"},
+            {"id": "30103", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30054", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30135", "count": 6, "type": "MATERIAL"},
+            {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_helage_2",
+        "name": "弦月",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"},
+            {"id": "30013", "count": 8, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30064", "count": 3, "type": "MATERIAL"},
+            {"id": "30044", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30125", "count": 6, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_helage_3",
+        "name": "满月",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"},
+            {"id": "30023", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30074", "count": 4, "type": "MATERIAL"},
+            {"id": "30054", "count": 8, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30125", "count": 6, "type": "MATERIAL"},
+            {"id": "30094", "count": 5, "type": "MATERIAL"}
           ]
         ]
       }
@@ -4241,6 +4403,53 @@
     ]
   },
   {
+    "id": "char_151_myrtle",
+    "skills": [
+      {
+        "id": "skcom_assist_cost[2]",
+        "name": "支援号令·β型",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30044", "count": 1, "type": "MATERIAL"},
+            {"id": "30023", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30064", "count": 1, "type": "MATERIAL"},
+            {"id": "30044", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_myrtle_2",
+        "name": "治愈之翼",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30054", "count": 1, "type": "MATERIAL"},
+            {"id": "30033", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"},
+            {"id": "30054", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30125", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_130_doberm",
     "skills": [
       {
@@ -5410,6 +5619,53 @@
             {"id": "3303", "count": 10, "type": "MATERIAL"},
             {"id": "30125", "count": 4, "type": "MATERIAL"},
             {"id": "30084", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_274_astesi",
+    "skills": [
+      {
+        "id": "skchr_astesi_1",
+        "name": "星座守护",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30013", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30034", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_astesi_2",
+        "name": "星辉剑",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30023", "count": 1, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"},
+            {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 5, "type": "MATERIAL"}
           ]
         ]
       }
@@ -7328,6 +7584,74 @@
             {"id": "3303", "count": 15, "type": "MATERIAL"},
             {"id": "30135", "count": 6, "type": "MATERIAL"},
             {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_188_helage",
+    "skills": [
+      {
+        "id": "skchr_helage_1",
+        "name": "新月",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30024", "count": 4, "type": "MATERIAL"},
+            {"id": "30103", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30054", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30135", "count": 6, "type": "MATERIAL"},
+            {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_helage_2",
+        "name": "弦月",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"},
+            {"id": "30013", "count": 8, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30064", "count": 3, "type": "MATERIAL"},
+            {"id": "30044", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30125", "count": 6, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_helage_3",
+        "name": "满月",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"},
+            {"id": "30023", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30074", "count": 4, "type": "MATERIAL"},
+            {"id": "30054", "count": 8, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30125", "count": 6, "type": "MATERIAL"},
+            {"id": "30094", "count": 5, "type": "MATERIAL"}
           ]
         ]
       }

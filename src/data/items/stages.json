@@ -2561,6 +2561,163 @@
       {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
     ]
   },
+  {
+    "id": "a003_f04",
+    "name": "火山攀岩",
+    "code": "OF-F4",
+    "apCost": -1,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "token_ObsidianCoin", "dropType": 8, "name": "黑曜石节抽奖代币"},
+      {"type": "ACTIVITY_ITEM", "id": "token_ObsidianCoin", "dropType": 3, "name": "黑曜石节抽奖代币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex01",
+    "name": "预热活动",
+    "code": "OF-EX1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ET_STAGE", "id": "et_ObsidianPass", "dropType": 8, "name": "黑曜石节门票"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex01#f#",
+    "name": "预热活动",
+    "code": "OF-EX1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "token_ObsidianCoin", "dropType": 8, "name": "黑曜石节抽奖代币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex02",
+    "name": "盛大开幕",
+    "code": "OF-EX2",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ET_STAGE", "id": "et_ObsidianPass", "dropType": 8, "name": "黑曜石节门票"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex02#f#",
+    "name": "盛大开幕",
+    "code": "OF-EX2",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "token_ObsidianCoin", "dropType": 8, "name": "黑曜石节抽奖代币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex03",
+    "name": "采访环节",
+    "code": "OF-EX3",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ET_STAGE", "id": "et_ObsidianPass", "dropType": 8, "name": "黑曜石节门票"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex03#f#",
+    "name": "采访环节",
+    "code": "OF-EX3",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "token_ObsidianCoin", "dropType": 8, "name": "黑曜石节抽奖代币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex04",
+    "name": "渐入佳境",
+    "code": "OF-EX4",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ET_STAGE", "id": "et_ObsidianPass", "dropType": 8, "name": "黑曜石节门票"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex04#f#",
+    "name": "渐入佳境",
+    "code": "OF-EX4",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "token_ObsidianCoin", "dropType": 8, "name": "黑曜石节抽奖代币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex05",
+    "name": "高潮迭起",
+    "code": "OF-EX5",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ET_STAGE", "id": "et_ObsidianPass", "dropType": 8, "name": "黑曜石节门票"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex05#f#",
+    "name": "高潮迭起",
+    "code": "OF-EX5",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "token_ObsidianCoin", "dropType": 8, "name": "黑曜石节抽奖代币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex06",
+    "name": "完美落幕",
+    "code": "OF-EX6",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "ET_STAGE", "id": "et_ObsidianPass", "dropType": 8, "name": "黑曜石节门票"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "a003_ex06#f#",
+    "name": "完美落幕",
+    "code": "OF-EX6",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS004_deadBySunrise_01", "dropType": 8},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
   {"id": "camp_01", "name": "切尔诺伯格", "code": "剿灭作战", "apCost": 20, "expGain": 0, "goldGain": 0, "drops": []},
   {"id": "camp_02", "name": "龙门外环", "code": "剿灭作战", "apCost": 25, "expGain": 0, "goldGain": 0, "drops": []},
   {"id": "camp_03", "name": "龙门市区", "code": "剿灭作战", "apCost": 25, "expGain": 0, "goldGain": 0, "drops": []}

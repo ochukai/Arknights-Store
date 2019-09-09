@@ -271,6 +271,17 @@
     ]
   },
   {
+    "id": "char_151_myrtle",
+    "skillLvlUp": [
+      [{"id": "3301", "count": 2, "type": "MATERIAL"}],
+      [{"id": "3301", "count": 2, "type": "MATERIAL"}, {"id": "30051", "count": 3, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 3, "type": "MATERIAL"}, {"id": "30062", "count": 1, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 3, "type": "MATERIAL"}, {"id": "30012", "count": 4, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 3, "type": "MATERIAL"}, {"id": "30023", "count": 3, "type": "MATERIAL"}],
+      [{"id": "3303", "count": 4, "type": "MATERIAL"}, {"id": "30033", "count": 3, "type": "MATERIAL"}]
+    ]
+  },
+  {
     "id": "char_130_doberm",
     "skillLvlUp": [
       [{"id": "3301", "count": 2, "type": "MATERIAL"}],
@@ -574,6 +585,21 @@
         {"id": "3303", "count": 6, "type": "MATERIAL"},
         {"id": "30013", "count": 4, "type": "MATERIAL"},
         {"id": "30063", "count": 2, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_274_astesi",
+    "skillLvlUp": [
+      [{"id": "3301", "count": 4, "type": "MATERIAL"}],
+      [{"id": "3301", "count": 4, "type": "MATERIAL"}, {"id": "30021", "count": 7, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 6, "type": "MATERIAL"}, {"id": "30032", "count": 3, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 6, "type": "MATERIAL"}, {"id": "30042", "count": 4, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 6, "type": "MATERIAL"}, {"id": "30013", "count": 5, "type": "MATERIAL"}],
+      [
+        {"id": "3303", "count": 6, "type": "MATERIAL"},
+        {"id": "30023", "count": 3, "type": "MATERIAL"},
+        {"id": "30043", "count": 3, "type": "MATERIAL"}
       ]
     ]
   },
@@ -1195,6 +1221,29 @@
         {"id": "3303", "count": 8, "type": "MATERIAL"},
         {"id": "30073", "count": 5, "type": "MATERIAL"},
         {"id": "30053", "count": 4, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_188_helage",
+    "skillLvlUp": [
+      [{"id": "3301", "count": 5, "type": "MATERIAL"}],
+      [
+        {"id": "3301", "count": 5, "type": "MATERIAL"},
+        {"id": "30031", "count": 6, "type": "MATERIAL"},
+        {"id": "30041", "count": 4, "type": "MATERIAL"}
+      ],
+      [{"id": "3302", "count": 8, "type": "MATERIAL"}, {"id": "30042", "count": 4, "type": "MATERIAL"}],
+      [
+        {"id": "3302", "count": 8, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 5, "type": "MATERIAL"}
+      ],
+      [{"id": "3302", "count": 8, "type": "MATERIAL"}, {"id": "30083", "count": 6, "type": "MATERIAL"}],
+      [
+        {"id": "3303", "count": 8, "type": "MATERIAL"},
+        {"id": "30093", "count": 4, "type": "MATERIAL"},
+        {"id": "30013", "count": 5, "type": "MATERIAL"}
       ]
     ]
   },
@@ -1571,6 +1620,17 @@
     ]
   },
   {
+    "id": "char_151_myrtle",
+    "skillLvlUp": [
+      [{"id": "3301", "count": 2, "type": "MATERIAL"}],
+      [{"id": "3301", "count": 2, "type": "MATERIAL"}, {"id": "30051", "count": 3, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 3, "type": "MATERIAL"}, {"id": "30062", "count": 1, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 3, "type": "MATERIAL"}, {"id": "30012", "count": 4, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 3, "type": "MATERIAL"}, {"id": "30023", "count": 3, "type": "MATERIAL"}],
+      [{"id": "3303", "count": 4, "type": "MATERIAL"}, {"id": "30033", "count": 3, "type": "MATERIAL"}]
+    ]
+  },
+  {
     "id": "char_130_doberm",
     "skillLvlUp": [
       [{"id": "3301", "count": 2, "type": "MATERIAL"}],
@@ -1874,6 +1934,21 @@
         {"id": "3303", "count": 6, "type": "MATERIAL"},
         {"id": "30013", "count": 4, "type": "MATERIAL"},
         {"id": "30063", "count": 2, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_274_astesi",
+    "skillLvlUp": [
+      [{"id": "3301", "count": 4, "type": "MATERIAL"}],
+      [{"id": "3301", "count": 4, "type": "MATERIAL"}, {"id": "30021", "count": 7, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 6, "type": "MATERIAL"}, {"id": "30032", "count": 3, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 6, "type": "MATERIAL"}, {"id": "30042", "count": 4, "type": "MATERIAL"}],
+      [{"id": "3302", "count": 6, "type": "MATERIAL"}, {"id": "30013", "count": 5, "type": "MATERIAL"}],
+      [
+        {"id": "3303", "count": 6, "type": "MATERIAL"},
+        {"id": "30023", "count": 3, "type": "MATERIAL"},
+        {"id": "30043", "count": 3, "type": "MATERIAL"}
       ]
     ]
   },
@@ -2495,6 +2570,29 @@
         {"id": "3303", "count": 8, "type": "MATERIAL"},
         {"id": "30073", "count": 5, "type": "MATERIAL"},
         {"id": "30053", "count": 4, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_188_helage",
+    "skillLvlUp": [
+      [{"id": "3301", "count": 5, "type": "MATERIAL"}],
+      [
+        {"id": "3301", "count": 5, "type": "MATERIAL"},
+        {"id": "30031", "count": 6, "type": "MATERIAL"},
+        {"id": "30041", "count": 4, "type": "MATERIAL"}
+      ],
+      [{"id": "3302", "count": 8, "type": "MATERIAL"}, {"id": "30042", "count": 4, "type": "MATERIAL"}],
+      [
+        {"id": "3302", "count": 8, "type": "MATERIAL"},
+        {"id": "30052", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 5, "type": "MATERIAL"}
+      ],
+      [{"id": "3302", "count": 8, "type": "MATERIAL"}, {"id": "30083", "count": 6, "type": "MATERIAL"}],
+      [
+        {"id": "3303", "count": 8, "type": "MATERIAL"},
+        {"id": "30093", "count": 4, "type": "MATERIAL"},
+        {"id": "30013", "count": 5, "type": "MATERIAL"}
       ]
     ]
   },

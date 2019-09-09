@@ -157,6 +157,21 @@
     ]
   },
   {
+    "id": "char_151_myrtle",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3212", "count": 5, "type": "MATERIAL"},
+        {"id": "30093", "count": 12, "type": "MATERIAL"},
+        {"id": "30063", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_130_doberm",
     "evolveCost": [
       [
@@ -528,6 +543,21 @@
         {"id": "3223", "count": 3, "type": "MATERIAL"},
         {"id": "30074", "count": 8, "type": "MATERIAL"},
         {"id": "30053", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_274_astesi",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"},
+        {"id": "30043", "count": 14, "type": "MATERIAL"}
       ]
     ]
   },
@@ -1053,6 +1083,21 @@
         {"id": "3223", "count": 4, "type": "MATERIAL"},
         {"id": "30115", "count": 4, "type": "MATERIAL"},
         {"id": "30074", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_188_helage",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 5, "type": "MATERIAL"},
+        {"id": "30022", "count": 10, "type": "MATERIAL"},
+        {"id": "30012", "count": 6, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"}
       ]
     ]
   },
@@ -1291,6 +1336,21 @@
     ]
   },
   {
+    "id": "char_151_myrtle",
+    "evolveCost": [
+      [
+        {"id": "3211", "count": 3, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"},
+        {"id": "30042", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3212", "count": 5, "type": "MATERIAL"},
+        {"id": "30093", "count": 12, "type": "MATERIAL"},
+        {"id": "30063", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_130_doberm",
     "evolveCost": [
       [
@@ -1662,6 +1722,21 @@
         {"id": "3223", "count": 3, "type": "MATERIAL"},
         {"id": "30074", "count": 8, "type": "MATERIAL"},
         {"id": "30053", "count": 15, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_274_astesi",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30032", "count": 5, "type": "MATERIAL"},
+        {"id": "30042", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"},
+        {"id": "30043", "count": 14, "type": "MATERIAL"}
       ]
     ]
   },
@@ -2187,6 +2262,21 @@
         {"id": "3223", "count": 4, "type": "MATERIAL"},
         {"id": "30115", "count": 4, "type": "MATERIAL"},
         {"id": "30074", "count": 6, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_188_helage",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 5, "type": "MATERIAL"},
+        {"id": "30022", "count": 10, "type": "MATERIAL"},
+        {"id": "30012", "count": 6, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 4, "type": "MATERIAL"},
+        {"id": "30125", "count": 4, "type": "MATERIAL"},
+        {"id": "30034", "count": 7, "type": "MATERIAL"}
       ]
     ]
   },

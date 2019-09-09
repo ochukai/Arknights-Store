@@ -403,6 +403,19 @@
     "tagList": ["输出", "费用回复"]
   },
   {
+    "id": "char_151_myrtle",
+    "name": "桃金娘",
+    "appellation": "Myrtle",
+    "description": "技能发动期间阻挡数变为0",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "近战位",
+    "star": 4,
+    "profession": "前锋",
+    "tagList": ["费用回复", "治疗"]
+  },
+  {
     "id": "char_130_doberm",
     "name": "杜宾",
     "appellation": "Dobermann",
@@ -726,6 +739,19 @@
     "star": 5,
     "profession": "近卫",
     "tagList": ["群攻", "生存"]
+  },
+  {
+    "id": "char_274_astesi",
+    "name": "星极",
+    "appellation": "Astesia",
+    "description": "攻击造成法术伤害",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "近战位",
+    "star": 5,
+    "profession": "近卫",
+    "tagList": ["输出", "防护"]
   },
   {
     "id": "char_129_bluep",
@@ -1181,6 +1207,19 @@
     "star": 6,
     "profession": "近卫",
     "tagList": ["爆发", "输出"]
+  },
+  {
+    "id": "char_188_helage",
+    "name": "赫拉格",
+    "appellation": "Hellagur",
+    "description": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身{value}生命",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "近战位",
+    "star": 6,
+    "profession": "近卫",
+    "tagList": ["输出", "生存"]
   },
   {
     "id": "char_230_savage",
