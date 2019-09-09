@@ -98,7 +98,7 @@ function parseStages() {
 }
 
 function isValidSortId(sortId = -1) {
-  return sortId > 0 && sortId < 120;
+  return sortId > 10000 && sortId < 450001;
 }
 
 function isValidItemId(itemId) {
@@ -116,6 +116,10 @@ function isValidItemId(itemId) {
     '7002',
     '3401',
     '3105', // 龙骨
+    'renamingCard',
+    'et_ObsidianPass',
+    'ap_supply_lt_100',
+    'ap_supply_lt_60',
     // '3003',
     // '3133',
     // '3132',
@@ -129,11 +133,11 @@ function isValidItemId(itemId) {
 }
 
 function isMaterial(sortId) {
-  return sortId >= 23 && sortId <= 57;
+  return sortId >= 100001 && sortId <= 100035;
 }
 
 function isChip(sortId) {
-  return sortId >= 74 && sortId <= 97;
+  return sortId >= 400002 && sortId <= 400025;
 }
 
 
@@ -251,6 +255,7 @@ function fillItems(items) {
     fillItem(item);
   });
 }
+
 // 所有的 item
 const itemKeys = Object.keys(items);
 const itemArr = itemKeys.map(key => items[key]);

@@ -2030,5 +2030,491 @@
       }
     ],
     "totalComfort": 4915
+  },
+  {
+    "id": "furni_set_beach",
+    "name": "汐斯塔沙滩小屋",
+    "groups": [
+      {
+        "themeId": "furni_set_beach",
+        "name": "盛夏回忆组合",
+        "comfort": 255,
+        "furniture": [
+          "furni_beach_cabinet_01",
+          "furni_beach_tableChairSets_01",
+          "furni_beach_floorLamp_01",
+          "furni_beach_calendar_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_beach",
+        "name": "清凉一夏套组",
+        "comfort": 150,
+        "furniture": [
+          "furni_beach_coffeeTable_01",
+          "furni_beach_chair_01",
+          "furni_beach_drinkTable_01",
+          "furni_beach_deckChair_01",
+          "furni_beach_surfboard_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_beach",
+        "name": "沙滩壁饰集锦",
+        "comfort": 145,
+        "furniture": [
+          "furni_beach_anchor_01",
+          "furni_beach_sail_01",
+          "furni_beach_curtain_L_01",
+          "furni_beach_curtain_R_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_beach",
+        "name": "汐斯塔自然风光",
+        "comfort": 355,
+        "furniture": [
+          "furni_beach_wallpaper_01",
+          "furni_beach_floor_01",
+          "furni_beach_slopedCeiling_01",
+          "furni_beach_carpet_01",
+          "furni_beach_doorMat_01"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_beach_cabinet_01",
+        "name": "夏日小船柜",
+        "type": "CABINET",
+        "comfort": 295,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_tableChairSets_01",
+        "name": "夏日收藏柜",
+        "type": "DECORATION",
+        "comfort": 460,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_calendar_01",
+        "name": "罗德岛夏日挂历",
+        "type": "WALLDECO",
+        "comfort": 85,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_floorLamp_01",
+        "name": "沙滩小屋落地灯",
+        "type": "DECORATION",
+        "comfort": 190,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_anchor_01",
+        "name": "汐斯塔市徽纪念品",
+        "type": "WALLDECO",
+        "comfort": 165,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_sail_01",
+        "name": "航海印象儿童画",
+        "type": "WALLDECO",
+        "comfort": 105,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_chair_01",
+        "name": "懒懒™双人休息椅",
+        "type": "SEATING",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_coffeeTable_01",
+        "name": "懒懒™茶几",
+        "type": "TABLE",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_drinkTable_01",
+        "name": "懒懒™高脚茶几",
+        "type": "TABLE",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_surfboard_01",
+        "name": "冲浪达人的板架",
+        "type": "DECORATION",
+        "comfort": 195,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_deckChair_01",
+        "name": "懒懒™躺椅",
+        "type": "SEATING",
+        "comfort": 160,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_curtain_L_01",
+        "name": "蓝白帆布窗帘（左）",
+        "type": "WALLDECO",
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_curtain_R_01",
+        "name": "蓝白帆布窗帘（右）",
+        "type": "WALLDECO",
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_carpet_01",
+        "name": "汐斯塔船舵地毯",
+        "type": "CARPET",
+        "comfort": 165,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_doorMat_01",
+        "name": "汐斯塔特制门垫",
+        "type": "CARPET",
+        "comfort": 40,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_beach_slopedCeiling_01",
+        "name": "木制顶梁",
+        "type": "CEILING",
+        "comfort": 795,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_wallpaper_01",
+        "name": "全景显示屏（汐斯塔）",
+        "type": "WALLPAPER",
+        "comfort": 225,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_beach_floor_01",
+        "name": "夏日实木地板",
+        "type": "FLOOR",
+        "comfort": 225,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4800
+  },
+  {
+    "id": "furni_set_guitar",
+    "name": "罗德岛现代音乐排练室",
+    "groups": [
+      {
+        "themeId": "furni_set_guitar",
+        "name": "一号吉他收藏",
+        "comfort": 225,
+        "furniture": [
+          "furni_guitar_guitar1_01",
+          "furni_guitar_guitar2_01",
+          "furni_guitar_guitar3_01",
+          "furni_guitar_guitar4_01",
+          "furni_guitar_guitar5_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_guitar",
+        "name": "二号吉他收藏",
+        "comfort": 225,
+        "furniture": [
+          "furni_guitar_guitar6_01",
+          "furni_guitar_guitar7_01",
+          "furni_guitar_guitar8_01",
+          "furni_guitar_guitar9_01",
+          "furni_guitar_guitar10_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_guitar",
+        "name": "练习室套件",
+        "comfort": 300,
+        "furniture": [
+          "furni_guitar_guitarCases_01",
+          "furni_guitar_drumKit_01",
+          "furni_guitar_longBench_01",
+          "furni_guitar_poster1_01",
+          "furni_guitar_poster2_01",
+          "furni_guitar_carpet_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_guitar",
+        "name": "前台接待套件",
+        "comfort": 210,
+        "furniture": [
+          "furni_guitar_reception_01",
+          "furni_guitar_stool_01",
+          "furni_guitar_display_01",
+          "furni_guitar_pegboard_01",
+          "furni_guitar_pegboard2_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_guitar",
+        "name": "现场氛围套件",
+        "comfort": 390,
+        "furniture": [
+          "furni_guitar_wallpaper_01",
+          "furni_guitar_floor_01",
+          "furni_guitar_ceiling_01",
+          "furni_guitar_spotlight_01",
+          "furni_guitar_partitionWall_01",
+          "furni_guitar_curtain_01"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_guitar_guitar1_01",
+        "name": "“浮木”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitar2_01",
+        "name": "“舞台”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitar3_01",
+        "name": "“麦香”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitar4_01",
+        "name": "“浅海”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitar5_01",
+        "name": "“磨砂”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitar6_01",
+        "name": "“墨钢”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitar7_01",
+        "name": "“琥珀”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitar8_01",
+        "name": "“白桦”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitar9_01",
+        "name": "“烈火”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitar10_01",
+        "name": "“乌云”",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_guitarCases_01",
+        "name": "巡演设备组合",
+        "type": "DECORATION",
+        "comfort": 235,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_drumKit_01",
+        "name": "雅尔玛汗™架子鼓",
+        "type": "DECORATION",
+        "comfort": 310,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_longBench_01",
+        "name": "排练室长凳",
+        "type": "SEATING",
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_partitionWall_01",
+        "name": "排练室隔断墙",
+        "type": "DECORATION",
+        "comfort": 315,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_reception_01",
+        "name": "排练室接待台",
+        "type": "TABLE",
+        "comfort": 325,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_stool_01",
+        "name": "排练室圆凳",
+        "type": "SEATING",
+        "comfort": 90,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_guitar_display_01",
+        "name": "悬挂式滚动显示屏",
+        "type": "WALLDECO",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_pegboard_01",
+        "name": "排练室背带挂板",
+        "type": "WALLDECO",
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_pegboard2_01",
+        "name": "排练室配件挂板",
+        "type": "WALLDECO",
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_poster1_01",
+        "name": "萨卡兹摇滚海报",
+        "type": "WALLDECO",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_poster2_01",
+        "name": "乐队宣传海报",
+        "type": "WALLDECO",
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_curtain_01",
+        "name": "排练室遮灰帘",
+        "type": "WALLDECO",
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_spotlight_01",
+        "name": "排练室聚光灯",
+        "type": "WALLDECO",
+        "comfort": 105,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_ceiling_01",
+        "name": "聚光灯吊顶",
+        "type": "CEILING",
+        "comfort": 485,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_carpet_01",
+        "name": "排练室专用地毯",
+        "type": "CARPET",
+        "comfort": 245,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_wallpaper_01",
+        "name": "排练室吸音壁纸",
+        "type": "WALLPAPER",
+        "comfort": 225,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_guitar_floor_01",
+        "name": "排练室吸音地砖",
+        "type": "FLOOR",
+        "comfort": 225,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 5300
   }
 ]

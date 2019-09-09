@@ -2,7 +2,7 @@
   {
     "id": "2001",
     "name": "基础作战记录",
-    "sortId": 15,
+    "sortId": 20004,
     "rarity": 1,
     "itemType": "CARD_EXP",
     "description": "在恶劣环境下的每次行动都可能有人会丢掉性命。如果做好了充足的准备，或许也能多拯救一些生命。\\n存储了数场战斗的录像。",
@@ -20,7 +20,8 @@
           "goldGain": 100,
           "drops": [
             {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
-            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -34,7 +35,10 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [{"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}]
+          "drops": [
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -50,7 +54,8 @@
           "drops": [
             {"type": "CHAR", "id": "char_212_ansel", "dropType": 1},
             {"type": "MATERIAL", "id": "3112", "dropType": 1, "name": "碳"},
-            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -74,7 +79,7 @@
   {
     "id": "2002",
     "name": "初级作战记录",
-    "sortId": 14,
+    "sortId": 20003,
     "rarity": 2,
     "itemType": "CARD_EXP",
     "description": "在恶劣环境下的每次行动都可能有人会丢掉性命。如果做好了充足的准备，或许也能多拯救一些生命。\\n存储了多场战斗的录像与详细数据分析资料。附送了三小时的花絮与访谈。",
@@ -92,7 +97,8 @@
           "goldGain": 100,
           "drops": [
             {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
-            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -106,7 +112,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}]
+          "drops": [
+            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -119,7 +128,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"}]
+          "drops": [
+            {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -142,7 +154,7 @@
   {
     "id": "2003",
     "name": "中级作战记录",
-    "sortId": 13,
+    "sortId": 20002,
     "rarity": 3,
     "itemType": "CARD_EXP",
     "description": "在恶劣环境下的每次行动都可能有人会丢掉性命。如果做好了充足的准备，或许也能多拯救一些生命。\\n存储了多个录像集锦，夹带了一张录像人的签名版。",
@@ -160,7 +172,8 @@
           "goldGain": 100,
           "drops": [
             {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
-            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -174,7 +187,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
-          "drops": [{"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}]
+          "drops": [
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -187,7 +203,10 @@
           "apCost": 21,
           "expGain": 210,
           "goldGain": 210,
-          "drops": [{"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}]
+          "drops": [
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -200,7 +219,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
-          "drops": [{"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}]
+          "drops": [
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -223,7 +245,7 @@
   {
     "id": "2004",
     "name": "高级作战记录",
-    "sortId": 12,
+    "sortId": 20001,
     "rarity": 4,
     "itemType": "CARD_EXP",
     "description": "在恶劣环境下的每次行动都可能有人会丢掉性命。如果做好了充足的准备，或许也能多拯救一些生命。\\n追加了总集篇。附带高清版、高清重制版、威力加强版、导演剪辑版、年度黄金版……",
@@ -241,7 +263,8 @@
           "goldGain": 100,
           "drops": [
             {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
-            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"}
+            {"type": "CARD_EXP", "id": "2001", "dropType": 2, "name": "基础作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -254,7 +277,7 @@
   {
     "id": "3003",
     "name": "赤金",
-    "sortId": 20,
+    "sortId": 10005,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "需要多少矿石才能提炼出如此贵重的金条呢——之类的想法已经不重要了。现在它正整整齐齐堆在你眼前，这才是关键啊。",
@@ -279,7 +302,7 @@
   {
     "id": "3112",
     "name": "碳",
-    "sortId": 66,
+    "sortId": 200008,
     "rarity": 1,
     "itemType": "MATERIAL",
     "description": "可生产出种类繁多的聚合物，是工业制造不可缺少的原材料之一。",
@@ -297,7 +320,8 @@
           "goldGain": 100,
           "drops": [
             {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
-            {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
+            {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -311,7 +335,10 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [{"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -323,7 +350,7 @@
   {
     "id": "3113",
     "name": "碳素",
-    "sortId": 65,
+    "sortId": 200007,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "轻量，高纯度，具备优质的可加工性，我们如今的辉煌时代正是建立在它们的脊梁上。",
@@ -341,7 +368,8 @@
           "goldGain": 100,
           "drops": [
             {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
-            {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
+            {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -366,7 +394,7 @@
   {
     "id": "3114",
     "name": "碳素组",
-    "sortId": 64,
+    "sortId": 200006,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "大量的碳素资源。每一块砖都饱含着燃烧的工业之魂。",
@@ -384,7 +412,8 @@
           "goldGain": 100,
           "drops": [
             {"type": "MATERIAL", "id": "3112", "dropType": 2, "name": "碳"},
-            {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"}
+            {"type": "MATERIAL", "id": "3401", "dropType": 2, "name": "家具零件"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -409,7 +438,7 @@
   {
     "id": "3131",
     "name": "基础加固建材",
-    "sortId": 63,
+    "sortId": 200005,
     "rarity": 1,
     "itemType": "MATERIAL",
     "description": "对房间进行改造时，如果不施加妥善的处理，施工将会对承重部位造成不可逆转的破坏。请在启动工程前使用加固建材保证房间完整性。",
@@ -435,7 +464,7 @@
   {
     "id": "3132",
     "name": "进阶加固建材",
-    "sortId": 62,
+    "sortId": 200004,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "如果打算对土木结构较为脆弱的区域内的房间进行改造，请在施工前使用此种建材进行维护。这样一来，建设初期的安全隐患将会迎刃而解。之后，请开始您的表演。",
@@ -461,7 +490,7 @@
   {
     "id": "3133",
     "name": "高级加固建材",
-    "sortId": 61,
+    "sortId": 200003,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "请勿对使用该标准建材维护过的房间进行无限制的稳定性测试！理论认为，目前已知的测试手段并不能破坏此房间的结构完整，但有可能导致实验者灰飞烟灭。",
@@ -487,7 +516,7 @@
   {
     "id": "3211",
     "name": "先锋芯片",
-    "sortId": 76,
+    "sortId": 400004,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历尚浅的先锋有特别的帮助。",
@@ -505,7 +534,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3211", "dropType": 2, "name": "先锋芯片"},
-            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"}
+            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -530,7 +560,7 @@
   {
     "id": "3212",
     "name": "先锋芯片组",
-    "sortId": 75,
+    "sortId": 400003,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对日渐成熟的先锋干员有特别的指导。",
@@ -548,7 +578,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3211", "dropType": 2, "name": "先锋芯片"},
-            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"}
+            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -573,7 +604,7 @@
   {
     "id": "3213",
     "name": "先锋双芯片",
-    "sortId": 74,
+    "sortId": 400002,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历颇深的先锋干员有特别的提升。",
@@ -601,7 +632,7 @@
   {
     "id": "3221",
     "name": "近卫芯片",
-    "sortId": 79,
+    "sortId": 400007,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历尚浅的近卫干员有特别的帮助。",
@@ -619,7 +650,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3221", "dropType": 2, "name": "近卫芯片"},
-            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"}
+            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -644,7 +676,7 @@
   {
     "id": "3222",
     "name": "近卫芯片组",
-    "sortId": 78,
+    "sortId": 400006,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对日渐成熟的近卫干员有特别的指导。",
@@ -662,7 +694,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3221", "dropType": 2, "name": "近卫芯片"},
-            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"}
+            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -687,7 +720,7 @@
   {
     "id": "3223",
     "name": "近卫双芯片",
-    "sortId": 77,
+    "sortId": 400005,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历颇深的近卫干员有特别的提升。",
@@ -715,7 +748,7 @@
   {
     "id": "3231",
     "name": "重装芯片",
-    "sortId": 82,
+    "sortId": 400010,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历尚浅的重装干员有特别的帮助。",
@@ -733,7 +766,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3231", "dropType": 2, "name": "重装芯片"},
-            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"}
+            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -758,7 +792,7 @@
   {
     "id": "3232",
     "name": "重装芯片组",
-    "sortId": 81,
+    "sortId": 400009,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对日渐成熟的重装干员有特别的指导。",
@@ -776,7 +810,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3231", "dropType": 2, "name": "重装芯片"},
-            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"}
+            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -801,7 +836,7 @@
   {
     "id": "3233",
     "name": "重装双芯片",
-    "sortId": 80,
+    "sortId": 400008,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历颇深的重装干员有特别的提升。",
@@ -829,7 +864,7 @@
   {
     "id": "3241",
     "name": "狙击芯片",
-    "sortId": 85,
+    "sortId": 400013,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历尚浅的狙击干员有特别的帮助。",
@@ -847,7 +882,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3241", "dropType": 2, "name": "狙击芯片"},
-            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"}
+            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -872,7 +908,7 @@
   {
     "id": "3242",
     "name": "狙击芯片组",
-    "sortId": 84,
+    "sortId": 400012,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对日渐成熟的狙击干员有特别的指导。",
@@ -890,7 +926,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3241", "dropType": 2, "name": "狙击芯片"},
-            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"}
+            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -915,7 +952,7 @@
   {
     "id": "3243",
     "name": "狙击双芯片",
-    "sortId": 83,
+    "sortId": 400011,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历颇深的狙击干员有特别的提升。",
@@ -943,7 +980,7 @@
   {
     "id": "3251",
     "name": "术师芯片",
-    "sortId": 88,
+    "sortId": 400016,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历尚浅的术师干员有特别的帮助。",
@@ -961,7 +998,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3241", "dropType": 2, "name": "狙击芯片"},
-            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"}
+            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -986,7 +1024,7 @@
   {
     "id": "3252",
     "name": "术师芯片组",
-    "sortId": 87,
+    "sortId": 400015,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对日渐成熟的术师干员有特别的指导。",
@@ -1004,7 +1042,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3241", "dropType": 2, "name": "狙击芯片"},
-            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"}
+            {"type": "MATERIAL", "id": "3251", "dropType": 2, "name": "术师芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1029,7 +1068,7 @@
   {
     "id": "3253",
     "name": "术师双芯片",
-    "sortId": 86,
+    "sortId": 400014,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历颇深的术师干员有特别的提升。",
@@ -1057,7 +1096,7 @@
   {
     "id": "3261",
     "name": "医疗芯片",
-    "sortId": 91,
+    "sortId": 400019,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历尚浅的医疗干员有特别的帮助。",
@@ -1075,7 +1114,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3231", "dropType": 2, "name": "重装芯片"},
-            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"}
+            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1100,7 +1140,7 @@
   {
     "id": "3262",
     "name": "医疗芯片组",
-    "sortId": 90,
+    "sortId": 400018,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对日渐成熟的医疗干员有特别的指导。",
@@ -1118,7 +1158,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3231", "dropType": 2, "name": "重装芯片"},
-            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"}
+            {"type": "MATERIAL", "id": "3261", "dropType": 2, "name": "医疗芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1143,7 +1184,7 @@
   {
     "id": "3263",
     "name": "医疗双芯片",
-    "sortId": 89,
+    "sortId": 400017,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历颇深的医疗干员有特别的提升。",
@@ -1171,7 +1212,7 @@
   {
     "id": "3271",
     "name": "辅助芯片",
-    "sortId": 94,
+    "sortId": 400022,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历尚浅的辅助干员有特别的帮助。",
@@ -1189,7 +1230,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3211", "dropType": 2, "name": "先锋芯片"},
-            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"}
+            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1214,7 +1256,7 @@
   {
     "id": "3272",
     "name": "辅助芯片组",
-    "sortId": 93,
+    "sortId": 400021,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对日渐成熟的辅助干员有特别的指导。",
@@ -1232,7 +1274,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3211", "dropType": 2, "name": "先锋芯片"},
-            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"}
+            {"type": "MATERIAL", "id": "3271", "dropType": 2, "name": "辅助芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1257,7 +1300,7 @@
   {
     "id": "3273",
     "name": "辅助双芯片",
-    "sortId": 92,
+    "sortId": 400020,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历颇深的辅助干员有特别的提升。",
@@ -1285,7 +1328,7 @@
   {
     "id": "3281",
     "name": "特种芯片",
-    "sortId": 97,
+    "sortId": 400025,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历尚浅的特种干员有特别的帮助。",
@@ -1303,7 +1346,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3221", "dropType": 2, "name": "近卫芯片"},
-            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"}
+            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1328,7 +1372,7 @@
   {
     "id": "3282",
     "name": "特种芯片组",
-    "sortId": 96,
+    "sortId": 400024,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对日渐成熟的特种干员有特别的指导。",
@@ -1346,7 +1390,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "3221", "dropType": 2, "name": "近卫芯片"},
-            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"}
+            {"type": "MATERIAL", "id": "3281", "dropType": 2, "name": "特种芯片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1371,7 +1416,7 @@
   {
     "id": "3283",
     "name": "特种双芯片",
-    "sortId": 95,
+    "sortId": 400023,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "通过努力特训得来的素材，似乎能对资历颇深的特种干员有特别的提升。",
@@ -1399,7 +1444,7 @@
   {
     "id": "3301",
     "name": "技巧概要·卷1",
-    "sortId": 72,
+    "sortId": 300003,
     "rarity": 1,
     "itemType": "MATERIAL",
     "description": "记录着干员们所需的入门技艺，普通人只要经过简略学习就能完全掌握。",
@@ -1415,7 +1460,10 @@
           "apCost": 10,
           "expGain": 100,
           "goldGain": 100,
-          "drops": [{"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1428,7 +1476,10 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [{"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -1440,7 +1491,7 @@
   {
     "id": "3302",
     "name": "技巧概要·卷2",
-    "sortId": 71,
+    "sortId": 300002,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "记录着干员们所需的进阶技艺，需要耗费一定时间研读并付诸实践才能扎实掌握。",
@@ -1456,7 +1507,10 @@
           "apCost": 10,
           "expGain": 100,
           "goldGain": 100,
-          "drops": [{"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -1480,7 +1534,7 @@
   {
     "id": "3303",
     "name": "技巧概要·卷3",
-    "sortId": 70,
+    "sortId": 300001,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "记录着干员们所需的专家级技艺，需要特定领域长久的经验积累才能一窥其中的奥妙。",
@@ -1496,7 +1550,10 @@
           "apCost": 10,
           "expGain": 100,
           "goldGain": 100,
-          "drops": [{"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "3301", "dropType": 2, "name": "技巧概要·卷1"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -1520,7 +1577,7 @@
   {
     "id": "4001",
     "name": "龙门币",
-    "sortId": 4,
+    "sortId": 10004,
     "rarity": 3,
     "itemType": "GOLD",
     "description": "经济危机发生后，经济的衰退与政权之间的对立让贸易参与者们举步维艰。龙门币的流通使商业复兴成为可能。",
@@ -1536,7 +1593,10 @@
           "apCost": 10,
           "expGain": 100,
           "goldGain": 1410,
-          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1552,7 +1612,8 @@
           "drops": [
             {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
             {"type": "MATERIAL", "id": "3131", "dropType": 1, "name": "基础加固建材"},
-            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -1566,7 +1627,10 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 0,
-          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1579,7 +1643,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 0,
-          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1592,7 +1659,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 0,
-          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1605,7 +1675,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 0,
-          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1618,7 +1691,10 @@
           "apCost": 21,
           "expGain": 210,
           "goldGain": 0,
-          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1631,7 +1707,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 0,
-          "drops": [{"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}]
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -1643,7 +1722,7 @@
   {
     "id": "30011",
     "name": "源岩",
-    "sortId": 37,
+    "sortId": 100015,
     "rarity": 0,
     "itemType": "MATERIAL",
     "description": "富含有机物，常见于源石挥发殆尽后的地区。相对源石来说是较为容易采集的材料。",
@@ -1659,7 +1738,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1674,7 +1756,8 @@
           "goldGain": 60,
           "drops": [
             {"type": "MATERIAL", "id": "3003", "dropType": 1, "name": "赤金"},
-            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"}
+            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1687,7 +1770,7 @@
   {
     "id": "30012",
     "name": "固源岩",
-    "sortId": 36,
+    "sortId": 100014,
     "rarity": 1,
     "itemType": "MATERIAL",
     "description": "内含有密集的微孔，常作为源石气体分解物的吸附剂。多用于防护夹层。",
@@ -1705,7 +1788,8 @@
           "goldGain": 60,
           "drops": [
             {"type": "CHAR", "id": "char_278_orchid", "dropType": 1},
-            {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"}
+            {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -1719,7 +1803,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1732,7 +1819,10 @@
           "apCost": 21,
           "expGain": 210,
           "goldGain": 210,
-          "drops": [{"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1747,7 +1837,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"},
-            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1772,7 +1863,7 @@
   {
     "id": "30013",
     "name": "固源岩组",
-    "sortId": 35,
+    "sortId": 100013,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "固源岩的压缩定型产物，可自然形成。易碎，随着工业实力的提升，采集到更加完整的固源岩组已不成问题。只是在分类存放时容易和其它用途的石料搞混。",
@@ -1788,7 +1879,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1803,7 +1897,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
-            {"type": "MATERIAL", "id": "30014", "dropType": 3, "name": "提纯源岩"}
+            {"type": "MATERIAL", "id": "30014", "dropType": 3, "name": "提纯源岩"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -1817,7 +1912,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
-          "drops": [{"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -1849,7 +1947,7 @@
   {
     "id": "30014",
     "name": "提纯源岩",
-    "sortId": 34,
+    "sortId": 100012,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "高度提纯后的源岩展现出了不同于原料的型态，其工艺消耗与提纯成本也急剧上升。无论是谁，看着规则的切割面都会不禁发出感慨吧。这就是工业与自然结合的魅力。",
@@ -1867,7 +1965,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
-            {"type": "MATERIAL", "id": "30014", "dropType": 3, "name": "提纯源岩"}
+            {"type": "MATERIAL", "id": "30014", "dropType": 3, "name": "提纯源岩"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -1908,7 +2007,7 @@
   {
     "id": "30021",
     "name": "代糖",
-    "sortId": 49,
+    "sortId": 100027,
     "rarity": 0,
     "itemType": "MATERIAL",
     "description": "有着微弱的甜味，也许可以吃。同时其溶液也常用于化工用途。",
@@ -1924,7 +2023,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1937,7 +2039,10 @@
           "apCost": 6,
           "expGain": 60,
           "goldGain": 60,
-          "drops": [{"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -1949,7 +2054,7 @@
   {
     "id": "30022",
     "name": "糖",
-    "sortId": 48,
+    "sortId": 100026,
     "rarity": 1,
     "itemType": "MATERIAL",
     "description": "使用自然原材制作的稍显贵重的糖料。啊啊，这个味道……会带来不错的好心情。不是用来当零食吃的。",
@@ -1965,7 +2070,10 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [{"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1978,7 +2086,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
-          "drops": [{"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -1991,7 +2102,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2006,7 +2120,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"},
-            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"}
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -2031,7 +2146,7 @@
   {
     "id": "30023",
     "name": "糖组",
-    "sortId": 47,
+    "sortId": 100025,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "饱含能量、广受欢迎的糖块组合包。在被加工成化工材料之前，份量就总是有所减少。流水线上的员工们似乎脱不了干系。",
@@ -2047,7 +2162,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2062,7 +2180,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
-            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
+            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -2078,7 +2197,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
-            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
+            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -2111,7 +2231,7 @@
   {
     "id": "30024",
     "name": "糖聚块",
-    "sortId": 46,
+    "sortId": 100024,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "充满诱惑力的精加工糖块堆，通常用于制备药剂。严禁在加工前偷吃！这不是一般的食品，也不会作为食品售卖！不会！",
@@ -2129,7 +2249,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
-            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
+            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -2145,7 +2266,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
-            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"}
+            {"type": "MATERIAL", "id": "30024", "dropType": 3, "name": "糖聚块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -2202,7 +2324,7 @@
   {
     "id": "30031",
     "name": "酯原料",
-    "sortId": 45,
+    "sortId": 100023,
     "rarity": 0,
     "itemType": "MATERIAL",
     "description": "近代工业中至关重要的材料之一，许多现代产品的诞生都归功于它的出现。当然了，这只是原料，几乎派不上什么大用场。",
@@ -2218,7 +2340,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2234,7 +2359,8 @@
           "drops": [
             {"type": "CHAR", "id": "char_208_melan", "dropType": 1},
             {"type": "MATERIAL", "id": "3131", "dropType": 1, "name": "基础加固建材"},
-            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"}
+            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -2247,7 +2373,7 @@
   {
     "id": "30032",
     "name": "聚酸酯",
-    "sortId": 44,
+    "sortId": 100022,
     "rarity": 1,
     "itemType": "MATERIAL",
     "description": "虽然强度上还略有不足，但已经可以用来制作我们所需要的部分基础物件。同时是一些缓释药物中的常用成分。",
@@ -2265,7 +2391,8 @@
           "goldGain": 90,
           "drops": [
             {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
-            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}
+            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -2279,7 +2406,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2294,7 +2424,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"},
-            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -2319,7 +2450,7 @@
   {
     "id": "30033",
     "name": "聚酸酯组",
-    "sortId": 43,
+    "sortId": 100021,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "进一步加工后的材料，符合通用标准，能够满足市面上绝大多数的需求。可以用于加工一些特殊材料。",
@@ -2335,7 +2466,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2351,7 +2485,8 @@
           "drops": [
             {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
             {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
-            {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"}
+            {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -2365,7 +2500,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
-          "drops": [{"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -2397,7 +2535,7 @@
   {
     "id": "30034",
     "name": "聚酸酯块",
-    "sortId": 42,
+    "sortId": 100020,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "精炼提纯后的材料。作为商品，主要面向的客户是对原材料有极高要求的组织和科研机构。也许会成为新一代材料的试金石也说不定哦。",
@@ -2416,7 +2554,8 @@
           "drops": [
             {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
             {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
-            {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"}
+            {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -2473,7 +2612,7 @@
   {
     "id": "30041",
     "name": "异铁碎片",
-    "sortId": 53,
+    "sortId": 100031,
     "rarity": 0,
     "itemType": "MATERIAL",
     "description": "大规模金属原料加工的副产物，因其可塑性强、难以被氧化的特性，常被用于材料金属熔炼与阶段性再处理。",
@@ -2489,7 +2628,10 @@
           "apCost": 6,
           "expGain": 60,
           "goldGain": 60,
-          "drops": [{"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2502,7 +2644,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -2514,7 +2659,7 @@
   {
     "id": "30042",
     "name": "异铁",
-    "sortId": 52,
+    "sortId": 100030,
     "rarity": 1,
     "itemType": "MATERIAL",
     "description": "在少数惰化流程中，异铁碎片偶尔会产生相变，聚合为异铁。一般认为达到此量级的异铁产物才是异铁较为稳定的形态。",
@@ -2530,7 +2675,10 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [{"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2543,7 +2691,10 @@
           "apCost": 21,
           "expGain": 210,
           "goldGain": 210,
-          "drops": [{"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2556,7 +2707,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -2580,7 +2734,7 @@
   {
     "id": "30043",
     "name": "异铁组",
-    "sortId": 51,
+    "sortId": 100029,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "加工过程中，多块异铁在极少数非人为因素影响下，偶然产生的异铁组合，硬度下降，纯度进一步上升。",
@@ -2596,7 +2750,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2611,7 +2768,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
-            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"}
+            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -2627,7 +2785,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
-            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"}
+            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -2660,7 +2819,7 @@
   {
     "id": "30044",
     "name": "异铁块",
-    "sortId": 50,
+    "sortId": 100028,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "在极为苛刻的条件下，由多套异铁组熔铸成型的异铁块。已知异铁材料中最为稳定也最为稀少的形式，作为原材料，足以打破现有制品运用领域的疆界。",
@@ -2678,7 +2837,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
-            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"}
+            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -2694,7 +2854,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
-            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"}
+            {"type": "MATERIAL", "id": "30044", "dropType": 3, "name": "异铁块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -2765,7 +2926,7 @@
   {
     "id": "30051",
     "name": "双酮",
-    "sortId": 57,
+    "sortId": 100035,
     "rarity": 0,
     "itemType": "MATERIAL",
     "description": "极少量的非单酮制剂，通过再处理后，工程干员将藉由其发生的化合反应转变过程中的固化现象，来粘结其它稳定结构。",
@@ -2781,7 +2942,10 @@
           "apCost": 6,
           "expGain": 60,
           "goldGain": 60,
-          "drops": [{"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2794,7 +2958,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30051", "dropType": 2, "name": "双酮"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -2806,7 +2973,7 @@
   {
     "id": "30052",
     "name": "酮凝集",
-    "sortId": 56,
+    "sortId": 100034,
     "rarity": 1,
     "itemType": "MATERIAL",
     "description": "经过特殊处理后产出的少量多态酮制剂，易于闭合的分子构造能将原本繁杂的处理工艺简化为单纯的化学反应，当然，也需要一定的技术支持。",
@@ -2822,7 +2989,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2835,7 +3005,10 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
-          "drops": [{"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -2859,7 +3032,7 @@
   {
     "id": "30053",
     "name": "酮凝集组",
-    "sortId": 55,
+    "sortId": 100033,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "进一步脱烃处理后得到的中等量酮制剂。制剂接触空气后易与空气中的一些非氧分子发生反应。所以在处理过程中，工程干员理当精准操作，以免浪费材料。",
@@ -2875,7 +3048,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -2890,7 +3066,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
-            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
+            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -2906,7 +3083,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
-            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
+            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -2939,7 +3117,7 @@
   {
     "id": "30054",
     "name": "酮阵列",
-    "sortId": 54,
+    "sortId": 100032,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "由工程干员严格监控的大量不稳定实验性酮制剂。是高级的工业材料之一，运用时也请多加小心。",
@@ -2957,7 +3135,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
-            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
+            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -2973,7 +3152,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
-            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"}
+            {"type": "MATERIAL", "id": "30054", "dropType": 3, "name": "酮阵列"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -3030,7 +3210,7 @@
   {
     "id": "30061",
     "name": "破损装置",
-    "sortId": 41,
+    "sortId": 100019,
     "rarity": 0,
     "itemType": "MATERIAL",
     "description": "一些残破的装置。这些装置曾被拼装在敌人的武器和防具上，经历了激烈的战斗后已经损坏，不过其内部元件依旧具备一定的使用价值。",
@@ -3046,7 +3226,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -3059,7 +3242,10 @@
           "apCost": 6,
           "expGain": 60,
           "goldGain": 60,
-          "drops": [{"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30061", "dropType": 2, "name": "破损装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -3071,7 +3257,7 @@
   {
     "id": "30062",
     "name": "装置",
-    "sortId": 40,
+    "sortId": 100018,
     "rarity": 1,
     "itemType": "MATERIAL",
     "description": "一套相对完整的装置，含有大量密集的可用电子元件。为了迎合轻便实用的设计，主板寸土寸金的空间被塞的满满当当。",
@@ -3089,7 +3275,8 @@
           "goldGain": 90,
           "drops": [
             {"type": "CHAR", "id": "char_277_sqrrel", "dropType": 1},
-            {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"}
+            {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -3103,7 +3290,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -3118,7 +3308,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"},
-            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"}
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -3143,7 +3334,7 @@
   {
     "id": "30063",
     "name": "全新装置",
-    "sortId": 39,
+    "sortId": 100017,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "一套全新装配而成的装置，通过重构同类型装置的结构，主板原本一直存在的空间紧张的问题得到了解决，当然启动时的能耗要求也变高了。",
@@ -3161,7 +3352,8 @@
           "goldGain": 150,
           "drops": [
             {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
-            {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"}
+            {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -3177,7 +3369,8 @@
           "goldGain": 210,
           "drops": [
             {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
-            {"type": "MATERIAL", "id": "30064", "dropType": 3, "name": "改量装置"}
+            {"type": "MATERIAL", "id": "30064", "dropType": 3, "name": "改量装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -3191,7 +3384,10 @@
           "apCost": 21,
           "expGain": 210,
           "goldGain": 210,
-          "drops": [{"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -3223,7 +3419,7 @@
   {
     "id": "30064",
     "name": "改量装置",
-    "sortId": 38,
+    "sortId": 100016,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "经过大量私自改造的装置，是极大扩充了容量后的版本，大幅提升性能的同时牺牲了稳定性，从中能感受到制作者所投入的狂热与执着……",
@@ -3241,7 +3437,8 @@
           "goldGain": 210,
           "drops": [
             {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
-            {"type": "MATERIAL", "id": "30064", "dropType": 3, "name": "改量装置"}
+            {"type": "MATERIAL", "id": "30064", "dropType": 3, "name": "改量装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -3298,7 +3495,7 @@
   {
     "id": "30073",
     "name": "扭转醇",
-    "sortId": 27,
+    "sortId": 100005,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "优秀的化工中介体，常在两种形状间转换以储存和放出传导物质。液化后与酒精在某些性质上十分相似，时常导致整个工作间醉醺醺的。",
@@ -3314,7 +3511,10 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
-          "drops": [{"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -3329,7 +3529,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
-            {"type": "MATERIAL", "id": "30074", "dropType": 3, "name": "白马醇"}
+            {"type": "MATERIAL", "id": "30074", "dropType": 3, "name": "白马醇"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -3343,7 +3544,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
-          "drops": [{"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -3355,7 +3559,7 @@
   {
     "id": "30074",
     "name": "白马醇",
-    "sortId": 26,
+    "sortId": 100004,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "扭转醇精加工后的产物，名字来自发现其产出方式的厂家。实验结果表明，拥有在非常态环境中向更高级结构转化的趋势。",
@@ -3373,7 +3577,8 @@
           "goldGain": 180,
           "drops": [
             {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
-            {"type": "MATERIAL", "id": "30074", "dropType": 3, "name": "白马醇"}
+            {"type": "MATERIAL", "id": "30074", "dropType": 3, "name": "白马醇"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -3416,7 +3621,7 @@
   {
     "id": "30083",
     "name": "轻锰矿",
-    "sortId": 29,
+    "sortId": 100007,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "用以产出极为泛用的工业催化剂的金属矿物。再加工过程十分复杂，因不规范操作而导致事故的例子比比皆是。",
@@ -3432,7 +3637,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -3448,7 +3656,8 @@
           "drops": [
             {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
             {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
-            {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"}
+            {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -3462,7 +3671,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
-          "drops": [{"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -3474,7 +3686,7 @@
   {
     "id": "30084",
     "name": "三水锰矿",
-    "sortId": 28,
+    "sortId": 100006,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "少有厂家愿意用于生产工业催化剂的珍贵金属矿物。所制催化剂寿命极长，能够多次反复利用并汽提再生，然而复杂的加工工序令多数厂商望而却步。",
@@ -3493,7 +3705,8 @@
           "drops": [
             {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
             {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
-            {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"}
+            {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -3536,7 +3749,7 @@
   {
     "id": "30093",
     "name": "研磨石",
-    "sortId": 31,
+    "sortId": 100009,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "不起爆、不粉化、不开裂，于零件加工工序中占有重要地位的工具材料。自然属性相当稳定。",
@@ -3552,7 +3765,10 @@
           "apCost": 15,
           "expGain": 150,
           "goldGain": 150,
-          "drops": [{"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       },
       {
@@ -3567,7 +3783,8 @@
           "goldGain": 210,
           "drops": [
             {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
-            {"type": "MATERIAL", "id": "30094", "dropType": 3, "name": "五水研磨石"}
+            {"type": "MATERIAL", "id": "30094", "dropType": 3, "name": "五水研磨石"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -3581,7 +3798,10 @@
           "apCost": 21,
           "expGain": 210,
           "goldGain": 210,
-          "drops": [{"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -3593,7 +3813,7 @@
   {
     "id": "30094",
     "name": "五水研磨石",
-    "sortId": 30,
+    "sortId": 100008,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "相较普通研磨石，物质结构更加稳定的工具材料。极难与其它物质发生化学反应。",
@@ -3611,7 +3831,8 @@
           "goldGain": 210,
           "drops": [
             {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
-            {"type": "MATERIAL", "id": "30094", "dropType": 3, "name": "五水研磨石"}
+            {"type": "MATERIAL", "id": "30094", "dropType": 3, "name": "五水研磨石"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -3668,7 +3889,7 @@
   {
     "id": "30103",
     "name": "RMA70-12",
-    "sortId": 33,
+    "sortId": 100011,
     "rarity": 2,
     "itemType": "MATERIAL",
     "description": "自然态呈复杂多面体的矿物。在被发现其现代工业价值之前，就已经被发现了其在源石技艺施展中的价值。",
@@ -3686,7 +3907,8 @@
           "goldGain": 150,
           "drops": [
             {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
-            {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"}
+            {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -3703,7 +3925,8 @@
           "drops": [
             {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
             {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
-            {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"}
+            {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       },
@@ -3717,7 +3940,10 @@
           "apCost": 18,
           "expGain": 180,
           "goldGain": 180,
-          "drops": [{"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"}]
+          "drops": [
+            {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
         }
       }
     ],
@@ -3729,7 +3955,7 @@
   {
     "id": "30104",
     "name": "RMA70-24",
-    "sortId": 32,
+    "sortId": 100010,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "自然态呈复杂多面体的矿物。于1024年被发现，在庞大的工业体系中，展现出了在源石技艺体系内其他矿物不曾具备的巨大价值。",
@@ -3748,7 +3974,8 @@
           "drops": [
             {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
             {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
-            {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"}
+            {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
       }
@@ -3805,7 +4032,7 @@
   {
     "id": "30115",
     "name": "聚合剂",
-    "sortId": 25,
+    "sortId": 100003,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "精密穿戴着装中常用的材料。多作为隔绝涂层使用。强大的聚合粘接效果足以阻断源石的挥发。",
@@ -3947,7 +4174,7 @@
   {
     "id": "30125",
     "name": "双极纳米片",
-    "sortId": 24,
+    "sortId": 100002,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "对范围内源石敏感的装置。能有效提升源石附近范围内作战武器和设备对源石的敏感性，使源石技艺的存储几近可能。",
@@ -4038,7 +4265,7 @@
   {
     "id": "30135",
     "name": "D32钢",
-    "sortId": 23,
+    "sortId": 100001,
     "rarity": 4,
     "itemType": "MATERIAL",
     "description": "强度超群，无法击穿，顺畅传导源石技艺，将重新订立武器材料的标准。",
@@ -4168,7 +4395,7 @@
   {
     "id": "32001",
     "name": "芯片助剂",
-    "sortId": 73,
+    "sortId": 400001,
     "rarity": 3,
     "itemType": "MATERIAL",
     "description": "价值高，产量小，让工程干员头疼。",

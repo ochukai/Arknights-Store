@@ -868,6 +868,53 @@
     ]
   },
   {
+    "id": "char_298_susuro",
+    "skills": [
+      {
+        "id": "skcom_heal_up[2]",
+        "name": "治疗强化·β型",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 1, "type": "MATERIAL"},
+            {"id": "30043", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30135", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_susuro_2",
+        "name": "深度治疗",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 1, "type": "MATERIAL"},
+            {"id": "30053", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30094", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_181_flower",
     "skills": [
       {
@@ -1970,6 +2017,53 @@
     ]
   },
   {
+    "id": "char_348_ceylon",
+    "skills": [
+      {
+        "id": "skchr_ceylon_1",
+        "name": "集中式水疗",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30094", "count": 3, "type": "MATERIAL"},
+            {"id": "30073", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30024", "count": 3, "type": "MATERIAL"},
+            {"id": "30104", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_ceylon_2",
+        "name": "水灵庇护",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30104", "count": 3, "type": "MATERIAL"},
+            {"id": "30083", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30014", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_148_nearl",
     "skills": [
       {
@@ -2440,6 +2534,53 @@
     ]
   },
   {
+    "id": "char_326_glacus",
+    "skills": [
+      {
+        "id": "skchr_glacus_1",
+        "name": "双线装填",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30014", "count": 3, "type": "MATERIAL"},
+            {"id": "30093", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30014", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_glacus_2",
+        "name": "反制电磁脉冲",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30024", "count": 3, "type": "MATERIAL"},
+            {"id": "30103", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30024", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_101_sora",
     "skills": [
       {
@@ -2643,6 +2784,74 @@
             {"id": "3303", "count": 15, "type": "MATERIAL"},
             {"id": "30135", "count": 6, "type": "MATERIAL"},
             {"id": "30034", "count": 6, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_340_shwaz",
+    "skills": [
+      {
+        "id": "skchr_shwaz_1",
+        "name": "强弩",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30094", "count": 4, "type": "MATERIAL"},
+            {"id": "30073", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30024", "count": 4, "type": "MATERIAL"},
+            {"id": "30104", "count": 8, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30125", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_shwaz_2",
+        "name": "暮眼锐瞳",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30104", "count": 4, "type": "MATERIAL"},
+            {"id": "30083", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"},
+            {"id": "30014", "count": 10, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_shwaz_3",
+        "name": "战术的终结",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30014", "count": 4, "type": "MATERIAL"},
+            {"id": "30093", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"},
+            {"id": "30024", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30084", "count": 6, "type": "MATERIAL"}
           ]
         ]
       }
@@ -4455,6 +4664,53 @@
     ]
   },
   {
+    "id": "char_298_susuro",
+    "skills": [
+      {
+        "id": "skcom_heal_up[2]",
+        "name": "治疗强化·β型",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 1, "type": "MATERIAL"},
+            {"id": "30043", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30135", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_susuro_2",
+        "name": "深度治疗",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 1, "type": "MATERIAL"},
+            {"id": "30053", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30094", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_181_flower",
     "skills": [
       {
@@ -5557,6 +5813,53 @@
     ]
   },
   {
+    "id": "char_348_ceylon",
+    "skills": [
+      {
+        "id": "skchr_ceylon_1",
+        "name": "集中式水疗",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30094", "count": 3, "type": "MATERIAL"},
+            {"id": "30073", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30024", "count": 3, "type": "MATERIAL"},
+            {"id": "30104", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_ceylon_2",
+        "name": "水灵庇护",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30104", "count": 3, "type": "MATERIAL"},
+            {"id": "30083", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30014", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_148_nearl",
     "skills": [
       {
@@ -6027,6 +6330,53 @@
     ]
   },
   {
+    "id": "char_326_glacus",
+    "skills": [
+      {
+        "id": "skchr_glacus_1",
+        "name": "双线装填",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30014", "count": 3, "type": "MATERIAL"},
+            {"id": "30093", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30014", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_glacus_2",
+        "name": "反制电磁脉冲",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30024", "count": 3, "type": "MATERIAL"},
+            {"id": "30103", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30024", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_101_sora",
     "skills": [
       {
@@ -6230,6 +6580,74 @@
             {"id": "3303", "count": 15, "type": "MATERIAL"},
             {"id": "30135", "count": 6, "type": "MATERIAL"},
             {"id": "30034", "count": 6, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_340_shwaz",
+    "skills": [
+      {
+        "id": "skchr_shwaz_1",
+        "name": "强弩",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30094", "count": 4, "type": "MATERIAL"},
+            {"id": "30073", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30024", "count": 4, "type": "MATERIAL"},
+            {"id": "30104", "count": 8, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30125", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_shwaz_2",
+        "name": "暮眼锐瞳",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30104", "count": 4, "type": "MATERIAL"},
+            {"id": "30083", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"},
+            {"id": "30014", "count": 10, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_shwaz_3",
+        "name": "战术的终结",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30014", "count": 4, "type": "MATERIAL"},
+            {"id": "30093", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"},
+            {"id": "30024", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30084", "count": 6, "type": "MATERIAL"}
           ]
         ]
       }

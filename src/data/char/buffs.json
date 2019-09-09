@@ -386,7 +386,7 @@
   },
   {
     "id": "char_212_ansel_workshop_formula_probability[110]",
-    "name": "药理学",
+    "name": "药理学·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
     "room": "加工站",
@@ -573,7 +573,7 @@
   },
   {
     "id": "char_117_myrrh_workshop_formula_probability[110]",
-    "name": "药理学",
+    "name": "药理学·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
     "room": "加工站",
@@ -771,7 +771,7 @@
   },
   {
     "id": "char_181_flower_workshop_formula_probability[110]",
-    "name": "药理学",
+    "name": "药理学·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
     "room": "加工站",
@@ -837,7 +837,7 @@
   },
   {
     "id": "char_187_ccheal_workshop_formula_probability[110]",
-    "name": "药理学",
+    "name": "药理学·α",
     "bgColor": "#e3eb00",
     "color": "#333333",
     "room": "加工站",
@@ -1787,7 +1787,7 @@
     "bgColor": "#005752",
     "color": "#ffffff",
     "room": "控制中枢",
-    "description": "进驻控制中枢时，控制中枢内每个龙门近卫局干员，可使控制中枢内所有干员的心情每小时消耗-0.05",
+    "description": "进驻控制中枢时，控制中枢内每个龙门近卫局干员可使控制中枢内所有干员的心情每小时消耗-0.05",
     "phase": "初始",
     "level": 1,
     "char": "陈"
@@ -1904,7 +1904,7 @@
   },
   {
     "id": "char_136_hsguma_train_spd&profession[130]",
-    "name": "般若之盾",
+    "name": "般若",
     "bgColor": "#7d0022",
     "color": "#ffffff",
     "room": "训练室",
@@ -2066,5 +2066,93 @@
     "phase": "精二",
     "level": 1,
     "char": "安洁莉娜"
+  },
+  {
+    "id": "char_340_shwaz_dorm_rec_single_P[000]",
+    "name": "沏茶",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，使该宿舍内除自身以外心情未满的某个干员每小时恢复+0.55（同种效果取最高，且不计入额外效果），如果目标是锡兰，则恢复效果额外+0.45",
+    "phase": "初始",
+    "level": 1,
+    "char": "黑"
+  },
+  {
+    "id": "char_340_shwaz_train_spd&profession[140]",
+    "name": "黑矢",
+    "bgColor": "#7d0022",
+    "color": "#ffffff",
+    "room": "训练室",
+    "description": "进驻训练室协助位时，狙击干员的专精技能训练速度+60%",
+    "phase": "精二",
+    "level": 1,
+    "char": "黑"
+  },
+  {
+    "id": "char_348_ceylon_workshop_formula_probability[101]",
+    "name": "学者",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工精英材料时，副产品的产出概率提升80%",
+    "phase": "初始",
+    "level": 1,
+    "char": "锡兰"
+  },
+  {
+    "id": "char_348_ceylon_manu_formula_spd[220]",
+    "name": "源石研究",
+    "bgColor": "#ffd800",
+    "color": "#333333",
+    "room": "制造站",
+    "description": "进驻制造站时，源石类配方的生产力+35%",
+    "phase": "精二",
+    "level": 1,
+    "char": "锡兰"
+  },
+  {
+    "id": "char_326_glacus_power_rec_spd[040]",
+    "name": "电磁充能·α",
+    "bgColor": "#8fc31f",
+    "color": "#ffffff",
+    "room": "发电站",
+    "description": "进驻发电站时，无人机每小时恢复速度+10%",
+    "phase": "初始",
+    "level": 1,
+    "char": "格劳克斯"
+  },
+  {
+    "id": "char_326_glacus_power_rec_spd[041]",
+    "name": "电磁充能·β",
+    "bgColor": "#8fc31f",
+    "color": "#ffffff",
+    "room": "发电站",
+    "description": "进驻发电站时，无人机每小时恢复速度+15%",
+    "phase": "精二",
+    "level": 1,
+    "char": "格劳克斯"
+  },
+  {
+    "id": "char_298_susuro_train_spd&profession[070]",
+    "name": "医疗专精·α",
+    "bgColor": "#7d0022",
+    "color": "#ffffff",
+    "room": "训练室",
+    "description": "进驻训练室协助位时，医疗干员的专精技能训练速度+30%",
+    "phase": "初始",
+    "level": 1,
+    "char": "苏苏洛"
+  },
+  {
+    "id": "char_298_susuro_workshop_formula_probability[111]",
+    "name": "药理学·β",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工精英材料时，副产品的产出概率提升80%",
+    "phase": "精一",
+    "level": 1,
+    "char": "苏苏洛"
   }
 ]
