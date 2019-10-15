@@ -2236,7 +2236,7 @@
     "groups": [
       {
         "themeId": "furni_set_guitar",
-        "name": "一号吉他收藏",
+        "name": "排练室一号吉他收藏",
         "comfort": 225,
         "furniture": [
           "furni_guitar_guitar1_01",
@@ -2248,7 +2248,7 @@
       },
       {
         "themeId": "furni_set_guitar",
-        "name": "二号吉他收藏",
+        "name": "排练室二号吉他收藏",
         "comfort": 225,
         "furniture": [
           "furni_guitar_guitar6_01",
@@ -2477,7 +2477,7 @@
       {
         "id": "furni_guitar_spotlight_01",
         "name": "排练室聚光灯",
-        "type": "WALLDECO",
+        "type": "WALLLAMP",
         "comfort": 105,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "count": 1
@@ -2516,5 +2516,222 @@
       }
     ],
     "totalComfort": 5300
+  },
+  {
+    "id": "furni_set_safetyZone",
+    "name": "气密防化安全舱",
+    "groups": [
+      {
+        "themeId": "furni_set_safetyZone",
+        "name": "安全舱消毒过滤套件",
+        "comfort": 215,
+        "furniture": [
+          "furni_safetyZone_gate_01",
+          "furni_safetyZone_UVLamp_01",
+          "furni_safetyZone_pipeline1_01",
+          "furni_safetyZone_pipeline2_01",
+          "furni_safetyZone_PipelineValve_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_safetyZone",
+        "name": "安全舱防护套件",
+        "comfort": 145,
+        "furniture": [
+          "furni_safetyZone_stretcher_01",
+          "furni_safetyZone_carpet_01",
+          "furni_safetyZone_hazmatSuit_01",
+          "furni_safetyZone_hazmatCoat_01",
+          "furni_safetyZone_shovel_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_safetyZone",
+        "name": "安全舱清洁套件",
+        "comfort": 290,
+        "furniture": [
+          "furni_safetyZone_oxygenTank_01",
+          "furni_safetyZone_box_01",
+          "furni_safetyZone_partitionWall_01",
+          "furni_safetyZone_roboticArmVehicle_01",
+          "furni_safetyZone_virusFilter_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_safetyZone",
+        "name": "安全舱基础设施套件",
+        "comfort": 185,
+        "furniture": [
+          "furni_safetyZone_ceiling_01",
+          "furni_safetyZone_ceilingLight_01",
+          "furni_safetyZone_downlight_01",
+          "furni_safetyZone_wallpaper_01",
+          "furni_safetyZone_floor_01"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_safetyZone_gate_01",
+        "name": "安全舱消毒间",
+        "type": "DECORATION",
+        "comfort": 310,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_UVLamp_01",
+        "name": "安全舱消毒灯",
+        "type": "DECORATION",
+        "comfort": 110,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_oxygenTank_01",
+        "name": "补给资源罐",
+        "type": "DECORATION",
+        "comfort": 245,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_stretcher_01",
+        "name": "急诊推床",
+        "type": "BEDDING",
+        "comfort": 360,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_hazmatSuit_01",
+        "name": "防化防毒套装",
+        "type": "WALLDECO",
+        "comfort": 85,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_hazmatCoat_01",
+        "name": "防化防毒服",
+        "type": "WALLDECO",
+        "comfort": 85,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_shovel_01",
+        "name": "多功能工程锹",
+        "type": "WALLDECO",
+        "comfort": 45,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_box_01",
+        "name": "安全舱物资箱",
+        "type": "DECORATION",
+        "comfort": 175,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_partitionWall_01",
+        "name": "安全舱隔墙",
+        "type": "DECORATION",
+        "comfort": 245,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_roboticArmVehicle_01",
+        "name": "安全舱工程车",
+        "type": "DECORATION",
+        "comfort": 255,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_virusFilter_01",
+        "name": "多功能消毒器",
+        "type": "DECORATION",
+        "comfort": 335,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_pipeline1_01",
+        "name": "安全舱导气管",
+        "type": "WALLDECO",
+        "comfort": 305,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_pipeline2_01",
+        "name": "安全舱控气管",
+        "type": "WALLDECO",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_PipelineValve_01",
+        "name": "舱室管道阀门",
+        "type": "WALLDECO",
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_ceilingLight_01",
+        "name": "安全舱日光灯",
+        "type": "CEILINGLAMP",
+        "comfort": 105,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_ceiling_01",
+        "name": "舱顶隔离布",
+        "type": "CEILING",
+        "comfort": 315,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_downlight_01",
+        "name": "安全舱吸顶灯",
+        "type": "CEILINGLAMP",
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_safetyZone_carpet_01",
+        "name": "粉液吸附毯",
+        "type": "CARPET",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_wallpaper_01",
+        "name": "防毒防化隔离壁",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_safetyZone_floor_01",
+        "name": "防化装甲板",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4800
   }
 ]

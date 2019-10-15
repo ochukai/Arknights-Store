@@ -7,7 +7,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 1,
     "profession": "医疗",
     "tagList": ["治疗"]
@@ -20,7 +20,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 1,
     "profession": "近卫",
     "tagList": ["支援"]
@@ -33,7 +33,7 @@
     "team": "行动组A4",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 2,
     "profession": "前锋",
     "tagList": ["新手"]
@@ -46,7 +46,7 @@
     "team": "行动组A4",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 2,
     "profession": "重装",
     "tagList": ["新手"]
@@ -59,7 +59,7 @@
     "team": "行动组A4",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 2,
     "profession": "阻击",
     "tagList": ["新手"]
@@ -72,7 +72,7 @@
     "team": "行动组A4",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 2,
     "profession": "术士",
     "tagList": ["新手"]
@@ -85,7 +85,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 2,
     "profession": "术士",
     "tagList": ["新手"]
@@ -98,7 +98,7 @@
     "team": "行动预备组A1",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 3,
     "profession": "前锋",
     "tagList": ["费用回复"]
@@ -111,7 +111,7 @@
     "team": "黑钢",
     "color": "#ffd200",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 3,
     "profession": "前锋",
     "tagList": ["费用回复"]
@@ -124,7 +124,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 3,
     "profession": "前锋",
     "tagList": ["输出", "费用回复"]
@@ -137,7 +137,7 @@
     "team": "行动预备组A4",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 3,
     "profession": "近卫",
     "tagList": ["输出", "生存"]
@@ -150,7 +150,7 @@
     "team": "行动预备组A6",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 3,
     "profession": "近卫",
     "tagList": ["群攻", "生存"]
@@ -163,7 +163,7 @@
     "team": "行动预备组A4",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 3,
     "profession": "重装",
     "tagList": ["防护"]
@@ -176,7 +176,7 @@
     "team": "行动预备组A1",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 3,
     "profession": "重装",
     "tagList": ["防护"]
@@ -189,7 +189,7 @@
     "team": "行动预备组A6",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 3,
     "profession": "重装",
     "tagList": ["防护", "治疗"]
@@ -202,7 +202,7 @@
     "team": "行动预备组A1",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 3,
     "profession": "阻击",
     "tagList": ["输出"]
@@ -215,7 +215,7 @@
     "team": "行动预备组A4",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 3,
     "profession": "阻击",
     "tagList": ["输出"]
@@ -228,7 +228,7 @@
     "team": "行动预备组A1",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 3,
     "profession": "术士",
     "tagList": ["群攻"]
@@ -241,7 +241,7 @@
     "team": "行动预备组A1",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 3,
     "profession": "医疗",
     "tagList": ["治疗"]
@@ -254,7 +254,7 @@
     "team": "行动预备组A4",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 3,
     "profession": "医疗",
     "tagList": ["治疗"]
@@ -267,7 +267,7 @@
     "team": "行动预备组A4",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 3,
     "profession": "术士",
     "tagList": ["输出"]
@@ -280,7 +280,7 @@
     "team": "行动预备组A6",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 3,
     "profession": "辅助",
     "tagList": ["减速"]
@@ -293,7 +293,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "术士",
     "tagList": ["输出", "削弱"]
@@ -306,7 +306,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "术士",
     "tagList": ["群攻"]
@@ -319,7 +319,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "术士",
     "tagList": ["群攻", "减速"]
@@ -332,7 +332,7 @@
     "team": "黑钢",
     "color": "#ffd200",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "阻击",
     "tagList": ["输出", "生存"]
@@ -345,10 +345,23 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "阻击",
     "tagList": ["输出", "削弱"]
+  },
+  {
+    "id": "char_190_clour",
+    "name": "红云",
+    "appellation": "Vermeil",
+    "description": "优先攻击空中单位",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "RANGED",
+    "star": 4,
+    "profession": "阻击",
+    "tagList": ["输出"]
   },
   {
     "id": "char_118_yuki",
@@ -358,7 +371,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "阻击",
     "tagList": ["群攻", "减速"]
@@ -371,7 +384,7 @@
     "team": "喀兰贸易",
     "color": "#ffffff",
     "obtain": "信用交易所",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "前锋",
     "tagList": ["费用回复", "防护"]
@@ -384,7 +397,7 @@
     "team": "S.W.E.E.P原型",
     "color": "#e0e0e0",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "前锋",
     "tagList": ["费用回复", "输出"]
@@ -397,7 +410,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "前锋",
     "tagList": ["输出", "费用回复"]
@@ -410,7 +423,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "前锋",
     "tagList": ["费用回复", "治疗"]
@@ -423,7 +436,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "近卫",
     "tagList": ["输出", "支援"]
@@ -436,7 +449,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "近卫",
     "tagList": ["生存", "输出"]
@@ -449,7 +462,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "近卫",
     "tagList": ["减速", "输出"]
@@ -462,7 +475,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "近卫",
     "tagList": ["群攻", "生存"]
@@ -475,7 +488,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "近卫",
     "tagList": ["输出"]
@@ -488,7 +501,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "特种",
     "tagList": ["快速复活", "防护"]
@@ -501,7 +514,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "特种",
     "tagList": ["位移"]
@@ -514,7 +527,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "医疗",
     "tagList": ["治疗"]
@@ -527,7 +540,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "信用交易所",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "医疗",
     "tagList": ["治疗"]
@@ -540,7 +553,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "医疗",
     "tagList": ["治疗"]
@@ -553,7 +566,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "医疗",
     "tagList": ["治疗"]
@@ -566,7 +579,7 @@
     "team": "喀兰贸易",
     "color": "#ffffff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "重装",
     "tagList": ["防护"]
@@ -579,7 +592,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "重装",
     "tagList": ["防护"]
@@ -587,15 +600,28 @@
   {
     "id": "char_196_sunbr",
     "name": "古米",
-    "appellation": "ГУМ",
+    "appellation": "Гум",
     "description": "技能可以治疗友方单位",
     "team": "乌萨斯学生自治团",
     "color": "#a40000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "重装",
     "tagList": ["防护", "治疗"]
+  },
+  {
+    "id": "char_260_durnar",
+    "name": "坚雷",
+    "appellation": "Dur-nar",
+    "description": "技能开启时普通攻击会造成法术伤害",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "信用交易所",
+    "position": "MELEE",
+    "star": 4,
+    "profession": "重装",
+    "tagList": ["防护", "输出"]
   },
   {
     "id": "char_110_deepcl",
@@ -605,7 +631,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "辅助",
     "tagList": ["召唤"]
@@ -618,7 +644,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 4,
     "profession": "辅助",
     "tagList": ["减速"]
@@ -631,7 +657,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "特种",
     "tagList": ["位移"]
@@ -644,7 +670,7 @@
     "team": "莱茵生命",
     "color": "#c8ff51",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "医疗",
     "tagList": ["治疗", "支援"]
@@ -652,12 +678,12 @@
   {
     "id": "char_115_headbr",
     "name": "凛冬",
-    "appellation": "зима",
+    "appellation": "Зима",
     "description": "能够阻挡两个敌人",
     "team": "乌萨斯学生自治团",
     "color": "#a40000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "前锋",
     "tagList": ["费用回复", "支援"]
@@ -670,7 +696,7 @@
     "team": "企鹅物流",
     "color": "#4cd4f6",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "前锋",
     "tagList": ["费用回复", "控场"]
@@ -683,7 +709,7 @@
     "team": "龙门近卫局",
     "color": "#ff6a30",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "近卫",
     "tagList": ["输出", "支援"]
@@ -696,7 +722,20 @@
     "team": "黑钢",
     "color": "#ffd200",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
+    "star": 5,
+    "profession": "近卫",
+    "tagList": ["输出", "生存"]
+  },
+  {
+    "id": "char_131_flameb",
+    "name": "炎客",
+    "appellation": "Flamebringer",
+    "description": "能够阻挡一个敌人",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "活动获得",
+    "position": "MELEE",
     "star": 5,
     "profession": "近卫",
     "tagList": ["输出", "生存"]
@@ -709,7 +748,7 @@
     "team": "格拉斯哥帮",
     "color": "#ffd800",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "近卫",
     "tagList": ["输出", "生存"]
@@ -722,7 +761,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "近卫",
     "tagList": ["输出", "削弱"]
@@ -735,7 +774,7 @@
     "team": "深海猎人",
     "color": "#a5adff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "近卫",
     "tagList": ["群攻", "生存"]
@@ -748,7 +787,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "近卫",
     "tagList": ["输出", "防护"]
@@ -761,7 +800,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "阻击",
     "tagList": ["输出"]
@@ -774,7 +813,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "阻击",
     "tagList": ["输出"]
@@ -787,10 +826,23 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "阻击",
     "tagList": ["群攻", "削弱"]
+  },
+  {
+    "id": "char_279_excu",
+    "name": "送葬人",
+    "appellation": "Executor",
+    "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "RANGED",
+    "star": 5,
+    "profession": "阻击",
+    "tagList": ["群攻"]
   },
   {
     "id": "char_002_amiya",
@@ -800,7 +852,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "主线剧情",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "术士",
     "tagList": ["输出"]
@@ -813,7 +865,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "术士",
     "tagList": ["群攻", "控场"]
@@ -826,7 +878,7 @@
     "team": "莱茵生命",
     "color": "#c8ff51",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "辅助",
     "tagList": ["召唤", "控场"]
@@ -839,7 +891,7 @@
     "team": "莱茵生命",
     "color": "#c8ff51",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "医疗",
     "tagList": ["治疗"]
@@ -852,7 +904,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "医疗",
     "tagList": ["治疗", "支援"]
@@ -865,7 +917,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "活动获得",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "医疗",
     "tagList": ["治疗"]
@@ -878,7 +930,7 @@
     "team": "使徒",
     "color": "#e0e0e0",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "重装",
     "tagList": ["防护", "治疗"]
@@ -891,7 +943,7 @@
     "team": "S.W.E.E.P原型",
     "color": "#e0e0e0",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "特种",
     "tagList": ["快速复活", "控场"]
@@ -904,7 +956,7 @@
     "team": "黑钢",
     "color": "#ffd200",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "重装",
     "tagList": ["防护", "输出"]
@@ -917,7 +969,7 @@
     "team": "企鹅物流",
     "color": "#4cd4f6",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "重装",
     "tagList": ["防护", "位移"]
@@ -930,7 +982,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "重装",
     "tagList": ["生存", "防护", "输出"]
@@ -943,7 +995,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "阻击",
     "tagList": ["输出"]
@@ -956,7 +1008,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "阻击",
     "tagList": ["输出", "爆发"]
@@ -969,7 +1021,7 @@
     "team": "喀兰贸易",
     "color": "#ffffff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "特种",
     "tagList": ["位移", "输出"]
@@ -982,7 +1034,7 @@
     "team": "喀兰贸易",
     "color": "#ffffff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "辅助",
     "tagList": ["削弱"]
@@ -995,7 +1047,7 @@
     "team": "乌萨斯学生自治团",
     "color": "#a40000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "辅助",
     "tagList": ["减速", "输出"]
@@ -1008,7 +1060,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "辅助",
     "tagList": ["减速", "控场"]
@@ -1021,7 +1073,7 @@
     "team": "企鹅物流",
     "color": "#4cd4f6",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "辅助",
     "tagList": ["支援", "治疗"]
@@ -1034,7 +1086,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "特种",
     "tagList": ["输出", "生存"]
@@ -1047,7 +1099,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "特种",
     "tagList": ["位移", "减速"]
@@ -1060,7 +1112,7 @@
     "team": "企鹅物流",
     "color": "#4cd4f6",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 6,
     "profession": "阻击",
     "tagList": ["输出"]
@@ -1073,7 +1125,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 6,
     "profession": "阻击",
     "tagList": ["输出"]
@@ -1086,7 +1138,7 @@
     "team": "格拉斯哥帮",
     "color": "#ffd800",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 6,
     "profession": "前锋",
     "tagList": ["费用回复", "输出"]
@@ -1099,7 +1151,7 @@
     "team": "莱茵生命",
     "color": "#c8ff51",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 6,
     "profession": "术士",
     "tagList": ["群攻", "削弱"]
@@ -1112,7 +1164,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 6,
     "profession": "术士",
     "tagList": ["输出", "削弱"]
@@ -1125,10 +1177,23 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 6,
     "profession": "辅助",
     "tagList": ["减速", "输出", "支援"]
+  },
+  {
+    "id": "char_248_mgllan",
+    "name": "麦哲伦",
+    "appellation": "Magallan",
+    "description": "攻击造成法术伤害<br/>可以使用召唤物协助作战",
+    "team": "莱茵生命",
+    "color": "#c8ff51",
+    "obtain": "招募寻访",
+    "position": "RANGED",
+    "star": 6,
+    "profession": "辅助",
+    "tagList": ["支援", "减速", "输出"]
   },
   {
     "id": "char_147_shining",
@@ -1138,7 +1203,7 @@
     "team": "使徒",
     "color": "#e0e0e0",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 6,
     "profession": "医疗",
     "tagList": ["治疗", "支援"]
@@ -1151,7 +1216,7 @@
     "team": "使徒",
     "color": "#e0e0e0",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 6,
     "profession": "医疗",
     "tagList": ["治疗", "支援"]
@@ -1164,7 +1229,7 @@
     "team": "龙门近卫局",
     "color": "#ff6a30",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 6,
     "profession": "重装",
     "tagList": ["防护", "输出"]
@@ -1177,7 +1242,7 @@
     "team": "莱茵生命",
     "color": "#c8ff51",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 6,
     "profession": "重装",
     "tagList": ["防护", "治疗", "支援"]
@@ -1190,7 +1255,7 @@
     "team": "喀兰贸易",
     "color": "#ffffff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 6,
     "profession": "近卫",
     "tagList": ["输出", "支援"]
@@ -1203,7 +1268,7 @@
     "team": "龙门近卫局",
     "color": "#ff6a30",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 6,
     "profession": "近卫",
     "tagList": ["爆发", "输出"]
@@ -1216,7 +1281,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 6,
     "profession": "近卫",
     "tagList": ["输出", "生存"]
@@ -1229,7 +1294,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "预约奖励",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "近卫",
     "tagList": ["群攻", "爆发"]
@@ -1242,7 +1307,7 @@
     "team": "行动预备组A6",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 3,
     "profession": "阻击",
     "tagList": ["群攻"]
@@ -1255,7 +1320,7 @@
     "team": "行动预备组A6",
     "color": "#58ccff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 3,
     "profession": "近卫",
     "tagList": ["输出"]
@@ -1268,7 +1333,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 4,
     "profession": "近卫",
     "tagList": ["输出"]
@@ -1281,7 +1346,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "招募寻访",
-    "position": "远程位",
+    "position": "RANGED",
     "star": 5,
     "profession": "术士",
     "tagList": ["输出", "治疗", "减速"]
@@ -1294,7 +1359,7 @@
     "team": "无团队",
     "color": "#000000",
     "obtain": "活动获得",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 5,
     "profession": "前锋",
     "tagList": ["费用回复", "防护"]
@@ -1307,7 +1372,7 @@
     "team": "深海猎人",
     "color": "#a5adff",
     "obtain": "招募寻访",
-    "position": "近战位",
+    "position": "MELEE",
     "star": 6,
     "profession": "近卫",
     "tagList": ["输出", "生存"]

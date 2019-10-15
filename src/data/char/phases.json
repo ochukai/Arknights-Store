@@ -372,6 +372,23 @@
     ]
   },
   {
+    "id": "char_190_clour",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 550},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 166},
+      {"level": 1, "title": "初始", "attr": "def", "value": 57},
+      {"level": 45, "title": "初始满级", "attr": "maxHp", "value": 786},
+      {"level": 45, "title": "初始满级", "attr": "atk", "value": 277},
+      {"level": 45, "title": "初始满级", "attr": "def", "value": 95},
+      {"level": 105, "title": "精一满级", "attr": "maxHp", "value": 1008},
+      {"level": 105, "title": "精一满级", "attr": "atk", "value": 397},
+      {"level": 105, "title": "精一满级", "attr": "def", "value": 136},
+      {"level": 175, "title": "精二满级", "attr": "maxHp", "value": 1230},
+      {"level": 175, "title": "精二满级", "attr": "atk", "value": 485},
+      {"level": 175, "title": "精二满级", "attr": "def", "value": 162}
+    ]
+  },
+  {
     "id": "char_118_yuki",
     "phases": [
       {"level": 1, "title": "初始", "attr": "maxHp", "value": 834},
@@ -695,6 +712,23 @@
     ]
   },
   {
+    "id": "char_260_durnar",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 1201},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 244},
+      {"level": 1, "title": "初始", "attr": "def", "value": 220},
+      {"level": 45, "title": "初始满级", "attr": "maxHp", "value": 1623},
+      {"level": 45, "title": "初始满级", "attr": "atk", "value": 349},
+      {"level": 45, "title": "初始满级", "attr": "def", "value": 324},
+      {"level": 105, "title": "精一满级", "attr": "maxHp", "value": 2165},
+      {"level": 105, "title": "精一满级", "attr": "atk", "value": 466},
+      {"level": 105, "title": "精一满级", "attr": "def", "value": 438},
+      {"level": 175, "title": "精二满级", "attr": "maxHp", "value": 3007},
+      {"level": 175, "title": "精二满级", "attr": "atk", "value": 583},
+      {"level": 175, "title": "精二满级", "attr": "def", "value": 548}
+    ]
+  },
+  {
     "id": "char_110_deepcl",
     "phases": [
       {"level": 1, "title": "初始", "attr": "maxHp", "value": 472},
@@ -831,6 +865,23 @@
     ]
   },
   {
+    "id": "char_131_flameb",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 1423},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 378},
+      {"level": 1, "title": "初始", "attr": "def", "value": 86},
+      {"level": 50, "title": "初始满级", "attr": "maxHp", "value": 2033},
+      {"level": 50, "title": "初始满级", "attr": "atk", "value": 556},
+      {"level": 50, "title": "初始满级", "attr": "def", "value": 123},
+      {"level": 120, "title": "精一满级", "attr": "maxHp", "value": 2786},
+      {"level": 120, "title": "精一满级", "attr": "atk", "value": 704},
+      {"level": 120, "title": "精一满级", "attr": "def", "value": 161},
+      {"level": 200, "title": "精二满级", "attr": "maxHp", "value": 3715},
+      {"level": 200, "title": "精二满级", "attr": "atk", "value": 849},
+      {"level": 200, "title": "精二满级", "attr": "def", "value": 195}
+    ]
+  },
+  {
     "id": "char_155_tiger",
     "phases": [
       {"level": 1, "title": "初始", "attr": "maxHp", "value": 1071},
@@ -947,6 +998,23 @@
       {"level": 200, "title": "精二满级", "attr": "maxHp", "value": 1505},
       {"level": 200, "title": "精二满级", "attr": "atk", "value": 865},
       {"level": 200, "title": "精二满级", "attr": "def", "value": 116}
+    ]
+  },
+  {
+    "id": "char_279_excu",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 1035},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 327},
+      {"level": 1, "title": "初始", "attr": "def", "value": 100},
+      {"level": 50, "title": "初始满级", "attr": "maxHp", "value": 1380},
+      {"level": 50, "title": "初始满级", "attr": "atk", "value": 468},
+      {"level": 50, "title": "初始满级", "attr": "def", "value": 131},
+      {"level": 120, "title": "精一满级", "attr": "maxHp", "value": 1747},
+      {"level": 120, "title": "精一满级", "attr": "atk", "value": 604},
+      {"level": 120, "title": "精一满级", "attr": "def", "value": 166},
+      {"level": 200, "title": "精二满级", "attr": "maxHp", "value": 2330},
+      {"level": 200, "title": "精二满级", "attr": "atk", "value": 720},
+      {"level": 200, "title": "精二满级", "attr": "def", "value": 185}
     ]
   },
   {
@@ -1389,6 +1457,23 @@
       {"level": 220, "title": "精二满级", "attr": "maxHp", "value": 1385},
       {"level": 220, "title": "精二满级", "attr": "atk", "value": 542},
       {"level": 220, "title": "精二满级", "attr": "def", "value": 120}
+    ]
+  },
+  {
+    "id": "char_248_mgllan",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 495},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 211},
+      {"level": 1, "title": "初始", "attr": "def", "value": 60},
+      {"level": 50, "title": "初始满级", "attr": "maxHp", "value": 670},
+      {"level": 50, "title": "初始满级", "attr": "atk", "value": 302},
+      {"level": 50, "title": "初始满级", "attr": "def", "value": 87},
+      {"level": 130, "title": "精一满级", "attr": "maxHp", "value": 871},
+      {"level": 130, "title": "精一满级", "attr": "atk", "value": 403},
+      {"level": 130, "title": "精一满级", "attr": "def", "value": 116},
+      {"level": 220, "title": "精二满级", "attr": "maxHp", "value": 1103},
+      {"level": 220, "title": "精二满级", "attr": "atk", "value": 469},
+      {"level": 220, "title": "精二满级", "attr": "def", "value": 140}
     ]
   },
   {
@@ -1996,6 +2081,23 @@
     ]
   },
   {
+    "id": "char_190_clour",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 550},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 166},
+      {"level": 1, "title": "初始", "attr": "def", "value": 57},
+      {"level": 45, "title": "初始满级", "attr": "maxHp", "value": 786},
+      {"level": 45, "title": "初始满级", "attr": "atk", "value": 277},
+      {"level": 45, "title": "初始满级", "attr": "def", "value": 95},
+      {"level": 105, "title": "精一满级", "attr": "maxHp", "value": 1008},
+      {"level": 105, "title": "精一满级", "attr": "atk", "value": 397},
+      {"level": 105, "title": "精一满级", "attr": "def", "value": 136},
+      {"level": 175, "title": "精二满级", "attr": "maxHp", "value": 1230},
+      {"level": 175, "title": "精二满级", "attr": "atk", "value": 485},
+      {"level": 175, "title": "精二满级", "attr": "def", "value": 162}
+    ]
+  },
+  {
     "id": "char_118_yuki",
     "phases": [
       {"level": 1, "title": "初始", "attr": "maxHp", "value": 834},
@@ -2319,6 +2421,23 @@
     ]
   },
   {
+    "id": "char_260_durnar",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 1201},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 244},
+      {"level": 1, "title": "初始", "attr": "def", "value": 220},
+      {"level": 45, "title": "初始满级", "attr": "maxHp", "value": 1623},
+      {"level": 45, "title": "初始满级", "attr": "atk", "value": 349},
+      {"level": 45, "title": "初始满级", "attr": "def", "value": 324},
+      {"level": 105, "title": "精一满级", "attr": "maxHp", "value": 2165},
+      {"level": 105, "title": "精一满级", "attr": "atk", "value": 466},
+      {"level": 105, "title": "精一满级", "attr": "def", "value": 438},
+      {"level": 175, "title": "精二满级", "attr": "maxHp", "value": 3007},
+      {"level": 175, "title": "精二满级", "attr": "atk", "value": 583},
+      {"level": 175, "title": "精二满级", "attr": "def", "value": 548}
+    ]
+  },
+  {
     "id": "char_110_deepcl",
     "phases": [
       {"level": 1, "title": "初始", "attr": "maxHp", "value": 472},
@@ -2455,6 +2574,23 @@
     ]
   },
   {
+    "id": "char_131_flameb",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 1423},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 378},
+      {"level": 1, "title": "初始", "attr": "def", "value": 86},
+      {"level": 50, "title": "初始满级", "attr": "maxHp", "value": 2033},
+      {"level": 50, "title": "初始满级", "attr": "atk", "value": 556},
+      {"level": 50, "title": "初始满级", "attr": "def", "value": 123},
+      {"level": 120, "title": "精一满级", "attr": "maxHp", "value": 2786},
+      {"level": 120, "title": "精一满级", "attr": "atk", "value": 704},
+      {"level": 120, "title": "精一满级", "attr": "def", "value": 161},
+      {"level": 200, "title": "精二满级", "attr": "maxHp", "value": 3715},
+      {"level": 200, "title": "精二满级", "attr": "atk", "value": 849},
+      {"level": 200, "title": "精二满级", "attr": "def", "value": 195}
+    ]
+  },
+  {
     "id": "char_155_tiger",
     "phases": [
       {"level": 1, "title": "初始", "attr": "maxHp", "value": 1071},
@@ -2571,6 +2707,23 @@
       {"level": 200, "title": "精二满级", "attr": "maxHp", "value": 1505},
       {"level": 200, "title": "精二满级", "attr": "atk", "value": 865},
       {"level": 200, "title": "精二满级", "attr": "def", "value": 116}
+    ]
+  },
+  {
+    "id": "char_279_excu",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 1035},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 327},
+      {"level": 1, "title": "初始", "attr": "def", "value": 100},
+      {"level": 50, "title": "初始满级", "attr": "maxHp", "value": 1380},
+      {"level": 50, "title": "初始满级", "attr": "atk", "value": 468},
+      {"level": 50, "title": "初始满级", "attr": "def", "value": 131},
+      {"level": 120, "title": "精一满级", "attr": "maxHp", "value": 1747},
+      {"level": 120, "title": "精一满级", "attr": "atk", "value": 604},
+      {"level": 120, "title": "精一满级", "attr": "def", "value": 166},
+      {"level": 200, "title": "精二满级", "attr": "maxHp", "value": 2330},
+      {"level": 200, "title": "精二满级", "attr": "atk", "value": 720},
+      {"level": 200, "title": "精二满级", "attr": "def", "value": 185}
     ]
   },
   {
@@ -3013,6 +3166,23 @@
       {"level": 220, "title": "精二满级", "attr": "maxHp", "value": 1385},
       {"level": 220, "title": "精二满级", "attr": "atk", "value": 542},
       {"level": 220, "title": "精二满级", "attr": "def", "value": 120}
+    ]
+  },
+  {
+    "id": "char_248_mgllan",
+    "phases": [
+      {"level": 1, "title": "初始", "attr": "maxHp", "value": 495},
+      {"level": 1, "title": "初始", "attr": "atk", "value": 211},
+      {"level": 1, "title": "初始", "attr": "def", "value": 60},
+      {"level": 50, "title": "初始满级", "attr": "maxHp", "value": 670},
+      {"level": 50, "title": "初始满级", "attr": "atk", "value": 302},
+      {"level": 50, "title": "初始满级", "attr": "def", "value": 87},
+      {"level": 130, "title": "精一满级", "attr": "maxHp", "value": 871},
+      {"level": 130, "title": "精一满级", "attr": "atk", "value": 403},
+      {"level": 130, "title": "精一满级", "attr": "def", "value": 116},
+      {"level": 220, "title": "精二满级", "attr": "maxHp", "value": 1103},
+      {"level": 220, "title": "精二满级", "attr": "atk", "value": 469},
+      {"level": 220, "title": "精二满级", "attr": "def", "value": 140}
     ]
   },
   {

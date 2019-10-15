@@ -2369,6 +2369,137 @@
   {"id": "guide_01", "name": null, "code": "???", "apCost": 0, "expGain": 0, "goldGain": 0, "drops": []},
   {"id": "guide_02", "name": null, "code": "???", "apCost": 0, "expGain": 0, "goldGain": 0, "drops": []},
   {
+    "id": "act4d0_01",
+    "name": "引爆",
+    "code": "SW-EV-1",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
+      {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act4d0_01#f#",
+    "name": "引爆",
+    "code": "SW-EV-1",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 1, "name": "有效情报值"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act4d0_02",
+    "name": "聚集",
+    "code": "SW-EV-2",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
+      {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act4d0_02#f#",
+    "name": "聚集",
+    "code": "SW-EV-2",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 1, "name": "有效情报值"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act4d0_03",
+    "name": "斑驳",
+    "code": "SW-EV-3",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
+      {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act4d0_03#f#",
+    "name": "斑驳",
+    "code": "SW-EV-3",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 1, "name": "有效情报值"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act4d0_04",
+    "name": "狡诈戏法",
+    "code": "SW-EV-4",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
+      {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act4d0_04#f#",
+    "name": "狡诈戏法",
+    "code": "SW-EV-4",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 1, "name": "有效情报值"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act4d0_05",
+    "name": "延时毁灭",
+    "code": "SW-EV-5",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
+      {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act4d0_05#f#",
+    "name": "延时毁灭",
+    "code": "SW-EV-5",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS004_YMO_01", "dropType": 1},
+      {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 1, "name": "有效情报值"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
     "id": "a003_st01",
     "name": "摇滚起来",
     "code": "OF-ST1",

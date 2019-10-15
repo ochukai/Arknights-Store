@@ -97,6 +97,21 @@
     ]
   },
   {
+    "id": "char_190_clour",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3242", "count": 5, "type": "MATERIAL"},
+        {"id": "30033", "count": 18, "type": "MATERIAL"},
+        {"id": "30023", "count": 12, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_118_yuki",
     "evolveCost": [
       [
@@ -382,6 +397,21 @@
     ]
   },
   {
+    "id": "char_260_durnar",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3232", "count": 5, "type": "MATERIAL"},
+        {"id": "30013", "count": 19, "type": "MATERIAL"},
+        {"id": "30103", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_110_deepcl",
     "evolveCost": [
       [
@@ -502,6 +532,21 @@
     ]
   },
   {
+    "id": "char_131_flameb",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 6, "type": "MATERIAL"},
+        {"id": "30052", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30074", "count": 9, "type": "MATERIAL"},
+        {"id": "30083", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_155_tiger",
     "evolveCost": [
       [
@@ -603,6 +648,21 @@
         {"id": "3243", "count": 3, "type": "MATERIAL"},
         {"id": "30104", "count": 7, "type": "MATERIAL"},
         {"id": "30083", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_279_excu",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30084", "count": 8, "type": "MATERIAL"},
+        {"id": "30093", "count": 9, "type": "MATERIAL"}
       ]
     ]
   },
@@ -993,6 +1053,21 @@
         {"id": "3273", "count": 4, "type": "MATERIAL"},
         {"id": "30125", "count": 4, "type": "MATERIAL"},
         {"id": "30024", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_248_mgllan",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 5, "type": "MATERIAL"},
+        {"id": "30042", "count": 7, "type": "MATERIAL"},
+        {"id": "30032", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30084", "count": 6, "type": "MATERIAL"}
       ]
     ]
   },
@@ -1276,6 +1351,21 @@
     ]
   },
   {
+    "id": "char_190_clour",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 3, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"},
+        {"id": "30052", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3242", "count": 5, "type": "MATERIAL"},
+        {"id": "30033", "count": 18, "type": "MATERIAL"},
+        {"id": "30023", "count": 12, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_118_yuki",
     "evolveCost": [
       [
@@ -1561,6 +1651,21 @@
     ]
   },
   {
+    "id": "char_260_durnar",
+    "evolveCost": [
+      [
+        {"id": "3231", "count": 3, "type": "MATERIAL"},
+        {"id": "30012", "count": 1, "type": "MATERIAL"},
+        {"id": "30032", "count": 1, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3232", "count": 5, "type": "MATERIAL"},
+        {"id": "30013", "count": 19, "type": "MATERIAL"},
+        {"id": "30103", "count": 8, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_110_deepcl",
     "evolveCost": [
       [
@@ -1681,6 +1786,21 @@
     ]
   },
   {
+    "id": "char_131_flameb",
+    "evolveCost": [
+      [
+        {"id": "3221", "count": 4, "type": "MATERIAL"},
+        {"id": "30012", "count": 6, "type": "MATERIAL"},
+        {"id": "30052", "count": 3, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3223", "count": 3, "type": "MATERIAL"},
+        {"id": "30074", "count": 9, "type": "MATERIAL"},
+        {"id": "30083", "count": 13, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
     "id": "char_155_tiger",
     "evolveCost": [
       [
@@ -1782,6 +1902,21 @@
         {"id": "3243", "count": 3, "type": "MATERIAL"},
         {"id": "30104", "count": 7, "type": "MATERIAL"},
         {"id": "30083", "count": 14, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_279_excu",
+    "evolveCost": [
+      [
+        {"id": "3241", "count": 4, "type": "MATERIAL"},
+        {"id": "30022", "count": 5, "type": "MATERIAL"},
+        {"id": "30062", "count": 2, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3243", "count": 3, "type": "MATERIAL"},
+        {"id": "30084", "count": 8, "type": "MATERIAL"},
+        {"id": "30093", "count": 9, "type": "MATERIAL"}
       ]
     ]
   },
@@ -2172,6 +2307,21 @@
         {"id": "3273", "count": 4, "type": "MATERIAL"},
         {"id": "30125", "count": 4, "type": "MATERIAL"},
         {"id": "30024", "count": 5, "type": "MATERIAL"}
+      ]
+    ]
+  },
+  {
+    "id": "char_248_mgllan",
+    "evolveCost": [
+      [
+        {"id": "3271", "count": 5, "type": "MATERIAL"},
+        {"id": "30042", "count": 7, "type": "MATERIAL"},
+        {"id": "30032", "count": 4, "type": "MATERIAL"}
+      ],
+      [
+        {"id": "3273", "count": 4, "type": "MATERIAL"},
+        {"id": "30115", "count": 4, "type": "MATERIAL"},
+        {"id": "30084", "count": 6, "type": "MATERIAL"}
       ]
     ]
   },

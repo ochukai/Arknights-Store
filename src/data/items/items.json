@@ -1729,16 +1729,18 @@
     "usage": "从地表开采出的岩石，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "sub_02-05",
+        "stageId": "act4d0_02",
         "occPer": 1,
         "stage": {
-          "id": "sub_02-05",
-          "name": "术师-1",
-          "code": "S2-5",
-          "apCost": 12,
-          "expGain": 120,
-          "goldGain": 120,
+          "id": "act4d0_02",
+          "name": "聚集",
+          "code": "SW-EV-2",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
           "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
             {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
@@ -1756,6 +1758,22 @@
           "goldGain": 60,
           "drops": [
             {"type": "MATERIAL", "id": "3003", "dropType": 1, "name": "赤金"},
+            {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-05",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-05",
+          "name": "术师-1",
+          "code": "S2-5",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
             {"type": "MATERIAL", "id": "30011", "dropType": 2, "name": "源岩"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
@@ -2014,16 +2032,18 @@
     "usage": "机械化制作的廉价天然糖替代产物，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "sub_02-06",
+        "stageId": "act4d0_01",
         "occPer": 1,
         "stage": {
-          "id": "sub_02-06",
-          "name": "术师-2",
-          "code": "S2-6",
-          "apCost": 12,
-          "expGain": 120,
-          "goldGain": 120,
+          "id": "act4d0_01",
+          "name": "引爆",
+          "code": "SW-EV-1",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
           "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
             {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
@@ -2039,6 +2059,22 @@
           "apCost": 6,
           "expGain": 60,
           "goldGain": 60,
+          "drops": [
+            {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-06",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-06",
+          "name": "术师-2",
+          "code": "S2-6",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
           "drops": [
             {"type": "MATERIAL", "id": "30021", "dropType": 2, "name": "代糖"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
@@ -2457,6 +2493,24 @@
     "usage": "工业制造所需的一组聚酸酯，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
+        "stageId": "act4d0_05",
+        "occPer": 3,
+        "stage": {
+          "id": "act4d0_05",
+          "name": "延时毁灭",
+          "code": "SW-EV-5",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
+            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "main_02-06",
         "occPer": 4,
         "stage": {
@@ -2665,6 +2719,24 @@
     "description": "在少数惰化流程中，异铁碎片偶尔会产生相变，聚合为异铁。一般认为达到此量级的异铁产物才是异铁较为稳定的形态。",
     "usage": "罕见的工业材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
+      {
+        "stageId": "act4d0_04",
+        "occPer": 1,
+        "stage": {
+          "id": "act4d0_04",
+          "name": "狡诈戏法",
+          "code": "SW-EV-4",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
+            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
       {
         "stageId": "main_02-01",
         "occPer": 3,
@@ -2980,16 +3052,18 @@
     "usage": "少量的工业用有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "main_03-07",
-        "occPer": 1,
+        "stageId": "act4d0_03",
+        "occPer": 2,
         "stage": {
-          "id": "main_03-07",
-          "name": "轰鸣",
-          "code": "3-7",
-          "apCost": 15,
-          "expGain": 150,
-          "goldGain": 150,
+          "id": "act4d0_03",
+          "name": "斑驳",
+          "code": "SW-EV-3",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
           "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 8, "name": "有效情报值"},
+            {"type": "ACTIVITY_ITEM", "id": "act4d0_intelligencepoint", "dropType": 3, "name": "有效情报值"},
             {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
@@ -3005,6 +3079,22 @@
           "apCost": 9,
           "expGain": 90,
           "goldGain": 90,
+          "drops": [
+            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_03-07",
+        "occPer": 1,
+        "stage": {
+          "id": "main_03-07",
+          "name": "轰鸣",
+          "code": "3-7",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
           "drops": [
             {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}

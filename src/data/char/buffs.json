@@ -137,7 +137,7 @@
     "bgColor": "#565656",
     "color": "#ffffff",
     "room": "办公室",
-    "description": "进驻人力办公室时，人脉资源的累计速度+20%",
+    "description": "进驻人力办公室时，人脉资源的累积速度+20%",
     "phase": "初始",
     "level": 1,
     "char": "巡林者"
@@ -423,7 +423,7 @@
     "bgColor": "#565656",
     "color": "#ffffff",
     "room": "办公室",
-    "description": "进驻人力办公室时，人脉资源的累计速度+40%",
+    "description": "进驻人力办公室时，人脉资源的累积速度+40%",
     "phase": "初始",
     "level": 1,
     "char": "梓兰"
@@ -727,7 +727,7 @@
   },
   {
     "id": "char_149_scave_control_mp_cost[001]",
-    "name": "S.W.E.E.P",
+    "name": "S.W.E.E.P.",
     "bgColor": "#005752",
     "color": "#ffffff",
     "room": "控制中枢",
@@ -797,7 +797,7 @@
     "bgColor": "#565656",
     "color": "#ffffff",
     "room": "办公室",
-    "description": "进驻人力办公室时，人脉资源的累计速度+30%",
+    "description": "进驻人力办公室时，人脉资源的累积速度+30%",
     "phase": "初始",
     "level": 1,
     "char": "地灵"
@@ -1343,7 +1343,7 @@
   },
   {
     "id": "char_144_red_control_mp_cost[001]",
-    "name": "S.W.E.E.P",
+    "name": "S.W.E.E.P.",
     "bgColor": "#005752",
     "color": "#ffffff",
     "room": "控制中枢",
@@ -1369,7 +1369,7 @@
     "bgColor": "#565656",
     "color": "#ffffff",
     "room": "办公室",
-    "description": "进驻人力办公室时，人脉资源的累计速度+30%",
+    "description": "进驻人力办公室时，人脉资源的累积速度+30%",
     "phase": "初始",
     "level": 1,
     "char": "普罗旺斯"
@@ -1380,7 +1380,7 @@
     "bgColor": "#565656",
     "color": "#ffffff",
     "room": "办公室",
-    "description": "进驻人力办公室时，人脉资源的累计速度+45%",
+    "description": "进驻人力办公室时，人脉资源的累积速度+45%",
     "phase": "精二",
     "level": 1,
     "char": "普罗旺斯"
@@ -1468,7 +1468,7 @@
     "bgColor": "#ffd800",
     "color": "#333333",
     "room": "制造站",
-    "description": "进驻制造站时，生产力-5%，仓库容量上限+16，心情每小时消耗-0.25",
+    "description": "进驻制造站时，生产力-5%，仓库容量上限+18，心情每小时消耗-0.25",
     "phase": "精二",
     "level": 1,
     "char": "火神"
@@ -1490,7 +1490,7 @@
     "bgColor": "#565656",
     "color": "#ffffff",
     "room": "办公室",
-    "description": "进驻人力办公室时，人脉资源的累计速度+40%",
+    "description": "进驻人力办公室时，人脉资源的累积速度+40%",
     "phase": "精二",
     "level": 1,
     "char": "夜魔"
@@ -1996,7 +1996,7 @@
     "bgColor": "#565656",
     "color": "#ffffff",
     "room": "办公室",
-    "description": "进驻人力办公室时，人脉资源的累计速度+45%",
+    "description": "进驻人力办公室时，人脉资源的累积速度+45%",
     "phase": "精二",
     "level": 1,
     "char": "艾雅法拉"
@@ -2242,5 +2242,115 @@
     "phase": "精二",
     "level": 1,
     "char": "星极"
+  },
+  {
+    "id": "char_260_durnar_train_spd&profession[030]",
+    "name": "重装专精·α",
+    "bgColor": "#7d0022",
+    "color": "#ffffff",
+    "room": "训练室",
+    "description": "进驻训练室协助位时，重装干员的专精技能训练速度+30%",
+    "phase": "初始",
+    "level": 1,
+    "char": "坚雷"
+  },
+  {
+    "id": "char_260_durnar_control_mp_cost[002]",
+    "name": "零食网络",
+    "bgColor": "#005752",
+    "color": "#ffffff",
+    "room": "控制中枢",
+    "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时消耗-0.05",
+    "phase": "精一",
+    "level": 1,
+    "char": "坚雷"
+  },
+  {
+    "id": "char_248_mgllan_workshop_proc_probability[011]",
+    "name": "多功能测绘仪",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工任意类材料时，副产品的产出概率提升50%",
+    "phase": "初始",
+    "level": 1,
+    "char": "麦哲伦"
+  },
+  {
+    "id": "char_248_mgllan_workshop_formula_cost[000]",
+    "name": "龙腾式无人机",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工任意类材料时，心情消耗为4及以上的配方全部-2心情消耗",
+    "phase": "精二",
+    "level": 1,
+    "char": "麦哲伦"
+  },
+  {
+    "id": "char_131_flameb_workshop_formula_probability[000]",
+    "name": "技巧理论",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工技巧概要时，副产品的产出概率提升70%",
+    "phase": "初始",
+    "level": 1,
+    "char": "炎客"
+  },
+  {
+    "id": "char_131_flameb_workshop_formula_probability[020]",
+    "name": "登峰造极",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工技巧概要时，副产品的产出概率提升80%",
+    "phase": "精二",
+    "level": 1,
+    "char": "炎客"
+  },
+  {
+    "id": "char_279_excu_train_spd&profession[040]",
+    "name": "狙击专精·α",
+    "bgColor": "#7d0022",
+    "color": "#ffffff",
+    "room": "训练室",
+    "description": "进驻训练室协助位时，狙击干员的专精技能训练速度+30%",
+    "phase": "初始",
+    "level": 1,
+    "char": "送葬人"
+  },
+  {
+    "id": "char_279_excu_control_mp_cost[003]",
+    "name": "清理委托",
+    "bgColor": "#005752",
+    "color": "#ffffff",
+    "room": "控制中枢",
+    "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时消耗-0.05",
+    "phase": "精二",
+    "level": 1,
+    "char": "送葬人"
+  },
+  {
+    "id": "char_190_clour_manu_prod_limit&cost[000]",
+    "name": "拾荒者",
+    "bgColor": "#ffd800",
+    "color": "#333333",
+    "room": "制造站",
+    "description": "进驻制造站时，仓库容量上限+8，心情每小时消耗-0.25",
+    "phase": "初始",
+    "level": 1,
+    "char": "红云"
+  },
+  {
+    "id": "char_190_clour_manu_prod_spd_variable[000]",
+    "name": "回收利用",
+    "bgColor": "#ffd800",
+    "color": "#333333",
+    "room": "制造站",
+    "description": "进驻制造站时，当前制造站内干员提升的每格仓库容量，提供2%生产力",
+    "phase": "精一",
+    "level": 1,
+    "char": "红云"
   }
 ]

@@ -257,6 +257,53 @@
     ]
   },
   {
+    "id": "char_190_clour",
+    "skills": [
+      {
+        "id": "skcom_atk_up[2]",
+        "name": "攻击力强化·β型",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 1, "type": "MATERIAL"},
+            {"id": "30073", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30014", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30135", "count": 2, "type": "MATERIAL"},
+            {"id": "30014", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_clour_2",
+        "name": "双弦开弓",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30104", "count": 1, "type": "MATERIAL"},
+            {"id": "30083", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30024", "count": 2, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_118_yuki",
     "skills": [
       {
@@ -1150,6 +1197,53 @@
     ]
   },
   {
+    "id": "char_260_durnar",
+    "skills": [
+      {
+        "id": "skcom_atk_up[2]",
+        "name": "攻击力强化·β型",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30054", "count": 1, "type": "MATERIAL"},
+            {"id": "30033", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"},
+            {"id": "30054", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30125", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_durnar_2",
+        "name": "起盾回击",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 1, "type": "MATERIAL"},
+            {"id": "30043", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30135", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_110_deepcl",
     "skills": [
       {
@@ -1526,6 +1620,53 @@
     ]
   },
   {
+    "id": "char_131_flameb",
+    "skills": [
+      {
+        "id": "skchr_flameb_1",
+        "name": "歃血",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30024", "count": 3, "type": "MATERIAL"},
+            {"id": "30103", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30024", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_flameb_2",
+        "name": "刃鬼",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30013", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30034", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_155_tiger",
     "skills": [
       {
@@ -1849,6 +1990,53 @@
             {"id": "3303", "count": 10, "type": "MATERIAL"},
             {"id": "30135", "count": 4, "type": "MATERIAL"},
             {"id": "30014", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_279_excu",
+    "skills": [
+      {
+        "id": "skchr_excu_1",
+        "name": "铳口收束",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30023", "count": 1, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"},
+            {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30094", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_excu_2",
+        "name": "最终旅程",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30033", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30074", "count": 3, "type": "MATERIAL"},
+            {"id": "30054", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30064", "count": 3, "type": "MATERIAL"}
           ]
         ]
       }
@@ -3218,6 +3406,74 @@
             {"id": "3303", "count": 15, "type": "MATERIAL"},
             {"id": "30115", "count": 6, "type": "MATERIAL"},
             {"id": "30074", "count": 7, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_248_mgllan",
+    "skills": [
+      {
+        "id": "skchr_mgllan_1",
+        "name": "高效制冷模块",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30104", "count": 4, "type": "MATERIAL"},
+            {"id": "30083", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"},
+            {"id": "30014", "count": 10, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30084", "count": 6, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mgllan_2",
+        "name": "激光开采模块",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30014", "count": 4, "type": "MATERIAL"},
+            {"id": "30093", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"},
+            {"id": "30024", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30135", "count": 6, "type": "MATERIAL"},
+            {"id": "30054", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mgllan_3",
+        "name": "武装打击模块",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30024", "count": 4, "type": "MATERIAL"},
+            {"id": "30103", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30054", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30135", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 4, "type": "MATERIAL"}
           ]
         ]
       }
@@ -4215,6 +4471,53 @@
     ]
   },
   {
+    "id": "char_190_clour",
+    "skills": [
+      {
+        "id": "skcom_atk_up[2]",
+        "name": "攻击力强化·β型",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 1, "type": "MATERIAL"},
+            {"id": "30073", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30014", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30135", "count": 2, "type": "MATERIAL"},
+            {"id": "30014", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_clour_2",
+        "name": "双弦开弓",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30104", "count": 1, "type": "MATERIAL"},
+            {"id": "30083", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30024", "count": 2, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_118_yuki",
     "skills": [
       {
@@ -5108,6 +5411,53 @@
     ]
   },
   {
+    "id": "char_260_durnar",
+    "skills": [
+      {
+        "id": "skcom_atk_up[2]",
+        "name": "攻击力强化·β型",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30054", "count": 1, "type": "MATERIAL"},
+            {"id": "30033", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"},
+            {"id": "30054", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30125", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_durnar_2",
+        "name": "起盾回击",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 1, "type": "MATERIAL"},
+            {"id": "30043", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30135", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_110_deepcl",
     "skills": [
       {
@@ -5484,6 +5834,53 @@
     ]
   },
   {
+    "id": "char_131_flameb",
+    "skills": [
+      {
+        "id": "skchr_flameb_1",
+        "name": "歃血",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30024", "count": 3, "type": "MATERIAL"},
+            {"id": "30103", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30024", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_flameb_2",
+        "name": "刃鬼",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30013", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30034", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_155_tiger",
     "skills": [
       {
@@ -5807,6 +6204,53 @@
             {"id": "3303", "count": 10, "type": "MATERIAL"},
             {"id": "30135", "count": 4, "type": "MATERIAL"},
             {"id": "30014", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_279_excu",
+    "skills": [
+      {
+        "id": "skchr_excu_1",
+        "name": "铳口收束",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30023", "count": 1, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"},
+            {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30094", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_excu_2",
+        "name": "最终旅程",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30033", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30074", "count": 3, "type": "MATERIAL"},
+            {"id": "30054", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30064", "count": 3, "type": "MATERIAL"}
           ]
         ]
       }
@@ -7176,6 +7620,74 @@
             {"id": "3303", "count": 15, "type": "MATERIAL"},
             {"id": "30115", "count": 6, "type": "MATERIAL"},
             {"id": "30074", "count": 7, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_248_mgllan",
+    "skills": [
+      {
+        "id": "skchr_mgllan_1",
+        "name": "高效制冷模块",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30104", "count": 4, "type": "MATERIAL"},
+            {"id": "30083", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"},
+            {"id": "30014", "count": 10, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30084", "count": 6, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mgllan_2",
+        "name": "激光开采模块",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30014", "count": 4, "type": "MATERIAL"},
+            {"id": "30093", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"},
+            {"id": "30024", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30135", "count": 6, "type": "MATERIAL"},
+            {"id": "30054", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mgllan_3",
+        "name": "武装打击模块",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30024", "count": 4, "type": "MATERIAL"},
+            {"id": "30103", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30054", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30135", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 4, "type": "MATERIAL"}
           ]
         ]
       }
