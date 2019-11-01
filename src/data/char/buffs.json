@@ -2322,7 +2322,7 @@
   },
   {
     "id": "char_279_excu_control_mp_cost[003]",
-    "name": "清理委托",
+    "name": "清理协议",
     "bgColor": "#005752",
     "color": "#ffffff",
     "room": "控制中枢",
@@ -2352,5 +2352,49 @@
     "phase": "精一",
     "level": 1,
     "char": "红云"
+  },
+  {
+    "id": "char_275_breeze_meet_spd&team[000]",
+    "name": "线索搜集·α",
+    "bgColor": "#dd653f",
+    "color": "#ffffff",
+    "room": "会客室",
+    "description": "进驻会客室时，线索搜集速度提升10%",
+    "phase": "初始",
+    "level": 1,
+    "char": "微风"
+  },
+  {
+    "id": "char_275_breeze_meet_spd&team[071]",
+    "name": "没落贵族",
+    "bgColor": "#dd653f",
+    "color": "#ffffff",
+    "room": "会客室",
+    "description": "进驻会客室时，线索搜集速度提升10%，且更容易获得格拉斯哥帮线索",
+    "phase": "精二",
+    "level": 1,
+    "char": "微风"
+  },
+  {
+    "id": "char_355_ethan_hire_spd[030]",
+    "name": "WRITER",
+    "bgColor": "#565656",
+    "color": "#ffffff",
+    "room": "办公室",
+    "description": "进驻人力办公室时，人脉资源的累积速度+40%",
+    "phase": "初始",
+    "level": 1,
+    "char": "伊桑"
+  },
+  {
+    "id": "char_355_ethan_dorm_rec_oneself[030]",
+    "name": "隐形的美食家",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，自身心情每小时恢复+0.75",
+    "phase": "精一",
+    "level": 1,
+    "char": "伊桑"
   }
 ]

@@ -2733,5 +2733,338 @@
       }
     ],
     "totalComfort": 4800
+  },
+  {
+    "id": "furni_set_rococo",
+    "name": "兰赛拉尔宴会厅",
+    "groups": [
+      {
+        "themeId": "furni_set_rococo",
+        "name": "宴会厅长桌",
+        "comfort": 395,
+        "furniture": [
+          "furni_rococo_table_01",
+          "furni_rococo_mainSeat_01",
+          "furni_rococo_secondarySeat_01",
+          "furni_rococo_observationDeck_01",
+          "furni_rococo_pillar_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_rococo",
+        "name": "宴会厅储物角",
+        "comfort": 120,
+        "furniture": [
+          "furni_rococo_cabinet_01",
+          "furni_rococo_bustStatue_01",
+          "furni_rococo_stool_01",
+          "furni_rococo_framedArt_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_rococo",
+        "name": "宴会厅装饰角",
+        "comfort": 90,
+        "furniture": [
+          "furni_rococo_fireplace_01",
+          "furni_rococo_brazier_01",
+          "furni_rococo_mirror_01",
+          "furni_rococo_carpet_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_rococo",
+        "name": "兰赛拉尔之夜",
+        "comfort": 115,
+        "furniture": [
+          "furni_rococo_wallpaper_01",
+          "furni_rococo_floor_01",
+          "furni_rococo_doorMat_01",
+          "furni_rococo_ceilingLight1_01",
+          "furni_rococo_ceilingLight2_01"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_rococo_cabinet_01",
+        "name": "上锁的立柜",
+        "type": "CABINET",
+        "comfort": 255,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_bustStatue_01",
+        "name": "兰城卫兵半身像",
+        "type": "DECORATION",
+        "comfort": 145,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_table_01",
+        "name": "宴席长桌",
+        "type": "TABLE",
+        "comfort": 605,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_mainSeat_01",
+        "name": "宴会厅主座",
+        "type": "SEATING",
+        "comfort": 145,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_secondarySeat_01",
+        "name": "宴会厅次席",
+        "type": "SEATING",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 6
+      },
+      {
+        "id": "furni_rococo_stool_01",
+        "name": "兰赛拉尔矮凳",
+        "type": "SEATING",
+        "comfort": 175,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_fireplace_01",
+        "name": "蜡烛展示炉",
+        "type": "DECORATION",
+        "comfort": 175,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_carpet_01",
+        "name": "兰赛拉尔小方毯",
+        "type": "CARPET",
+        "comfort": 50,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_brazier_01",
+        "name": "兰赛拉尔火盆",
+        "type": "DECORATION",
+        "comfort": 165,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_observationDeck_01",
+        "name": "全景显示屏（兰城.夜）",
+        "type": "WALLDECO",
+        "comfort": 305,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_pillar_01",
+        "name": "艾式立柱",
+        "type": "DECORATION",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_rococo_framedArt_01",
+        "name": "《兰赛拉尔风光》",
+        "type": "WALLDECO",
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_mirror_01",
+        "name": "兰赛拉尔魔镜",
+        "type": "WALLDECO",
+        "comfort": 105,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_ceilingLight1_01",
+        "name": "双层吸顶蜡烛吊灯",
+        "type": "CEILINGLAMP",
+        "comfort": 140,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_ceilingLight2_01",
+        "name": "吸顶蜡烛吊灯",
+        "type": "CEILINGLAMP",
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_rococo_wallpaper_01",
+        "name": "兰城皇家墙纸",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_rococo_floor_01",
+        "name": "兰赛拉尔原木地板",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4440
+  },
+  {
+    "id": "furni_set_spirit",
+    "name": "魂灵秘会",
+    "groups": [
+      {
+        "themeId": "furni_set_spirit",
+        "name": "安睡之塌",
+        "comfort": 310,
+        "furniture": ["furni_spirit_tree_01", "furni_spirit_pumpkin2_01", "furni_spirit_window_01"]
+      },
+      {
+        "themeId": "furni_set_spirit",
+        "name": "通密之仪",
+        "comfort": 220,
+        "furniture": ["furni_spirit_fireplace_01", "furni_spirit_pumpkin_01", "furni_spirit_ceilingLight_01"]
+      },
+      {
+        "themeId": "furni_set_spirit",
+        "name": "寻识之途",
+        "comfort": 225,
+        "furniture": [
+          "furni_spirit_table_01",
+          "furni_spirit_chair_01",
+          "furni_spirit_crucible_01",
+          "furni_spirit_book_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_spirit",
+        "name": "他界之貌",
+        "comfort": 130,
+        "furniture": ["furni_spirit_wallpaper_01", "furni_spirit_floor_01", "furni_spirit_carpet_01"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_spirit_tree_01",
+        "name": "异样寝床",
+        "type": "BEDDING",
+        "comfort": 1020,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_window_01",
+        "name": "锁夜石窗",
+        "type": "WALLDECO",
+        "comfort": 175,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_pumpkin_01",
+        "name": "数个仪瓜",
+        "type": "DECORATION",
+        "comfort": 230,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_pumpkin2_01",
+        "name": "更多仪瓜",
+        "type": "DECORATION",
+        "comfort": 145,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_fireplace_01",
+        "name": "起仪壁炉",
+        "type": "DECORATION",
+        "comfort": 475,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_book_01",
+        "name": "塑忆书群",
+        "type": "DECORATION",
+        "comfort": 175,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_crucible_01",
+        "name": "铸蜜坩埚",
+        "type": "DECORATION",
+        "comfort": 310,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_table_01",
+        "name": "碎序书桌",
+        "type": "TABLE",
+        "comfort": 450,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_chair_01",
+        "name": "典雅木椅",
+        "type": "SEATING",
+        "comfort": 50,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_ceilingLight_01",
+        "name": "辅仪吊灯",
+        "type": "CEILINGLAMP",
+        "comfort": 205,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_carpet_01",
+        "name": "平凡草席",
+        "type": "CARPET",
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_wallpaper_01",
+        "name": "破败居室",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_spirit_floor_01",
+        "name": "积岁砖石",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4800
   }
 ]

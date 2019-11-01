@@ -650,6 +650,19 @@
     "tagList": ["减速"]
   },
   {
+    "id": "char_355_ethan",
+    "name": "伊桑",
+    "appellation": "Ethan",
+    "description": "对攻击范围内所有敌人造成伤害<br/>拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "凭证交易所",
+    "position": "MELEE",
+    "star": 4,
+    "profession": "特种",
+    "tagList": ["输出", "控场"]
+  },
+  {
     "id": "char_277_sqrrel",
     "name": "阿消",
     "appellation": "Shaw",
@@ -670,6 +683,19 @@
     "team": "莱茵生命",
     "color": "#c8ff51",
     "obtain": "招募寻访",
+    "position": "RANGED",
+    "star": 5,
+    "profession": "医疗",
+    "tagList": ["治疗", "支援"]
+  },
+  {
+    "id": "char_275_breeze",
+    "name": "微风",
+    "appellation": "Breeze",
+    "description": "同时恢复三个友方单位的生命",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "凭证交易所",
     "position": "RANGED",
     "star": 5,
     "profession": "医疗",

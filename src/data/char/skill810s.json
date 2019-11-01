@@ -1338,6 +1338,53 @@
     ]
   },
   {
+    "id": "char_355_ethan",
+    "skills": [
+      {
+        "id": "skchr_ethan_1",
+        "name": "花式回旋",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 1, "type": "MATERIAL"},
+            {"id": "30053", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30094", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_ethan_2",
+        "name": "十字悬挂",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 1, "type": "MATERIAL"},
+            {"id": "30063", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30125", "count": 2, "type": "MATERIAL"},
+            {"id": "30024", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_277_sqrrel",
     "skills": [
       {
@@ -1426,6 +1473,53 @@
             {"id": "3303", "count": 10, "type": "MATERIAL"},
             {"id": "30125", "count": 4, "type": "MATERIAL"},
             {"id": "30014", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_275_breeze",
+    "skills": [
+      {
+        "id": "skchr_breeze_1",
+        "name": "集束疗法",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30104", "count": 3, "type": "MATERIAL"},
+            {"id": "30083", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30024", "count": 3, "type": "MATERIAL"},
+            {"id": "30104", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_breeze_2",
+        "name": "扩散疗法",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30014", "count": 3, "type": "MATERIAL"},
+            {"id": "30093", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30014", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"}
           ]
         ]
       }
@@ -5552,6 +5646,53 @@
     ]
   },
   {
+    "id": "char_355_ethan",
+    "skills": [
+      {
+        "id": "skchr_ethan_1",
+        "name": "花式回旋",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 1, "type": "MATERIAL"},
+            {"id": "30053", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30094", "count": 2, "type": "MATERIAL"},
+            {"id": "30074", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_ethan_2",
+        "name": "十字悬挂",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 1, "type": "MATERIAL"},
+            {"id": "30063", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30125", "count": 2, "type": "MATERIAL"},
+            {"id": "30024", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_277_sqrrel",
     "skills": [
       {
@@ -5640,6 +5781,53 @@
             {"id": "3303", "count": 10, "type": "MATERIAL"},
             {"id": "30125", "count": 4, "type": "MATERIAL"},
             {"id": "30014", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_275_breeze",
+    "skills": [
+      {
+        "id": "skchr_breeze_1",
+        "name": "集束疗法",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30104", "count": 3, "type": "MATERIAL"},
+            {"id": "30083", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30024", "count": 3, "type": "MATERIAL"},
+            {"id": "30104", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30074", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_breeze_2",
+        "name": "扩散疗法",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30014", "count": 3, "type": "MATERIAL"},
+            {"id": "30093", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30014", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"}
           ]
         ]
       }
