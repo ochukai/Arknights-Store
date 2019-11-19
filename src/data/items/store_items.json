@@ -5,6 +5,7 @@
   {"id": "2003", "name": "中级作战记录", "sortId": 20002, "rarity": 3},
   {"id": "2002", "name": "初级作战记录", "sortId": 20003, "rarity": 2},
   {"id": "2001", "name": "基础作战记录", "sortId": 20004, "rarity": 1},
+  {"id": "voucher_item_4pick1", "name": "干员兑换券", "sortId": 30001, "rarity": 4},
   {"id": "30135", "name": "D32钢", "sortId": 100001, "rarity": 4},
   {"id": "30125", "name": "双极纳米片", "sortId": 100002, "rarity": 4},
   {"id": "30115", "name": "聚合剂", "sortId": 100003, "rarity": 4},

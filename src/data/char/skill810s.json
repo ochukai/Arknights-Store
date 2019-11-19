@@ -304,6 +304,53 @@
     ]
   },
   {
+    "id": "char_133_mm",
+    "skills": [
+      {
+        "id": "skchr_mm_1",
+        "name": "麻痹弹",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 1, "type": "MATERIAL"},
+            {"id": "30063", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30135", "count": 2, "type": "MATERIAL"},
+            {"id": "30034", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mm_2",
+        "name": "束缚电击",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 1, "type": "MATERIAL"},
+            {"id": "30073", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30014", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_118_yuki",
     "skills": [
       {
@@ -2534,6 +2581,53 @@
     ]
   },
   {
+    "id": "char_243_waaifu",
+    "skills": [
+      {
+        "id": "skchr_waaifu_1",
+        "name": "寸劲",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30033", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30074", "count": 3, "type": "MATERIAL"},
+            {"id": "30054", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30064", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_waaifu_2",
+        "name": "七武掠阵踢",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"},
+            {"id": "30043", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30084", "count": 3, "type": "MATERIAL"},
+            {"id": "30064", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_107_liskam",
     "skills": [
       {
@@ -2622,6 +2716,53 @@
             {"id": "3303", "count": 10, "type": "MATERIAL"},
             {"id": "30125", "count": 4, "type": "MATERIAL"},
             {"id": "30104", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_325_bison",
+    "skills": [
+      {
+        "id": "skcom_def_up[3]",
+        "name": "防御力强化·γ型",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30013", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30034", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_bison_2",
+        "name": "深化阵线",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30023", "count": 1, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"},
+            {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30094", "count": 4, "type": "MATERIAL"}
           ]
         ]
       }
@@ -3364,6 +3505,74 @@
             {"id": "3303", "count": 15, "type": "MATERIAL"},
             {"id": "30125", "count": 6, "type": "MATERIAL"},
             {"id": "30044", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_213_mostma",
+    "skills": [
+      {
+        "id": "skcom_atk_up[3]",
+        "name": "攻击力强化·γ型",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30014", "count": 4, "type": "MATERIAL"},
+            {"id": "30093", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"},
+            {"id": "30024", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30125", "count": 6, "type": "MATERIAL"},
+            {"id": "30094", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mostma_2",
+        "name": "荒时之锁",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30024", "count": 4, "type": "MATERIAL"},
+            {"id": "30103", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30054", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30094", "count": 6, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mostma_3",
+        "name": "序时之匙",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"},
+            {"id": "30013", "count": 8, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30064", "count": 3, "type": "MATERIAL"},
+            {"id": "30044", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 6, "type": "MATERIAL"}
           ]
         ]
       }
@@ -4612,6 +4821,53 @@
     ]
   },
   {
+    "id": "char_133_mm",
+    "skills": [
+      {
+        "id": "skchr_mm_1",
+        "name": "麻痹弹",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 1, "type": "MATERIAL"},
+            {"id": "30063", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30104", "count": 2, "type": "MATERIAL"},
+            {"id": "30084", "count": 2, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30135", "count": 2, "type": "MATERIAL"},
+            {"id": "30034", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mm_2",
+        "name": "束缚电击",
+        "costs": [
+          [
+            {"id": "3303", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 1, "type": "MATERIAL"},
+            {"id": "30073", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 4, "type": "MATERIAL"},
+            {"id": "30014", "count": 2, "type": "MATERIAL"},
+            {"id": "30094", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30115", "count": 2, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_118_yuki",
     "skills": [
       {
@@ -6842,6 +7098,53 @@
     ]
   },
   {
+    "id": "char_243_waaifu",
+    "skills": [
+      {
+        "id": "skchr_waaifu_1",
+        "name": "寸劲",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30033", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30074", "count": 3, "type": "MATERIAL"},
+            {"id": "30054", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30135", "count": 4, "type": "MATERIAL"},
+            {"id": "30064", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_waaifu_2",
+        "name": "七武掠阵踢",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"},
+            {"id": "30043", "count": 3, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30084", "count": 3, "type": "MATERIAL"},
+            {"id": "30064", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "id": "char_107_liskam",
     "skills": [
       {
@@ -6930,6 +7233,53 @@
             {"id": "3303", "count": 10, "type": "MATERIAL"},
             {"id": "30125", "count": 4, "type": "MATERIAL"},
             {"id": "30104", "count": 3, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_325_bison",
+    "skills": [
+      {
+        "id": "skcom_def_up[3]",
+        "name": "防御力强化·γ型",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30034", "count": 3, "type": "MATERIAL"},
+            {"id": "30013", "count": 4, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30054", "count": 3, "type": "MATERIAL"},
+            {"id": "30034", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30115", "count": 4, "type": "MATERIAL"},
+            {"id": "30084", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_bison_2",
+        "name": "深化阵线",
+        "costs": [
+          [
+            {"id": "3303", "count": 5, "type": "MATERIAL"},
+            {"id": "30044", "count": 3, "type": "MATERIAL"},
+            {"id": "30023", "count": 1, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 6, "type": "MATERIAL"},
+            {"id": "30064", "count": 2, "type": "MATERIAL"},
+            {"id": "30044", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 10, "type": "MATERIAL"},
+            {"id": "30125", "count": 4, "type": "MATERIAL"},
+            {"id": "30094", "count": 4, "type": "MATERIAL"}
           ]
         ]
       }
@@ -7672,6 +8022,74 @@
             {"id": "3303", "count": 15, "type": "MATERIAL"},
             {"id": "30125", "count": 6, "type": "MATERIAL"},
             {"id": "30044", "count": 4, "type": "MATERIAL"}
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "char_213_mostma",
+    "skills": [
+      {
+        "id": "skcom_atk_up[3]",
+        "name": "攻击力强化·γ型",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30014", "count": 4, "type": "MATERIAL"},
+            {"id": "30093", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30044", "count": 4, "type": "MATERIAL"},
+            {"id": "30024", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30125", "count": 6, "type": "MATERIAL"},
+            {"id": "30094", "count": 5, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mostma_2",
+        "name": "荒时之锁",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30024", "count": 4, "type": "MATERIAL"},
+            {"id": "30103", "count": 5, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30054", "count": 4, "type": "MATERIAL"},
+            {"id": "30034", "count": 7, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30094", "count": 6, "type": "MATERIAL"}
+          ]
+        ]
+      },
+      {
+        "id": "skchr_mostma_3",
+        "name": "序时之匙",
+        "costs": [
+          [
+            {"id": "3303", "count": 8, "type": "MATERIAL"},
+            {"id": "30034", "count": 4, "type": "MATERIAL"},
+            {"id": "30013", "count": 8, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 12, "type": "MATERIAL"},
+            {"id": "30064", "count": 3, "type": "MATERIAL"},
+            {"id": "30044", "count": 6, "type": "MATERIAL"}
+          ],
+          [
+            {"id": "3303", "count": 15, "type": "MATERIAL"},
+            {"id": "30115", "count": 6, "type": "MATERIAL"},
+            {"id": "30034", "count": 6, "type": "MATERIAL"}
           ]
         ]
       }

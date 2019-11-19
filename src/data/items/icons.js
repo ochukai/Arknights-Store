@@ -74,4 +74,5 @@ export const iconMaps = {
   "MTL_SL_BN": require('../../assets/icons/MTL_SL_BN.png'),
   "MTL_SL_DS": require('../../assets/icons/MTL_SL_DS.png'),
   "MTL_ASC_DI": require('../../assets/icons/MTL_ASC_DI.png')
+  // "voucher_item_4pick1": require('../../assets/icons/voucher_item_4pick1.png')
 }

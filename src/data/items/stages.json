@@ -2369,6 +2369,155 @@
   {"id": "guide_01", "name": null, "code": "???", "apCost": 0, "expGain": 0, "goldGain": 0, "drops": []},
   {"id": "guide_02", "name": null, "code": "???", "apCost": 0, "expGain": 0, "goldGain": 0, "drops": []},
   {
+    "id": "act5d0_01",
+    "name": "6:44P.M.",
+    "code": "CB-1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 0,
+    "drops": [
+      {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_02",
+    "name": "7:15P.M.",
+    "code": "CB-2",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_03",
+    "name": "7:22P.M.",
+    "code": "CB-3",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 0,
+    "drops": [
+      {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_04",
+    "name": "7:59P.M.",
+    "code": "CB-4",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_05",
+    "name": "8:31P.M.",
+    "code": "CB-5",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 0,
+    "drops": [
+      {"type": "CHAR", "id": "char_325_bison", "dropType": 1},
+      {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_st01",
+    "name": "晚风轻拂",
+    "code": "CB-ST1",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_06",
+    "name": "10:26P.M.",
+    "code": "CB-6",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_07",
+    "name": "11:08P.M.",
+    "code": "CB-7",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 0,
+    "drops": [
+      {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_08",
+    "name": "11:41P.M.",
+    "code": "CB-8",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_st02",
+    "name": "午夜龙门",
+    "code": "CB-ST2",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_09",
+    "name": "0:01A.M.",
+    "code": "CB-9",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 0,
+    "drops": [
+      {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_10",
+    "name": "1:11A.M.",
+    "code": "CB-10",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+      {"type": "CARD_EXP", "id": "2002", "dropType": 2, "name": "初级作战记录"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act5d0_st03",
+    "name": "破晓时分",
+    "code": "CB-ST3",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
     "id": "act4d0_01",
     "name": "引爆",
     "code": "SW-EV-1",

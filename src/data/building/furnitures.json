@@ -2907,6 +2907,14 @@
         "count": 2
       },
       {
+        "id": "furni_rococo_doorMat_01",
+        "name": "礼宾门垫",
+        "type": "CARPET",
+        "comfort": 30,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
         "id": "furni_rococo_wallpaper_01",
         "name": "兰城皇家墙纸",
         "type": "WALLPAPER",
@@ -2923,7 +2931,7 @@
         "count": 1
       }
     ],
-    "totalComfort": 4440
+    "totalComfort": 4500
   },
   {
     "id": "furni_set_spirit",
@@ -2978,7 +2986,7 @@
       },
       {
         "id": "furni_spirit_pumpkin_01",
-        "name": "数个仪瓜",
+        "name": "更多仪瓜",
         "type": "DECORATION",
         "comfort": 230,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
@@ -2986,7 +2994,7 @@
       },
       {
         "id": "furni_spirit_pumpkin2_01",
-        "name": "更多仪瓜",
+        "name": "数个仪瓜",
         "type": "DECORATION",
         "comfort": 145,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
@@ -3066,5 +3074,345 @@
       }
     ],
     "totalComfort": 4800
+  },
+  {
+    "id": "furni_set_KFC",
+    "name": "人气快餐店肯德基",
+    "groups": [
+      {
+        "themeId": "furni_set_KFC",
+        "name": "肯德基点餐区",
+        "comfort": 280,
+        "furniture": [
+          "furni_KFC_priceList_01",
+          "furni_KFC_cashierDesk_01",
+          "furni_KFC_displayCabinet_01",
+          "furni_KFC_blackWall_01",
+          "furni_KFC_sticker_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_KFC",
+        "name": "肯德基广告设施",
+        "comfort": 135,
+        "furniture": ["furni_KFC_banner_01", "furni_KFC_fence_01", "furni_KFC_partitionWall_01", "furni_KFC_poster_01"]
+      },
+      {
+        "themeId": "furni_set_KFC",
+        "name": "肯德基就餐区",
+        "comfort": 170,
+        "furniture": [
+          "furni_KFC_diningTable_01",
+          "furni_KFC_barTable_01",
+          "furni_KFC_cupFilling_01",
+          "furni_KFC_barrier_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_KFC",
+        "name": "肯德基店面装修",
+        "comfort": 105,
+        "furniture": [
+          "furni_KFC_wallpaper_01",
+          "furni_KFC_floor_01",
+          "furni_KFC_spotlight_01",
+          "furni_KFC_ceilingLight_01"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_KFC_priceList_01",
+        "name": "肯德基价目表",
+        "type": "CEILING",
+        "comfort": 290,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_cashierDesk_01",
+        "name": "肯德基收银台",
+        "type": "DECORATION",
+        "comfort": 365,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_displayCabinet_01",
+        "name": "肯德基食品陈列柜",
+        "type": "CABINET",
+        "comfort": 255,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_blackWall_01",
+        "name": "肯德基木隔墙",
+        "type": "DECORATION",
+        "comfort": 260,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_banner_01",
+        "name": "肯德基落地展架",
+        "type": "DECORATION",
+        "comfort": 225,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_partitionWall_01",
+        "name": "肯德基大隔墙",
+        "type": "DECORATION",
+        "comfort": 260,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_fence_01",
+        "name": "肯德基告示栏",
+        "type": "DECORATION",
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_diningTable_01",
+        "name": "肯德基双人聚餐桌",
+        "type": "TABLE",
+        "comfort": 315,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_barTable_01",
+        "name": "肯德基共享吧台桌",
+        "type": "TABLE",
+        "comfort": 365,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_barrier_01",
+        "name": "肯德基隔栏",
+        "type": "DECORATION",
+        "comfort": 215,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_cupFilling_01",
+        "name": "肯德基饮料机",
+        "type": "DECORATION",
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_poster_01",
+        "name": "肯德基海报墙",
+        "type": "WALLDECO",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_sticker_01",
+        "name": "肯德基墙贴",
+        "type": "WALLDECO",
+        "comfort": 330,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_spotlight_01",
+        "name": "肯德基聚光灯",
+        "type": "WALLLAMP",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_ceilingLight_01",
+        "name": "肯德基吊灯",
+        "type": "CEILINGLAMP",
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_KFC_wallpaper_01",
+        "name": "肯德基餐厅壁纸",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_KFC_floor_01",
+        "name": "肯德基木地板",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 5000
+  },
+  {
+    "id": "furni_set_penguin",
+    "name": "企鹅物流安全屋",
+    "groups": [
+      {
+        "themeId": "furni_set_penguin",
+        "name": "杂物与工物",
+        "comfort": 160,
+        "furniture": ["furni_penguin_shelf_01", "furni_penguin_oilDrumSink_01", "furni_penguin_boxes_01"]
+      },
+      {
+        "themeId": "furni_set_penguin",
+        "name": "工作设施",
+        "comfort": 260,
+        "furniture": [
+          "furni_penguin_table_01",
+          "furni_penguin_stool_01",
+          "furni_penguin_screen_01",
+          "furni_penguin_floorLamp_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_penguin",
+        "name": "休闲设施",
+        "comfort": 115,
+        "furniture": ["furni_penguin_sofa_01", "furni_penguin_bulletinboard_01", "furni_penguin_recordPlayer_01"]
+      },
+      {
+        "themeId": "furni_set_penguin",
+        "name": "安全屋设施",
+        "comfort": 275,
+        "furniture": [
+          "furni_penguin_wallpaper_01",
+          "furni_penguin_floor_01",
+          "furni_penguin_ceiling_01",
+          "furni_penguin_partitionGate_01"
+        ]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_penguin_recordPlayer_01",
+        "name": "旧式唱片机",
+        "type": "DECORATION",
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_bulletinboard_01",
+        "name": "企鹅线索收集板",
+        "type": "DECORATION",
+        "comfort": 155,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_sofa_01",
+        "name": "松软沙发",
+        "type": "SEATING",
+        "comfort": 325,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_partitionGate_01",
+        "name": "安全间隔门",
+        "type": "DECORATION",
+        "comfort": 290,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_floorLamp_01",
+        "name": "高功率落地灯",
+        "type": "DECORATION",
+        "comfort": 265,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_screen_01",
+        "name": "企鹅物流幕帘",
+        "type": "WALLDECO",
+        "comfort": 280,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_oilDrumSink_01",
+        "name": "珍藏饮料桶",
+        "type": "DECORATION",
+        "comfort": 225,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_table_01",
+        "name": "多功能工作台",
+        "type": "TABLE",
+        "comfort": 470,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_stool_01",
+        "name": "可调节圆凳",
+        "type": "SEATING",
+        "comfort": 155,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_penguin_shelf_01",
+        "name": "红色杂物柜",
+        "type": "CABINET",
+        "comfort": 290,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_boxes_01",
+        "name": "待运货物",
+        "type": "DECORATION",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_ceiling_01",
+        "name": "日光灯吊顶",
+        "type": "CEILING",
+        "comfort": 610,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_wallpaper_01",
+        "name": "安全屋壁纸",
+        "type": "WALLPAPER",
+        "comfort": 280,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_penguin_floor_01",
+        "name": "安全屋地砖",
+        "type": "FLOOR",
+        "comfort": 280,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 5000
   }
 ]

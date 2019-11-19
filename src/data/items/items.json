@@ -4495,5 +4495,19 @@
     "iconId": "MTL_ASC_DI",
     "isChip": false,
     "isMaterial": false
+  },
+  {
+    "id": "voucher_item_4pick1",
+    "name": "干员兑换券",
+    "sortId": 30001,
+    "rarity": 4,
+    "itemType": "VOUCHER_PICK",
+    "description": "可从赫默、雷蛇、初雪、红，四名干员之中选择其一。",
+    "usage": "用于兑换一名干员。",
+    "drops": [],
+    "buildings": [],
+    "iconId": "voucher_item_4pick1",
+    "isChip": false,
+    "isMaterial": false
   }
 ]

@@ -2058,7 +2058,7 @@
   },
   {
     "id": "char_291_aglina_meet_spd&team[060]",
-    "name": "信使",
+    "name": "信使·罗德岛制药",
     "bgColor": "#dd653f",
     "color": "#ffffff",
     "room": "会客室",
@@ -2396,5 +2396,93 @@
     "phase": "精一",
     "level": 1,
     "char": "伊桑"
+  },
+  {
+    "id": "char_213_mostma_meet_spd&team[000]",
+    "name": "线索搜集·α",
+    "bgColor": "#dd653f",
+    "color": "#ffffff",
+    "room": "会客室",
+    "description": "进驻会客室时，线索搜集速度提升10%",
+    "phase": "初始",
+    "level": 1,
+    "char": "莫斯提马"
+  },
+  {
+    "id": "char_213_mostma_meet_spd&team[020]",
+    "name": "信使·企鹅物流",
+    "bgColor": "#dd653f",
+    "color": "#ffffff",
+    "room": "会客室",
+    "description": "进驻会客室时，线索搜集速度提升10%，且更容易获得企鹅物流线索",
+    "phase": "精二",
+    "level": 1,
+    "char": "莫斯提马"
+  },
+  {
+    "id": "char_325_bison_trade_ord_spd&limit[032]",
+    "name": "峯驰物流",
+    "bgColor": "#0075a9",
+    "color": "#ffffff",
+    "room": "贸易站",
+    "description": "进驻贸易站时，订单获取效率+20%",
+    "phase": "初始",
+    "level": 1,
+    "char": "拜松"
+  },
+  {
+    "id": "char_325_bison_trade_ord_spd&limit[033]",
+    "name": "少当家",
+    "bgColor": "#0075a9",
+    "color": "#ffffff",
+    "room": "贸易站",
+    "description": "进驻贸易站时，订单获取效率+30%，且订单上限+1",
+    "phase": "精二",
+    "level": 1,
+    "char": "拜松"
+  },
+  {
+    "id": "char_243_waaifu_manu_cost_all[000]",
+    "name": "团队精神",
+    "bgColor": "#ffd800",
+    "color": "#333333",
+    "room": "制造站",
+    "description": "进驻制造站时，消除当前制造站内所有干员自身心情消耗的影响",
+    "phase": "初始",
+    "level": 1,
+    "char": "槐琥"
+  },
+  {
+    "id": "char_243_waaifu_manu_prod_spd_variable2[000]",
+    "name": "配合意识",
+    "bgColor": "#ffd800",
+    "color": "#333333",
+    "room": "制造站",
+    "description": "进驻制造站时，当前制造站内干员提供的每5%生产力，额外提供5%生产力，最多提供40%生产力",
+    "phase": "精二",
+    "level": 1,
+    "char": "槐琥"
+  },
+  {
+    "id": "char_133_mm_meet_spd[001]",
+    "name": "线索搜集·β",
+    "bgColor": "#dd653f",
+    "color": "#ffffff",
+    "room": "会客室",
+    "description": "进驻会客室时，线索搜集速度提升20%",
+    "phase": "初始",
+    "level": 1,
+    "char": "梅"
+  },
+  {
+    "id": "char_133_mm_meet_team[020]",
+    "name": "皇家探员（自称）",
+    "bgColor": "#dd653f",
+    "color": "#ffffff",
+    "room": "会客室",
+    "description": "进驻会客室时，更容易获得企鹅物流线索",
+    "phase": "精一",
+    "level": 1,
+    "char": "梅"
   }
 ]
