@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a37d6ced60ec05ea2f9a67d2d2e724da",
+    "revision": "28f55f81695fbafffffcb043c8c86607",
     "url": "/Arknights-Store/index.html"
   },
   {
-    "revision": "1ad4112c61a8d2d56ee5",
+    "revision": "ce421a2ac30c269349f6",
     "url": "/Arknights-Store/static/css/2.482887b4.chunk.css"
   },
   {
-    "revision": "9fd85452dfe9cf33cff3",
+    "revision": "217b5f2b626d87b72e8a",
     "url": "/Arknights-Store/static/css/main.484e4be2.chunk.css"
   },
   {
-    "revision": "1ad4112c61a8d2d56ee5",
-    "url": "/Arknights-Store/static/js/2.e07540df.chunk.js"
+    "revision": "ce421a2ac30c269349f6",
+    "url": "/Arknights-Store/static/js/2.3e6b10d2.chunk.js"
   },
   {
-    "revision": "83e45148791f700f5ed4",
-    "url": "/Arknights-Store/static/js/3.12a09797.chunk.js"
+    "revision": "857116386e6b4945acb7",
+    "url": "/Arknights-Store/static/js/3.b53770e0.chunk.js"
   },
   {
-    "revision": "e6b1d1e8189d09c4eba6",
-    "url": "/Arknights-Store/static/js/4.c416ec75.chunk.js"
+    "revision": "a08e28af86e62a3dee70",
+    "url": "/Arknights-Store/static/js/4.f9f91d2d.chunk.js"
   },
   {
-    "revision": "9fd85452dfe9cf33cff3",
-    "url": "/Arknights-Store/static/js/main.f046b6c1.chunk.js"
+    "revision": "217b5f2b626d87b72e8a",
+    "url": "/Arknights-Store/static/js/main.8692a079.chunk.js"
   },
   {
-    "revision": "7cc624bc0e0de414e3b8",
-    "url": "/Arknights-Store/static/js/runtime~main.65c02138.js"
+    "revision": "287d7be7986691573032",
+    "url": "/Arknights-Store/static/js/runtime~main.0cd40f8d.js"
   },
   {
     "revision": "0e962d40079e98310176c7a23173173e",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "135da9206ca6f19cd22c4671936eae0b",
     "url": "/Arknights-Store/static/media/MTL_ASC_CST3.135da920.png"
-  },
-  {
-    "revision": "afd2bfc1a1e460e36fec41741a2ed84e",
-    "url": "/Arknights-Store/static/media/MTL_ASC_DI.afd2bfc1.png"
   },
   {
     "revision": "4533f59055cafdcbb5c4ec4fa7743e1a",
