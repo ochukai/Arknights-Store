@@ -1655,6 +1655,345 @@
     "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
   },
   {
+    "id": "main_06-01",
+    "name": "僵局",
+    "code": "6-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
+      {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-01#f#",
+    "name": "僵局",
+    "code": "6-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-02",
+    "name": "一些误会",
+    "code": "6-2",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
+      {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-02#f#",
+    "name": "一些误会",
+    "code": "6-2",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-03",
+    "name": "同时走失",
+    "code": "6-3",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-03#f#",
+    "name": "同时走失",
+    "code": "6-3",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-04",
+    "name": "溃烂的疮疤",
+    "code": "6-4",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+      {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-04#f#",
+    "name": "溃烂的疮疤",
+    "code": "6-4",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-05",
+    "name": "解决谁？",
+    "code": "6-5",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-05#f#",
+    "name": "解决谁？",
+    "code": "6-5",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "st_06-01",
+    "name": "别说过去的事",
+    "code": "6-6",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-06",
+    "name": "断弦",
+    "code": "6-7",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-07",
+    "name": "只是从天而降！",
+    "code": "6-8",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-07#f#",
+    "name": "只是从天而降！",
+    "code": "6-8",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "tr_16",
+    "name": "恶劣环境",
+    "code": "TR-16",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-08",
+    "name": "换一个角度",
+    "code": "6-9",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"},
+      {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-08#f#",
+    "name": "换一个角度",
+    "code": "6-9",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-09",
+    "name": "解开铃铛",
+    "code": "6-10",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-09#f#",
+    "name": "解开铃铛",
+    "code": "6-10",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-10",
+    "name": "“这种事”",
+    "code": "6-11",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": [
+      {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-10#f#",
+    "name": "“这种事”",
+    "code": "6-11",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-11",
+    "name": "冰原之雪",
+    "code": "6-12",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "31023", "dropType": 2, "name": "炽合金"},
+      {"type": "MATERIAL", "id": "31024", "dropType": 3, "name": "炽合金块"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-11#f#",
+    "name": "冰原之雪",
+    "code": "6-12",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "st_06-02",
+    "name": "没有火,没有光",
+    "code": "6-13",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-12",
+    "name": "冰原之霜",
+    "code": "6-14",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-12#f#",
+    "name": "冰原之霜",
+    "code": "6-14",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-13",
+    "name": "不错的回忆",
+    "code": "6-15",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
+      {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-13#f#",
+    "name": "不错的回忆",
+    "code": "6-15",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "main_06-14",
+    "name": "黑兔子,白兔子",
+    "code": "6-16",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": [
+      {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-14#f#",
+    "name": "黑兔子,白兔子",
+    "code": "6-16",
+    "apCost": 21,
+    "expGain": 210,
+    "goldGain": 210,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS006_suspiria_01", "dropType": 1},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "main_06-15",
+    "name": "冬逝",
+    "code": "6-17",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [
+      {"type": "CHAR", "id": "char_002_amiya", "dropType": 1},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "st_06-03",
+    "name": "只有你知道",
+    "code": "6-18",
+    "apCost": 0,
+    "expGain": 0,
+    "goldGain": 0,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
     "id": "sub_03-1-1",
     "name": "潜伏-1",
     "code": "S3-1",
@@ -1711,6 +2050,18 @@
     "goldGain": 150,
     "drops": [
       {"type": "FURN", "id": "furni_dropN001_generator_02", "dropType": 2},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "sub_03-3-1",
+    "name": "集火-1",
+    "code": "S3-6",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "MATERIAL", "id": "31023", "dropType": 2, "name": "炽合金"},
       {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
     ]
   },
@@ -1824,6 +2175,18 @@
     ]
   },
   {
+    "id": "sub_04-4-1",
+    "name": "坚守-1",
+    "code": "S4-10",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "31013", "dropType": 2, "name": "凝胶"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
     "id": "sub_05-1-1",
     "name": "盘踞-1",
     "code": "S5-1",
@@ -1900,6 +2263,82 @@
     ]
   },
   {
+    "id": "sub_05-4-1",
+    "name": "盘旋-1",
+    "code": "S5-7",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "31013", "dropType": 2, "name": "凝胶"},
+      {"type": "MATERIAL", "id": "31014", "dropType": 3, "name": "聚合凝胶"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "sub_05-4-2",
+    "name": "盘旋-2",
+    "code": "S5-8",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "31023", "dropType": 2, "name": "炽合金"},
+      {"type": "MATERIAL", "id": "31024", "dropType": 3, "name": "炽合金块"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "sub_06-1-1",
+    "name": "凝结-1",
+    "code": "S6-1",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "sub_06-1-2",
+    "name": "凝结-2",
+    "code": "S6-2",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"},
+      {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "sub_06-2-1",
+    "name": "霜冻-1",
+    "code": "S6-3",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
+      {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "sub_06-2-2",
+    "name": "霜冻-2",
+    "code": "S6-4",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 0,
+    "drops": [
+      {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
     "id": "hard_05-01",
     "name": "炼狱行动-1",
     "code": "H5-1",
@@ -1938,6 +2377,45 @@
     "goldGain": 100,
     "drops": [
       {"type": "FURN", "id": "furni_dropS003_zero_01", "dropType": 1},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "hard_06-01",
+    "name": "冰狱行动-1",
+    "code": "H6-1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "hard_06-02",
+    "name": "冰狱行动-2",
+    "code": "H6-2",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "hard_06-03",
+    "name": "冰狱行动-3",
+    "code": "H6-3",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "hard_06-04",
+    "name": "冰狱行动-4",
+    "code": "H6-4",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS006_oceans12_01", "dropType": 1},
       {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
     ]
   },
@@ -2369,6 +2847,215 @@
   {"id": "guide_01", "name": null, "code": "???", "apCost": 0, "expGain": 0, "goldGain": 0, "drops": []},
   {"id": "guide_02", "name": null, "code": "???", "apCost": 0, "expGain": 0, "goldGain": 0, "drops": []},
   {
+    "id": "act6d5_01",
+    "name": "喜从天降",
+    "code": "AF-1",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+      {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_01#f#",
+    "name": "喜从天降",
+    "code": "AF-1",
+    "apCost": 6,
+    "expGain": 60,
+    "goldGain": 60,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 1, "name": "量子二踢脚"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_02",
+    "name": "福禄临门",
+    "code": "AF-2",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+      {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_02#f#",
+    "name": "福禄临门",
+    "code": "AF-2",
+    "apCost": 9,
+    "expGain": 90,
+    "goldGain": 90,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 1, "name": "量子二踢脚"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_03",
+    "name": "新年扫除",
+    "code": "AF-3",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+      {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_03#f#",
+    "name": "新年扫除",
+    "code": "AF-3",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 1, "name": "量子二踢脚"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_04",
+    "name": "故友重逢",
+    "code": "AF-4",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+      {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_04#f#",
+    "name": "故友重逢",
+    "code": "AF-4",
+    "apCost": 12,
+    "expGain": 120,
+    "goldGain": 120,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 1, "name": "量子二踢脚"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_05",
+    "name": "润物无声",
+    "code": "AF-5",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+      {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_05#f#",
+    "name": "润物无声",
+    "code": "AF-5",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 1, "name": "量子二踢脚"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_06",
+    "name": "三折优惠",
+    "code": "AF-6",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+      {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_06#f#",
+    "name": "三折优惠",
+    "code": "AF-6",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 1, "name": "量子二踢脚"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_07",
+    "name": "辞旧迎新",
+    "code": "AF-7",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+      {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_07#f#",
+    "name": "辞旧迎新",
+    "code": "AF-7",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 1, "name": "量子二踢脚"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_08",
+    "name": "恭贺新禧",
+    "code": "AF-8",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+      {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
+    "id": "act6d5_08#f#",
+    "name": "恭贺新禧",
+    "code": "AF-8",
+    "apCost": 18,
+    "expGain": 180,
+    "goldGain": 180,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS005_sedmikrasky_01", "dropType": 1},
+      {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 1, "name": "量子二踢脚"},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
+  },
+  {
     "id": "act5d0_01",
     "name": "6:44P.M.",
     "code": "CB-1",
@@ -2516,6 +3203,153 @@
     "expGain": 0,
     "goldGain": 0,
     "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex01",
+    "name": "群架诀窍",
+    "code": "CB-EX1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex01#f#",
+    "name": "群架诀窍",
+    "code": "CB-EX1",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex02",
+    "name": "南辕北辙",
+    "code": "CB-EX2",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex02#f#",
+    "name": "南辕北辙",
+    "code": "CB-EX2",
+    "apCost": 10,
+    "expGain": 100,
+    "goldGain": 100,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex03",
+    "name": "林中小屋",
+    "code": "CB-EX3",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex03#f#",
+    "name": "林中小屋",
+    "code": "CB-EX3",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex04",
+    "name": "施工现场",
+    "code": "CB-EX4",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex04#f#",
+    "name": "施工现场",
+    "code": "CB-EX4",
+    "apCost": 15,
+    "expGain": 150,
+    "goldGain": 150,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex05",
+    "name": "十字路口",
+    "code": "CB-EX5",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex05#f#",
+    "name": "十字路口",
+    "code": "CB-EX5",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex06",
+    "name": "全面冲锋",
+    "code": "CB-EX6",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex06#f#",
+    "name": "全面冲锋",
+    "code": "CB-EX6",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex07",
+    "name": "晨练时间",
+    "code": "CB-EX7",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex07#f#",
+    "name": "晨练时间",
+    "code": "CB-EX7",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex08",
+    "name": "日常",
+    "code": "CB-EX8",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [{"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}]
+  },
+  {
+    "id": "act5d0_ex08#f#",
+    "name": "日常",
+    "code": "CB-EX8",
+    "apCost": 20,
+    "expGain": 200,
+    "goldGain": 200,
+    "drops": [
+      {"type": "FURN", "id": "furni_dropS005_nosferatu_01", "dropType": 8},
+      {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+    ]
   },
   {
     "id": "act4d0_01",

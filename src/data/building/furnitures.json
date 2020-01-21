@@ -2630,7 +2630,7 @@
       {
         "id": "furni_safetyZone_box_01",
         "name": "安全舱物资箱",
-        "type": "DECORATION",
+        "type": "CABINET",
         "comfort": 175,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "count": 1
@@ -3414,5 +3414,147 @@
       }
     ],
     "totalComfort": 5000
+  },
+  {
+    "id": "furni_set_elite",
+    "name": "罗德岛工作间",
+    "groups": [
+      {
+        "themeId": "furni_set_elite",
+        "name": "设计与研发组合",
+        "comfort": 180,
+        "furniture": ["furni_elite_board_01", "furni_elite_desk_01", "furni_elite_stool_01"]
+      },
+      {
+        "themeId": "furni_set_elite",
+        "name": "原料与加工组合",
+        "comfort": 170,
+        "furniture": ["furni_elite_sawingMachine_01", "furni_elite_roboticArm_01", "furni_elite_cabinet_01"]
+      },
+      {
+        "themeId": "furni_set_elite",
+        "name": "成品与储存组合",
+        "comfort": 255,
+        "furniture": [
+          "furni_elite_weaponCabinet_01",
+          "furni_elite_suspensionCrane_01",
+          "furni_elite_shadingBoard_01",
+          "furni_elite_cleaningBucket_01"
+        ]
+      },
+      {
+        "themeId": "furni_set_elite",
+        "name": "工作间基础装修",
+        "comfort": 185,
+        "furniture": ["furni_elite_wallpaper_01", "furni_elite_floor_01", "furni_elite_ceiling_01"]
+      }
+    ],
+    "furnitures": [
+      {
+        "id": "furni_elite_ceiling_01",
+        "name": "泛光吊顶",
+        "type": "CEILING",
+        "comfort": 400,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_board_01",
+        "name": "工作间黑板",
+        "type": "WALLDECO",
+        "comfort": 235,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_sawingMachine_01",
+        "name": "工业切割台",
+        "type": "DECORATION",
+        "comfort": 365,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_cabinet_01",
+        "name": "物资箱",
+        "type": "CABINET",
+        "comfort": 180,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_desk_01",
+        "name": "工作台",
+        "type": "TABLE",
+        "comfort": 455,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_stool_01",
+        "name": "白色圆凳",
+        "type": "SEATING",
+        "comfort": 160,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 2
+      },
+      {
+        "id": "furni_elite_roboticArm_01",
+        "name": "机械臂",
+        "type": "DECORATION",
+        "comfort": 305,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_weaponCabinet_01",
+        "name": "武器收纳柜",
+        "type": "CABINET",
+        "comfort": 475,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_cleaningBucket_01",
+        "name": "清洁器",
+        "type": "DECORATION",
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_suspensionCrane_01",
+        "name": "双梁式起重机",
+        "type": "CEILING",
+        "comfort": 235,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_shadingBoard_01",
+        "name": "透明隔板",
+        "type": "DECORATION",
+        "comfort": 360,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_wallpaper_01",
+        "name": "工作间壁纸",
+        "type": "WALLPAPER",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      },
+      {
+        "id": "furni_elite_floor_01",
+        "name": "工作间地板",
+        "type": "FLOOR",
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "count": 1
+      }
+    ],
+    "totalComfort": 4800
   }
 ]

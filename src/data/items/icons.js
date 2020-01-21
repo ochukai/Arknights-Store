@@ -73,6 +73,17 @@ export const iconMaps = {
   "MTL_SL_PP": require('../../assets/icons/MTL_SL_PP.png'),
   "MTL_SL_BN": require('../../assets/icons/MTL_SL_BN.png'),
   "MTL_SL_DS": require('../../assets/icons/MTL_SL_DS.png'),
-  "MTL_ASC_DI": require('../../assets/icons/MTL_ASC_DI.png')
-  // "voucher_item_4pick1": require('../../assets/icons/voucher_item_4pick1.png')
+  // "MTL_SL_PGEL3": require('../../assets/icons/MTL_SL_PGEL3.png'),
+  // "MTL_SL_PGEL4": require('../../assets/icons/MTL_SL_PGEL4.png'),
+  // "MTL_SL_IAM3": require('../../assets/icons/MTL_SL_IAM3.png'),
+  // "MTL_SL_IAM4": require('../../assets/icons/MTL_SL_IAM4.png'),
+  // "MTL_ASC_DI": require('../../assets/icons/MTL_ASC_DI.png'),
+  // "ap_supply_lt_10": require('../../assets/icons/ap_supply_lt_10.png'),
+  // "voucher_item_4pick1": require('../../assets/icons/voucher_item_4pick1.png'),
+  // "voucher_recruitR3_1": require('../../assets/icons/voucher_recruitR3_1.png'),
+  // "voucher_recruitR4_1": require('../../assets/icons/voucher_recruitR4_1.png'),
+  // "2020recruitment10_1": require('../../assets/icons/2020recruitment10_1.png'),
+  // "2020recruitment10_2": require('../../assets/icons/2020recruitment10_2.png'),
+  // "2020recruitment10_3": require('../../assets/icons/2020recruitment10_3.png'),
+  // "randomMaterial_1": require('../../assets/icons/randomMaterial_1.png')
 }

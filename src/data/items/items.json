@@ -194,6 +194,22 @@
         }
       },
       {
+        "stageId": "sub_06-1-1",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_06-1-1",
+          "name": "凝结-1",
+          "code": "S6-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "sub_04-3-3",
         "occPer": 1,
         "stage": {
@@ -376,6 +392,7 @@
     ],
     "buildings": [
       {
+        "sortId": 1101,
         "formulaId": "4",
         "rarity": 0,
         "itemId": "3113",
@@ -420,6 +437,7 @@
     ],
     "buildings": [
       {
+        "sortId": 1102,
         "formulaId": "5",
         "rarity": 0,
         "itemId": "3114",
@@ -446,6 +464,7 @@
     "drops": [],
     "buildings": [
       {
+        "sortId": 1001,
         "formulaId": "1",
         "rarity": 0,
         "itemId": "3131",
@@ -472,6 +491,7 @@
     "drops": [],
     "buildings": [
       {
+        "sortId": 1002,
         "formulaId": "2",
         "rarity": 0,
         "itemId": "3132",
@@ -498,6 +518,7 @@
     "drops": [],
     "buildings": [
       {
+        "sortId": 1003,
         "formulaId": "3",
         "rarity": 0,
         "itemId": "3133",
@@ -542,6 +563,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4005,
         "formulaId": "43",
         "rarity": 0,
         "itemId": "3211",
@@ -586,6 +608,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4105,
         "formulaId": "51",
         "rarity": 0,
         "itemId": "3212",
@@ -658,6 +681,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4007,
         "formulaId": "45",
         "rarity": 0,
         "itemId": "3221",
@@ -702,6 +726,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4107,
         "formulaId": "53",
         "rarity": 0,
         "itemId": "3222",
@@ -774,6 +799,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4001,
         "formulaId": "39",
         "rarity": 0,
         "itemId": "3231",
@@ -818,6 +844,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4101,
         "formulaId": "47",
         "rarity": 0,
         "itemId": "3232",
@@ -890,6 +917,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4003,
         "formulaId": "41",
         "rarity": 0,
         "itemId": "3241",
@@ -934,6 +962,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4103,
         "formulaId": "49",
         "rarity": 0,
         "itemId": "3242",
@@ -1006,6 +1035,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4004,
         "formulaId": "42",
         "rarity": 0,
         "itemId": "3251",
@@ -1050,6 +1080,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4104,
         "formulaId": "50",
         "rarity": 0,
         "itemId": "3252",
@@ -1122,6 +1153,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4002,
         "formulaId": "40",
         "rarity": 0,
         "itemId": "3261",
@@ -1166,6 +1198,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4102,
         "formulaId": "48",
         "rarity": 0,
         "itemId": "3262",
@@ -1238,6 +1271,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4006,
         "formulaId": "44",
         "rarity": 0,
         "itemId": "3271",
@@ -1282,6 +1316,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4106,
         "formulaId": "52",
         "rarity": 0,
         "itemId": "3272",
@@ -1354,6 +1389,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4008,
         "formulaId": "46",
         "rarity": 0,
         "itemId": "3281",
@@ -1398,6 +1434,7 @@
     ],
     "buildings": [
       {
+        "sortId": 4108,
         "formulaId": "54",
         "rarity": 0,
         "itemId": "3282",
@@ -1516,6 +1553,7 @@
     ],
     "buildings": [
       {
+        "sortId": 3001,
         "formulaId": "37",
         "rarity": 0,
         "itemId": "3302",
@@ -1559,6 +1597,7 @@
     ],
     "buildings": [
       {
+        "sortId": 3002,
         "formulaId": "38",
         "rarity": 0,
         "itemId": "3303",
@@ -1682,6 +1721,22 @@
         }
       },
       {
+        "stageId": "sub_06-2-2",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_06-2-2",
+          "name": "霜冻-2",
+          "code": "S6-4",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 0,
+          "drops": [
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "sub_04-2-3",
         "occPer": 1,
         "stage": {
@@ -1795,6 +1850,24 @@
     "usage": "从地表开采出的岩石固块，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
+        "stageId": "act6d5_03",
+        "occPer": 1,
+        "stage": {
+          "id": "act6d5_03",
+          "name": "新年扫除",
+          "code": "AF-3",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+            {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "main_01-07",
         "occPer": 1,
         "stage": {
@@ -1844,6 +1917,23 @@
         }
       },
       {
+        "stageId": "sub_06-1-2",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_06-1-2",
+          "name": "凝结-2",
+          "code": "S6-2",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30012", "dropType": 2, "name": "固源岩"},
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "sub_05-1-1",
         "occPer": 1,
         "stage": {
@@ -1863,6 +1953,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2701,
         "formulaId": "34",
         "rarity": 0,
         "itemId": "30012",
@@ -1935,10 +2026,27 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-05",
+        "occPer": 3,
+        "stage": {
+          "id": "main_06-05",
+          "name": "解决谁？",
+          "code": "6-5",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [
       {
+        "sortId": 2702,
         "formulaId": "35",
         "rarity": 0,
         "itemId": "30013",
@@ -1991,6 +2099,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2703,
         "formulaId": "36",
         "rarity": 0,
         "itemId": "30014",
@@ -2097,6 +2206,24 @@
     "usage": "机械化制作的少量糖块，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
+        "stageId": "act6d5_04",
+        "occPer": 1,
+        "stage": {
+          "id": "act6d5_04",
+          "name": "故友重逢",
+          "code": "AF-4",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+            {"type": "MATERIAL", "id": "30022", "dropType": 2, "name": "糖"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "main_02-02",
         "occPer": 2,
         "stage": {
@@ -2164,6 +2291,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2601,
         "formulaId": "31",
         "rarity": 0,
         "itemId": "30022",
@@ -2237,10 +2365,27 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-03",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-03",
+          "name": "同时走失",
+          "code": "6-3",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30023", "dropType": 2, "name": "糖组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [
       {
+        "sortId": 2602,
         "formulaId": "32",
         "rarity": 0,
         "itemId": "30023",
@@ -2310,6 +2455,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2603,
         "formulaId": "33",
         "rarity": 0,
         "itemId": "30024",
@@ -2367,16 +2513,18 @@
     "usage": "工业制造所需的酯原料，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "sub_02-07",
+        "stageId": "act6d5_01",
         "occPer": 1,
         "stage": {
-          "id": "sub_02-07",
-          "name": "术师-3",
-          "code": "S2-7",
-          "apCost": 12,
-          "expGain": 120,
-          "goldGain": 120,
+          "id": "act6d5_01",
+          "name": "喜从天降",
+          "code": "AF-1",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
           "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
             {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
@@ -2395,6 +2543,22 @@
           "drops": [
             {"type": "CHAR", "id": "char_208_melan", "dropType": 1},
             {"type": "MATERIAL", "id": "3131", "dropType": 1, "name": "基础加固建材"},
+            {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_02-07",
+        "occPer": 1,
+        "stage": {
+          "id": "sub_02-07",
+          "name": "术师-3",
+          "code": "S2-7",
+          "apCost": 12,
+          "expGain": 120,
+          "goldGain": 120,
+          "drops": [
             {"type": "MATERIAL", "id": "30031", "dropType": 2, "name": "酯原料"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
@@ -2428,6 +2592,39 @@
           "drops": [
             {"type": "MATERIAL", "id": "3105", "dropType": 1, "name": "龙骨"},
             {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_06-05",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-05",
+          "name": "解决谁？",
+          "code": "6-5",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30013", "dropType": 2, "name": "固源岩组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_06-08",
+        "occPer": 1,
+        "stage": {
+          "id": "main_06-08",
+          "name": "换一个角度",
+          "code": "6-9",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30032", "dropType": 2, "name": "聚酸酯"},
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
@@ -2468,6 +2665,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2501,
         "formulaId": "28",
         "rarity": 0,
         "itemId": "30032",
@@ -2559,10 +2757,28 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-04",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-04",
+          "name": "溃烂的疮疤",
+          "code": "6-4",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+            {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [
       {
+        "sortId": 2502,
         "formulaId": "29",
         "rarity": 0,
         "itemId": "30033",
@@ -2612,10 +2828,28 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-04",
+        "occPer": 5,
+        "stage": {
+          "id": "main_06-04",
+          "name": "溃烂的疮疤",
+          "code": "6-4",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30033", "dropType": 2, "name": "聚酸酯组"},
+            {"type": "MATERIAL", "id": "30034", "dropType": 3, "name": "聚酸酯块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [
       {
+        "sortId": 2503,
         "formulaId": "30",
         "rarity": 0,
         "itemId": "30034",
@@ -2673,16 +2907,18 @@
     "usage": "普普通通的工业材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
-        "stageId": "main_01-03",
-        "occPer": 2,
+        "stageId": "act6d5_02",
+        "occPer": 1,
         "stage": {
-          "id": "main_01-03",
-          "name": "狂奔",
-          "code": "1-3",
-          "apCost": 6,
-          "expGain": 60,
-          "goldGain": 60,
+          "id": "act6d5_02",
+          "name": "福禄临门",
+          "code": "AF-2",
+          "apCost": 9,
+          "expGain": 90,
+          "goldGain": 90,
           "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
             {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
@@ -2698,6 +2934,22 @@
           "apCost": 12,
           "expGain": 120,
           "goldGain": 120,
+          "drops": [
+            {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_01-03",
+        "occPer": 2,
+        "stage": {
+          "id": "main_01-03",
+          "name": "狂奔",
+          "code": "1-3",
+          "apCost": 6,
+          "expGain": 60,
+          "goldGain": 60,
           "drops": [
             {"type": "MATERIAL", "id": "30041", "dropType": 2, "name": "异铁碎片"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
@@ -2770,6 +3022,23 @@
         }
       },
       {
+        "stageId": "main_06-01",
+        "occPer": 2,
+        "stage": {
+          "id": "main_06-01",
+          "name": "僵局",
+          "code": "6-1",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30042", "dropType": 2, "name": "异铁"},
+            {"type": "GOLD", "id": "4001", "dropType": 2, "name": "龙门币"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "sub_03-2-1",
         "occPer": 1,
         "stage": {
@@ -2788,6 +3057,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2401,
         "formulaId": "25",
         "rarity": 0,
         "itemId": "30042",
@@ -2846,6 +3116,22 @@
         }
       },
       {
+        "stageId": "main_06-09",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-09",
+          "name": "解开铃铛",
+          "code": "6-10",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30043", "dropType": 2, "name": "异铁组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "sub_04-1-1",
         "occPer": 4,
         "stage": {
@@ -2865,6 +3151,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2402,
         "formulaId": "26",
         "rarity": 0,
         "itemId": "30043",
@@ -2934,6 +3221,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2403,
         "formulaId": "27",
         "rarity": 0,
         "itemId": "30044",
@@ -3100,10 +3388,44 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-14",
+        "occPer": 3,
+        "stage": {
+          "id": "main_06-14",
+          "name": "黑兔子,白兔子",
+          "code": "6-16",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_06-2-1",
+        "occPer": 2,
+        "stage": {
+          "id": "sub_06-2-1",
+          "name": "霜冻-1",
+          "code": "S6-3",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30052", "dropType": 2, "name": "酮凝集"},
+            {"type": "CARD_EXP", "id": "2003", "dropType": 2, "name": "中级作战记录"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [
       {
+        "sortId": 2301,
         "formulaId": "22",
         "rarity": 0,
         "itemId": "30052",
@@ -3128,6 +3450,24 @@
     "description": "进一步脱烃处理后得到的中等量酮制剂。制剂接触空气后易与空气中的一些非氧分子发生反应。所以在处理过程中，工程干员理当精准操作，以免浪费材料。",
     "usage": "中等量的工业用有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
+      {
+        "stageId": "act6d5_06",
+        "occPer": 4,
+        "stage": {
+          "id": "act6d5_06",
+          "name": "三折优惠",
+          "code": "AF-6",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+            {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
       {
         "stageId": "main_03-01",
         "occPer": 4,
@@ -3177,10 +3517,27 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-07",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-07",
+          "name": "只是从天而降！",
+          "code": "6-8",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30053", "dropType": 2, "name": "酮凝集组"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [
       {
+        "sortId": 2302,
         "formulaId": "23",
         "rarity": 0,
         "itemId": "30053",
@@ -3250,6 +3607,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2303,
         "formulaId": "24",
         "rarity": 0,
         "itemId": "30054",
@@ -3354,6 +3712,24 @@
     "usage": "收缴来的常规机械装置，可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
+        "stageId": "act6d5_05",
+        "occPer": 2,
+        "stage": {
+          "id": "act6d5_05",
+          "name": "润物无声",
+          "code": "AF-5",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+            {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "main_01-12",
         "occPer": 3,
         "stage": {
@@ -3366,6 +3742,22 @@
           "drops": [
             {"type": "CHAR", "id": "char_277_sqrrel", "dropType": 1},
             {"type": "MATERIAL", "id": "30062", "dropType": 2, "name": "装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "main_06-10",
+        "occPer": 3,
+        "stage": {
+          "id": "main_06-10",
+          "name": "“这种事”",
+          "code": "6-11",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
@@ -3406,6 +3798,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2201,
         "formulaId": "19",
         "rarity": 0,
         "itemId": "30062",
@@ -3479,10 +3872,27 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-14",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-14",
+          "name": "黑兔子,白兔子",
+          "code": "6-16",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "MATERIAL", "id": "30063", "dropType": 2, "name": "全新装置"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [
       {
+        "sortId": 2202,
         "formulaId": "20",
         "rarity": 0,
         "itemId": "30063",
@@ -3535,6 +3945,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2203,
         "formulaId": "21",
         "rarity": 0,
         "itemId": "30064",
@@ -3592,6 +4003,24 @@
     "usage": "片状有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
       {
+        "stageId": "act6d5_07",
+        "occPer": 4,
+        "stage": {
+          "id": "act6d5_07",
+          "name": "辞旧迎新",
+          "code": "AF-7",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
         "stageId": "main_02-09",
         "occPer": 4,
         "stage": {
@@ -3639,6 +4068,22 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-10",
+        "occPer": 3,
+        "stage": {
+          "id": "main_06-10",
+          "name": "“这种事”",
+          "code": "6-11",
+          "apCost": 21,
+          "expGain": 210,
+          "goldGain": 210,
+          "drops": [
+            {"type": "MATERIAL", "id": "30073", "dropType": 2, "name": "扭转醇"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [],
@@ -3675,6 +4120,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2106,
         "formulaId": "18",
         "rarity": 0,
         "itemId": "30074",
@@ -3766,6 +4212,23 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-02",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-02",
+          "name": "一些误会",
+          "code": "6-2",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
+            {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [],
@@ -3799,10 +4262,28 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-02",
+        "occPer": 5,
+        "stage": {
+          "id": "main_06-02",
+          "name": "一些误会",
+          "code": "6-2",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30083", "dropType": 2, "name": "轻锰矿"},
+            {"type": "MATERIAL", "id": "30084", "dropType": 3, "name": "三水锰矿"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [
       {
+        "sortId": 2105,
         "formulaId": "17",
         "rarity": 0,
         "itemId": "30084",
@@ -3845,6 +4326,24 @@
     "description": "不起爆、不粉化、不开裂，于零件加工工序中占有重要地位的工具材料。自然属性相当稳定。",
     "usage": "用于加工武器零件的研磨石。可用于多种强化场合，也常作为制造站合成项目的原料。",
     "drops": [
+      {
+        "stageId": "act6d5_08",
+        "occPer": 4,
+        "stage": {
+          "id": "act6d5_08",
+          "name": "恭贺新禧",
+          "code": "AF-8",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 8, "name": "量子二踢脚"},
+            {"type": "ACTIVITY_ITEM", "id": "act6d5_point_firecracker", "dropType": 3, "name": "量子二踢脚"},
+            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
       {
         "stageId": "main_03-03",
         "occPer": 4,
@@ -3893,6 +4392,22 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-12",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-12",
+          "name": "冰原之霜",
+          "code": "6-14",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30093", "dropType": 2, "name": "研磨石"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [],
@@ -3929,6 +4444,7 @@
     ],
     "buildings": [
       {
+        "sortId": 2104,
         "formulaId": "16",
         "rarity": 0,
         "itemId": "30094",
@@ -4035,6 +4551,23 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-13",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-13",
+          "name": "不错的回忆",
+          "code": "6-15",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
+            {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [],
@@ -4068,10 +4601,28 @@
             {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
           ]
         }
+      },
+      {
+        "stageId": "main_06-13",
+        "occPer": 5,
+        "stage": {
+          "id": "main_06-13",
+          "name": "不错的回忆",
+          "code": "6-15",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "30103", "dropType": 2, "name": "RMA70-12"},
+            {"type": "MATERIAL", "id": "30104", "dropType": 3, "name": "RMA70-24"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
       }
     ],
     "buildings": [
       {
+        "sortId": 2103,
         "formulaId": "15",
         "rarity": 0,
         "itemId": "30104",
@@ -4130,6 +4681,7 @@
     "drops": [],
     "buildings": [
       {
+        "sortId": 2003,
         "formulaId": "14",
         "rarity": 0,
         "itemId": "30115",
@@ -4272,6 +4824,7 @@
     "drops": [],
     "buildings": [
       {
+        "sortId": 2002,
         "formulaId": "13",
         "rarity": 0,
         "itemId": "30125",
@@ -4363,6 +4916,7 @@
     "drops": [],
     "buildings": [
       {
+        "sortId": 2001,
         "formulaId": "12",
         "rarity": 0,
         "itemId": "30135",
@@ -4483,6 +5037,234 @@
     "isMaterial": true
   },
   {
+    "id": "31013",
+    "name": "凝胶",
+    "sortId": 100037,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "于实验室中意外诞生的人工材料。拥有优良的高低温度耐性，强度高，重量轻，易加工，广泛运用于高新项目。",
+    "usage": "一种高强度的可塑性材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "sub_04-4-1",
+        "occPer": 4,
+        "stage": {
+          "id": "sub_04-4-1",
+          "name": "坚守-1",
+          "code": "S4-10",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "31013", "dropType": 2, "name": "凝胶"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_05-4-1",
+        "occPer": 4,
+        "stage": {
+          "id": "sub_05-4-1",
+          "name": "盘旋-1",
+          "code": "S5-7",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "31013", "dropType": 2, "name": "凝胶"},
+            {"type": "MATERIAL", "id": "31014", "dropType": 3, "name": "聚合凝胶"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_PGEL3",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "31014",
+    "name": "聚合凝胶",
+    "sortId": 100036,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "以凝胶为源材料，历经大量实验与反复测试诞生的人工材料。即使是在高压力环境中也能保持性质的稳定，在少数高新项目中有着重要地位。",
+    "usage": "一种具备极高强度的可塑性材料。可用于多种强化场合。",
+    "drops": [
+      {
+        "stageId": "sub_05-4-1",
+        "occPer": 5,
+        "stage": {
+          "id": "sub_05-4-1",
+          "name": "盘旋-1",
+          "code": "S5-7",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "31013", "dropType": 2, "name": "凝胶"},
+            {"type": "MATERIAL", "id": "31014", "dropType": 3, "name": "聚合凝胶"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "sortId": 2102,
+        "formulaId": "56",
+        "rarity": 0,
+        "itemId": "31014",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30043", "count": 1, "name": "异铁组", "rarity": 2},
+          {"id": "31013", "count": 1, "name": "凝胶", "rarity": 2},
+          {"id": "31023", "count": 1, "name": "炽合金", "rarity": 2}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "聚合凝胶"
+      }
+    ],
+    "iconId": "MTL_SL_PGEL4",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "31023",
+    "name": "炽合金",
+    "sortId": 100039,
+    "rarity": 2,
+    "itemType": "MATERIAL",
+    "description": "由数种稀有泰拉金属熔炼成的合金材料。用于制造少数电子元件和电路板，是尖端电子工业中不可或缺的材料。",
+    "usage": "电子工业用特殊高熔点合金。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "drops": [
+      {
+        "stageId": "main_06-11",
+        "occPer": 4,
+        "stage": {
+          "id": "main_06-11",
+          "name": "冰原之雪",
+          "code": "6-12",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "31023", "dropType": 2, "name": "炽合金"},
+            {"type": "MATERIAL", "id": "31024", "dropType": 3, "name": "炽合金块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_03-3-1",
+        "occPer": 4,
+        "stage": {
+          "id": "sub_03-3-1",
+          "name": "集火-1",
+          "code": "S3-6",
+          "apCost": 15,
+          "expGain": 150,
+          "goldGain": 150,
+          "drops": [
+            {"type": "MATERIAL", "id": "31023", "dropType": 2, "name": "炽合金"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_05-4-2",
+        "occPer": 4,
+        "stage": {
+          "id": "sub_05-4-2",
+          "name": "盘旋-2",
+          "code": "S5-8",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "31023", "dropType": 2, "name": "炽合金"},
+            {"type": "MATERIAL", "id": "31024", "dropType": 3, "name": "炽合金块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      }
+    ],
+    "buildings": [],
+    "iconId": "MTL_SL_IAM3",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "31024",
+    "name": "炽合金块",
+    "sortId": 100038,
+    "rarity": 3,
+    "itemType": "MATERIAL",
+    "description": "由炽合金进一步加工得到的合金材料。历经复杂的工业处理，保证了一定温度下固液混合态的稳定，在尖端电子工业的产品研发中有着无可替代的作用。",
+    "usage": "产量稀少的电子工业用特殊高熔点合金。可用于多种强化场合。",
+    "drops": [
+      {
+        "stageId": "main_06-11",
+        "occPer": 5,
+        "stage": {
+          "id": "main_06-11",
+          "name": "冰原之雪",
+          "code": "6-12",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "31023", "dropType": 2, "name": "炽合金"},
+            {"type": "MATERIAL", "id": "31024", "dropType": 3, "name": "炽合金块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      },
+      {
+        "stageId": "sub_05-4-2",
+        "occPer": 5,
+        "stage": {
+          "id": "sub_05-4-2",
+          "name": "盘旋-2",
+          "code": "S5-8",
+          "apCost": 18,
+          "expGain": 180,
+          "goldGain": 180,
+          "drops": [
+            {"type": "MATERIAL", "id": "31023", "dropType": 2, "name": "炽合金"},
+            {"type": "MATERIAL", "id": "31024", "dropType": 3, "name": "炽合金块"},
+            {"type": "DIAMOND", "id": "4002", "dropType": 8, "name": "至纯源石"}
+          ]
+        }
+      }
+    ],
+    "buildings": [
+      {
+        "sortId": 2101,
+        "formulaId": "55",
+        "rarity": 0,
+        "itemId": "31024",
+        "count": 1,
+        "goldCost": 300,
+        "apCost": 1440000,
+        "costs": [
+          {"id": "30063", "count": 1, "name": "全新装置", "rarity": 2},
+          {"id": "30093", "count": 1, "name": "研磨石", "rarity": 2},
+          {"id": "31023", "count": 1, "name": "炽合金", "rarity": 2}
+        ],
+        "roomType": "WORKSHOP",
+        "item": "炽合金块"
+      }
+    ],
+    "iconId": "MTL_SL_IAM4",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
     "id": "32001",
     "name": "芯片助剂",
     "sortId": 400001,
@@ -4497,9 +5279,23 @@
     "isMaterial": false
   },
   {
+    "id": "ap_supply_lt_010",
+    "name": "应急理智小样",
+    "sortId": 50004,
+    "rarity": 4,
+    "itemType": "AP_SUPPLY",
+    "description": "试用品剂量较少，请合理安排使用，若对本产品功效满意，请关注更多组合套餐。",
+    "usage": "用以临时维持理智的应急合剂，方便携带的试用小样。",
+    "drops": [],
+    "buildings": [],
+    "iconId": "ap_supply_lt_10",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
     "id": "voucher_item_4pick1",
     "name": "干员兑换券",
-    "sortId": 30001,
+    "sortId": 30004,
     "rarity": 4,
     "itemType": "VOUCHER_PICK",
     "description": "可从赫默、雷蛇、初雪、红，四名干员之中选择其一。",
@@ -4507,6 +5303,90 @@
     "drops": [],
     "buildings": [],
     "iconId": "voucher_item_4pick1",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "voucher_recruitR3_1",
+    "name": "公开招募★3兑换券·I",
+    "sortId": 30003,
+    "rarity": 2,
+    "itemType": "VOUCHER_PICK",
+    "description": "可以从第1期的公开招募限定3星干员之中选择其一。",
+    "usage": "用于兑换一名干员。",
+    "drops": [],
+    "buildings": [],
+    "iconId": "voucher_recruitR3_1",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "voucher_recruitR4_1",
+    "name": "公开招募★4兑换券·I",
+    "sortId": 30002,
+    "rarity": 3,
+    "itemType": "VOUCHER_PICK",
+    "description": "可以从第1期的公开招募限定4星干员之中选择其一。",
+    "usage": "用于兑换一名干员。",
+    "drops": [],
+    "buildings": [],
+    "iconId": "voucher_recruitR4_1",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "2020recruitment10_1",
+    "name": "α类新年寻访凭证",
+    "sortId": 30001,
+    "rarity": 4,
+    "itemType": "VOUCHER_CGACHA",
+    "description": "出于罗德岛在战略上的种种考量，在批量招揽人才的同时也进行了针对性的寻访，以便获得个别特殊人才的协助。",
+    "usage": "罗德岛人事部特别批发的许可书，向猎头公司提出了若干项特殊需求，一次可以招聘十位干员。",
+    "drops": [],
+    "buildings": [],
+    "iconId": "2020recruitment10_1",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "2020recruitment10_2",
+    "name": "β类新年寻访凭证",
+    "sortId": 30001,
+    "rarity": 4,
+    "itemType": "VOUCHER_CGACHA",
+    "description": "出于罗德岛在战略上的种种考量，在批量招揽人才的同时也进行了针对性的寻访，以便获得个别特殊人才的协助。",
+    "usage": "罗德岛人事部特别批发的许可书，向猎头公司提出了若干项特殊需求，一次可以招聘十位干员。",
+    "drops": [],
+    "buildings": [],
+    "iconId": "2020recruitment10_2",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "2020recruitment10_3",
+    "name": "γ类新年寻访凭证",
+    "sortId": 30001,
+    "rarity": 4,
+    "itemType": "VOUCHER_CGACHA",
+    "description": "出于罗德岛在战略上的种种考量，在批量招揽人才的同时也进行了针对性的寻访，以便获得个别特殊人才的协助。",
+    "usage": "罗德岛人事部特别批发的许可书，向猎头公司提出了若干项特殊需求，一次可以招聘十位干员。",
+    "drops": [],
+    "buildings": [],
+    "iconId": "2020recruitment10_3",
+    "isChip": false,
+    "isMaterial": false
+  },
+  {
+    "id": "randomMaterial_1",
+    "name": "罗德岛物资补给",
+    "sortId": 30005,
+    "rarity": 4,
+    "itemType": "VOUCHER_MGACHA",
+    "description": "罗德岛从各地采购、储备的材料补给箱。不过因为缺乏系统性的整理收纳，每一个箱子里都装着截然不同的材料。",
+    "usage": "装有各种物资补给，包含多种随机材料。",
+    "drops": [],
+    "buildings": [],
+    "iconId": "randomMaterial_1",
     "isChip": false,
     "isMaterial": false
   }

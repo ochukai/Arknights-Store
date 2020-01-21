@@ -164,6 +164,7 @@
     "item": "源石碎片"
   },
   {
+    "sortId": 1001,
     "formulaId": "1",
     "rarity": 0,
     "itemId": "3131",
@@ -175,6 +176,7 @@
     "item": "基础加固建材"
   },
   {
+    "sortId": 1002,
     "formulaId": "2",
     "rarity": 0,
     "itemId": "3132",
@@ -186,6 +188,7 @@
     "item": "进阶加固建材"
   },
   {
+    "sortId": 1003,
     "formulaId": "3",
     "rarity": 0,
     "itemId": "3133",
@@ -197,6 +200,7 @@
     "item": "高级加固建材"
   },
   {
+    "sortId": 1101,
     "formulaId": "4",
     "rarity": 0,
     "itemId": "3113",
@@ -208,6 +212,7 @@
     "item": "碳素"
   },
   {
+    "sortId": 1102,
     "formulaId": "5",
     "rarity": 0,
     "itemId": "3114",
@@ -219,6 +224,7 @@
     "item": "碳素组"
   },
   {
+    "sortId": 1201,
     "formulaId": "6",
     "rarity": 0,
     "itemId": "3401",
@@ -230,6 +236,7 @@
     "item": "家具零件"
   },
   {
+    "sortId": 1202,
     "formulaId": "7",
     "rarity": 0,
     "itemId": "3401",
@@ -241,6 +248,7 @@
     "item": "家具零件"
   },
   {
+    "sortId": 1203,
     "formulaId": "8",
     "rarity": 0,
     "itemId": "3401",
@@ -252,6 +260,7 @@
     "item": "家具零件"
   },
   {
+    "sortId": 1204,
     "formulaId": "9",
     "rarity": 0,
     "itemId": "3401",
@@ -263,6 +272,7 @@
     "item": "家具零件"
   },
   {
+    "sortId": 1205,
     "formulaId": "10",
     "rarity": 0,
     "itemId": "3401",
@@ -274,6 +284,7 @@
     "item": "家具零件"
   },
   {
+    "sortId": 1206,
     "formulaId": "11",
     "rarity": 0,
     "itemId": "3401",
@@ -285,6 +296,7 @@
     "item": "家具零件"
   },
   {
+    "sortId": 2001,
     "formulaId": "12",
     "rarity": 0,
     "itemId": "30135",
@@ -400,6 +412,7 @@
     "item": "D32钢"
   },
   {
+    "sortId": 2002,
     "formulaId": "13",
     "rarity": 0,
     "itemId": "30125",
@@ -476,6 +489,7 @@
     "item": "双极纳米片"
   },
   {
+    "sortId": 2003,
     "formulaId": "14",
     "rarity": 0,
     "itemId": "30115",
@@ -603,6 +617,7 @@
     "item": "聚合剂"
   },
   {
+    "sortId": 2103,
     "formulaId": "15",
     "rarity": 0,
     "itemId": "30104",
@@ -646,6 +661,7 @@
     "item": "RMA70-24"
   },
   {
+    "sortId": 2104,
     "formulaId": "16",
     "rarity": 0,
     "itemId": "30094",
@@ -689,6 +705,7 @@
     "item": "五水研磨石"
   },
   {
+    "sortId": 2105,
     "formulaId": "17",
     "rarity": 0,
     "itemId": "30084",
@@ -718,6 +735,7 @@
     "item": "三水锰矿"
   },
   {
+    "sortId": 2106,
     "formulaId": "18",
     "rarity": 0,
     "itemId": "30074",
@@ -747,6 +765,7 @@
     "item": "白马醇"
   },
   {
+    "sortId": 2201,
     "formulaId": "19",
     "rarity": 0,
     "itemId": "30062",
@@ -758,6 +777,7 @@
     "item": "装置"
   },
   {
+    "sortId": 2202,
     "formulaId": "20",
     "rarity": 0,
     "itemId": "30063",
@@ -777,6 +797,7 @@
     "item": "全新装置"
   },
   {
+    "sortId": 2203,
     "formulaId": "21",
     "rarity": 0,
     "itemId": "30064",
@@ -820,6 +841,7 @@
     "item": "改量装置"
   },
   {
+    "sortId": 2301,
     "formulaId": "22",
     "rarity": 0,
     "itemId": "30052",
@@ -831,6 +853,7 @@
     "item": "酮凝集"
   },
   {
+    "sortId": 2302,
     "formulaId": "23",
     "rarity": 0,
     "itemId": "30053",
@@ -850,6 +873,7 @@
     "item": "酮凝集组"
   },
   {
+    "sortId": 2303,
     "formulaId": "24",
     "rarity": 0,
     "itemId": "30054",
@@ -893,6 +917,7 @@
     "item": "酮阵列"
   },
   {
+    "sortId": 2401,
     "formulaId": "25",
     "rarity": 0,
     "itemId": "30042",
@@ -904,6 +929,7 @@
     "item": "异铁"
   },
   {
+    "sortId": 2402,
     "formulaId": "26",
     "rarity": 0,
     "itemId": "30043",
@@ -923,6 +949,7 @@
     "item": "异铁组"
   },
   {
+    "sortId": 2403,
     "formulaId": "27",
     "rarity": 0,
     "itemId": "30044",
@@ -980,6 +1007,7 @@
     "item": "异铁块"
   },
   {
+    "sortId": 2501,
     "formulaId": "28",
     "rarity": 0,
     "itemId": "30032",
@@ -991,6 +1019,7 @@
     "item": "聚酸酯"
   },
   {
+    "sortId": 2502,
     "formulaId": "29",
     "rarity": 0,
     "itemId": "30033",
@@ -1010,6 +1039,7 @@
     "item": "聚酸酯组"
   },
   {
+    "sortId": 2503,
     "formulaId": "30",
     "rarity": 0,
     "itemId": "30034",
@@ -1053,6 +1083,7 @@
     "item": "聚酸酯块"
   },
   {
+    "sortId": 2601,
     "formulaId": "31",
     "rarity": 0,
     "itemId": "30022",
@@ -1064,6 +1095,7 @@
     "item": "糖"
   },
   {
+    "sortId": 2602,
     "formulaId": "32",
     "rarity": 0,
     "itemId": "30023",
@@ -1083,6 +1115,7 @@
     "item": "糖组"
   },
   {
+    "sortId": 2603,
     "formulaId": "33",
     "rarity": 0,
     "itemId": "30024",
@@ -1126,6 +1159,7 @@
     "item": "糖聚块"
   },
   {
+    "sortId": 2701,
     "formulaId": "34",
     "rarity": 0,
     "itemId": "30012",
@@ -1137,6 +1171,7 @@
     "item": "固源岩"
   },
   {
+    "sortId": 2702,
     "formulaId": "35",
     "rarity": 0,
     "itemId": "30013",
@@ -1156,6 +1191,7 @@
     "item": "固源岩组"
   },
   {
+    "sortId": 2703,
     "formulaId": "36",
     "rarity": 0,
     "itemId": "30014",
@@ -1183,6 +1219,7 @@
     "item": "提纯源岩"
   },
   {
+    "sortId": 3001,
     "formulaId": "37",
     "rarity": 0,
     "itemId": "3302",
@@ -1194,6 +1231,7 @@
     "item": "技巧概要·卷2"
   },
   {
+    "sortId": 3002,
     "formulaId": "38",
     "rarity": 0,
     "itemId": "3303",
@@ -1205,6 +1243,7 @@
     "item": "技巧概要·卷3"
   },
   {
+    "sortId": 4001,
     "formulaId": "39",
     "rarity": 0,
     "itemId": "3231",
@@ -1216,6 +1255,7 @@
     "item": "重装芯片"
   },
   {
+    "sortId": 4002,
     "formulaId": "40",
     "rarity": 0,
     "itemId": "3261",
@@ -1227,6 +1267,7 @@
     "item": "医疗芯片"
   },
   {
+    "sortId": 4003,
     "formulaId": "41",
     "rarity": 0,
     "itemId": "3241",
@@ -1238,6 +1279,7 @@
     "item": "狙击芯片"
   },
   {
+    "sortId": 4004,
     "formulaId": "42",
     "rarity": 0,
     "itemId": "3251",
@@ -1249,6 +1291,7 @@
     "item": "术师芯片"
   },
   {
+    "sortId": 4005,
     "formulaId": "43",
     "rarity": 0,
     "itemId": "3211",
@@ -1260,6 +1303,7 @@
     "item": "先锋芯片"
   },
   {
+    "sortId": 4006,
     "formulaId": "44",
     "rarity": 0,
     "itemId": "3271",
@@ -1271,6 +1315,7 @@
     "item": "辅助芯片"
   },
   {
+    "sortId": 4007,
     "formulaId": "45",
     "rarity": 0,
     "itemId": "3221",
@@ -1282,6 +1327,7 @@
     "item": "近卫芯片"
   },
   {
+    "sortId": 4008,
     "formulaId": "46",
     "rarity": 0,
     "itemId": "3281",
@@ -1293,6 +1339,7 @@
     "item": "特种芯片"
   },
   {
+    "sortId": 4101,
     "formulaId": "47",
     "rarity": 0,
     "itemId": "3232",
@@ -1304,6 +1351,7 @@
     "item": "重装芯片组"
   },
   {
+    "sortId": 4102,
     "formulaId": "48",
     "rarity": 0,
     "itemId": "3262",
@@ -1315,6 +1363,7 @@
     "item": "医疗芯片组"
   },
   {
+    "sortId": 4103,
     "formulaId": "49",
     "rarity": 0,
     "itemId": "3242",
@@ -1326,6 +1375,7 @@
     "item": "狙击芯片组"
   },
   {
+    "sortId": 4104,
     "formulaId": "50",
     "rarity": 0,
     "itemId": "3252",
@@ -1337,6 +1387,7 @@
     "item": "术师芯片组"
   },
   {
+    "sortId": 4105,
     "formulaId": "51",
     "rarity": 0,
     "itemId": "3212",
@@ -1348,6 +1399,7 @@
     "item": "先锋芯片组"
   },
   {
+    "sortId": 4106,
     "formulaId": "52",
     "rarity": 0,
     "itemId": "3272",
@@ -1359,6 +1411,7 @@
     "item": "辅助芯片组"
   },
   {
+    "sortId": 4107,
     "formulaId": "53",
     "rarity": 0,
     "itemId": "3222",
@@ -1370,6 +1423,7 @@
     "item": "近卫芯片组"
   },
   {
+    "sortId": 4108,
     "formulaId": "54",
     "rarity": 0,
     "itemId": "3282",
@@ -1379,5 +1433,37 @@
     "costs": [{"id": "3222", "count": 3, "name": "近卫芯片组", "rarity": 3}],
     "roomType": "WORKSHOP",
     "item": "特种芯片组"
+  },
+  {
+    "sortId": 2101,
+    "formulaId": "55",
+    "rarity": 0,
+    "itemId": "31024",
+    "count": 1,
+    "goldCost": 300,
+    "apCost": 1440000,
+    "costs": [
+      {"id": "30063", "count": 1, "name": "全新装置", "rarity": 2},
+      {"id": "30093", "count": 1, "name": "研磨石", "rarity": 2},
+      {"id": "31023", "count": 1, "name": "炽合金", "rarity": 2}
+    ],
+    "roomType": "WORKSHOP",
+    "item": "炽合金块"
+  },
+  {
+    "sortId": 2102,
+    "formulaId": "56",
+    "rarity": 0,
+    "itemId": "31014",
+    "count": 1,
+    "goldCost": 300,
+    "apCost": 1440000,
+    "costs": [
+      {"id": "30043", "count": 1, "name": "异铁组", "rarity": 2},
+      {"id": "31013", "count": 1, "name": "凝胶", "rarity": 2},
+      {"id": "31023", "count": 1, "name": "炽合金", "rarity": 2}
+    ],
+    "roomType": "WORKSHOP",
+    "item": "聚合凝胶"
   }
 ]

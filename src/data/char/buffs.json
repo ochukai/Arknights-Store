@@ -2332,7 +2332,7 @@
     "char": "送葬人"
   },
   {
-    "id": "char_190_clour_manu_prod_limit&cost[000]",
+    "id": "char_190_clour_manu_prod_limit&cost[0000]",
     "name": "拾荒者",
     "bgColor": "#ffd800",
     "color": "#333333",
@@ -2464,7 +2464,7 @@
     "char": "槐琥"
   },
   {
-    "id": "char_133_mm_meet_spd[001]",
+    "id": "char_133_mm_meet_spd[0010]",
     "name": "线索搜集·β",
     "bgColor": "#dd653f",
     "color": "#ffffff",
@@ -2484,5 +2484,137 @@
     "phase": "精一",
     "level": 1,
     "char": "梅"
+  },
+  {
+    "id": "char_261_sddrag_dorm_rec_oneself[000]",
+    "name": "独处",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，自身心情每小时恢复+0.7",
+    "phase": "初始",
+    "level": 1,
+    "char": "苇草"
+  },
+  {
+    "id": "char_261_sddrag_control_mp_cost[004]",
+    "name": "替身",
+    "bgColor": "#005752",
+    "color": "#ffffff",
+    "room": "控制中枢",
+    "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时消耗-0.05",
+    "phase": "精二",
+    "level": 1,
+    "char": "苇草"
+  },
+  {
+    "id": "char_356_broca_train_spd&profession[020]",
+    "name": "近卫专精·α",
+    "bgColor": "#7d0022",
+    "color": "#ffffff",
+    "room": "训练室",
+    "description": "进驻训练室协助位时，近卫干员的专精技能训练速度+30%",
+    "phase": "初始",
+    "level": 1,
+    "char": "布洛卡"
+  },
+  {
+    "id": "char_356_broca_train_spd&profession[021]",
+    "name": "近卫专精·β",
+    "bgColor": "#7d0022",
+    "color": "#ffffff",
+    "room": "训练室",
+    "description": "进驻训练室协助位时，近卫干员的专精技能训练速度+50%",
+    "phase": "精二",
+    "level": 1,
+    "char": "布洛卡"
+  },
+  {
+    "id": "char_017_huang_power_rec_spd[010]",
+    "name": "热能充能·α",
+    "bgColor": "#8fc31f",
+    "color": "#ffffff",
+    "room": "发电站",
+    "description": "进驻发电站时，无人机每小时恢复速度+10%",
+    "phase": "初始",
+    "level": 1,
+    "char": "煌"
+  },
+  {
+    "id": "char_017_huang_workshop_formula_probability[210]",
+    "name": "斩铁裂钢",
+    "bgColor": "#e3eb00",
+    "color": "#333333",
+    "room": "加工站",
+    "description": "进驻加工站加工基建材料时，副产品的产出概率提升80%",
+    "phase": "精一",
+    "level": 1,
+    "char": "煌"
+  },
+  {
+    "id": "char_367_swllow_control_mp_cost[005]",
+    "name": "必要责任",
+    "bgColor": "#005752",
+    "color": "#ffffff",
+    "room": "控制中枢",
+    "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时消耗-0.05",
+    "phase": "初始",
+    "level": 1,
+    "char": "灰喉"
+  },
+  {
+    "id": "char_367_swllow_dorm_rec_oneself[000]",
+    "name": "独处",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，自身心情每小时恢复+0.7",
+    "phase": "精二",
+    "level": 1,
+    "char": "灰喉"
+  },
+  {
+    "id": "char_302_glaze_dorm_rec_all&oneself[000]",
+    "name": "慵懒",
+    "bgColor": "#21cdcb",
+    "color": "#ffffff",
+    "room": "宿舍",
+    "description": "进驻宿舍时，自身心情每小时恢复-0.1，该宿舍内所有干员的心情每小时恢复+0.2（同种效果取最高）",
+    "phase": "初始",
+    "level": 1,
+    "char": "安比尔"
+  },
+  {
+    "id": "char_302_glaze_trade_ord_spd[001]",
+    "name": "订单分发·β",
+    "bgColor": "#0075a9",
+    "color": "#ffffff",
+    "room": "贸易站",
+    "description": "进驻贸易站时，订单获取效率+30%",
+    "phase": "精一",
+    "level": 1,
+    "char": "安比尔"
+  },
+  {
+    "id": "char_383_snsant_trade_ord_spd_variable2[000]",
+    "name": "天道酬勤·α",
+    "bgColor": "#0075a9",
+    "color": "#ffffff",
+    "room": "贸易站",
+    "description": "进驻贸易站时，当前贸易站内干员提供的每5%订单获取效率，额外提供5%效率，最多提供25%效率",
+    "phase": "初始",
+    "level": 1,
+    "char": "雪雉"
+  },
+  {
+    "id": "char_383_snsant_trade_ord_spd_variable2[001]",
+    "name": "天道酬勤·β",
+    "bgColor": "#0075a9",
+    "color": "#ffffff",
+    "room": "贸易站",
+    "description": "进驻贸易站时，当前贸易站内干员提供的每5%订单获取效率，额外提供5%效率，最多提供35%效率",
+    "phase": "精二",
+    "level": 1,
+    "char": "雪雉"
   }
 ]

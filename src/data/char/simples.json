@@ -390,6 +390,19 @@
     "tagList": ["群攻", "减速"]
   },
   {
+    "id": "char_302_glaze",
+    "name": "安比尔",
+    "appellation": "Ambriel",
+    "description": "优先攻击攻击范围内防御力最低的敌方单位",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "RANGED",
+    "star": 4,
+    "profession": "阻击",
+    "tagList": ["输出", "减速"]
+  },
+  {
     "id": "char_198_blackd",
     "name": "讯使",
     "appellation": "Courier",
@@ -741,6 +754,19 @@
     "tagList": ["费用回复", "控场"]
   },
   {
+    "id": "char_261_sddrag",
+    "name": "苇草",
+    "appellation": "Reed",
+    "description": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "MELEE",
+    "star": 5,
+    "profession": "前锋",
+    "tagList": ["费用回复", "输出"]
+  },
+  {
     "id": "char_308_swire",
     "name": "诗怀雅",
     "appellation": "Swire",
@@ -819,6 +845,19 @@
     "tagList": ["群攻", "生存"]
   },
   {
+    "id": "char_356_broca",
+    "name": "布洛卡",
+    "appellation": "Broca",
+    "description": "同时攻击阻挡的所有敌人",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "MELEE",
+    "star": 5,
+    "profession": "近卫",
+    "tagList": ["群攻", "生存"]
+  },
+  {
     "id": "char_274_astesi",
     "name": "星极",
     "appellation": "Astesia",
@@ -848,6 +887,19 @@
     "id": "char_204_platnm",
     "name": "白金",
     "appellation": "Platinum",
+    "description": "优先攻击空中单位",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "RANGED",
+    "star": 5,
+    "profession": "阻击",
+    "tagList": ["输出"]
+  },
+  {
+    "id": "char_367_swllow",
+    "name": "灰喉",
+    "appellation": "GreyThroat",
     "description": "优先攻击空中单位",
     "team": "无团队",
     "color": "#000000",
@@ -1090,6 +1142,19 @@
     "star": 5,
     "profession": "特种",
     "tagList": ["位移", "输出"]
+  },
+  {
+    "id": "char_383_snsant",
+    "name": "雪雉",
+    "appellation": "Snowsant",
+    "description": "技能可以使敌人产生位移<br/>可以放置于远程位",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "活动获得",
+    "position": "MELEE",
+    "star": 5,
+    "profession": "特种",
+    "tagList": ["位移", "减速"]
   },
   {
     "id": "char_174_slbell",
@@ -1350,6 +1415,19 @@
     "star": 6,
     "profession": "近卫",
     "tagList": ["爆发", "输出"]
+  },
+  {
+    "id": "char_017_huang",
+    "name": "煌",
+    "appellation": "Blaze",
+    "description": "同时攻击阻挡的所有敌人",
+    "team": "无团队",
+    "color": "#000000",
+    "obtain": "招募寻访",
+    "position": "MELEE",
+    "star": 6,
+    "profession": "近卫",
+    "tagList": ["输出", "生存"]
   },
   {
     "id": "char_188_helage",
